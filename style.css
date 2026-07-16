@@ -442,6 +442,29 @@ article.article-body th {
 
 .more-fact-link:hover { color: var(--gold-bright); }
 
+/* House-organized test section */
+.house-block {
+  margin-bottom: 1.2rem;
+}
+
+.house-block h3 {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  color: var(--gold-bright);
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem;
+}
+
+.house-block h3 .house-link {
+  font-size: 0.78rem;
+  color: var(--gold);
+  font-weight: normal;
+}
+
+.house-block h3 .house-link:hover { color: var(--gold-bright); }
+
 footer.site-footer {
   border-top: 1px solid var(--border);
   padding: 2rem;
