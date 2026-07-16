@@ -227,6 +227,14 @@ article.article-body h3 {
   margin: 1.6rem 0 0.5rem;
 }
 
+article.article-body h4 {
+  color: var(--cream);
+  font-size: 0.98rem;
+  margin: 1.2rem 0 0.3rem;
+  padding-left: 0.8rem;
+  border-left: 2px solid var(--border);
+}
+
 article.article-body p {
   color: var(--cream);
   margin: 0 0 1rem;
