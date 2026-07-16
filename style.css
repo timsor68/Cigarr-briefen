@@ -411,6 +411,37 @@ article.article-body th {
   margin-bottom: 0;
 }
 
+/* Brand detail pages */
+.brand-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 2rem;
+}
+
+.brand-meta span {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.brand-meta span strong {
+  color: var(--gold-bright);
+  font-weight: normal;
+}
+
+.more-fact-link {
+  display: inline-block;
+  color: var(--gold);
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+}
+
+.more-fact-link:hover { color: var(--gold-bright); }
+
 footer.site-footer {
   border-top: 1px solid var(--border);
   padding: 2rem;
