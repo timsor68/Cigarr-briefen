@@ -7,7 +7,7 @@
 <title>Hundringen — cigarrer under 100 kr — Cigarr-briefen</title>
 <link href="style.css" rel="stylesheet"/>
 </head>
-<body>
+<body id="top">
 <header class="site-header">
 <div class="brand">Cigarr-briefen<span>Nyheter · Test · Fakta</span></div>
 <nav class="main-nav">
@@ -22,9 +22,8 @@
 <h1>Hundringen</h1>
 <p class="lead">Cigarr behöver inte kosta skjortan. Här samlar vi ett stort bibliotek av testade cigarrer som normalt går att hitta för under 100 kronor styck hos svenska återförsäljare, grupperade efter tillverkningsland precis som i Tillverkare &amp; hus och Test. Flera förekommer redan i andra tester på Cigarr-briefen — det gör inget, det viktiga är att de är prisvärda. Priser varierar mellan butiker och över tid, så se det som en fingervisning om var i prisbilden respektive cigarr befinner sig snarare än en exakt kassakvittosiffra.</p>
 <nav class="country-nav"><span class="country-nav-label">Hoppa till:</span><a href="#nicaragua">Nicaragua</a><a href="#dominikanska-republiken">Dominikanska republiken</a><a href="#honduras">Honduras</a><a href="#mexiko-costa-rica">Mexiko &amp; Costa Rica</a><a href="#klassiker-flera-ursprung">Klassiker &amp; flera ursprung</a></nav>
-
-<article class="article-body">
-<h3 id="nicaragua">Nicaragua</h3>
+<div class="search-box"><input autocomplete="off" id="cigar-search" placeholder='Sök cigarr, t.ex. "Perdomo" eller "Maduro"…' type="text"/><p class="search-count" id="search-count"></p></div>
+<article class="article-body"><div class="country-group" id="nicaragua"><h3 class="country-heading">Nicaragua</h3>
 <div class="news-feed">
 <div class="news-card">
 <h3><span class="rating-badge low">Budget</span>Joya de Nicaragua Antaño Dark Corojo</h3>
@@ -111,7 +110,7 @@
 <a class="source-link" href="https://www.toreocigar.com/" rel="noopener" target="_blank">Läs mer →</a><a class="source-link" href="toreo-cigars-test.html#toreo-nicaragua-robusto">Läs test av cigarren →</a>
 </div>
 </div>
-<h3 id="dominikanska-republiken">Dominikanska republiken</h3>
+</div><div class="country-group" id="dominikanska-republiken"><h3 class="country-heading">Dominikanska republiken</h3>
 <div class="news-feed">
 <div class="news-card">
 <h3><span class="rating-badge low">Budget</span>H. Upmann 1844 Reserve</h3>
@@ -240,7 +239,7 @@
 <a class="source-link" href="https://halfwheel.com/" rel="noopener" target="_blank">Läs mer →</a><a class="source-link" href="artista-cigars-test.html#paper-boy">Läs test av cigarren →</a>
 </div>
 </div>
-<h3 id="honduras">Honduras</h3>
+</div><div class="country-group" id="honduras"><h3 class="country-heading">Honduras</h3>
 <div class="news-feed">
 <div class="news-card">
 <h3><span class="rating-badge low">Budget</span>Camacho American Barrel Aged</h3>
@@ -303,7 +302,7 @@
 <a class="source-link" href="https://halfwheel.com/" rel="noopener" target="_blank">Läs mer →</a>
 </div>
 </div>
-<h3 id="mexiko-costa-rica">Mexiko &amp; Costa Rica</h3>
+</div><div class="country-group" id="mexiko-costa-rica"><h3 class="country-heading">Mexiko &amp; Costa Rica</h3>
 <p>Två hus som annars främst syns i sina dyrare linjer har också mer prisvärda ingångar värda att nämna.</p>
 <div class="news-feed">
 <div class="news-card">
@@ -319,7 +318,7 @@
 <a class="source-link" href="vegas-de-santiago-test.html">Läs mer om Vegas de Santiago →</a><a class="source-link" href="vegas-de-santiago-test.html#d8-corto">Läs test av cigarren →</a>
 </div>
 </div>
-<h3 id="klassiker-flera-ursprung">Klassiker &amp; flera ursprung</h3>
+</div><div class="country-group" id="klassiker-flera-ursprung"><h3 class="country-heading">Klassiker &amp; flera ursprung</h3>
 <p>Några av de mest kända budgetnamnen är svåra att knyta till ett enda land — antingen för att tillverkningen skett på flera platser genom historien, eller för att blandningen medvetet blandar tobak från flera länder.</p>
 <div class="news-feed">
 <div class="news-card">
@@ -347,7 +346,7 @@
 <a class="source-link" href="https://halfwheel.com/" rel="noopener" target="_blank">Läs mer →</a><a class="source-link" href="la-estrella-test.html#polar-robusto">Läs test av cigarren →</a>
 </div>
 </div>
-</article>
+</div></article>
 <div class="related-nav">
 <a href="test.html">Tillbaka till Test →</a>
 <a href="arets-cigarrer.html">Årets cigarrer →</a>
@@ -356,5 +355,36 @@
 <footer class="site-footer">
   Cigarr-briefen — ett projekt under uppbyggnad. Redaktionellt oberoende, ingen marknadsföring av tobak.
 </footer>
-</body>
+<script>
+(function() {
+  var input = document.getElementById('cigar-search');
+  var counter = document.getElementById('search-count');
+  var groups = document.querySelectorAll('.country-group');
+  if (!input) return;
+  input.addEventListener('input', function() {
+    var q = input.value.trim().toLowerCase();
+    var totalVisible = 0;
+    groups.forEach(function(group) {
+      var cards = group.querySelectorAll('.news-card');
+      var anyVisible = false;
+      cards.forEach(function(card) {
+        var nameEl = card.querySelector('h3');
+        var name = nameEl ? nameEl.textContent.toLowerCase() : '';
+        var match = q === '' || name.indexOf(q) !== -1;
+        card.style.display = match ? '' : 'none';
+        if (match) { anyVisible = true; totalVisible++; }
+      });
+      group.style.display = anyVisible ? '' : 'none';
+    });
+    if (q === '') {
+      counter.textContent = '';
+    } else {
+      counter.textContent = totalVisible === 0
+        ? 'Inga cigarrer matchar "' + input.value.trim() + '".'
+        : totalVisible + ' cigarrer matchar "' + input.value.trim() + '".';
+    }
+  });
+})();
+</script>
+<a aria-label="Till toppen" class="back-to-top" href="#top">↑ Till toppen</a></body>
 </html>
