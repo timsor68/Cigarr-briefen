@@ -7,7 +7,7 @@
 <title>Test — Cigarr-briefen</title>
 <link href="style.css" rel="stylesheet"/>
 </head>
-<body>
+<body id="top">
 <header class="site-header">
 <div class="brand">Cigarr-briefen<span>Nyheter · Test · Fakta</span></div>
 <nav class="main-nav">
@@ -31,11 +31,14 @@
 <h2>Hundringen</h2>
 <p>Testade cigarrer som normalt kostar under 100 kronor styck — bra rökning utan att det kostar skjortan.</p>
 </a>
+<a class="featured-story" href="nyborjarguide.html">
+<span class="tag">Nybörjare</span>
+<h2>Nybörjarguide</h2>
+<p>Testade cigarrer sorterade efter styrka — mild, medelfyllig eller fyllig — snarare än pris.</p>
+</a>
 </div>
 <nav class="country-nav"><span class="country-nav-label">Hoppa till:</span><a href="#kuba">Kuba</a><a href="#nicaragua">Nicaragua</a><a href="#dominikanska-republiken">Dominikanska republiken</a><a href="#honduras">Honduras</a><a href="#mexiko">Mexiko</a><a href="#costa-rica">Costa Rica</a><a href="#ovriga-lander">Övriga länder</a></nav>
-
 <div class="search-box"><input autocomplete="off" id="cigar-search" placeholder='Sök cigarrmärke, t.ex. "Gur" eller "Rom"…' type="text"/><p class="search-count" id="search-count"></p></div>
-
 <article class="article-body"><div class="country-group" id="kuba"><h3 class="country-heading">Kuba</h3><div class="house-block">
 <h3>Cohiba</h3>
 <p>Kubas flaggskeppsmärke, byggt kring det sällsynta medio tiempo-bladet. Behike BHK 52 var Cigar of the Year 2010.</p>
@@ -149,7 +152,6 @@
 <p>Vegueros introducerades på den kubanska hemmamarknaden 1996 som en hyllning till de generationer av "vegueros" — tobaksodlare — som brukat jorden i Pinar del Río.</p>
 <a class="more-fact-link" href="vegueros-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="nicaragua"><h3 class="country-heading">Nicaragua</h3><div class="house-block">
 <h3>Padrón</h3>
 <p>Nicaraguas mest prisbelönta hus — hela fem Cigar of the Year-titlar sedan 2004.</p>
@@ -343,7 +345,6 @@
 <p>"The Circus" lanserades 2014 av mästarblandaren Daniel Guerrero, efter fyra års utvecklingsarbete med noggrant utvalt nicaraguanskt tobaksblad.</p>
 <a class="more-fact-link" href="circus-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="dominikanska-republiken"><h3 class="country-heading">Dominikanska republiken</h3><div class="house-block">
 <h3>Arturo Fuente</h3>
 <p>Familjeägt sedan 1912, med den legendariska OpusX-linjen i spetsen.</p>
@@ -537,7 +538,6 @@
 <p>1988, under en semester i Goa i Indien, snubblade Kaizad Hansotia över cigarrer sålda under namnet "Gurkha" och köpte upp hela lagret för 149 dollar — tänkta som gåvor till kunder i familjens lyxklockbolag.</p>
 <a class="more-fact-link" href="gurkha-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="honduras"><h3 class="country-heading">Honduras</h3><div class="house-block">
 <h3>Rocky Patel</h3>
 <p>En av branschens mest produktiva tillverkare, med dussintals linjer parallellt.</p>
@@ -603,13 +603,11 @@
 <p>Oscar Valladares Tobacco &amp; Co.</p>
 <a class="more-fact-link" href="oscar-valladares-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="mexiko"><h3 class="country-heading">Mexiko</h3><div class="house-block">
 <h3>Casa Turrent</h3>
 <p>Mexikos ledande tobaksodlarfamilj sedan 1880, känd för distinkt San Andrés-karaktär.</p>
 <a class="more-fact-link" href="casa-turrent-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="costa-rica"><h3 class="country-heading">Costa Rica</h3><div class="house-block">
 <h3>El Septimo</h3>
 <p>Costaricanskt lyxmärke känt för detaljerad förpackning och konstnärliga samarbeten.</p>
@@ -623,7 +621,6 @@
 <p>Familjeägt hus med kubanskt mästarkunnande i botten, känt för D8-serien.</p>
 <a class="more-fact-link" href="vegas-de-santiago-test.html">Se tester →</a>
 </div></div>
-
 <div class="country-group" id="ovriga-lander"><h3 class="country-heading">Övriga länder</h3><div class="house-block">
 <h3>Bohekio</h3>
 <p>Haiti är ett i det närmaste okänt namn i cigarrvärlden, och det finns en enkel anledning: kommersiell tobaksodling i landet har historiskt varit mycket begränsad jämfört med grannön Dominikanska republiken.</p>
@@ -657,7 +654,6 @@
 <p>Inca lanserades 2012 av Mitchell Orchant, då vd för brittiska C.Gars Ltd, som en peruansk puro tillverkad vid Tabacalera del Oriente i Peru — ett tobaksursprung som sällan syns bland premiumcigarrer.</p>
 <a class="more-fact-link" href="inca-cigars-test.html">Se tester →</a>
 </div></div>
-
 </article>
 <div class="related-nav">
 <a href="tillverkare.html">Läs mer om tillverkarna →</a>
@@ -697,5 +693,5 @@
   });
 })();
 </script>
-</body>
+<a aria-label="Till toppen" class="back-to-top" href="#top">↑ Till toppen</a></body>
 </html>
