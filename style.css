@@ -562,6 +562,21 @@ footer.site-footer {
   font-size: 0.85rem;
 }
 
+/* Top 5 sub-list (Årets cigarrer) */
+.top5-list {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+  padding-top: 0.6rem;
+}
+
+.top5-list li {
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: 0.15rem 0;
+}
+
 /* Back to top button */
 .back-to-top {
   position: fixed;
