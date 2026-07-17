@@ -380,6 +380,10 @@ article.article-body th {
 
 .news-card a.source-link:hover { color: var(--gold-bright); }
 
+.news-card a.source-link + a.source-link {
+  margin-left: 1.2rem;
+}
+
 .section-label {
   color: var(--muted);
   text-transform: uppercase;
