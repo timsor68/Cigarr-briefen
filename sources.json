@@ -1,0 +1,14 @@
+{
+  "max_age_days": 10,
+  "max_items": 40,
+  "feeds": [
+    { "name": "halfwheel", "type": "rss", "url": "https://halfwheel.com/feed/", "priority": 80 },
+    { "name": "Cigar Journal", "type": "rss", "url": "https://www.cigarjournal.com/feed", "priority": 75 },
+    { "name": "Cigar Snob Magazine", "type": "rss", "url": "https://www.cigarsnobmag.com/feed", "priority": 65 },
+    { "name": "Cigarrvärlden", "type": "rss", "url": "https://cigarrklubben.se/blogs/cigarrvarlden.atom", "priority": 85 },
+    { "name": "Google News - cigar industry", "type": "google", "query": "cigar industry", "hl": "en-US", "gl": "US", "ceid": "US:en", "priority": 40 },
+    { "name": "Google News - premium cigar", "type": "google", "query": "premium cigar", "hl": "en-US", "gl": "US", "ceid": "US:en", "priority": 40 },
+    { "name": "Google News - Habanos", "type": "google", "query": "Habanos cigar", "hl": "en-US", "gl": "US", "ceid": "US:en", "priority": 40 },
+    { "name": "Google News - cigarrer", "type": "google", "query": "cigarrer", "hl": "sv-SE", "gl": "SE", "ceid": "SE:sv", "priority": 45 }
+  ]
+}
