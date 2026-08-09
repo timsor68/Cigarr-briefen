@@ -1,4 +1,783 @@
 {
-  "updated_at": "2026-08-09T00:00:00+00:00",
-  "items": []
+  "updated_at": "2026-08-09T17:45:34.793314+00:00",
+  "items": [
+    {
+      "published_at": "2026-08-07T16:40:29+00:00",
+      "updated_at": "2026-08-07T16:40:29+00:00",
+      "title": "Davidoff Cigars Introduces the Boutique Selection",
+      "summary": "Davidoff Cigars announces the launch of the Boutique Selection, a new permanent cigar proposition available exclusively at the Davidoff of Geneva since 1911 flagship stores in Geneva, Hong Kong and New York Madison",
+      "category": [
+        "Boutique"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Davidoff-Boutique-Selection-Feature.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/davidoff-adding-boutique-selection-for-select-flagships/476320/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-cigars-introduces-the-boutique-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-cigars-introduces-the-boutique-selection"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/davidoff-adding-boutique-selection-for-select-flagships/476320/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-cigars-introduces-the-boutique-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-cigars-introduces-the-boutique-selection"
+        }
+      ],
+      "id": "davidoff-cigars-introduces-the-boutique-selection"
+    },
+    {
+      "published_at": "2026-08-09T16:00:15+00:00",
+      "updated_at": "2026-08-09T16:00:15+00:00",
+      "title": "Domain Attenuation Toro Extra",
+      "summary": "This blend marks the first time the company has released a cigar using a Connecticut-seed wrapper grown in Ecuador. The filler also includes Vanguard Aegis, a hybrid tobacco that Domain developed by crossing corojo and criollo 98. The post Domain Attenuation Toro Extra appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Domain-Attenuation-Toro-Extra-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/domain-attenuation-toro-extra/476411/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/domain-attenuation-toro-extra/476411/"
+      },
+      "confirmed_by": [],
+      "id": "domain-attenuation-toro-extra"
+    },
+    {
+      "published_at": "2026-08-08T17:00:59+00:00",
+      "updated_at": "2026-08-08T17:00:59+00:00",
+      "title": "El Mago Collectible Tin Series Cavalry",
+      "summary": "This year, El Mago launched a new collection of cigars released in tin five-packs. The fourth one in the series is the Cavalry; just like the first three, it's a box-pressed 5 x 50 robusto. The post El Mago Collectible Tin Series Cavalry appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/El-Mago-Collectible-Tin-Series-Cavalry-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/el-mago-collectible-tin-series-cavalry/476242/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/el-mago-collectible-tin-series-cavalry/476242/"
+      },
+      "confirmed_by": [],
+      "id": "el-mago-collectible-tin-series-cavalry"
+    },
+    {
+      "published_at": "2026-08-07T17:00:31+00:00",
+      "updated_at": "2026-08-07T17:00:31+00:00",
+      "title": "Tradecraft’s Gladius Box Press Coming Aug. 22",
+      "summary": "The company says that this new box-pressed belicoso size amplifies the blend's core flavors compared to the round vitolas. That means more body, more spice, and more chocolate. 22 appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Tradecraft-Gladius-Box-Press-Press-feature-1.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/tradecrafts-gladius-box-press-coming-aug-22/476350/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/tradecrafts-gladius-box-press-coming-aug-22/476350/"
+      },
+      "confirmed_by": [],
+      "id": "tradecraft-s-gladius-box-press-coming-aug-22"
+    },
+    {
+      "published_at": "2026-08-06T17:34:02+00:00",
+      "updated_at": "2026-08-06T17:34:02+00:00",
+      "title": "Creekside Launching Queen of the West, A New Cigar Brand",
+      "summary": "The Cincinnati-based retailer is now also a cigar company. Its first release is a Connecticut-wrapped blend made at TABACALERA LA iSLA. The post Creekside Launching Queen of the West, A New Cigar Brand appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Queen-of-the-West-Bel-Doro-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/creekside-launching-queen-of-the-west-a-new-cigar-brand/476286/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/creekside-launching-queen-of-the-west-a-new-cigar-brand/476286/"
+      },
+      "confirmed_by": [],
+      "id": "creekside-launching-queen-of-the-west-a-new-cigar-brand"
+    },
+    {
+      "published_at": "2026-08-05T15:39:23+00:00",
+      "updated_at": "2026-08-05T15:39:23+00:00",
+      "title": "Lure The Wahoo The Kingfish",
+      "summary": "The new line is a PCA 2026 exclusive, meaning only retailers who attended the trade show in New Orleans could purchase it. The blend is made up of a Mexican San Andrés wrapper covering a binder from Estelí, Nicaragua and filler tobaccos from Estelí and Jalapa in Nicaragua. The post Lure The Wahoo The Kingfish appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Lure-The-Wahoo-The-Kingfish-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/lure-the-wahoo-the-kingfish/476173/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/lure-the-wahoo-the-kingfish/476173/"
+      },
+      "confirmed_by": [],
+      "id": "lure-the-wahoo-the-kingfish"
+    },
+    {
+      "published_at": "2026-08-04T23:30:22+00:00",
+      "updated_at": "2026-08-04T23:30:22+00:00",
+      "title": "OZ Family Cigars Limited Edition World Cup 2026",
+      "summary": "The FIFA World Cup brought the world together around soccer's greatest prize. It also brought out a number of new cigars, including this limited edition from OZ Family Cigars. The post OZ Family Cigars Limited Edition World Cup 2026 appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/OZ-Family-Cigars-Limited-Edition-World-Cup-2026-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/oz-family-cigars-limited-edition-world-cup-2026/475916/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/oz-family-cigars-limited-edition-world-cup-2026/475916/"
+      },
+      "confirmed_by": [],
+      "id": "oz-family-cigars-limited-edition-world-cup-2026"
+    },
+    {
+      "published_at": "2026-08-04T12:16:24+00:00",
+      "updated_at": "2026-08-04T12:16:24+00:00",
+      "title": "BREAKING NEWS: EU Sanctions Against Chen Zhi and Prince Group",
+      "summary": "The EU sanctions against Chen Zhi and the Prince Group entered into force upon their publication on July 30 of this year. This means that tobacco retailers trading with Elite Trading Scandinavia or The Premium Company Nordic—or even paying an invoice today for a delivery that occurred prior to July 30—may already be committing a sanctions violation. Not even the end consumer is spared: if you purchase a box of Cubans at retail for personal use, you risk having your bank account closed and being punished for breaching sanctions.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Trovärdig källa",
+      "image": "http://cigarrklubben.se/cdn/shop/articles/Chen_org_fad9531f-f56c-454c-b9f9-a9dd7078c89b_1200x1200.png?v=1785846015",
+      "sources": [
+        {
+          "name": "Cigarrvärlden",
+          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+        }
+      ],
+      "main_source": {
+        "name": "Cigarrvärlden",
+        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+      },
+      "confirmed_by": [],
+      "id": "breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+    },
+    {
+      "published_at": "2026-08-03T12:42:15+00:00",
+      "updated_at": "2026-08-03T12:42:15+00:00",
+      "title": "Casa Carrillo Releases Encore Noir II and Encore Edición Única II",
+      "summary": "Casa Carrillo proudly announces the release of Encore Noir II and Encore Edición Única II",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/casa-1910.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-releases-encore-noir-ii-and-encore-edicion-unica-ii/?utm_source=rss&utm_medium=rss&utm_campaign=casa-carrillo-releases-encore-noir-ii-and-encore-edicion-unica-ii"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-releases-encore-noir-ii-and-encore-edicion-unica-ii/?utm_source=rss&utm_medium=rss&utm_campaign=casa-carrillo-releases-encore-noir-ii-and-encore-edicion-unica-ii"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-releases-encore-noir-ii-and-encore-edici-n-nica-ii"
+    },
+    {
+      "published_at": "2026-08-03T15:04:31+00:00",
+      "updated_at": "2026-08-03T15:04:31+00:00",
+      "title": "Ferio Tego Milestones Pays Tribute to 100 Years of Miles Davis",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2NNMnFvOE9LYXdweE00dEhrUWhoNk5RT3g3UDZBNmhZYldOYVZJejVweHFZSE1US0NhUmsyeFYwUTZzU0pFby1PZ3hRZFFqb3owaVowZHhkYnVfVGFUN1ZHWTViVThtRmRYelQ4MG1iOC1aMFQwOVNCd0FjVWVWSDFEZDN6amNxdEk0?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2NNMnFvOE9LYXdweE00dEhrUWhoNk5RT3g3UDZBNmhZYldOYVZJejVweHFZSE1US0NhUmsyeFYwUTZzU0pFby1PZ3hRZFFqb3owaVowZHhkYnVfVGFUN1ZHWTViVThtRmRYelQ4MG1iOC1aMFQwOVNCd0FjVWVWSDFEZDN6amNxdEk0?oc=5"
+        }
+      ],
+      "id": "ferio-tego-milestones-pays-tribute-to-100-years-of-miles-davis"
+    },
+    {
+      "published_at": "2026-08-06T19:26:34+00:00",
+      "updated_at": "2026-08-06T19:26:34+00:00",
+      "title": "Rocky Patel America 250 Coming in September",
+      "summary": "July 4th might have been last month, but America's birthday cigars keep coming. Next month, Rocky Patel will ship its celebratory cigar. The post Rocky Patel America 250 Coming in September appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "rocky-patel-america-250-coming-in-september"
+    },
+    {
+      "published_at": "2026-08-06T18:20:45+00:00",
+      "updated_at": "2026-08-06T18:20:45+00:00",
+      "title": "Room101 17th Anniversary Arrives at Stores",
+      "summary": "While there won't be a Room101 Sweet 16 cigar, there is a Room101 17th Anniversary. It's all Nicaraguan by way of AJ Fernandez. The post Room101 17th Anniversary Arrives at Stores appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Room101-17th-Anniversary-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/room101-17th-anniversary-arrives-at-stores/476297/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/room101-17th-anniversary-arrives-at-stores/476297/"
+      },
+      "confirmed_by": [],
+      "id": "room101-17th-anniversary-arrives-at-stores"
+    },
+    {
+      "published_at": "2026-08-06T16:40:51+00:00",
+      "updated_at": "2026-08-06T16:40:51+00:00",
+      "title": "Hiram & Solomon Mystic Tie",
+      "summary": "Mystic Tie was created for Omar S. Morris, the Grand Master of Masons of the state of New Jersey. As for the cigar, it's got a very unique covered foot.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Hiram-Solomon-Mystic-Tie-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/hiram-solomon-mystic-tie/475943/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/hiram-solomon-mystic-tie/475943/"
+      },
+      "confirmed_by": [],
+      "id": "hiram-solomon-mystic-tie"
+    },
+    {
+      "published_at": "2026-08-03T21:16:30+00:00",
+      "updated_at": "2026-08-03T21:16:30+00:00",
+      "title": "Brizard & Co. Releasing Cuba Libre Cigar Case, Lighter",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "brizard-co-releasing-cuba-libre-cigar-case-lighter"
+    },
+    {
+      "published_at": "2026-08-06T11:55:34+00:00",
+      "updated_at": "2026-08-06T11:55:34+00:00",
+      "title": "Konsekvensen av EU:s sanktioner mot Chen Zhi för Sverige i synnerhet och EU i allmänhet",
+      "summary": "Eu-sanktionerna mot Chen Zhi och Prinsgruppen trädde i kraft i samband med att de publicerades redan den 30 juli i år. Det innebär att det redan nu kan innebära ett sanktionsbrott att som tobakshandlare handla av Elite Trading Scandinavia eller The Premium Company Nordic, eller till och med betala en faktura idag för en leverans som skedde före den 30 juli. Inte ens slutkonsumenten är skonad, köper du en låda kubaner i handeln för eget bruk riskerar du att få ditt bankkonto avslutat och straffad för att du bryter mot sanktionerna.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Trovärdig källa",
+      "image": "http://cigarrklubben.se/cdn/shop/articles/Allied-Cigar-Corporation-Group-Structure-2048x2028_310f265d-aa9d-4c25-aa81-d92120ab21cb_1200x1200.jpg?v=1786022602",
+      "sources": [
+        {
+          "name": "Cigarrvärlden",
+          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/konsekvensen-av-eu-s-sanktioner-mot-chen-zhi-for-sverige-i-synnerhet-och-eu-i-allmanhet"
+        }
+      ],
+      "main_source": {
+        "name": "Cigarrvärlden",
+        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/konsekvensen-av-eu-s-sanktioner-mot-chen-zhi-for-sverige-i-synnerhet-och-eu-i-allmanhet"
+      },
+      "confirmed_by": [],
+      "id": "konsekvensen-av-eu-s-sanktioner-mot-chen-zhi-f-r-sverige-i-synnerhet-och-eu-i-allm-nhet"
+    },
+    {
+      "published_at": "2026-08-05T11:42:40+00:00",
+      "updated_at": "2026-08-05T11:42:40+00:00",
+      "title": "The Summertime Smoke: A Festival of Cigars",
+      "summary": "This year's Summertime Smoke — the second edition of the festival now firmly stamped into the British cigar calendar — arrived with that settled confidence",
+      "category": [
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/HavanaHouse.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-summertime-smoke-a-festival-of-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=the-summertime-smoke-a-festival-of-cigars"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-summertime-smoke-a-festival-of-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=the-summertime-smoke-a-festival-of-cigars"
+      },
+      "confirmed_by": [],
+      "id": "the-summertime-smoke-a-festival-of-cigars"
+    },
+    {
+      "published_at": "2026-08-05T09:27:36+00:00",
+      "updated_at": "2026-08-05T09:27:36+00:00",
+      "title": "The Spanish Government Aims to Ban Smoking in Private Spaces",
+      "summary": "The situation for cigar smokers in Spain could worsen. The government has approved a total ban on smoking in outdoor public spaces, including hospitality terraces, open-air events, stadiums, bullrings, concerts, beaches, bus stop shelters, and public parks",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/RolandKrammer-202110-61.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+      },
+      "confirmed_by": [],
+      "id": "the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+    },
+    {
+      "published_at": "2026-08-03T08:15:02+00:00",
+      "updated_at": "2026-08-03T08:15:02+00:00",
+      "title": "J.C. Newman Introduces the Yagua Robusto (5″ x 56)",
+      "summary": "Newman is proud to introduce the newest addition to the Yagua family: the Yagua Robusto (5\" x 56)",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/yagua.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/j-c-newman-introduces-the-yagua-robusto-5-x-56/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-introduces-the-yagua-robusto-5-x-56"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/j-c-newman-introduces-the-yagua-robusto-5-x-56/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-introduces-the-yagua-robusto-5-x-56"
+      },
+      "confirmed_by": [],
+      "id": "j-c-newman-introduces-the-yagua-robusto-5-x-56"
+    },
+    {
+      "published_at": "2026-08-01T08:21:22+00:00",
+      "updated_at": "2026-08-01T08:21:22+00:00",
+      "title": "Now Shipping – XIKAR Allume 2 and Allume 3 Cigar Lighters",
+      "summary": "Quality Importers Trading Company, has begun shipping the new XIKAR Allume 2 (double-jet) and Allume 3 (triple jet) cigar lighters",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/fuego-.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/now-shipping-xikar-allume-2-and-allume-3-cigar-lighters/?utm_source=rss&utm_medium=rss&utm_campaign=now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/now-shipping-xikar-allume-2-and-allume-3-cigar-lighters/?utm_source=rss&utm_medium=rss&utm_campaign=now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
+      },
+      "confirmed_by": [],
+      "id": "now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
+    },
+    {
+      "published_at": "2026-08-08T10:38:26+00:00",
+      "updated_at": "2026-08-08T10:38:26+00:00",
+      "title": "America’s 10 Most Luxurious Golf Resorts",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "america-s-10-most-luxurious-golf-resorts"
+    },
+    {
+      "published_at": "2026-08-08T07:36:26+00:00",
+      "updated_at": "2026-08-08T07:36:26+00:00",
+      "title": "A Big Smoke On Miami Beach",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "a-big-smoke-on-miami-beach"
+    },
+    {
+      "published_at": "2026-08-07T10:34:03+00:00",
+      "updated_at": "2026-08-07T10:34:03+00:00",
+      "title": "2026 Mustang Mach-E Rally",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "2026-mustang-mach-e-rally"
+    },
+    {
+      "published_at": "2026-07-31T13:45:39+00:00",
+      "updated_at": "2026-07-31T13:45:39+00:00",
+      "title": "From Barbells To Cigars",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "from-barbells-to-cigars"
+    },
+    {
+      "published_at": "2026-08-08T13:22:32+00:00",
+      "updated_at": "2026-08-08T13:22:32+00:00",
+      "title": "Cigar Industry Report: Edition 701 (8/8/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-701-8-8-26"
+    },
+    {
+      "published_at": "2026-08-07T19:03:07+00:00",
+      "updated_at": "2026-08-07T19:03:07+00:00",
+      "title": "Wienerschnitzel Kraut Dog (Beef) Review | Coalition Eats",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "wienerschnitzel-kraut-dog-beef-review-coalition-eats"
+    },
+    {
+      "published_at": "2026-08-05T23:32:47+00:00",
+      "updated_at": "2026-08-05T23:32:47+00:00",
+      "title": "Domain Entropy Corona Heritage Cabinet – Agile Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "domain-entropy-corona-heritage-cabinet-agile-cigar-review"
+    },
+    {
+      "published_at": "2026-08-04T22:35:31+00:00",
+      "updated_at": "2026-08-04T22:35:31+00:00",
+      "title": "Avowed Awakening – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "avowed-awakening-cigar-review"
+    },
+    {
+      "published_at": "2026-08-03T22:36:24+00:00",
+      "updated_at": "2026-08-03T22:36:24+00:00",
+      "title": "Fratello Puro 1821 Dominican Republic – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Dominikanska republiken",
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fratello-puro-1821-dominican-republic-cigar-review"
+    },
+    {
+      "published_at": "2026-08-03T21:56:24+00:00",
+      "updated_at": "2026-08-03T21:56:24+00:00",
+      "title": "When a Cigar Event is an E.V.E.N.T. | Feature Story",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "when-a-cigar-event-is-an-e-v-e-n-t-feature-story"
+    },
+    {
+      "published_at": "2026-08-02T21:51:20+00:00",
+      "updated_at": "2026-08-02T21:51:20+00:00",
+      "title": "La Terraza Nicabanos Launching in South Beach | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "la-terraza-nicabanos-launching-in-south-beach-cigar-news"
+    },
+    {
+      "published_at": "2026-08-02T17:41:20+00:00",
+      "updated_at": "2026-08-02T17:41:20+00:00",
+      "title": "E.P. Carrillo Essence Series Connecticut Toro by Casa Carrillo – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "e-p-carrillo-essence-series-connecticut-toro-by-casa-carrillo-cigar-review"
+    },
+    {
+      "published_at": "2026-08-01T11:51:17+00:00",
+      "updated_at": "2026-08-01T11:51:17+00:00",
+      "title": "Crowned Heads Broadway Toro – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "crowned-heads-broadway-toro-cigar-review"
+    },
+    {
+      "published_at": "2026-07-30T22:50:43+00:00",
+      "updated_at": "2026-07-30T22:50:43+00:00",
+      "title": "Apostate Cigars Ships The Lost Pages | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "apostate-cigars-ships-the-lost-pages-cigar-news"
+    }
+  ]
 }
