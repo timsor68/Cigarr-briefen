@@ -1,0 +1,40 @@
+name: Uppdatera cigarrnyheter
+
+on:
+  schedule:
+    - cron: '15 5,11,17 * * *' # Körs tre gånger per dag (05:15, 11:15, 17:15 UTC)
+  workflow_dispatch: # Gör att du kan starta uppdateringen manuellt från GitHubs hemsida
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cigarr-briefen-news-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check ut kod
+      uses: actions/checkout@v4
+
+    - name: Installera Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Kör uppdateringsscript
+      run: python update.py
+
+    - name: Validera news.json
+      run: python -c "import json; json.load(open('news.json', encoding='utf-8'))"
+
+    - name: Commit och pusha ändringar till GitHub
+      run: |
+        git config --global user.name 'cigarr-briefen-bot'
+        git config --global user.email 'bot@cigarr-briefen.se'
+        git add news.json
+        git commit -m "Uppdatera cigarrnyheter" || exit 0
+        git push
