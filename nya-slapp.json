@@ -1,0 +1,84 @@
+{
+  "updated_at": "2026-08-10",
+  "releases": [
+    {
+      "id": "jfr-lunatic-maduro-hombre-libre",
+      "name": "JFR Lunatic Maduro Hombre Libre",
+      "manufacturer": "AGANORSA Leaf",
+      "origin": "Nicaragua (Estelí)",
+      "wrapper": "Mexikansk San Andrés",
+      "binder": "Nikaraguansk",
+      "filler": "Nikaraguansk",
+      "strength": "Medium-full",
+      "vitolas": ["Toro, 6 x 54"],
+      "price": "9,25 USD/cigarr (låda om 28) — cirka 83 kr",
+      "release_date": "2026-04-18",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos Cigros, Cigarrhyllan eller Puros.se (kollat 10 augusti 2026). Kan finnas att importera via amerikanska återförsäljare.",
+      "background": "Hombre Libre är den tionde vitolan i JFR Lunatic Maduro-serien men bara den andra under 60 ring gauge — en mer normalstor storlek i en linje mest känd för sina extrema format (upp till 8x80). AGANORSA soft-launchade den hos ett fåtal återförsäljare tidigt 2026 innan den fick sin nationella lansering vid PCA-mässan i april. Tillverkas på företagets egen fabrik i Estelí av tobak från deras egna Aganorsa-odlingar.",
+      "review": {
+        "type": "aggregated",
+        "summary": "Blandat mottagande. Halfwheels recensent stötte på ett dragproblem i den första cigarren av tre, vilket drog ner slutbetyget — men beskriver ändå smakprofilen som \"smooth, nicely balanced and enjoyable\", med krämig ek, kaffe och en karamellsötma i retrohalen, och rekommenderar den ändå till JFR-fans. Developing Palates teamrecension var mer delad: en recensent tyckte den var endimensionell och tappade intresset halvvägs, medan en annan beskrev en välbalanserad utveckling från kryddig cederträ till jord och espresso mot slutet.",
+        "sources": [
+          { "name": "halfwheel", "url": "https://halfwheel.com/jfr-lunatic-maduro-hombre-libre/464264/" },
+          { "name": "Developing Palates", "url": "https://developingpalates.com/reviews/cigar-reviews/team-cigar-review-jfr-lunatic-maduro-hombre-libre/" }
+        ]
+      },
+      "sources": [
+        { "name": "halfwheel", "url": "https://halfwheel.com/jfr-lunatic-maduro-hombre-libre/464264/" }
+      ]
+    },
+    {
+      "id": "diesel-uncaged",
+      "name": "Diesel Uncaged",
+      "manufacturer": "AJ Fernandez (för STG/Diesel)",
+      "origin": "Nicaragua",
+      "wrapper": "Nikaraguansk habano criollo",
+      "binder": "Nikaraguansk",
+      "filler": "Nikaraguansk",
+      "strength": "Medium-full",
+      "vitolas": ["Tre storlekar (exakta mått ej bekräftade)"],
+      "price": "6,29–7,39 USD/cigarr — cirka 60–75 kr",
+      "release_date": "2026-08-04",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026). Mycket nysläppt (första veckan i handeln i USA).",
+      "background": "Uncaged är den senaste tillökningen i AJ Fernandez Diesel-portfölj, beskriven av varumärket som \"unapologetic, unexpected, and simply bold by design\" — en renodlad nikaraguansk puro som ansluter till resten av Diesel-linjens råare profil.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen fullständig recension hittad ännu — cigarren är för nysläppt (skickades till butik första veckan av augusti 2026).",
+        "sources": []
+      },
+      "sources": [
+        { "name": "halfwheel", "url": "https://halfwheel.com/diesel-uncaged-arrives-at-stores/476178/" }
+      ]
+    },
+    {
+      "id": "arao-terron",
+      "name": "Ara'o Terrón",
+      "manufacturer": "Ej specificerad i källorna",
+      "origin": "Honduras (Jamastran-dalen) / Nicaragua",
+      "wrapper": "Honduransk (Jamastran-dalen)",
+      "binder": "Honduransk (Jamastran-dalen)",
+      "filler": "Nikaraguansk/honduransk (inkl. honduransk broadleaf)",
+      "strength": "Ej bekräftad",
+      "vitolas": [
+        "Churchill, 6 1/2 x 52 — 13 USD",
+        "Robusto, 5 1/2 x 54 — 13,29 USD",
+        "Tronco, 5 1/2 x 60 — 13,49 USD"
+      ],
+      "price": "13–13,49 USD/cigarr, lådor om 10 — cirka 117–121 kr",
+      "release_date": "Presenterad vid PCA-mässan, april 2026",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026).",
+      "background": "Ara'o-linjen har funnits ett år, men Terrón är dess första renodlade Maduro-utgåva — och den enda i linjen där både täckblad och binder kommer från samma region (Honduras Jamastran-dal), vilket ger en ovanligt regionalt sammanhållen profil för ett Maduro-släpp.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "Cigar Aficionado (PCA-rapport)", "url": "" }
+      ]
+    }
+  ]
+}

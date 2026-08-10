@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="sv">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Nytt på cigarrmarknaden — Cigarr-briefen</title>
+<link href="style.css" rel="stylesheet"/>
+</head>
+<body id="top">
+<header class="site-header">
+<div class="brand">Cigarr-briefen<span>Nyheter · Test · Fakta · Artiklar · Nytt på marknaden</span></div>
+<nav class="main-nav">
+<a href="index.html">Hem</a>
+<a href="nyheter.html">Nyheter</a>
+<a href="test.html">Test</a>
+<a href="fakta.html">Fakta</a>
+<a href="artiklar.html">Artiklar</a>
+<a class="active" href="nya-slapp.html">Nytt på marknaden</a>
+</nav>
+</header>
+<main class="page">
+<h1>Nytt på cigarrmarknaden</h1>
+<p class="lead">Nya cigarrsläpp — bakgrund, fakta om ursprung och konstruktion, och smaktest när det finns (antingen egna eller sammanfattade från etablerad branschpress, alltid tydligt märkt). Uppdateras redaktionellt, inte automatiskt som Nyheter-flödet.</p>
+
+<div class="news-updated" id="releasesUpdated"></div>
+<div class="news-status" id="releasesStatus">Laddar nya släpp…</div>
+
+<div class="article-grid" id="releasesGrid"></div>
+<div class="news-empty" id="releasesEmpty" style="display:none">Inga släpp inlagda ännu.</div>
+
+<noscript>
+<div class="stub-note">Den här sidan kräver JavaScript. Innehållet hämtas från <code>nya-slapp.json</code>, som denna sida läser och visar.</div>
+</noscript>
+
+<div class="stub-note">
+  Fakta om ursprung, konstruktion och pris kommer från tillverkarnas egna uppgifter och branschpress (halfwheel, Cigar Aficionado, Cigar Journal m.fl.) och är inte oberoende verifierade av Cigarr-briefen. Smaktest markeras alltid med om det är Cigarr-briefens egna provrökning eller en sammanfattning av andras recensioner. Tillgänglighet i Sverige kontrolleras manuellt och kan ha ändrats sedan senaste uppdatering.
+</div>
+</main>
+<footer class="site-footer">
+  Cigarr-briefen — ett projekt under uppbyggnad. Redaktionellt oberoende, ingen marknadsföring av tobak.
+</footer>
+<a aria-label="Till toppen" class="back-to-top" href="#top">↑ Till toppen</a>
+
+<script>
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" }[m]));
+
+function fmtDate(value) {
+  if (!value) return "";
+  const d = new Date(value);
+  if (isNaN(d)) return esc(value); // e.g. "Presenterad vid PCA-mässan, april 2026" — inte ett strikt datum
+  return d.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
+}
+
+function renderRelease(r) {
+  const chips = [
+    ["Tillverkare", r.manufacturer],
+    ["Ursprung", r.origin],
+    ["Täckblad", r.wrapper],
+    ["Bindel", r.binder],
+    ["Fyllning", r.filler],
+    ["Styrka", r.strength],
+    ["Format", (r.vitolas || []).join(" · ")],
+    ["Pris", r.price],
+    ["Släpptes", fmtDate(r.release_date)],
+  ].filter(([, v]) => v);
+
+  const availClass = r.available_in_sweden ? "rating-badge" : "rating-badge low";
+  const availLabel = r.available_in_sweden ? "Finns i Sverige" : "Finns inte i Sverige ännu";
+
+  const review = r.review || {};
+  const reviewTagLabel = review.type === "own" ? "Cigarr-briefens smaktest"
+    : review.type === "aggregated" ? "Sammanfattat från branschpress"
+    : "";
+
+  const card = document.createElement("article");
+  card.className = "article-card";
+  card.innerHTML = `
+    <div class="article-card-body">
+      <span class="${availClass}">${esc(availLabel)}</span>
+      ${r.sweden_note ? `<p class="article-date">${esc(r.sweden_note)}</p>` : ""}
+      <h3>${esc(r.name)}</h3>
+
+      <div class="brand-meta">
+        ${chips.map(([k, v]) => `<span><strong>${esc(k)}:</strong> ${esc(v)}</span>`).join("")}
+      </div>
+
+      ${r.background ? `<div class="section-label">Bakgrund</div><p class="ingress">${esc(r.background)}</p>` : ""}
+
+      ${review.summary ? `
+        <div class="section-label">Smaktest${reviewTagLabel ? ` · ${esc(reviewTagLabel)}` : ""}</div>
+        <p class="ingress">${esc(review.summary)}</p>
+        ${(review.sources || []).length ? `<div class="news-card-sources">Källor: ${review.sources.map((s) => `<a class="source-link" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join("")}</div>` : ""}
+      ` : ""}
+
+      ${(r.sources || []).filter(s => s.url).length ? `<div class="news-card-sources">Fakta från: ${r.sources.filter(s => s.url).map((s) => `<a class="source-link" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join("")}</div>` : ""}
+    </div>
+  `;
+  return card;
+}
+
+async function loadReleases() {
+  const status = document.getElementById("releasesStatus");
+  const grid = document.getElementById("releasesGrid");
+  const empty = document.getElementById("releasesEmpty");
+  try {
+    const res = await fetch(`nya-slapp.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+
+    if (data.updated_at) {
+      document.getElementById("releasesUpdated").textContent = "Senast uppdaterad: " + fmtDate(data.updated_at);
+    }
+
+    const releases = data.releases || [];
+    status.textContent = "";
+    grid.innerHTML = "";
+    releases.forEach((r) => grid.appendChild(renderRelease(r)));
+    empty.style.display = releases.length ? "none" : "block";
+  } catch (e) {
+    status.textContent = "Kunde inte läsa in innehållet just nu. Försök igen om en stund.";
+  }
+}
+
+loadReleases();
+</script>
+</body>
+</html>
