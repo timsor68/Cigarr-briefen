@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:26:32.401026+00:00",
+  "updated_at": "2026-08-10T10:38:01.937291+00:00",
   "items": [
     {
       "published_at": "2026-08-10T05:18:09+00:00",
@@ -209,28 +209,36 @@
       "id": "tradecraft-s-gladius-box-press-coming-aug-22"
     },
     {
-      "published_at": "2026-08-07T15:02:01+00:00",
-      "updated_at": "2026-08-07T15:02:01+00:00",
-      "title": "Davidoff Adding Boutique Selection for Select Flagships",
-      "summary": "Davidoff's flagship stores in Geneva, Hong Kong and the Madison Ave. location in Manhattan are each getting a new exclusive cigar. While they are all 6 x 54 toros, the blends are said to be different.",
+      "published_at": "2026-08-07T16:40:29+00:00",
+      "updated_at": "2026-08-07T16:40:29+00:00",
+      "title": "Davidoff Cigars Introduces the Boutique Selection",
+      "summary": "Davidoff Cigars announces the launch of the Boutique Selection, a new permanent cigar proposition available exclusively at the Davidoff of Geneva since 1911 flagship stores in Geneva, Hong Kong and New York Madison",
       "category": [
-        "Reglering",
         "Boutique"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/08/Davidoff-Boutique-Selection-Feature.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/davidoff-adding-boutique-selection-for-select-flagships/476320/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-cigars-introduces-the-boutique-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-cigars-introduces-the-boutique-selection"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/davidoff-adding-boutique-selection-for-select-flagships/476320/"
       },
-      "confirmed_by": [],
-      "id": "davidoff-adding-boutique-selection-for-select-flagships"
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-cigars-introduces-the-boutique-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-cigars-introduces-the-boutique-selection"
+        }
+      ],
+      "id": "davidoff-cigars-introduces-the-boutique-selection"
     },
     {
       "published_at": "2026-08-07T10:34:03+00:00",
@@ -397,24 +405,47 @@
       "published_at": "2026-08-05T11:42:40+00:00",
       "updated_at": "2026-08-05T11:42:40+00:00",
       "title": "The Summertime Smoke: A Festival of Cigars",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "summary": "This year's Summertime Smoke — the second edition of the festival now firmly stamped into the British cigar calendar — arrived with that settled confidence",
       "category": [
         "Event"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/HavanaHouse.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULUdUcUxqam10VF9NbDdVeU51ZzRQbDI1a0RLRVdTZWpDTHJSSTN6M0cteEdtVWs0STBLUERLbjd0QjJHT01XLXB1U29fb0dwVy1TTzN6TkE0X2ZUcm83cEI1RHd2RThDNmZOSVFOLXFzbTQzLTIwOEJPVQ?oc=5"
+          "url": "https://www.cigarjournal.com/the-summertime-smoke-a-festival-of-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=the-summertime-smoke-a-festival-of-cigars"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULUdUcUxqam10VF9NbDdVeU51ZzRQbDI1a0RLRVdTZWpDTHJSSTN6M0cteEdtVWs0STBLUERLbjd0QjJHT01XLXB1U29fb0dwVy1TTzN6TkE0X2ZUcm83cEI1RHd2RThDNmZOSVFOLXFzbTQzLTIwOEJPVQ?oc=5"
+        "url": "https://www.cigarjournal.com/the-summertime-smoke-a-festival-of-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=the-summertime-smoke-a-festival-of-cigars"
       },
       "confirmed_by": [],
       "id": "the-summertime-smoke-a-festival-of-cigars"
+    },
+    {
+      "published_at": "2026-08-05T09:27:36+00:00",
+      "updated_at": "2026-08-05T09:27:36+00:00",
+      "title": "The Spanish Government Aims to Ban Smoking in Private Spaces",
+      "summary": "The situation for cigar smokers in Spain could worsen. The government has approved a total ban on smoking in outdoor public spaces, including hospitality terraces, open-air events, stadiums, bullrings, concerts, beaches, bus stop shelters, and public parks",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/RolandKrammer-202110-61.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+      },
+      "confirmed_by": [],
+      "id": "the-spanish-government-aims-to-ban-smoking-in-private-spaces"
     },
     {
       "published_at": "2026-08-04T23:30:22+00:00",
@@ -605,21 +636,21 @@
       "published_at": "2026-08-03T08:15:02+00:00",
       "updated_at": "2026-08-03T08:15:02+00:00",
       "title": "J.C. Newman Introduces the Yagua Robusto (5″ x 56)",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "summary": "Newman is proud to introduce the newest addition to the Yagua family: the Yagua Robusto (5\" x 56)",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/yagua.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0x1UU1IUVltLThOWmcyaVVNb01YR0JRMmM1S0p6Wm1OdHlSMTA1WHVsd2EwRDM2dUtPU3FTek03UHNETERjYUx2WlBieEVXd2hDRzVuclhRZ0VVdzM2V25TVWVmOFJhX3BXS1NoY1c2SDkwZDBpS2FIX05vNEdieWRB?oc=5"
+          "url": "https://www.cigarjournal.com/j-c-newman-introduces-the-yagua-robusto-5-x-56/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-introduces-the-yagua-robusto-5-x-56"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0x1UU1IUVltLThOWmcyaVVNb01YR0JRMmM1S0p6Wm1OdHlSMTA1WHVsd2EwRDM2dUtPU3FTek03UHNETERjYUx2WlBieEVXd2hDRzVuclhRZ0VVdzM2V25TVWVmOFJhX3BXS1NoY1c2SDkwZDBpS2FIX05vNEdieWRB?oc=5"
+        "url": "https://www.cigarjournal.com/j-c-newman-introduces-the-yagua-robusto-5-x-56/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-introduces-the-yagua-robusto-5-x-56"
       },
       "confirmed_by": [],
       "id": "j-c-newman-introduces-the-yagua-robusto-5-x-56"
@@ -692,6 +723,29 @@
       },
       "confirmed_by": [],
       "id": "crowned-heads-broadway-toro-cigar-review"
+    },
+    {
+      "published_at": "2026-08-01T08:21:22+00:00",
+      "updated_at": "2026-08-01T08:21:22+00:00",
+      "title": "Now Shipping – XIKAR Allume 2 and Allume 3 Cigar Lighters",
+      "summary": "Quality Importers Trading Company, has begun shipping the new XIKAR Allume 2 (double-jet) and Allume 3 (triple jet) cigar lighters",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/fuego-.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/now-shipping-xikar-allume-2-and-allume-3-cigar-lighters/?utm_source=rss&utm_medium=rss&utm_campaign=now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/now-shipping-xikar-allume-2-and-allume-3-cigar-lighters/?utm_source=rss&utm_medium=rss&utm_campaign=now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
+      },
+      "confirmed_by": [],
+      "id": "now-shipping-xikar-allume-2-and-allume-3-cigar-lighters"
     }
   ]
 }
