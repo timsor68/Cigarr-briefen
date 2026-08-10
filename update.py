@@ -614,6 +614,14 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
         title = clean_headline(title)
         combined = f"{title} {raw_description}"
 
+        # Google News' <description> for a result is essentially just the title again
+        # plus the publisher name — not a real excerpt. For sources like "Cigar Aficionado"
+        # or "Cigar Coop", the publisher name alone contains "cigar", so testing it against
+        # CIGAR_TOPIC_RE would always pass regardless of what the article is actually about
+        # (this is how golf-resort and car-rally lifestyle pieces slipped through). Direct
+        # RSS feeds carry a genuine excerpt, so keep testing title+description for those.
+        topic_check_text = title if source["type"] == "google" else combined
+
         if not is_acceptable_language(title, raw_description):
             continue
         if publisher in BLOCKED_PUBLISHERS:
@@ -622,7 +630,7 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
             continue
         if MARKETING_RE.search(combined):
             continue
-        if not CIGAR_TOPIC_RE.search(combined):
+        if not CIGAR_TOPIC_RE.search(topic_check_text):
             continue
 
         score = quality_score(title, raw_description, publisher, int(source.get("priority", 40)))
