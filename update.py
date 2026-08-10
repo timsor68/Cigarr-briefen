@@ -450,6 +450,29 @@ class MetaExtractor(HTMLParser):
             self.meta[key] = content
 
 
+GOOGLE_OWNED_DOMAIN_RE = re.compile(
+    r"^(?:[\w-]+\.)*(?:google\.[a-z.]+|googleusercontent\.com|gstatic\.com|"
+    r"googleapis\.com|googletagmanager\.com|google-analytics\.com|doubleclick\.net|"
+    r"googlesyndication\.com|gvt1\.com|ggpht\.com)$",
+    re.I,
+)
+IMAGE_EXT_RE = re.compile(r"\.(?:png|jpe?g|gif|webp|svg|ico|bmp)(?:[?#]|$)", re.I)
+
+
+def is_real_article_href(href: str) -> bool:
+    """True if href looks like an actual external article, not a Google-owned asset
+    (image CDN, analytics, static resources) or an image file."""
+    try:
+        host = urllib.parse.urlparse(href).netloc.split(":")[0]
+    except Exception:
+        return False
+    if not host or GOOGLE_OWNED_DOMAIN_RE.match(host):
+        return False
+    if IMAGE_EXT_RE.search(href):
+        return False
+    return True
+
+
 def resolve_article_url(url: str) -> str:
     if "news.google.com" not in url:
         return url
@@ -467,11 +490,18 @@ def resolve_article_url(url: str) -> str:
         r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\'](https?://[^"\']+)',
         r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\'](https?://[^"\']+)',
         r'data-n-au=["\'](https?://[^"\']+)',
-        r'href=["\'](https?://(?!news\.google\.com|www\.google\.com|policies\.google\.com|support\.google\.com)[^"\']+)',
     ):
         match = re.search(pattern, page, re.I)
-        if match and "news.google.com" not in match.group(1):
+        if match and is_real_article_href(match.group(1)):
             return match.group(1)
+
+    # Fall back to scanning every href on the page in order and taking the first one
+    # that isn't a Google-owned asset (image CDN, analytics, static resources, etc.).
+    for match in re.finditer(r'href=["\'](https?://[^"\']+)', page):
+        candidate = match.group(1)
+        if is_real_article_href(candidate):
+            return candidate
+
     return url
 
 
