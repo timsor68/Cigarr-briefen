@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:45:34.793314+00:00",
+  "updated_at": "2026-08-10T06:21:58.148252+00:00",
   "items": [
     {
       "published_at": "2026-08-07T16:40:29+00:00",
@@ -526,8 +526,8 @@
       "id": "2026-mustang-mach-e-rally"
     },
     {
-      "published_at": "2026-07-31T13:45:39+00:00",
-      "updated_at": "2026-07-31T13:45:39+00:00",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "updated_at": "2026-07-31T07:00:00+00:00",
       "title": "From Barbells To Cigars",
       "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
       "category": [
@@ -547,6 +547,52 @@
       },
       "confirmed_by": [],
       "id": "from-barbells-to-cigars"
+    },
+    {
+      "published_at": "2026-08-10T01:03:09+00:00",
+      "updated_at": "2026-08-10T01:03:09+00:00",
+      "title": "La Aurora Opens Cigar Lounge in Santiago | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "la-aurora-opens-cigar-lounge-in-santiago-cigar-news"
+    },
+    {
+      "published_at": "2026-08-09T18:13:09+00:00",
+      "updated_at": "2026-08-09T18:13:09+00:00",
+      "title": "Trinidad Espiritu Miami Edition | Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "trinidad-espiritu-miami-edition-cigar-review"
     },
     {
       "published_at": "2026-08-08T13:22:32+00:00",
@@ -755,29 +801,6 @@
       },
       "confirmed_by": [],
       "id": "crowned-heads-broadway-toro-cigar-review"
-    },
-    {
-      "published_at": "2026-07-30T22:50:43+00:00",
-      "updated_at": "2026-07-30T22:50:43+00:00",
-      "title": "Apostate Cigars Ships The Lost Pages | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "apostate-cigars-ships-the-lost-pages-cigar-news"
     }
   ]
 }
