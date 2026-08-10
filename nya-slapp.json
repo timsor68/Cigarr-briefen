@@ -55,22 +55,75 @@
     {
       "id": "arao-terron",
       "name": "Ara'o Terrón",
-      "manufacturer": "Ej specificerad i källorna",
-      "origin": "Honduras (Jamastran-dalen) / Nicaragua",
-      "wrapper": "Honduransk (Jamastran-dalen)",
-      "binder": "Honduransk (Jamastran-dalen)",
-      "filler": "Nikaraguansk/honduransk (inkl. honduransk broadleaf)",
+      "manufacturer": "Ara'o Cigars (startade januari 2025)",
+      "origin": "Honduras (Jamastran) / Nicaragua",
+      "wrapper": "Habano Maduro, Honduras (Jamastran)",
+      "binder": "Habano, Honduras (Jamastran)",
+      "filler": "Viso från Jamastran (Honduras), broadleaf seco från Honduras, habano seco från Jalapa (Nicaragua), ligero från Estelí (Nicaragua)",
       "strength": "Ej bekräftad",
       "vitolas": [
         "Churchill, 6 1/2 x 52 — 13 USD",
         "Robusto, 5 1/2 x 54 — 13,29 USD",
-        "Tronco, 5 1/2 x 60 — 13,49 USD"
+        "Tronco, 5 x 60 — 13,49 USD"
       ],
       "price": "13–13,49 USD/cigarr, lådor om 10 — cirka 117–121 kr",
-      "release_date": "Presenterad vid PCA-mässan, april 2026",
+      "release_date": "2026-01",
       "available_in_sweden": false,
       "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026).",
-      "background": "Ara'o-linjen har funnits ett år, men Terrón är dess första renodlade Maduro-utgåva — och den enda i linjen där både täckblad och binder kommer från samma region (Honduras Jamastran-dal), vilket ger en ovanligt regionalt sammanhållen profil för ett Maduro-släpp.",
+      "background": "Ara'o Cigars grundades i januari 2025 av Hiram Diaz och debuterade med tre linjer: Yugo, Narigón och Cebú. Terrón är bolagets första renodlade Maduro-utgåva, med över ett års utvecklingstid enligt Diaz. Tillverkas hos Tabacos de Oriente S. de R.L., en Plasencia-ägd fabrik i Honduras — ett kvalitetstecken givet Plasencia-familjens rykte.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "halfwheel", "url": "https://halfwheel.com/arao-cigars-releases-terron-maduro-line/460633/" }
+      ]
+    },
+    {
+      "id": "room101-johnny-tobacconaut-maduro",
+      "name": "Room101 Johnny Tobacconaut Maduro",
+      "manufacturer": "AJ Fernandez (för Room101 / Matt Booth)",
+      "origin": "Nicaragua",
+      "wrapper": "Nikaraguansk (puro)",
+      "binder": "Nikaraguansk",
+      "filler": "Nikaraguansk",
+      "strength": "Ej bekräftad",
+      "vitolas": ["Robusto", "Toro", "Gordo"],
+      "price": "10,29–12,49 USD/cigarr, lådor om 20 — cirka 92–112 kr",
+      "release_date": "2026-04-27",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026).",
+      "background": "Maduro-versionen av Johnny Tobacconaut, som återvände till Room101s sortiment för knappt tre år sedan. Lanserades vid PCA-mässan i april 2026 som komplement till den redan etablerade Connecticut-versionen. Grundaren Matt Booth kommenterade lanseringen med sin karakteristiska självironi: \"I was a tremendous disappointment to my mother during my teenage years.\"",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu — för nysläppt.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "Cigar Coop", "url": "https://cigar-coop.com/2026/04/room101-johnny-tobacconaut-maduro-launched-at-pca-2026-cigar-news.html" }
+      ]
+    },
+    {
+      "id": "my-father-lealtad",
+      "name": "My Father Lealtad",
+      "manufacturer": "My Father Cigars (Garcia-familjen)",
+      "origin": "Honduras / Nicaragua",
+      "wrapper": "Ecuadoriansk Habano",
+      "binder": "Honduransk och nikaraguansk (odlad av Garcia-familjen)",
+      "filler": "Honduransk och nikaraguansk (odlad av Garcia-familjen)",
+      "strength": "Ej bekräftad",
+      "vitolas": [
+        "Robusto, 5 1/2 x 52",
+        "Toro, 6 x 54",
+        "Toro Gordo, 6 x 60",
+        "Torpedo Box Pressed, 6 1/8 x 52"
+      ],
+      "price": "11–13,50 USD/cigarr, lådor om 20 — cirka 99–121 kr",
+      "release_date": "PCA-mässan, april 2026",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026).",
+      "background": "My Father Cigars andra honduranska linje, till skillnad från föregångaren \"My Father Blue\" (helt honduransk) är Lealtad en tre-länders blandning. All tobak utom täckbladet är odlad av Garcia-familjen själva, vilket ger tillverkaren ovanligt full kontroll över råvarukedjan.",
       "review": {
         "type": "none",
         "summary": "Ingen recension hittad ännu.",
@@ -78,6 +131,78 @@
       },
       "sources": [
         { "name": "Cigar Aficionado (PCA-rapport)", "url": "" }
+      ]
+    },
+    {
+      "id": "queen-of-the-west",
+      "name": "Queen of the West — Bel D'oro",
+      "manufacturer": "Creekside Cigar Co. (nytt varumärke, återförsäljare i Cincinnati)",
+      "origin": "Dominikanska republiken",
+      "wrapper": "Ecuadoriansk Connecticut-seed desflorado",
+      "binder": "Connecticut broadleaf",
+      "filler": "Dominikanska republiken, Nicaragua, USA",
+      "strength": "Ej bekräftad",
+      "vitolas": ["Toro, 6 x 48"],
+      "price": "Ej bekräftat",
+      "release_date": "2026-08-17",
+      "available_in_sweden": false,
+      "sweden_note": "Helt nytt amerikanskt återförsäljarvarumärke, ingen europeisk distribution ännu.",
+      "background": "Creekside Cigar Co., känt för sin stora närvaro på sociala medier, blir den senaste cigarråterförsäljaren som även lanserar egna cigarrer — precis som flera andra butiker gjort de senaste åren. Bel D'oro är debututgåvan i det nya varumärket Queen of the West, tillverkad hos Tabacalera La iSLA i Dominikanska republiken. Släpps brett hos ett tiotal butiker den 17 augusti 2026.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu — helt nysläppt.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "halfwheel", "url": "https://halfwheel.com/creekside-launching-queen-of-the-west-a-new-cigar-brand/476286/" }
+      ]
+    },
+    {
+      "id": "bandolero-firecracker-2026",
+      "name": "Bandolero Firecracker 2026",
+      "manufacturer": "Nelson Alfonso",
+      "origin": "Ecuador (täckblad) — övrig sammansättning ej bekräftad",
+      "wrapper": "Ecuadoriansk Habano Maduro, tvåårslagrad",
+      "binder": "Ej bekräftad",
+      "filler": "Ej bekräftad",
+      "strength": "Full-bodied",
+      "vitolas": ["Ej specificerad"],
+      "price": "Ej bekräftat",
+      "release_date": "Sen augusti 2026",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026). Begränsad amerikansk utgåva.",
+      "background": "Del av Nelson Alfonsos Firecracker-linje, känd för sina korta, intensiva format. 2026 års version sticker ut genom den tvååriga lagringen av täckbladet — ovanligt lång lagringstid för den här typen av produkt, vilket enligt tillverkaren ger extra djup jämfört med resten av sortimentet.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "Luxury Cigar Club", "url": "https://luxurycigarclub.com/blogs/news" }
+      ]
+    },
+    {
+      "id": "oz-family-world-cup-2026",
+      "name": "OZ Family Cigars Limited Edition World Cup 2026",
+      "manufacturer": "OZ Family Cigars",
+      "origin": "Sex länder (kuriosa-blandning)",
+      "wrapper": "Mexikansk San Andrés",
+      "binder": "Ej bekräftad",
+      "filler": "USA, Ecuador, Brasilien, Nicaragua, Honduras (delvis hemlighållet)",
+      "strength": "Ej bekräftad",
+      "vitolas": ["Toro, 6 x 50 — 19,95 USD"],
+      "price": "19,95 USD/cigarr, endast 2 026 lådor om 10 — cirka 179 kr",
+      "release_date": "Maj/juni 2026",
+      "available_in_sweden": false,
+      "sweden_note": "Ingen träff hos svenska återförsäljare (kollat 10 augusti 2026). Extremt begränsad upplaga (20 260 cigarrer totalt).",
+      "background": "En kuriositet snarare än en renodlad Honduras/Nicaragua-Maduro: en sexländers-blandning byggd kring fotbolls-VM 2026, med tobak från alla \"kvalificerade\" cigarrtobaksländer bland VM-deltagarna. Inkluderar ändå både nikaraguansk och honduransk tobak i fillern. Nämns här mest som en udda tillverkningsteknisk/marknadsföringsmässig nyfikenhet.",
+      "review": {
+        "type": "none",
+        "summary": "Ingen recension hittad ännu.",
+        "sources": []
+      },
+      "sources": [
+        { "name": "Cigar Aficionado (PCA-rapport)", "url": "https://www.cigaraficionado.com/article/highlights-from-the-pca-trade-show" }
       ]
     }
   ]
