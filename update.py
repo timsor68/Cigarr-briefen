@@ -79,6 +79,20 @@ MARKETING_RE = re.compile(
     re.I,
 )
 
+# Positive relevance check. Some trusted cigar publishers (Cigar Aficionado, Cigar Coop)
+# run broader lifestyle content — golf resorts, cars, restaurant reviews — through the same
+# RSS feed. OFF_TOPIC_RE only catches things that are wrongly *about* cigars (vaping, cigar-box
+# guitars); it doesn't catch things that aren't about cigars at all. Require at least one
+# cigar-domain term anywhere in title+description instead.
+CIGAR_TOPIC_RE = re.compile(
+    r"\b(cigar|cigars|cigarr|cigarrer|cigarrer[a-zåäö]*|tobacco|tobak|wrapper|binder|filler|"
+    r"humidor|vitola|vitolas|blend|blends|torcedor|puro|puros|habano|maduro|"
+    r"corojo|connecticut|broadleaf|criollo|leaf|leaves|estelí|jalapa|jamastran|"
+    r"danlí|plantation|harvest|fermentation|box[- ]press|robusto|toro|churchill|"
+    r"lancero|belicoso|torpedo|piramide|perfecto|smoke shop|tobacconist|pca trade show)\b",
+    re.I,
+)
+
 TRUSTED_PUBLISHERS = {
     "halfwheel", "Cigar Journal", "Cigar Snob Magazine", "Cigar Aficionado",
     "Cigarrvärlden", "Cigar Coop",
@@ -578,6 +592,8 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
             continue
         if MARKETING_RE.search(combined):
             continue
+        if not CIGAR_TOPIC_RE.search(combined):
+            continue
 
         score = quality_score(title, raw_description, publisher, int(source.get("priority", 40)))
         if score < 50:
@@ -661,7 +677,7 @@ def merge_stories(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         lead.pop("source_priority", None)
         merged.append(lead)
 
-    merged.sort(key=lambda item: (item["rank_score"], item["published_at"]), reverse=True)
+    merged.sort(key=lambda item: (item["published_at"], item["rank_score"]), reverse=True)
     return merged
 
 
