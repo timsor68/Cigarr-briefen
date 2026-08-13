@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-08-12T18:05:16.648033+00:00",
+  "updated_at": "2026-08-13T06:43:45.966457+00:00",
   "items": [
+    {
+      "published_at": "2026-08-13T01:39:12+00:00",
+      "updated_at": "2026-08-13T01:39:12+00:00",
+      "title": "Topper Cigar Company Releases 1894 Broadleaf and New Shorty Line Extensions | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT01ERkY5bkR1WHNHb1hsWVEtdElqQzlWcW5Xbk5seHR6QUNERlEwQkZ0M0FwT0xIU2swV0c1enhpZXpYdW9iT25meGx0RmJyMGxxOVl1Z2lUSU9GX0pRVGhWN0tiQWR4LXczWnhuVXFkZTVYdHRpYlBzSVlPMmpIOG91cnZ1UlBGdmdWOG51NWFScTBRVjYxRy1NYnJ0WV9fcHdTS0oyUFd0MEQ3dFMyZVZHSWVrRlFad0p0amwwUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT01ERkY5bkR1WHNHb1hsWVEtdElqQzlWcW5Xbk5seHR6QUNERlEwQkZ0M0FwT0xIU2swV0c1enhpZXpYdW9iT25meGx0RmJyMGxxOVl1Z2lUSU9GX0pRVGhWN0tiQWR4LXczWnhuVXFkZTVYdHRpYlBzSVlPMmpIOG91cnZ1UlBGdmdWOG51NWFScTBRVjYxRy1NYnJ0WV9fcHdTS0oyUFd0MEQ3dFMyZVZHSWVrRlFad0p0amwwUQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "topper-cigar-company-releases-1894-broadleaf-and-new-shorty-line-extensions-cigar-news"
+    },
+    {
+      "published_at": "2026-08-12T22:30:41+00:00",
+      "updated_at": "2026-08-12T22:30:41+00:00",
+      "title": "Nestor Miranda Private Reserve Lancero Shipping",
+      "summary": "While many limited edition cigars return for sophomore releases, it's rare that nothing changes. For the second batch of Nestor Miranda Private Reserve Lancero, Miami Cigar & Co. has run things back: same blend, same packaging, same price.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/03/Nestor-Miranda-Private-Reserve-2026-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/nestor-miranda-private-reserve-lancero-shipping/476643/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/nestor-miranda-private-reserve-lancero-shipping/476643/"
+      },
+      "confirmed_by": [],
+      "id": "nestor-miranda-private-reserve-lancero-shipping"
+    },
+    {
+      "published_at": "2026-08-12T21:15:39+00:00",
+      "updated_at": "2026-08-12T21:15:39+00:00",
+      "title": "HVC Pan Caliente 10th Anniversary Shipping to Stores",
+      "summary": "The new limited edition will head to stores on Thursday. It's the first time HVC has released a cigar that uses Peruvian tobacco. The post HVC Pan Caliente 10th Anniversary Shipping to Stores appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Pan-Caliente-de-HVC-10th-Anniversary-Limited-Edition-2026-Box.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/hvc-pan-caliente-10th-anniversary-shipping-to-stores/476637/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/hvc-pan-caliente-10th-anniversary-shipping-to-stores/476637/"
+      },
+      "confirmed_by": [],
+      "id": "hvc-pan-caliente-10th-anniversary-shipping-to-stores"
+    },
+    {
+      "published_at": "2026-08-12T19:30:26+00:00",
+      "updated_at": "2026-08-12T19:30:26+00:00",
+      "title": "AVO Expresivo Robusto",
+      "summary": "Davidoff says the AVO Expresivo Robusto represents a new chapter for the AVO brand. Those first words are being written in Honduras, something new for the AVO brand. The post AVO Expresivo Robusto appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/AVO-Expresivo-Robusto-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/avo-expresivo-robusto/476596/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/avo-expresivo-robusto/476596/"
+      },
+      "confirmed_by": [],
+      "id": "avo-expresivo-robusto"
+    },
     {
       "published_at": "2026-08-12T17:03:31+00:00",
       "updated_at": "2026-08-12T17:03:31+00:00",
@@ -471,52 +563,6 @@
       "id": "el-tit-n-de-bronze-stg-end-distribution-agreement"
     },
     {
-      "published_at": "2026-08-10T20:04:54+00:00",
-      "updated_at": "2026-08-10T20:04:54+00:00",
-      "title": "La Galera 90th Anniversary Heads to Stores",
-      "summary": "This year marks the 101st anniversary of the founding of La Galera, though according to the paperwork, it's only the 90th year. To celebrate, La Galera is releasing a new line, the first one to be made entirely of tobaccos grown by the company. The post La Galera 90th Anniversary Heads to Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/La-Galera-90th-Perfecto.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/la-galera-90th-anniversary-heads-to-stores/476491/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/la-galera-90th-anniversary-heads-to-stores/476491/"
-      },
-      "confirmed_by": [],
-      "id": "la-galera-90th-anniversary-heads-to-stores"
-    },
-    {
-      "published_at": "2026-08-10T18:09:20+00:00",
-      "updated_at": "2026-08-10T18:09:20+00:00",
-      "title": "Eladio Díaz Honors His Mother with New Mi Vieja Line",
-      "summary": "The new blend once again incorporates tobacco from the southern part of the Dominican Republic, along with Peruvian pelo de oro and an Ecuadorian-grown, Connecticut-seed wrapper. The new line honors his mother and is due to arrive in the U.S. The post Eladio Díaz Honors His Mother with New Mi Vieja Line appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Eladio-Diaz-Mi-Vieja-open-box-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/eladio-diaz-honors-his-mother-with-new-mi-vieja-line/476476/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/eladio-diaz-honors-his-mother-with-new-mi-vieja-line/476476/"
-      },
-      "confirmed_by": [],
-      "id": "eladio-d-az-honors-his-mother-with-new-mi-vieja-line"
-    },
-    {
       "published_at": "2026-08-10T12:28:59+00:00",
       "updated_at": "2026-08-10T12:28:59+00:00",
       "title": "Domain Attenuation Toro Extra",
@@ -723,52 +769,6 @@
       },
       "confirmed_by": [],
       "id": "brizard-co-releasing-cuba-libre-cigar-case-lighter"
-    },
-    {
-      "published_at": "2026-08-03T08:15:02+00:00",
-      "updated_at": "2026-08-03T08:15:02+00:00",
-      "title": "J.C. Newman Introduces the Yagua Robusto (5″ x 56)",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0x1UU1IUVltLThOWmcyaVVNb01YR0JRMmM1S0p6Wm1OdHlSMTA1WHVsd2EwRDM2dUtPU3FTek03UHNETERjYUx2WlBieEVXd2hDRzVuclhRZ0VVdzM2V25TVWVmOFJhX3BXS1NoY1c2SDkwZDBpS2FIX05vNEdieWRB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0x1UU1IUVltLThOWmcyaVVNb01YR0JRMmM1S0p6Wm1OdHlSMTA1WHVsd2EwRDM2dUtPU3FTek03UHNETERjYUx2WlBieEVXd2hDRzVuclhRZ0VVdzM2V25TVWVmOFJhX3BXS1NoY1c2SDkwZDBpS2FIX05vNEdieWRB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "j-c-newman-introduces-the-yagua-robusto-5-x-56"
-    },
-    {
-      "published_at": "2026-08-02T21:51:20+00:00",
-      "updated_at": "2026-08-02T21:51:20+00:00",
-      "title": "La Terraza Nicabanos Launching in South Beach | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0dyNXZFWW9neXZrYzRYUEtmVkwyUERiMWY3dmUtbmRSeExDU0htWGUxa2lZa1kxUWhQM2M5OHpYN3Q1RDVZb29yRVM2dWloZlBQZFBualNzUEE3LVNxb1B5RW1PMnhlY1ZTRmFXdDJOZjNHbE9kbGlNTzlDMUFVdEY2LWwxLUpOX01kWFpwbWxqcFdCM2I0?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0dyNXZFWW9neXZrYzRYUEtmVkwyUERiMWY3dmUtbmRSeExDU0htWGUxa2lZa1kxUWhQM2M5OHpYN3Q1RDVZb29yRVM2dWloZlBQZFBualNzUEE3LVNxb1B5RW1PMnhlY1ZTRmFXdDJOZjNHbE9kbGlNTzlDMUFVdEY2LWwxLUpOX01kWFpwbWxqcFdCM2I0?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "la-terraza-nicabanos-launching-in-south-beach-cigar-news"
     }
   ]
 }
