@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T06:43:45.966457+00:00",
+  "updated_at": "2026-08-13T11:57:41.757591+00:00",
   "items": [
     {
       "published_at": "2026-08-13T01:39:12+00:00",
@@ -653,29 +653,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-industry-report-edition-701-8-8-26"
-    },
-    {
-      "published_at": "2026-08-05T11:42:40+00:00",
-      "updated_at": "2026-08-05T11:42:40+00:00",
-      "title": "The Summertime Smoke: A Festival of Cigars",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULUdUcUxqam10VF9NbDdVeU51ZzRQbDI1a0RLRVdTZWpDTHJSSTN6M0cteEdtVWs0STBLUERLbjd0QjJHT01XLXB1U29fb0dwVy1TTzN6TkE0X2ZUcm83cEI1RHd2RThDNmZOSVFOLXFzbTQzLTIwOEJPVQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULUdUcUxqam10VF9NbDdVeU51ZzRQbDI1a0RLRVdTZWpDTHJSSTN6M0cteEdtVWs0STBLUERLbjd0QjJHT01XLXB1U29fb0dwVy1TTzN6TkE0X2ZUcm83cEI1RHd2RThDNmZOSVFOLXFzbTQzLTIwOEJPVQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "the-summertime-smoke-a-festival-of-cigars"
     },
     {
       "published_at": "2026-08-04T12:16:24+00:00",
