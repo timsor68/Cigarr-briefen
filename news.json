@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-14T11:55:04.648485+00:00",
+  "updated_at": "2026-08-14T18:05:12.732087+00:00",
   "items": [
+    {
+      "published_at": "2026-08-14T14:42:15+00:00",
+      "updated_at": "2026-08-14T14:42:15+00:00",
+      "title": "Davidoff Launches New Primeros Voyager’s Selection",
+      "summary": "Davidoff Cigars is expanding its Voyager’s Selection with the Primeros by Davidoff Voyager’s Selection",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/Unbenannt-1-3.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-launches-new-primeros-voyagers-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-launches-new-primeros-voyagers-selection"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/davidoff-launches-new-primeros-voyagers-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-launches-new-primeros-voyagers-selection"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
+        }
+      ],
+      "id": "davidoff-launches-new-primeros-voyager-s-selection"
+    },
     {
       "published_at": "2026-08-13T21:12:20+00:00",
       "updated_at": "2026-08-13T21:12:20+00:00",
@@ -23,29 +55,6 @@
       },
       "confirmed_by": [],
       "id": "chimolly-cigars-now-available-in-canada"
-    },
-    {
-      "published_at": "2026-08-13T19:34:01+00:00",
-      "updated_at": "2026-08-13T19:34:01+00:00",
-      "title": "Primeros by Davidoff Voyager’s Selection Coming in September | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "primeros-by-davidoff-voyager-s-selection-coming-in-september-cigar-news"
     },
     {
       "published_at": "2026-08-13T18:53:50+00:00",
@@ -124,19 +133,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/03/Nestor-Miranda-Private-Reserve-2026-1.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/nestor-miranda-private-reserve-lancero-shipping/476643/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/nestor-miranda-private-reserve-lancero-now-shipping-to-retailers/?utm_source=rss&utm_medium=rss&utm_campaign=nestor-miranda-private-reserve-lancero-now-shipping-to-retailers"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/nestor-miranda-private-reserve-lancero-shipping/476643/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/nestor-miranda-private-reserve-lancero-now-shipping-to-retailers/?utm_source=rss&utm_medium=rss&utm_campaign=nestor-miranda-private-reserve-lancero-now-shipping-to-retailers"
+        }
+      ],
       "id": "nestor-miranda-private-reserve-lancero-shipping"
     },
     {
@@ -416,47 +434,24 @@
       "id": "a-j-fernandez-cigar-evening"
     },
     {
-      "published_at": "2026-08-12T09:14:37+00:00",
-      "updated_at": "2026-08-12T09:14:37+00:00",
-      "title": "Diesel Releases New Blend Called “Uncaged”",
-      "summary": "Diesel Cigars has unveiled its newest full-time blend, Diesel Uncaged",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/Uncaged_Box.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/diesel-releases-new-blend-called-uncaged/?utm_source=rss&utm_medium=rss&utm_campaign=diesel-releases-new-blend-called-uncaged"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/diesel-releases-new-blend-called-uncaged/?utm_source=rss&utm_medium=rss&utm_campaign=diesel-releases-new-blend-called-uncaged"
-      },
-      "confirmed_by": [],
-      "id": "diesel-releases-new-blend-called-uncaged"
-    },
-    {
       "published_at": "2026-08-12T09:04:02+00:00",
       "updated_at": "2026-08-12T09:04:02+00:00",
       "title": "PCA Joins Costa Rica’s Cigar Festival as Co-Organizing Partner",
-      "summary": "The Premium Cigar Association (PCA) is pleased to announce its participation as Co-Organizing Partner of the Puro Vida Cigar Festival 2026, taking place November 21–22, 2026, in Costa Rica",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
       "category": [
         "Event"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/04/pca-2026-.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/pca-joins-costa-ricas-cigar-festival-as-co-organizing-partner/?utm_source=rss&utm_medium=rss&utm_campaign=pca-joins-costa-ricas-cigar-festival-as-co-organizing-partner"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE5FcXZnTWNZdDJaTlJ6c2pnZExseFZvTTdrYjZTWHkwYzNPWmdLTm4wZ0ZqYjBSVDJ1UkJPVkZ6bS1PS1NlcXJOMEgwZDBwN29ZU21iNEw5WGpwQkNDUy1BTTVIWll3dWY2bFlyYWMzZkJSY2wxdW0wVDFtM0tZdEpkR1VUWklPcGdkSGJyMmljQ016T2c?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/pca-joins-costa-ricas-cigar-festival-as-co-organizing-partner/?utm_source=rss&utm_medium=rss&utm_campaign=pca-joins-costa-ricas-cigar-festival-as-co-organizing-partner"
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE5FcXZnTWNZdDJaTlJ6c2pnZExseFZvTTdrYjZTWHkwYzNPWmdLTm4wZ0ZqYjBSVDJ1UkJPVkZ6bS1PS1NlcXJOMEgwZDBwN29ZU21iNEw5WGpwQkNDUy1BTTVIWll3dWY2bFlyYWMzZkJSY2wxdW0wVDFtM0tZdEpkR1VUWklPcGdkSGJyMmljQ016T2c?oc=5"
       },
       "confirmed_by": [],
       "id": "pca-joins-costa-rica-s-cigar-festival-as-co-organizing-partner"
@@ -506,29 +501,6 @@
       },
       "confirmed_by": [],
       "id": "prime-time-special-edition-194-enrique-seijas-matilde-cigars"
-    },
-    {
-      "published_at": "2026-08-11T19:41:07+00:00",
-      "updated_at": "2026-08-11T19:41:07+00:00",
-      "title": "El Titan De Bronze And General Cigar End Distribution Agreement",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "el-titan-de-bronze-and-general-cigar-end-distribution-agreement"
     },
     {
       "published_at": "2026-08-11T19:09:21+00:00",
@@ -600,29 +572,6 @@
       "id": "domain-cigars-awarded-u-s-patent-for-cigar-box-liner-cigar-news"
     },
     {
-      "published_at": "2026-08-10T12:28:59+00:00",
-      "updated_at": "2026-08-10T12:28:59+00:00",
-      "title": "Domain Attenuation Toro Extra",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "domain-attenuation-toro-extra"
-    },
-    {
       "published_at": "2026-08-10T05:18:09+00:00",
       "updated_at": "2026-08-10T05:18:09+00:00",
       "title": "La Aurora Opens Cigar Lounge in Santiago | Cigar News",
@@ -669,27 +618,50 @@
       "id": "trinidad-espiritu-miami-edition-cigar-review"
     },
     {
-      "published_at": "2026-08-04T12:16:24+00:00",
-      "updated_at": "2026-08-04T12:16:24+00:00",
-      "title": "BREAKING NEWS: EU Sanctions Against Chen Zhi and Prince Group",
+      "published_at": "2026-08-09T16:06:36+00:00",
+      "updated_at": "2026-08-09T16:06:36+00:00",
+      "title": "Domain Attenuation Toro Extra",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "domain-attenuation-toro-extra"
+    },
+    {
+      "published_at": "2026-08-06T12:50:51+00:00",
+      "updated_at": "2026-08-06T12:50:51+00:00",
+      "title": "The Consequences of EU Sanctions Against Chen Zhi for Sweden in Particular and the EU in General",
       "summary": "The EU sanctions against Chen Zhi and the Prince Group entered into force upon their publication on July 30 of this year. This means that tobacco retailers trading with Elite Trading Scandinavia or The Premium Company Nordic—or even paying an invoice today for a delivery that occurred prior to July 30—may already be committing a sanctions violation. Not even the end consumer is spared: if you purchase a box of Cubans at retail for personal use, you risk having your bank account closed and being punished for breaching sanctions.",
       "category": [
         "Sverige"
       ],
       "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Chen_org_fad9531f-f56c-454c-b9f9-a9dd7078c89b_1200x1200.png?v=1785846015",
+      "image": "http://cigarrklubben.se/cdn/shop/articles/Allied-Cigar-Corporation-Group-Structure-2048x2028_5095e311-38b3-42be-8369-c44329128698_1200x1200.jpg?v=1786434763",
       "sources": [
         {
           "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-general"
         }
       ],
       "main_source": {
         "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-general"
       },
       "confirmed_by": [],
-      "id": "breaking-news-eu-sanctions-against-chen-zhi-and-prince-group"
+      "id": "the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-g"
     }
   ]
 }
