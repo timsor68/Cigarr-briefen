@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-08-15T11:32:54.474293+00:00",
+  "updated_at": "2026-08-15T17:33:32.890879+00:00",
   "items": [
+    {
+      "published_at": "2026-08-15T14:00:09+00:00",
+      "updated_at": "2026-08-15T14:00:09+00:00",
+      "title": "Principle Martinique Corona",
+      "summary": "Principle Cigars didn't intend for the Martinique Corona to be a shop exclusive. But Small Batch Cigar bought the entire first production run, so for now, it's exclusive to one store. The post Principle Martinique Corona appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Principle-Martinique-Corona-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/principle-martinique-corona/476786/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/principle-martinique-corona/476786/"
+      },
+      "confirmed_by": [],
+      "id": "principle-martinique-corona"
+    },
+    {
+      "published_at": "2026-08-15T12:02:08+00:00",
+      "updated_at": "2026-08-15T12:02:08+00:00",
+      "title": "Cigar Industry Report: Edition 702 (8/15/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThJLVlpakNmT295T1hOVHY3OHNxYXpjbkJFUG5PcnBPQ1A0dDRVcnJZZWJaV1A4WFhBd0FndFZlQTdyRnlZWVlPZHpnR2pMVjJYUS1IbGxrQ2dqRjg3Z1pTYmlQYnNBOVVEcHlmYi01ek4zSkRwVDZzbkUwUHlKT05JVQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThJLVlpakNmT295T1hOVHY3OHNxYXpjbkJFUG5PcnBPQ1A0dDRVcnJZZWJaV1A4WFhBd0FndFZlQTdyRnlZWVlPZHpnR2pMVjJYUS1IbGxrQ2dqRjg3Z1pTYmlQYnNBOVVEcHlmYi01ek4zSkRwVDZzbkUwUHlKT05JVQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-702-8-15-26"
+    },
     {
       "published_at": "2026-08-15T04:06:32+00:00",
       "updated_at": "2026-08-15T04:06:32+00:00",
@@ -71,6 +117,38 @@
       "id": "city-of-palms-ends-caballeros-cigars-distribution"
     },
     {
+      "published_at": "2026-08-14T14:42:15+00:00",
+      "updated_at": "2026-08-14T14:42:15+00:00",
+      "title": "Davidoff Launches New Primeros Voyager’s Selection",
+      "summary": "Davidoff Cigars is expanding its Voyager’s Selection with the Primeros by Davidoff Voyager’s Selection",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/Unbenannt-1-3.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-launches-new-primeros-voyagers-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-launches-new-primeros-voyagers-selection"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/davidoff-launches-new-primeros-voyagers-selection/?utm_source=rss&utm_medium=rss&utm_campaign=davidoff-launches-new-primeros-voyagers-selection"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
+        }
+      ],
+      "id": "davidoff-launches-new-primeros-voyager-s-selection"
+    },
+    {
       "published_at": "2026-08-13T21:12:20+00:00",
       "updated_at": "2026-08-13T21:12:20+00:00",
       "title": "ChiMolly Cigars Now Available in Canada",
@@ -92,29 +170,6 @@
       },
       "confirmed_by": [],
       "id": "chimolly-cigars-now-available-in-canada"
-    },
-    {
-      "published_at": "2026-08-13T19:34:01+00:00",
-      "updated_at": "2026-08-13T19:34:01+00:00",
-      "title": "Primeros by Davidoff Voyager’s Selection Coming in September | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW1fZ0lFc3FlNU9kSXBvMkNsYzhuM0tUbFFzbXRicTl0T01mOTNCV1I3bkx2NFc1MWlVQjBaV3Z4cmZsdGtxbXhiNXl1VVhxcnBzTEI1eGVvNm9rdkUwVGZkRjdDSElrdFk2OHNlLVNsU2Qya2w4dFdDdk5QQ2Q4ZjBicjlJSm1zX2NGUXNiX210WV9jV2N1RXhrOC1FWFhpbDdmcWRRQk5GUQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "primeros-by-davidoff-voyager-s-selection-coming-in-september-cigar-news"
     },
     {
       "published_at": "2026-08-13T18:53:50+00:00",
@@ -202,7 +257,7 @@
         },
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFdWa1NZS1RLMEd5MjVzWGNWSC1xNXBuZldUVXlCNzlPLWJXcjFQUVBRSERUNWRyX2tQMUJtbVItSlJDbVV3LXJXTFRZS2tsX3B1WGRTMzhxUEJROHdvSllISGN5cXU1T3N5VVdZUEVrZXR2Z1dsU0VETXZVaEpBRGVUV2xyaFJJZE1ncmhqS2JLT3BfYWpTbDB3?oc=5"
+          "url": "https://www.cigarjournal.com/nestor-miranda-private-reserve-lancero-now-shipping-to-retailers/?utm_source=rss&utm_medium=rss&utm_campaign=nestor-miranda-private-reserve-lancero-now-shipping-to-retailers"
         }
       ],
       "main_source": {
@@ -212,7 +267,7 @@
       "confirmed_by": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFdWa1NZS1RLMEd5MjVzWGNWSC1xNXBuZldUVXlCNzlPLWJXcjFQUVBRSERUNWRyX2tQMUJtbVItSlJDbVV3LXJXTFRZS2tsX3B1WGRTMzhxUEJROHdvSllISGN5cXU1T3N5VVdZUEVrZXR2Z1dsU0VETXZVaEpBRGVUV2xyaFJJZE1ncmhqS2JLT3BfYWpTbDB3?oc=5"
+          "url": "https://www.cigarjournal.com/nestor-miranda-private-reserve-lancero-now-shipping-to-retailers/?utm_source=rss&utm_medium=rss&utm_campaign=nestor-miranda-private-reserve-lancero-now-shipping-to-retailers"
         }
       ],
       "id": "nestor-miranda-private-reserve-lancero-shipping"
@@ -287,47 +342,116 @@
       "id": "lampert-limitada-2026-heads-to-stores"
     },
     {
-      "published_at": "2026-08-12T14:58:04+00:00",
-      "updated_at": "2026-08-12T14:58:04+00:00",
-      "title": "Viva La Vida Classic, El Pulpo Culebra Get Price Increase for 2026",
-      "summary": "For just the second time in its seven year history, Artesano Del Tobacco is increasing prices. The original Viva La Vida line will increase, though most of the rest of the portfolio will remain at current prices. The post Viva La Vida Classic, El Pulpo Culebra Get Price Increase for 2026 appeared first on halfwheel",
+      "published_at": "2026-08-12T13:19:09+00:00",
+      "updated_at": "2026-08-12T13:19:09+00:00",
+      "title": "Room101 Cigars Unveils Limited-Edition 17th Anniversary Cigar",
+      "summary": "Room101 Cigars is marking another milestone with the release of Room101 17th Anniversary, the latest installment in the brand's evolving annual Anniversary series",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/Unbenannt-1-1.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/room101-cigars-unveils-limited-edition-17th-anniversary-cigar/?utm_source=rss&utm_medium=rss&utm_campaign=room101-cigars-unveils-limited-edition-17th-anniversary-cigar"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/room101-cigars-unveils-limited-edition-17th-anniversary-cigar/?utm_source=rss&utm_medium=rss&utm_campaign=room101-cigars-unveils-limited-edition-17th-anniversary-cigar"
+      },
+      "confirmed_by": [],
+      "id": "room101-cigars-unveils-limited-edition-17th-anniversary-cigar"
+    },
+    {
+      "published_at": "2026-08-12T13:12:32+00:00",
+      "updated_at": "2026-08-12T13:12:32+00:00",
+      "title": "The Spanish Government Aims to Ban Smoking in Private Spaces",
+      "summary": "The situation for cigar smokers in Spain could worsen. The government has approved a total ban on smoking in outdoor public spaces",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/05/Artesano-Del-Tobacco-Logo.jpeg",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/spain.gif",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/viva-la-vida-classic-el-pulpo-culebra-get-price-increase-for-2026/476603/"
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces-2"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/viva-la-vida-classic-el-pulpo-culebra-get-price-increase-for-2026/476603/"
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-spanish-government-aims-to-ban-smoking-in-private-spaces-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-spanish-government-aims-to-ban-smoking-in-private-spaces-2"
       },
       "confirmed_by": [],
-      "id": "viva-la-vida-classic-el-pulpo-culebra-get-price-increase-for-2026"
+      "id": "the-spanish-government-aims-to-ban-smoking-in-private-spaces"
+    },
+    {
+      "published_at": "2026-08-12T13:02:43+00:00",
+      "updated_at": "2026-08-12T13:02:43+00:00",
+      "title": "Ferio Tego Releases Ferio Tego Milestones",
+      "summary": "Ferio Tego is proud to announce Ferio Tego Milestones, a limited-edition handmade premium cigar created in collaboration with the Miles Davis Estate and global independent music company Reservoir as part of the official Miles Davis Centennial celebration throughout 2026",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/ferio_milesdavis_mood_4.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/ferio-tego-releases-ferio-tego-milestones/?utm_source=rss&utm_medium=rss&utm_campaign=ferio-tego-releases-ferio-tego-milestones"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/ferio-tego-releases-ferio-tego-milestones/?utm_source=rss&utm_medium=rss&utm_campaign=ferio-tego-releases-ferio-tego-milestones"
+      },
+      "confirmed_by": [],
+      "id": "ferio-tego-releases-ferio-tego-milestones"
+    },
+    {
+      "published_at": "2026-08-12T12:16:45+00:00",
+      "updated_at": "2026-08-12T12:16:45+00:00",
+      "title": "Casa Carrillo Announces Carrillo Cares Partnership",
+      "summary": "Casa Carrillo is proud to announce a new initiative through Carrillo Cares, the company’s charitable arm, supporting Dress for Success Miami through its limited-production La Historia Silk cigar",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/silk.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-announces-carrillo-cares-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=casa-carrillo-announces-carrillo-cares-partnership"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-announces-carrillo-cares-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=casa-carrillo-announces-carrillo-cares-partnership"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-announces-carrillo-cares-partnership"
     },
     {
       "published_at": "2026-08-12T12:06:24+00:00",
       "updated_at": "2026-08-12T12:06:24+00:00",
       "title": "Le Club Fumoir: Alpine Elegance Meeting with The Cigar Culture",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "summary": "Located within the Grand Hotel Bois de Boulogne, the newly launched Le Club Fumoir introduces a unique concept to the region",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/Unbenannt-1.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
+          "url": "https://www.cigarjournal.com/le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture/?utm_source=rss&utm_medium=rss&utm_campaign=le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
+        "url": "https://www.cigarjournal.com/le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture/?utm_source=rss&utm_medium=rss&utm_campaign=le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
       },
       "confirmed_by": [],
       "id": "le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
@@ -336,24 +460,70 @@
       "published_at": "2026-08-12T11:40:25+00:00",
       "updated_at": "2026-08-12T11:40:25+00:00",
       "title": "Cigar Regulations Update: Germany, UK and Spain",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "summary": "Paul Varakas, Director General of the European Cigar Manufacturers Association (ECMA), highlights the latest developments affecting cigar consumers and retailers across Europe",
       "category": [
         "Reglering"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2025/07/ecma.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk0yQXpYN3lDelJyUWE2TEEzTmI3OG5KemFpYmlkazZQSWtOZUxEdHFoVmdjSFpJN1BmTmFxOE5ORVJ3cEZDbGJ0Q3NXM2NoYU1jN2pRaF9vUlpHNE03SEV4TXUtLXBQWlZMczZLbXZmOFFFN2lfSHliMkxLRGluWA?oc=5"
+          "url": "https://www.cigarjournal.com/cigar-regulations-update-germany-uk-and-spain/?utm_source=rss&utm_medium=rss&utm_campaign=cigar-regulations-update-germany-uk-and-spain"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk0yQXpYN3lDelJyUWE2TEEzTmI3OG5KemFpYmlkazZQSWtOZUxEdHFoVmdjSFpJN1BmTmFxOE5ORVJ3cEZDbGJ0Q3NXM2NoYU1jN2pRaF9vUlpHNE03SEV4TXUtLXBQWlZMczZLbXZmOFFFN2lfSHliMkxLRGluWA?oc=5"
+        "url": "https://www.cigarjournal.com/cigar-regulations-update-germany-uk-and-spain/?utm_source=rss&utm_medium=rss&utm_campaign=cigar-regulations-update-germany-uk-and-spain"
       },
       "confirmed_by": [],
       "id": "cigar-regulations-update-germany-uk-and-spain"
+    },
+    {
+      "published_at": "2026-08-12T10:01:12+00:00",
+      "updated_at": "2026-08-12T10:01:12+00:00",
+      "title": "J.C. Newman Ships New Diamond Crown MAXIMUS",
+      "summary": "J.C. Newman Cigar Co. begins shipping the reimagined Diamond Crown MAXIMUS cigars",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/b1157262-ebbf-ef53-7474-5958144661ef.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/j-c-newman-ships-new-diamond-crown-maximus/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-ships-new-diamond-crown-maximus"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/j-c-newman-ships-new-diamond-crown-maximus/?utm_source=rss&utm_medium=rss&utm_campaign=j-c-newman-ships-new-diamond-crown-maximus"
+      },
+      "confirmed_by": [],
+      "id": "j-c-newman-ships-new-diamond-crown-maximus"
+    },
+    {
+      "published_at": "2026-08-12T09:47:16+00:00",
+      "updated_at": "2026-08-12T09:47:16+00:00",
+      "title": "A.J.Fernandez Cigar Evening",
+      "summary": "Dom Cigár would like to invite you to their next cigar event",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2023/07/dom-cigar-slovakia-logo-2.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/a-j-fernandez-cigar-evening-6/?utm_source=rss&utm_medium=rss&utm_campaign=a-j-fernandez-cigar-evening-6"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/a-j-fernandez-cigar-evening-6/?utm_source=rss&utm_medium=rss&utm_campaign=a-j-fernandez-cigar-evening-6"
+      },
+      "confirmed_by": [],
+      "id": "a-j-fernandez-cigar-evening"
     },
     {
       "published_at": "2026-08-11T19:43:49+00:00",
@@ -425,6 +595,29 @@
       "id": "domain-cigars-receives-2026-pia-midamerica-graphic-excellence-award-cigar-news"
     },
     {
+      "published_at": "2026-08-10T22:12:52+00:00",
+      "updated_at": "2026-08-10T22:12:52+00:00",
+      "title": "Domain Cigars Awarded U.S. Patent For Cigar Box Liner | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGxzcl91b2daRi1LR0E3eW95WWk1aGJKRVR1MHB4akNaWHU2WkR6ZnFWa1Bsa2RKLXRnV0ZvTC1PTFJiUUFZdGllT3A1eVB3RFM4U3ptLTFhVGh0b0NTTEFVRl90YVFIWEhVZnY5V3hsQWZET0hFTmpNSHA3SG9BdzhCdkVJXzlsWExxLXNoVVNQZlZiM3NnTGhhTXFMLU5X?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGxzcl91b2daRi1LR0E3eW95WWk1aGJKRVR1MHB4akNaWHU2WkR6ZnFWa1Bsa2RKLXRnV0ZvTC1PTFJiUUFZdGllT3A1eVB3RFM4U3ptLTFhVGh0b0NTTEFVRl90YVFIWEhVZnY5V3hsQWZET0hFTmpNSHA3SG9BdzhCdkVJXzlsWExxLXNoVVNQZlZiM3NnTGhhTXFMLU5X?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "domain-cigars-awarded-u-s-patent-for-cigar-box-liner-cigar-news"
+    },
+    {
       "published_at": "2026-08-10T05:18:09+00:00",
       "updated_at": "2026-08-10T05:18:09+00:00",
       "title": "La Aurora Opens Cigar Lounge in Santiago | Cigar News",
@@ -469,29 +662,6 @@
       },
       "confirmed_by": [],
       "id": "trinidad-espiritu-miami-edition-cigar-review"
-    },
-    {
-      "published_at": "2026-08-09T16:06:36+00:00",
-      "updated_at": "2026-08-09T16:06:36+00:00",
-      "title": "Domain Attenuation Toro Extra",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "domain-attenuation-toro-extra"
     },
     {
       "published_at": "2026-08-06T12:50:51+00:00",
