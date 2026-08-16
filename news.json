@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-16T11:32:55.587117+00:00",
+  "updated_at": "2026-08-16T17:32:47.995576+00:00",
   "items": [
+    {
+      "published_at": "2026-08-16T16:00:14+00:00",
+      "updated_at": "2026-08-16T16:00:14+00:00",
+      "title": "Knuckle Sandwich Avant-Garde",
+      "summary": "Knuckle Sandwich Cigars, the brand created by celebrity chef Guy Fieri in partnership with Erik Espinosa, debuted in early 2022. Four years after, the brand is looking to introduce itself to more consumers by way of a mellower, more approachable blend. The post Knuckle Sandwich Avant-Garde appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Knuckle-Sandwich-Avant-Garde-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/knuckle-sandwich-avant-garde/476806/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/knuckle-sandwich-avant-garde/476806/"
+      },
+      "confirmed_by": [],
+      "id": "knuckle-sandwich-avant-garde"
+    },
     {
       "published_at": "2026-08-16T08:40:09+00:00",
       "updated_at": "2026-08-16T08:40:09+00:00",
@@ -264,29 +287,6 @@
       "id": "avo-expresivo-robusto"
     },
     {
-      "published_at": "2026-08-12T17:03:31+00:00",
-      "updated_at": "2026-08-12T17:03:31+00:00",
-      "title": "Lampert Limitada 2026 Heads to Stores",
-      "summary": "For this year's Limitada, Lampert has gone with a Connecticut-seed wrapper and a box-pressed toro. However, there's one more Limitada coming later this year. The post Lampert Limitada 2026 Heads to Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Lampert-Limitada-2026-Feature-2.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/lampert-limitada-2026-heads-to-stores/476613/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/lampert-limitada-2026-heads-to-stores/476613/"
-      },
-      "confirmed_by": [],
-      "id": "lampert-limitada-2026-heads-to-stores"
-    },
-    {
       "published_at": "2026-08-12T13:19:09+00:00",
       "updated_at": "2026-08-12T13:19:09+00:00",
       "title": "Room101 Cigars Unveils Limited-Edition 17th Anniversary Cigar",
@@ -469,52 +469,6 @@
       },
       "confirmed_by": [],
       "id": "el-titan-de-bronze-and-general-cigar-end-distribution-agreement"
-    },
-    {
-      "published_at": "2026-08-09T16:06:36+00:00",
-      "updated_at": "2026-08-09T16:06:36+00:00",
-      "title": "Domain Attenuation Toro Extra",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "domain-attenuation-toro-extra"
-    },
-    {
-      "published_at": "2026-08-06T12:50:51+00:00",
-      "updated_at": "2026-08-06T12:50:51+00:00",
-      "title": "The Consequences of EU Sanctions Against Chen Zhi for Sweden in Particular and the EU in General",
-      "summary": "The EU sanctions against Chen Zhi and the Prince Group entered into force upon their publication on July 30 of this year. This means that tobacco retailers trading with Elite Trading Scandinavia or The Premium Company Nordic—or even paying an invoice today for a delivery that occurred prior to July 30—may already be committing a sanctions violation. Not even the end consumer is spared: if you purchase a box of Cubans at retail for personal use, you risk having your bank account closed and being punished for breaching sanctions.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Allied-Cigar-Corporation-Group-Structure-2048x2028_5095e311-38b3-42be-8369-c44329128698_1200x1200.jpg?v=1786434763",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-general"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-general"
-      },
-      "confirmed_by": [],
-      "id": "the-consequences-of-eu-sanctions-against-chen-zhi-for-sweden-in-particular-and-the-eu-in-g"
     }
   ]
 }
