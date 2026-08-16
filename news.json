@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-15T17:33:32.890879+00:00",
+  "updated_at": "2026-08-16T05:41:13.854544+00:00",
   "items": [
+    {
+      "published_at": "2026-08-15T22:42:16+00:00",
+      "updated_at": "2026-08-15T22:42:16+00:00",
+      "title": "Casa Carrillo Social Media Exclusive Blend 1 (2026) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFRiZWxLUU1SU1hZOF9lTmZmbXAxVmg4bkd1VDlLZkJ4QmhpSDkxbksyMHVwQmZJa0FSVTJwY1NFTFR0a0pWX0s3bGpWUHpjYUQwY1pZMnA2QUFqMzBYV1g2SFVaVUhSREM5OU1zYkEyY3hBUVRvQUxBbE1CaWZVMVlTandrRDIyVGVkaEJsT3J4R0hIck42WXBxTXRVeEk?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFRiZWxLUU1SU1hZOF9lTmZmbXAxVmg4bkd1VDlLZkJ4QmhpSDkxbksyMHVwQmZJa0FSVTJwY1NFTFR0a0pWX0s3bGpWUHpjYUQwY1pZMnA2QUFqMzBYV1g2SFVaVUhSREM5OU1zYkEyY3hBUVRvQUxBbE1CaWZVMVlTandrRDIyVGVkaEJsT3J4R0hIck42WXBxTXRVeEk?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-social-media-exclusive-blend-1-2026-cigar-review"
+    },
     {
       "published_at": "2026-08-15T14:00:09+00:00",
       "updated_at": "2026-08-15T14:00:09+00:00",
@@ -73,7 +96,7 @@
     {
       "published_at": "2026-08-14T20:47:36+00:00",
       "updated_at": "2026-08-14T20:47:36+00:00",
-      "title": "Perdomo Ships Legacy Father & Son to Stores Nationwide",
+      "title": "Perdomo Legacy Father & Son Ships to Stores Nationwide",
       "summary": "After debuting at Two Guys Cigars in May, the Perdomo Legacy Father & Son is arriving at stores across the country, several months ahead of schedule. The blends feature a habano-Cameroon hybrid tobacco, with Nick Perdomo Jr. blending one, Nicholas Perdomo III blending another, and the pair blending the third.",
       "category": [
         "Nyheter"
@@ -91,7 +114,7 @@
         "url": "https://halfwheel.com/perdomo-ships-legacy-father-son-to-stores-nationwide/476779/"
       },
       "confirmed_by": [],
-      "id": "perdomo-ships-legacy-father-son-to-stores-nationwide"
+      "id": "perdomo-legacy-father-son-ships-to-stores-nationwide"
     },
     {
       "published_at": "2026-08-14T18:38:14+00:00",
@@ -595,29 +618,6 @@
       "id": "domain-cigars-receives-2026-pia-midamerica-graphic-excellence-award-cigar-news"
     },
     {
-      "published_at": "2026-08-10T22:12:52+00:00",
-      "updated_at": "2026-08-10T22:12:52+00:00",
-      "title": "Domain Cigars Awarded U.S. Patent For Cigar Box Liner | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGxzcl91b2daRi1LR0E3eW95WWk1aGJKRVR1MHB4akNaWHU2WkR6ZnFWa1Bsa2RKLXRnV0ZvTC1PTFJiUUFZdGllT3A1eVB3RFM4U3ptLTFhVGh0b0NTTEFVRl90YVFIWEhVZnY5V3hsQWZET0hFTmpNSHA3SG9BdzhCdkVJXzlsWExxLXNoVVNQZlZiM3NnTGhhTXFMLU5X?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGxzcl91b2daRi1LR0E3eW95WWk1aGJKRVR1MHB4akNaWHU2WkR6ZnFWa1Bsa2RKLXRnV0ZvTC1PTFJiUUFZdGllT3A1eVB3RFM4U3ptLTFhVGh0b0NTTEFVRl90YVFIWEhVZnY5V3hsQWZET0hFTmpNSHA3SG9BdzhCdkVJXzlsWExxLXNoVVNQZlZiM3NnTGhhTXFMLU5X?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "domain-cigars-awarded-u-s-patent-for-cigar-box-liner-cigar-news"
-    },
-    {
       "published_at": "2026-08-10T05:18:09+00:00",
       "updated_at": "2026-08-10T05:18:09+00:00",
       "title": "La Aurora Opens Cigar Lounge in Santiago | Cigar News",
@@ -662,6 +662,29 @@
       },
       "confirmed_by": [],
       "id": "trinidad-espiritu-miami-edition-cigar-review"
+    },
+    {
+      "published_at": "2026-08-09T16:06:36+00:00",
+      "updated_at": "2026-08-09T16:06:36+00:00",
+      "title": "Domain Attenuation Toro Extra",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "domain-attenuation-toro-extra"
     },
     {
       "published_at": "2026-08-06T12:50:51+00:00",
