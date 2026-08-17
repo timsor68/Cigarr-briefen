@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:37:53.297787+00:00",
+  "updated_at": "2026-08-17T17:42:40.136803+00:00",
   "items": [
     {
       "published_at": "2026-08-16T16:00:14+00:00",
@@ -166,7 +166,7 @@
       "published_at": "2026-08-13T18:53:50+00:00",
       "updated_at": "2026-08-13T18:53:50+00:00",
       "title": "Blackbird Pura Raza de Quisqueya",
-      "summary": "This is the first of three releases that are planned to commerate Blackbird Cigar Co.'s 10th anniversary. The cigar was created to honor the Blackbird's master blender, who is known as Papo “El Caballo.” The post Blackbird Pura Raza de Quisqueya appeared first on halfwheel",
+      "summary": "This is the first of three releases that are planned to commemorate Blackbird Cigar Co.'s 10th anniversary. The cigar was created to honor the Blackbird's master blender, who is known as Papo “El Caballo.” The post Blackbird Pura Raza de Quisqueya appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
@@ -423,6 +423,52 @@
       },
       "confirmed_by": [],
       "id": "j-c-newman-ships-new-diamond-crown-maximus"
+    },
+    {
+      "published_at": "2026-08-11T19:41:07+00:00",
+      "updated_at": "2026-08-11T19:41:07+00:00",
+      "title": "El Titan De Bronze And General Cigar End Distribution Agreement",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "el-titan-de-bronze-and-general-cigar-end-distribution-agreement"
+    },
+    {
+      "published_at": "2026-08-09T16:06:36+00:00",
+      "updated_at": "2026-08-09T16:06:36+00:00",
+      "title": "Domain Attenuation Toro Extra",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "domain-attenuation-toro-extra"
     }
   ]
 }
