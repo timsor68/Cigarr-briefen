@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T05:43:42.033795+00:00",
+  "updated_at": "2026-08-18T11:38:18.679189+00:00",
   "items": [
     {
       "published_at": "2026-08-17T18:51:36+00:00",
@@ -387,7 +387,7 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/spain.gif",
       "sources": [
         {
           "name": "Cigar Journal",
@@ -653,29 +653,6 @@
       },
       "confirmed_by": [],
       "id": "trinidad-espiritu-miami-edition-cigar-review"
-    },
-    {
-      "published_at": "2026-08-09T16:06:36+00:00",
-      "updated_at": "2026-08-09T16:06:36+00:00",
-      "title": "Domain Attenuation Toro Extra",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmY2JaeU83WXBsSGcwdDdGU2JBZm9aLU1SV0FxN3NRZ09vMjVYWnlQMnBLcjRjeXFEemU0Z2wydGJRWmZGSEJxMV9Mb3FFTGpneDlIX0E1akU0OW05ZEtoaTVRVk51cjJpMHdZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "domain-attenuation-toro-extra"
     }
   ]
 }
