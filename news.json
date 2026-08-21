@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-21T11:39:13.935647+00:00",
+  "updated_at": "2026-08-21T17:43:15.457199+00:00",
   "items": [
+    {
+      "published_at": "2026-08-21T17:11:31+00:00",
+      "updated_at": "2026-08-21T17:11:31+00:00",
+      "title": "AG Cigars Legendary Moment Jamie Foxx",
+      "summary": "Alejandro “Alex” González, who once served as the custom roller at the Hotel Comodoro in Cuba, left for Nicaragua and launched his own cigar brand. This summer, the company added cigars for Ray Lewis and Jamie Foxx. The post AG Cigars Legendary Moment Jamie Foxx appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Jamie-Foxx-Legendary-Moment-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/ag-cigars-legendary-moment-jamie-foxx/476898/"
+      },
+      "confirmed_by": [],
+      "id": "ag-cigars-legendary-moment-jamie-foxx"
+    },
     {
       "published_at": "2026-08-20T21:00:26+00:00",
       "updated_at": "2026-08-20T21:00:26+00:00",
@@ -164,29 +187,6 @@
       "id": "gurkha-sends-tres-decadas-to-stores"
     },
     {
-      "published_at": "2026-08-19T16:00:52+00:00",
-      "updated_at": "2026-08-19T16:00:52+00:00",
-      "title": "CRAFT Maquette Scuttlebutt Ships",
-      "summary": "Scuttlebutt is based on the Intemperance Whiskey Rebellion 1794 line. While production was originally limited to 1,000 bundles, Skip Martin liked the blend enough that he nearly doubled the planned production run. The post CRAFT Maquette Scuttlebutt Ships appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/CRAFT-Maquette-Scuttlebutt.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/craft-maquette-scuttlebutt-ships/476962/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/craft-maquette-scuttlebutt-ships/476962/"
-      },
-      "confirmed_by": [],
-      "id": "craft-maquette-scuttlebutt-ships"
-    },
-    {
       "published_at": "2026-08-19T15:21:40+00:00",
       "updated_at": "2026-08-19T15:21:40+00:00",
       "title": "U.K. Threatens Plain Packaging for Cigars",
@@ -204,6 +204,10 @@
         {
           "name": "Cigar Aficionado",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWloybkJHMEF1ZGU2VnI2NGxoMV8wdXRxM1lBazNpQkdfdGhQWVQySFNSQVpnNGlHdmdOWDFUR2F1LTVSa0NHSExPQmtIU1dXUkg4eVBZMlZjSmtrWGE1ZlZqeDUyUFRMNHJnUXVzalNoNXdHRkcwLVJjVU1YSWJmcG1UNEdEQQ?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9GNnFQZ2NGTXFqd3pZUXNPeF82Ni0xTTJ4WkFyMFcwNnA3bENocnRGcm93UC1iUkw3VkRqRkJnaEROc09jRXlvVmRxa0cwSVJ5VDVGMWZYTkMxcmItSGlaa0NRMTVTc2FqYVpKZVAycWE5YXI0YkQybUotZ0NnXzRCSnRSTklRWVNHcllJdEtUMkhHMWc?oc=5"
         }
       ],
       "main_source": {
@@ -214,6 +218,10 @@
         {
           "name": "Cigar Aficionado",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWloybkJHMEF1ZGU2VnI2NGxoMV8wdXRxM1lBazNpQkdfdGhQWVQySFNSQVpnNGlHdmdOWDFUR2F1LTVSa0NHSExPQmtIU1dXUkg4eVBZMlZjSmtrWGE1ZlZqeDUyUFRMNHJnUXVzalNoNXdHRkcwLVJjVU1YSWJmcG1UNEdEQQ?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9GNnFQZ2NGTXFqd3pZUXNPeF82Ni0xTTJ4WkFyMFcwNnA3bENocnRGcm93UC1iUkw3VkRqRkJnaEROc09jRXlvVmRxa0cwSVJ5VDVGMWZYTkMxcmItSGlaa0NRMTVTc2FqYVpKZVAycWE5YXI0YkQybUotZ0NnXzRCSnRSTklRWVNHcllJdEtUMkhHMWc?oc=5"
         }
       ],
       "id": "u-k-threatens-plain-packaging-for-cigars"
@@ -541,29 +549,6 @@
       "id": "casa-carrillo-announces-carrillo-cares-partnership"
     },
     {
-      "published_at": "2026-08-12T12:06:24+00:00",
-      "updated_at": "2026-08-12T12:06:24+00:00",
-      "title": "Le Club Fumoir: Alpine Elegance Meeting with The Cigar Culture",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
-    },
-    {
       "published_at": "2026-08-12T11:40:25+00:00",
       "updated_at": "2026-08-12T11:40:25+00:00",
       "title": "Cigar Regulations Update: Germany, UK and Spain",
@@ -608,6 +593,29 @@
       },
       "confirmed_by": [],
       "id": "pca-joins-costa-rica-s-cigar-festival-as-co-organizing-partner"
+    },
+    {
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "updated_at": "2026-08-12T07:00:00+00:00",
+      "title": "Le Club Fumoir: Alpine Elegance Meeting with The Cigar Culture",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
     },
     {
       "published_at": "2026-08-11T19:43:49+00:00",
