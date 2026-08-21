@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:46:27.440680+00:00",
+  "updated_at": "2026-08-21T11:39:13.935647+00:00",
   "items": [
     {
       "published_at": "2026-08-20T21:00:26+00:00",
@@ -654,29 +654,6 @@
       },
       "confirmed_by": [],
       "id": "domain-cigars-receives-2026-pia-midamerica-graphic-excellence-award-cigar-news"
-    },
-    {
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "updated_at": "2026-08-11T07:00:00+00:00",
-      "title": "El Titan De Bronze And General Cigar End Distribution Agreement",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0E4ZWRBcjJhbHpBUnV4S0lwM3ptbFRGLTk1MkptOUh3SzMzTU5lMmJELVc2bjNZeUZ1ZUoyT29TeHl5ekk3X3RheldGc0tzazFHU01MeGVWRTRQSmpZaGgxYk5qcFlidmpQWXF3YXN5cWxKejFlS2lpZjBkREkycDhjYXJIdk9kdnpBUDQybzR6OVo2b2V0VWlVU0ZxaWN4VDBEcA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "el-titan-de-bronze-and-general-cigar-end-distribution-agreement"
     }
   ]
 }
