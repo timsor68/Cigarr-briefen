@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T05:39:59.055115+00:00",
+  "updated_at": "2026-08-22T11:33:24.355400+00:00",
   "items": [
     {
       "published_at": "2026-08-21T20:01:33+00:00",
@@ -593,52 +593,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-regulations-update-germany-uk-and-spain"
-    },
-    {
-      "published_at": "2026-08-12T09:04:02+00:00",
-      "updated_at": "2026-08-12T09:04:02+00:00",
-      "title": "PCA Joins Costa Rica’s Cigar Festival as Co-Organizing Partner",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE5FcXZnTWNZdDJaTlJ6c2pnZExseFZvTTdrYjZTWHkwYzNPWmdLTm4wZ0ZqYjBSVDJ1UkJPVkZ6bS1PS1NlcXJOMEgwZDBwN29ZU21iNEw5WGpwQkNDUy1BTTVIWll3dWY2bFlyYWMzZkJSY2wxdW0wVDFtM0tZdEpkR1VUWklPcGdkSGJyMmljQ016T2c?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE5FcXZnTWNZdDJaTlJ6c2pnZExseFZvTTdrYjZTWHkwYzNPWmdLTm4wZ0ZqYjBSVDJ1UkJPVkZ6bS1PS1NlcXJOMEgwZDBwN29ZU21iNEw5WGpwQkNDUy1BTTVIWll3dWY2bFlyYWMzZkJSY2wxdW0wVDFtM0tZdEpkR1VUWklPcGdkSGJyMmljQ016T2c?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "pca-joins-costa-rica-s-cigar-festival-as-co-organizing-partner"
-    },
-    {
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "updated_at": "2026-08-12T07:00:00+00:00",
-      "title": "Le Club Fumoir: Alpine Elegance Meeting with The Cigar Culture",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkpvb1BTdG5Nc05iRHFUZ3Z4Ym5STnhIcVJFRlUzZU4yWldlb09USklwQzFPbnNRc1hlTVJmSFllcG9fT2dfSnlQbGEtQXVEQ1RlbmtfRFlhX1NIaWIyVUF5WnZOR2dCRmNJdWpfTGhnZmVBT2Z2LW1nNjI0TWpLcTZVRG8ySHRveUhIR1R4QzRpVlpnRnc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "le-club-fumoir-alpine-elegance-meeting-with-the-cigar-culture"
     }
   ]
 }
