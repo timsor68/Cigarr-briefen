@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-23T05:43:04.065573+00:00",
+  "updated_at": "2026-08-23T11:33:17.510749+00:00",
   "items": [
+    {
+      "published_at": "2026-08-23T10:57:21+00:00",
+      "updated_at": "2026-08-23T10:57:21+00:00",
+      "title": "Cohiba Atmosphere Tel Aviv",
+      "summary": "Cohiba Atmosphere TLV, located at The David Kempinski Tel Aviv, is Israel’s first destination created to embody the high standards of premium Cuban cigar culture and the country’s exclusive home for Cuban cigars",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/tel.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
+      },
+      "confirmed_by": [],
+      "id": "cohiba-atmosphere-tel-aviv"
+    },
     {
       "published_at": "2026-08-22T17:17:31+00:00",
       "updated_at": "2026-08-22T17:17:31+00:00",
@@ -147,19 +170,28 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/08/Camacho-Limited-Edition-2026-1.png",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/camacho-limited-edition-2026-coming-in-early-september/477115/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/camacho-limited-edition-2026-coming-in-early-september/477115/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
+        }
+      ],
       "id": "camacho-limited-edition-2026-coming-in-early-september"
     },
     {
