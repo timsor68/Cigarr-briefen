@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-08-26T19:17:13.253611+00:00",
+  "updated_at": "2026-08-27T16:29:07.142965+00:00",
   "items": [
+    {
+      "published_at": "2026-08-27T14:31:08+00:00",
+      "updated_at": "2026-08-27T14:31:08+00:00",
+      "title": "Maracana Robusto Extra",
+      "summary": "You asked Tim Ozgener to make a new CAO Brazilia, he did. As it turns out, it's also the first time that there's a My Father-made cigar with a Brazilian tobacco. The post Maracana Robusto Extra appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Maracana-Robusto-Extra-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/maracana-robusto-extra/477883/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/maracana-robusto-extra/477883/"
+      },
+      "confirmed_by": [],
+      "id": "maracana-robusto-extra"
+    },
+    {
+      "published_at": "2026-08-27T00:40:10+00:00",
+      "updated_at": "2026-08-27T00:40:10+00:00",
+      "title": "Los Amigos Cigars Making U.S. Debut Through Newly Launched Domain Distribution",
+      "summary": "Domain Distribution is exclusively for clients of Tabacalera Familia Disla S.A., the factory that makes Domain's cigars. After launching in 2024, Los Amigos Cigars will make its U.S. debut through the distribution agreement.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVdoSDBCcWVqSkZRVERKSWNVOXpvWWhHZkhlS3cxeUF0QXRzSnQ0TEI2Z1ZQcnIyclhMMFdMQ0NyMmdreXFrNVNSLXZnZF9PZS1icXRpZDlTa05fWDVKM0p6RTBJek9XemE2a2dfNGxQdExDNW1wSUFxemxZdzZkSWhNSnZTNnZwTjhQc2lmcVV0Z0t3LWw3MkVuYWpOSkpUZDBSZ0l5NTJkSFU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVdoSDBCcWVqSkZRVERKSWNVOXpvWWhHZkhlS3cxeUF0QXRzSnQ0TEI2Z1ZQcnIyclhMMFdMQ0NyMmdreXFrNVNSLXZnZF9PZS1icXRpZDlTa05fWDVKM0p6RTBJek9XemE2a2dfNGxQdExDNW1wSUFxemxZdzZkSWhNSnZTNnZwTjhQc2lmcVV0Z0t3LWw3MkVuYWpOSkpUZDBSZ0l5NTJkSFU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "los-amigos-cigars-making-u-s-debut-through-newly-launched-domain-distribution"
+    },
+    {
+      "published_at": "2026-08-26T21:18:38+00:00",
+      "updated_at": "2026-08-26T21:18:38+00:00",
+      "title": "Hiram & Solomon Ashlar",
+      "summary": "The limited edition blend was created to commemorate the company's 10th anniversary. It was supposed to come out last year, but a tragic accident delayed its release. The post Hiram & Solomon Ashlar appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Hiram-Solomon-Ashlar-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/hiram-solomon-ashlar/477873/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/hiram-solomon-ashlar/477873/"
+      },
+      "confirmed_by": [],
+      "id": "hiram-solomon-ashlar"
+    },
     {
       "published_at": "2026-08-26T19:00:53+00:00",
       "updated_at": "2026-08-26T19:00:53+00:00",
@@ -23,6 +92,29 @@
       },
       "confirmed_by": [],
       "id": "stg-slightly-down-in-q2-2026"
+    },
+    {
+      "published_at": "2026-08-26T13:51:49+00:00",
+      "updated_at": "2026-08-26T13:51:49+00:00",
+      "title": "Fuente Fuente OpusX ReXilient Shipping to Retailers | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTZKT2RuZm1kSGZfcDdsU0htYnVESERIdXRPSEZwVWctbkVQQ01CM1lrWmZwTmd0WF9JSkFaa1dieEtxcDgxQ0ZaVkVHOU05MDUyRlRRS0IwZWpZcU12cVk5dm8xWFpVY3dVeXdRTGhWWGZSZExiamtMZVBKdzVNcGNTSGVnbVpGZDJWbmJWbGl0TXhVZ3pZMUlKLTZfV1k?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTZKT2RuZm1kSGZfcDdsU0htYnVESERIdXRPSEZwVWctbkVQQ01CM1lrWmZwTmd0WF9JSkFaa1dieEtxcDgxQ0ZaVkVHOU05MDUyRlRRS0IwZWpZcU12cVk5dm8xWFpVY3dVeXdRTGhWWGZSZExiamtMZVBKdzVNcGNTSGVnbVpGZDJWbmJWbGl0TXhVZ3pZMUlKLTZfV1k?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "fuente-fuente-opusx-rexilient-shipping-to-retailers-cigar-news"
     },
     {
       "published_at": "2026-08-25T22:00:33+00:00",
@@ -195,42 +287,10 @@
       "id": "bocock-brothers-new-series-turns-college-football-stadiums-into-cigar-boxes"
     },
     {
-      "published_at": "2026-08-24T22:50:48+00:00",
-      "updated_at": "2026-08-24T22:50:48+00:00",
-      "title": "OpusX ReXilient, A 9/11 Commemorative Release, Shipping This Week",
-      "summary": "Inside each box are four box-pressed and flat-capped cigars that represent the Twin Towers. Arturo Fuente is donating $11 per box to Tunnels for Towers, a charity that provides housing assistance to disabled and fallen veterans and first responders. The post OpusX ReXilient, A 9/11 Commemorative Release, Shipping This Week appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Fuente-Fuente-OpusX-ReXilient-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/opusx-rexilient-a-9-11-commemorative-release-shipping-this-week/477777/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTZKT2RuZm1kSGZfcDdsU0htYnVESERIdXRPSEZwVWctbkVQQ01CM1lrWmZwTmd0WF9JSkFaa1dieEtxcDgxQ0ZaVkVHOU05MDUyRlRRS0IwZWpZcU12cVk5dm8xWFpVY3dVeXdRTGhWWGZSZExiamtMZVBKdzVNcGNTSGVnbVpGZDJWbmJWbGl0TXhVZ3pZMUlKLTZfV1k?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/opusx-rexilient-a-9-11-commemorative-release-shipping-this-week/477777/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTZKT2RuZm1kSGZfcDdsU0htYnVESERIdXRPSEZwVWctbkVQQ01CM1lrWmZwTmd0WF9JSkFaa1dieEtxcDgxQ0ZaVkVHOU05MDUyRlRRS0IwZWpZcU12cVk5dm8xWFpVY3dVeXdRTGhWWGZSZExiamtMZVBKdzVNcGNTSGVnbVpGZDJWbmJWbGl0TXhVZ3pZMUlKLTZfV1k?oc=5"
-        }
-      ],
-      "id": "opusx-rexilient-a-9-11-commemorative-release-shipping-this-week"
-    },
-    {
       "published_at": "2026-08-24T20:45:10+00:00",
       "updated_at": "2026-08-24T20:45:10+00:00",
       "title": "Study: Tobacco Companies Flooded FDA's Flavored Cigar, Menthol Cigarette Ban Comment Periods",
-      "summary": "Food & Drug Administration held comment periods for proposed bans on the sales of menthol cigarette and flavored cigars. Researchers looked at the 246,080 comments that were submitted and found that almost all of them were opposed to the bans but not much diversity within the content of the comments. The post Study: Tobacco Companies Flooded FDA’s Flavored Cigar, Menthol Cigarette Ban Comment Periods appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Reglering"
       ],
@@ -248,29 +308,6 @@
       },
       "confirmed_by": [],
       "id": "study-tobacco-companies-flooded-fda-s-flavored-cigar-menthol-cigarette-ban-comment-periods"
-    },
-    {
-      "published_at": "2026-08-24T18:37:27+00:00",
-      "updated_at": "2026-08-24T18:37:27+00:00",
-      "title": "Revamped StillWell Star Line On the Way to Retailers",
-      "summary": "There are now three different blends, each including the same two vitolas. All of the cigars have a sweetened cap. The post Revamped StillWell Star Line On the Way to Retailers appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/StillWell-Star-Revamp-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/revamped-stillwell-star-line-on-the-way-to-retailers/477748/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/revamped-stillwell-star-line-on-the-way-to-retailers/477748/"
-      },
-      "confirmed_by": [],
-      "id": "revamped-stillwell-star-line-on-the-way-to-retailers"
     },
     {
       "published_at": "2026-08-24T18:23:21+00:00",
@@ -387,29 +424,6 @@
       },
       "confirmed_by": [],
       "id": "cohiba-atmosphere-tel-aviv"
-    },
-    {
-      "published_at": "2026-08-22T17:22:20+00:00",
-      "updated_at": "2026-08-22T17:22:20+00:00",
-      "title": "Crux Marblehead Maduro Toro",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12R2pLMS1UandWTHZzbnc5cW9pRTNPdnZGNWU3ZnBHVHRLZXEzSmhJTDNxaU9UVHVqdlJhSTUxVDFUamRQVGZGMFFwLVYzSkF2QWpiMnAtUzdfTnRURFpoTUFNMXZkN0hu?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12R2pLMS1UandWTHZzbnc5cW9pRTNPdnZGNWU3ZnBHVHRLZXEzSmhJTDNxaU9UVHVqdlJhSTUxVDFUamRQVGZGMFFwLVYzSkF2QWpiMnAtUzdfTnRURFpoTUFNMXZkN0hu?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "crux-marblehead-maduro-toro"
     },
     {
       "published_at": "2026-08-22T12:44:55+00:00",
