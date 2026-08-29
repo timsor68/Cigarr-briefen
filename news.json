@@ -1,11 +1,34 @@
 {
-  "updated_at": "2026-08-28T17:25:25.600443+00:00",
+  "updated_at": "2026-08-29T11:39:04.926314+00:00",
   "items": [
     {
-      "published_at": "2026-08-28T15:43:49+00:00",
-      "updated_at": "2026-08-28T15:43:49+00:00",
-      "title": "Texas Tech Gets Second Bocock Brothers Cigar",
-      "summary": "Earlier this year, Bocock Brothers announced it had added Texas Tech to its list of collegiate cigar partners. The first Texas Tech cigar used a habano wrapper, the second one gets a Honduran maduro wrapper. The post Texas Tech Gets Second Bocock Brothers Cigar appeared first on halfwheel",
+      "published_at": "2026-08-28T22:55:44+00:00",
+      "updated_at": "2026-08-28T22:55:44+00:00",
+      "title": "Powstanie SBC 26 Ships",
+      "summary": "In 2016, Powstanie released the first SBC. Each release is dedicated to those who have helped the Szczepankewicz brothers in their journey in the cigar industry. The post Powstanie SBC 26 Ships appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Powstanie-SBC-26.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/powstanie-sbc-26-ships/478138/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/powstanie-sbc-26-ships/478138/"
+      },
+      "confirmed_by": [],
+      "id": "powstanie-sbc-26-ships"
+    },
+    {
+      "published_at": "2026-08-28T18:57:46+00:00",
+      "updated_at": "2026-08-28T18:57:46+00:00",
+      "title": "Ninth Circuit Denies Cigar Companies Appeal in California UTL Lawsuit",
+      "summary": "In April, the cigar industry and the California attorney general's office argued in front of a three-judge federal appeals panel. Despite some optimism coming out of the hearing, the industry did not win its bid for a prelmimarny injunction. The post Ninth Circuit Denies Cigar Companies Appeal in California UTL Lawsuit appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
@@ -14,14 +37,46 @@
       "sources": [
         {
           "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "ninth-circuit-denies-cigar-companies-appeal-in-california-utl-lawsuit"
+    },
+    {
+      "published_at": "2026-08-28T15:43:49+00:00",
+      "updated_at": "2026-08-28T15:43:49+00:00",
+      "title": "Texas Tech Gets Second Bocock Brothers Cigar",
+      "summary": "Earlier this year, Bocock Brothers announced it had added Texas Tech to its list of collegiate cigar partners. The first Texas Tech cigar used a habano wrapper, the second one gets a Honduran maduro wrapper. The post Texas Tech Gets Second Bocock Brothers Cigar appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxY2N2Mkx0MHk5aExTV1ROVHJheWtXT1JlXzluY3B3MjVzZ1hMajc2TjZTdWs4YV9WVmJSYXZfUDdqRWpIQ2Fxdy12QUw5T3BMeTN3alJDQXhPcGVzanpZTC1wMHcyelJmMGJ0UXNZR0R6Tkd6ckk5dWJGY3VOdzg?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmRaOGZnT0ZLQ1FSSXBITERKMjV4T0g0TTdwYUxQVlpDMzg1QnZFX3d4X0o1WklDakpTVzFTZTRKR2NPdUIwS2NLZmtOQUVSTmR6VmVkVDVWdmZpRUdNOFB6VmR4SXRrUW02Y2tTZzByX3I4MC1kcGhLampsd0RfdXhKc1M0ckxEMDJOa2pXUXFRYVk3dlZWeHRSQWZVQzBfb3pR?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxY2N2Mkx0MHk5aExTV1ROVHJheWtXT1JlXzluY3B3MjVzZ1hMajc2TjZTdWs4YV9WVmJSYXZfUDdqRWpIQ2Fxdy12QUw5T3BMeTN3alJDQXhPcGVzanpZTC1wMHcyelJmMGJ0UXNZR0R6Tkd6ckk5dWJGY3VOdzg?oc=5"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmRaOGZnT0ZLQ1FSSXBITERKMjV4T0g0TTdwYUxQVlpDMzg1QnZFX3d4X0o1WklDakpTVzFTZTRKR2NPdUIwS2NLZmtOQUVSTmR6VmVkVDVWdmZpRUdNOFB6VmR4SXRrUW02Y2tTZzByX3I4MC1kcGhLampsd0RfdXhKc1M0ckxEMDJOa2pXUXFRYVk3dlZWeHRSQWZVQzBfb3pR?oc=5"
+        }
+      ],
       "id": "texas-tech-gets-second-bocock-brothers-cigar"
     },
     {
@@ -209,8 +264,8 @@
       "id": "stg-slightly-down-in-q2-2026"
     },
     {
-      "published_at": "2026-08-26T13:51:49+00:00",
-      "updated_at": "2026-08-26T13:51:49+00:00",
+      "published_at": "2026-08-26T13:37:01+00:00",
+      "updated_at": "2026-08-26T13:37:01+00:00",
       "title": "Fuente Fuente OpusX ReXilient Shipping to Retailers | Cigar News",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -230,52 +285,6 @@
       },
       "confirmed_by": [],
       "id": "fuente-fuente-opusx-rexilient-shipping-to-retailers-cigar-news"
-    },
-    {
-      "published_at": "2026-08-25T22:00:33+00:00",
-      "updated_at": "2026-08-25T22:00:33+00:00",
-      "title": "Asylum 13 Signature Series by Tom Lazuka 46×6",
-      "summary": "Most cigar makers probably make cigars for themselves, beyond what they make for consumers. Sometimes, like in this case, they decide to release them. The post Asylum 13 Signature Series by Tom Lazuka 46×6 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Asylum-13-Signature-Series-by-Tom-Lazuka-Corona-Gorda-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/asylum-13-signature-series-by-tom-lazuka-46x6/477650/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/asylum-13-signature-series-by-tom-lazuka-46x6/477650/"
-      },
-      "confirmed_by": [],
-      "id": "asylum-13-signature-series-by-tom-lazuka-46-6"
-    },
-    {
-      "published_at": "2026-08-25T21:35:33+00:00",
-      "updated_at": "2026-08-25T21:35:33+00:00",
-      "title": "Apostate Death Mask Shipping in October | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0FlY0lNUkdtUW1GWUU2MVFSc0JwMXB1M0phS1JlMlNLcTk5dHd3b3RLTDdsUl85YzZZVG5qZWM5VnN3OTV0eVFoUmJhVERhQmxmNEhqRllvYi11eGs2LU5OSHZDSHJ0MWxhcWxPTEh2WGptUDFzN0dXNjQ1MmlSazFNMlhMTXF4Wlgyb3FoUQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0FlY0lNUkdtUW1GWUU2MVFSc0JwMXB1M0phS1JlMlNLcTk5dHd3b3RLTDdsUl85YzZZVG5qZWM5VnN3OTV0eVFoUmJhVERhQmxmNEhqRllvYi11eGs2LU5OSHZDSHJ0MWxhcWxPTEh2WGptUDFzN0dXNjQ1MmlSazFNMlhMTXF4Wlgyb3FoUQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "apostate-death-mask-shipping-in-october-cigar-news"
     },
     {
       "published_at": "2026-08-25T21:35:33+00:00",
@@ -299,6 +308,29 @@
       },
       "confirmed_by": [],
       "id": "tatuaje-old-man-and-the-c-monster-shipping-cigar-news"
+    },
+    {
+      "published_at": "2026-08-25T21:35:33+00:00",
+      "updated_at": "2026-08-25T21:35:33+00:00",
+      "title": "Apostate Death Mask Shipping in October | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0FlY0lNUkdtUW1GWUU2MVFSc0JwMXB1M0phS1JlMlNLcTk5dHd3b3RLTDdsUl85YzZZVG5qZWM5VnN3OTV0eVFoUmJhVERhQmxmNEhqRllvYi11eGs2LU5OSHZDSHJ0MWxhcWxPTEh2WGptUDFzN0dXNjQ1MmlSazFNMlhMTXF4Wlgyb3FoUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0FlY0lNUkdtUW1GWUU2MVFSc0JwMXB1M0phS1JlMlNLcTk5dHd3b3RLTDdsUl85YzZZVG5qZWM5VnN3OTV0eVFoUmJhVERhQmxmNEhqRllvYi11eGs2LU5OSHZDSHJ0MWxhcWxPTEh2WGptUDFzN0dXNjQ1MmlSazFNMlhMTXF4Wlgyb3FoUQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "apostate-death-mask-shipping-in-october-cigar-news"
     },
     {
       "published_at": "2026-08-25T19:48:46+00:00",
@@ -402,29 +434,6 @@
       "id": "bocock-brothers-new-series-turns-college-football-stadiums-into-cigar-boxes"
     },
     {
-      "published_at": "2026-08-24T20:45:10+00:00",
-      "updated_at": "2026-08-24T20:45:10+00:00",
-      "title": "Study: Tobacco Companies Flooded FDA's Flavored Cigar, Menthol Cigarette Ban Comment Periods",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazNfc19FZmpIenJYMmJHeVJfMjFid2t0VGFScEJzMDdUUnMxdGo1eV9pOHA0R2d3OUpiaVluS0FKM1hyT0szNV9kVUdfNGRJNFQ0NmxSeVpGQWs1QThwRC0yS2U3UWhjRmtVak9aMElmM1E0Z21oSk84bG5hMW9tQm5CZmMyMEwwRTgtOE9TSlA3bF9iMVZDMGRLTHlYR3NFdFRwamxMS3lxdEY1RDVBRDNuYURFYXR4RmtJ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazNfc19FZmpIenJYMmJHeVJfMjFid2t0VGFScEJzMDdUUnMxdGo1eV9pOHA0R2d3OUpiaVluS0FKM1hyT0szNV9kVUdfNGRJNFQ0NmxSeVpGQWs1QThwRC0yS2U3UWhjRmtVak9aMElmM1E0Z21oSk84bG5hMW9tQm5CZmMyMEwwRTgtOE9TSlA3bF9iMVZDMGRLTHlYR3NFdFRwamxMS3lxdEY1RDVBRDNuYURFYXR4RmtJ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "study-tobacco-companies-flooded-fda-s-flavored-cigar-menthol-cigarette-ban-comment-periods"
-    },
-    {
       "published_at": "2026-08-24T18:23:21+00:00",
       "updated_at": "2026-08-24T18:23:21+00:00",
       "title": "Tatiana Cappuccino and Amaretto Classic and Tin Offerings Shipped | Cigar New",
@@ -475,24 +484,70 @@
       "published_at": "2026-08-23T11:39:54+00:00",
       "updated_at": "2026-08-23T11:39:54+00:00",
       "title": "Leaf Cigar Emporium Opens Second New Jersey Location",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "summary": "At a time when more and more purchases happen with a click, a swipe, and a delivery notification, one New Jersey retailer is betting on something decidedly old-fashioned: face-to-face conversation",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/emporiu8m.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHZjaXE1VU1ybGJQZFk3cUVsOWZjUVAwNHZPR2Itd09Ldkw3R1UwYXVZc0FsUFhFLUFnTzFkendDc0lGWURieHdjZnBlZnN2Vm40a2VUY2hJNzNxX1BhdVdyOGVIaEZEWGVlVUpQWFhjOUJfX0pKaUpoVktEUGlvVnUtdmVtWjRhRUE?oc=5"
+          "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHZjaXE1VU1ybGJQZFk3cUVsOWZjUVAwNHZPR2Itd09Ldkw3R1UwYXVZc0FsUFhFLUFnTzFkendDc0lGWURieHdjZnBlZnN2Vm40a2VUY2hJNzNxX1BhdVdyOGVIaEZEWGVlVUpQWFhjOUJfX0pKaUpoVktEUGlvVnUtdmVtWjRhRUE?oc=5"
+        "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
       },
       "confirmed_by": [],
       "id": "leaf-cigar-emporium-opens-second-new-jersey-location"
+    },
+    {
+      "published_at": "2026-08-23T11:24:27+00:00",
+      "updated_at": "2026-08-23T11:24:27+00:00",
+      "title": "Camacho Cigars Launches the Limited Edition 2026",
+      "summary": "Camacho Cigars is proud to introduce the Camacho Limited Edition 2026, the second release in its Boldly Built by Masters series",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/camacho-1.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
+      },
+      "confirmed_by": [],
+      "id": "camacho-cigars-launches-the-limited-edition-2026"
+    },
+    {
+      "published_at": "2026-08-23T10:57:21+00:00",
+      "updated_at": "2026-08-23T10:57:21+00:00",
+      "title": "Cohiba Atmosphere Tel Aviv",
+      "summary": "Cohiba Atmosphere TLV, located at The David Kempinski Tel Aviv, is Israel’s first destination created to embody the high standards of premium Cuban cigar culture and the country’s exclusive home for Cuban cigars",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/tel.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
+      },
+      "confirmed_by": [],
+      "id": "cohiba-atmosphere-tel-aviv"
     },
     {
       "published_at": "2026-08-22T12:44:55+00:00",
@@ -586,29 +641,6 @@
       },
       "confirmed_by": [],
       "id": "analysis-brief-potential-sanctions-for-european-companies-within-the-habanos-network"
-    },
-    {
-      "published_at": "2026-08-18T22:10:14+00:00",
-      "updated_at": "2026-08-18T22:10:14+00:00",
-      "title": "Black Label Trading Company Eletto Short Robusto – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUltT0t0Z1A5V1otRkdnckp6ZXo2VjJoeEpOQ3pQUERXR05jQ3pONnVnR2xhaEFIaGRERk9VSzNoOEFhOHVCMHU4YUFxdzduTW4zTmdRS1VnRHQ4cl9WTUdtQ1B4dHZsVDRCUldiVnlXR2FROWo0NklwaVZiLTl2b3FwcXhrOFJEUVZLTW9Wem5jTndKdEoxdnJ0Yi1fQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUltT0t0Z1A5V1otRkdnckp6ZXo2VjJoeEpOQ3pQUERXR05jQ3pONnVnR2xhaEFIaGRERk9VSzNoOEFhOHVCMHU4YUFxdzduTW4zTmdRS1VnRHQ4cl9WTUdtQ1B4dHZsVDRCUldiVnlXR2FROWo0NklwaVZiLTl2b3FwcXhrOFJEUVZLTW9Wem5jTndKdEoxdnJ0Yi1fQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "black-label-trading-company-eletto-short-robusto-cigar-review"
     }
   ]
 }
