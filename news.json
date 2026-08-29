@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-08-29T11:39:04.926314+00:00",
+  "updated_at": "2026-08-29T19:43:26.452421+00:00",
   "items": [
+    {
+      "published_at": "2026-08-29T17:00:04+00:00",
+      "updated_at": "2026-08-29T17:00:04+00:00",
+      "title": "Viaje Honey Bale",
+      "summary": "Honey Bale is a new line from Viaje, debuting in June. It is named for bales of tobacco that produce high quality characteristics that set them apart from the others. The post Viaje Honey Bale appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Viaje-Honey-Bale-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/viaje-honey-bale/478042/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/viaje-honey-bale/478042/"
+      },
+      "confirmed_by": [],
+      "id": "viaje-honey-bale"
+    },
+    {
+      "published_at": "2026-08-29T12:17:44+00:00",
+      "updated_at": "2026-08-29T12:17:44+00:00",
+      "title": "Cigar Industry Report: Edition 704 (8/29/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWFCTHhNUGNWdHRkQU5EV2lBa05IMmFHcnI4Q3Q2RldZMmhTUDNnVEpLbzFOb2FRLUJxMjUwLXNRQVhCRmN4dGY5bFBTaHE1R0pkUlVFcHRqUUE1NUdtT1FsQmZRSDhqVXNFcEQ1aHFfd2RuVFdsRGQxc3hVejNhV1VxTQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWFCTHhNUGNWdHRkQU5EV2lBa05IMmFHcnI4Q3Q2RldZMmhTUDNnVEpLbzFOb2FRLUJxMjUwLXNRQVhCRmN4dGY5bFBTaHE1R0pkUlVFcHRqUUE1NUdtT1FsQmZRSDhqVXNFcEQ1aHFfd2RuVFdsRGQxc3hVejNhV1VxTQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-704-8-29-26"
+    },
     {
       "published_at": "2026-08-28T22:55:44+00:00",
       "updated_at": "2026-08-28T22:55:44+00:00",
@@ -37,12 +83,12 @@
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
       },
       "confirmed_by": [],
       "id": "ninth-circuit-denies-cigar-companies-appeal-in-california-utl-lawsuit"
@@ -550,29 +596,6 @@
       "id": "cohiba-atmosphere-tel-aviv"
     },
     {
-      "published_at": "2026-08-22T12:44:55+00:00",
-      "updated_at": "2026-08-22T12:44:55+00:00",
-      "title": "Cigar Industry Report: Edition 703 (8/22/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDFYMkRuYV9VNU00QVhYR1JreGlJOHVaZFMxeVVNb0ZIaUtqLXV2YUVTZDYwSUo0LUQ2WTlIcThxTVpodnBMNWlsVzgzTU9Ma1RYZDI5YXB5M0xuSUFabnpBNDhtMmRQNDVGMFRhMjBOV19FTURnWGlURjlYUkc1RXBkMA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDFYMkRuYV9VNU00QVhYR1JreGlJOHVaZFMxeVVNb0ZIaUtqLXV2YUVTZDYwSUo0LUQ2WTlIcThxTVpodnBMNWlsVzgzTU9Ma1RYZDI5YXB5M0xuSUFabnpBNDhtMmRQNDVGMFRhMjBOV19FTURnWGlURjlYUkc1RXBkMA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-703-8-22-26"
-    },
-    {
       "published_at": "2026-08-21T20:01:33+00:00",
       "updated_at": "2026-08-21T20:01:33+00:00",
       "title": "Honduran President Asfura Announces Cigar Festival, Scheduled for January 2027",
@@ -594,29 +617,6 @@
       },
       "confirmed_by": [],
       "id": "honduran-president-asfura-announces-cigar-festival-scheduled-for-january-2027"
-    },
-    {
-      "published_at": "2026-08-21T16:09:23+00:00",
-      "updated_at": "2026-08-21T16:09:23+00:00",
-      "title": "UK Seeks to Extend Plain Packaging to Cigars | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9GNnFQZ2NGTXFqd3pZUXNPeF82Ni0xTTJ4WkFyMFcwNnA3bENocnRGcm93UC1iUkw3VkRqRkJnaEROc09jRXlvVmRxa0cwSVJ5VDVGMWZYTkMxcmItSGlaa0NRMTVTc2FqYVpKZVAycWE5YXI0YkQybUotZ0NnXzRCSnRSTklRWVNHcllJdEtUMkhHMWc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9GNnFQZ2NGTXFqd3pZUXNPeF82Ni0xTTJ4WkFyMFcwNnA3bENocnRGcm93UC1iUkw3VkRqRkJnaEROc09jRXlvVmRxa0cwSVJ5VDVGMWZYTkMxcmItSGlaa0NRMTVTc2FqYVpKZVAycWE5YXI0YkQybUotZ0NnXzRCSnRSTklRWVNHcllJdEtUMkhHMWc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "uk-seeks-to-extend-plain-packaging-to-cigars-cigar-news"
     },
     {
       "published_at": "2026-08-20T12:25:08+00:00",
