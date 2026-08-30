@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-08-30T15:19:20.335313+00:00",
+  "updated_at": "2026-08-30T19:49:26.045770+00:00",
   "items": [
+    {
+      "published_at": "2026-08-30T19:07:41+00:00",
+      "updated_at": "2026-08-30T19:07:41+00:00",
+      "title": "Zino Honduras Robusto",
+      "summary": "This new line is a follow-up of sorts to Davidoff's Zino Nicaragua that debuted in 2021. Blend-wise, it is made with an Ecuadorian wrapper covering a blend of Honduran tobaccos from Copán and the Jamastrán Valley. The post Zino Honduras Robusto appeared first on halfwheel",
+      "category": [
+        "Honduras"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Zino-Honduras-Robusto-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/zino-honduras-robusto/478174/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/zino-honduras-robusto/478174/"
+      },
+      "confirmed_by": [],
+      "id": "zino-honduras-robusto"
+    },
+    {
+      "published_at": "2026-08-30T16:07:53+00:00",
+      "updated_at": "2026-08-30T16:07:53+00:00",
+      "title": "Avowed Hallowed Hands Box Pressed Robusto – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbThFc2gweUxQdklHNTdzeWhtZUdiNzdXZldVQ0tSX3l2NTRpU294N3J2WFAxelhiSDNaaVVWUnJPcGtwbTJGTGRDdS1vbGUwajdFR3NRSjZMRmRGaUZxaUhQNDhxNGRQZGtmb19wSHBvSnN2UjZsV08wX2Q1RUEzWFBxWmVid0M0c3lIeHBFUXp4OUlv?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbThFc2gweUxQdklHNTdzeWhtZUdiNzdXZldVQ0tSX3l2NTRpU294N3J2WFAxelhiSDNaaVVWUnJPcGtwbTJGTGRDdS1vbGUwajdFR3NRSjZMRmRGaUZxaUhQNDhxNGRQZGtmb19wSHBvSnN2UjZsV08wX2Q1RUEzWFBxWmVid0M0c3lIeHBFUXp4OUlv?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "avowed-hallowed-hands-box-pressed-robusto-cigar-review"
+    },
+    {
+      "published_at": "2026-08-30T15:57:33+00:00",
+      "updated_at": "2026-08-30T15:57:33+00:00",
+      "title": "Don Emmanuel Lands in Oman",
+      "summary": "The brand, which has its cigars made in the Dominican Republic, has been growing its international distribution footprint. Earlier this month, the cigars went on sale in Oman. The post Don Emmanuel Lands in Oman appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/03/Don-Emmanuel-Cigars-logo-white-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/don-emmanuel-lands-in-oman/478196/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/don-emmanuel-lands-in-oman/478196/"
+      },
+      "confirmed_by": [],
+      "id": "don-emmanuel-lands-in-oman"
+    },
     {
       "published_at": "2026-08-29T21:03:36+00:00",
       "updated_at": "2026-08-29T21:03:36+00:00",
@@ -290,7 +359,7 @@
       "published_at": "2026-08-27T00:40:10+00:00",
       "updated_at": "2026-08-27T00:40:10+00:00",
       "title": "Los Amigos Cigars Making U.S. Debut Through Newly Launched Domain Distribution",
-      "summary": "Domain Distribution is exclusively for clients of Tabacalera Familia Disla S.A., the factory that makes Domain's cigars. After launching in 2024, Los Amigos Cigars will make its U.S. debut through the distribution agreement.",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nya utgåvor"
       ],
@@ -308,29 +377,6 @@
       },
       "confirmed_by": [],
       "id": "los-amigos-cigars-making-u-s-debut-through-newly-launched-domain-distribution"
-    },
-    {
-      "published_at": "2026-08-26T21:18:38+00:00",
-      "updated_at": "2026-08-26T21:18:38+00:00",
-      "title": "Hiram & Solomon Ashlar",
-      "summary": "The limited edition blend was created to commemorate the company's 10th anniversary. It was supposed to come out last year, but a tragic accident delayed its release. The post Hiram & Solomon Ashlar appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Hiram-Solomon-Ashlar-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/hiram-solomon-ashlar/477873/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/hiram-solomon-ashlar/477873/"
-      },
-      "confirmed_by": [],
-      "id": "hiram-solomon-ashlar"
     },
     {
       "published_at": "2026-08-26T13:37:01+00:00",
