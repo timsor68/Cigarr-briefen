@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-29T19:43:26.452421+00:00",
+  "updated_at": "2026-08-30T10:28:27.792649+00:00",
   "items": [
+    {
+      "published_at": "2026-08-29T21:03:36+00:00",
+      "updated_at": "2026-08-29T21:03:36+00:00",
+      "title": "Eastern Standard Silk Road Returns as Smokingpipes Exclusive",
+      "summary": "Laudisi is keeping it in the family. Caldwell's Eastern Standard Lancero is back for a limited run, available exclusively at . The post Eastern Standard Silk Road Returns as Smokingpipes Exclusive appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Eastern-Standard-Silk-Road-2026-Feature.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/eastern-standard-silk-road-returns-as-smokingpipes-exclusive/478135/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/eastern-standard-silk-road-returns-as-smokingpipes-exclusive/478135/"
+      },
+      "confirmed_by": [],
+      "id": "eastern-standard-silk-road-returns-as-smokingpipes-exclusive"
+    },
     {
       "published_at": "2026-08-29T17:00:04+00:00",
       "updated_at": "2026-08-29T17:00:04+00:00",
@@ -287,29 +310,6 @@
       "id": "hiram-solomon-ashlar"
     },
     {
-      "published_at": "2026-08-26T19:00:53+00:00",
-      "updated_at": "2026-08-26T19:00:53+00:00",
-      "title": "STG Slightly Down in Q2 2026",
-      "summary": "While STG might be down overall, handmade cigar sales are slightly up. The company says it's sold around $240 million worth of cigars through the first six months of 2026. The post STG Slightly Down in Q2 2026 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/05/STG-Logo.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/stg-slightly-down-in-q2-2026/477956/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/stg-slightly-down-in-q2-2026/477956/"
-      },
-      "confirmed_by": [],
-      "id": "stg-slightly-down-in-q2-2026"
-    },
-    {
       "published_at": "2026-08-26T13:37:01+00:00",
       "updated_at": "2026-08-26T13:37:01+00:00",
       "title": "Fuente Fuente OpusX ReXilient Shipping to Retailers | Cigar News",
@@ -386,19 +386,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "Cigar Aficionado",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pMXhuRUw1NWZfQ0pqRWRoVDgxOVNJOUlMTHNDSFZ4dFVaTWNMakExMUQxYkIwNDN3ZXVOMDNTUEVuSmk1RGFTSkozdmtPeHQtSldBZEExWWhYMkt6Z3JPcFdJMDVBRkNuSHFMOTZXN0gyUllncHRzMXFTaWE?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDNaODZUVkNsNmxmUFliQTE3U1F3RVpJVzMtSDFCQ001T0c0Um01bHFleXdkbnVnN3VHNE4wcVY4dlN3N18ycmhVQjVnQTlCTklOSEFxQjlSTHJmakl5elhneUl6Z1BxQUdxOGpPeXljUGhUVzBISVdBcEdYbmdwXzQtQU5HVzkzTDg5NEc1SHhPMFR5YWdGb3o1QWktRW4yYXQteWVBR0lHWFNJeHhueVVaOW13Y0hRZlE?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pMXhuRUw1NWZfQ0pqRWRoVDgxOVNJOUlMTHNDSFZ4dFVaTWNMakExMUQxYkIwNDN3ZXVOMDNTUEVuSmk1RGFTSkozdmtPeHQtSldBZEExWWhYMkt6Z3JPcFdJMDVBRkNuSHFMOTZXN0gyUllncHRzMXFTaWE?oc=5"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDNaODZUVkNsNmxmUFliQTE3U1F3RVpJVzMtSDFCQ001T0c0Um01bHFleXdkbnVnN3VHNE4wcVY4dlN3N18ycmhVQjVnQTlCTklOSEFxQjlSTHJmakl5elhneUl6Z1BxQUdxOGpPeXljUGhUVzBISVdBcEdYbmdwXzQtQU5HVzkzTDg5NEc1SHhPMFR5YWdGb3o1QWktRW4yYXQteWVBR0lHWFNJeHhueVVaOW13Y0hRZlE?oc=5"
+        }
+      ],
       "id": "lsu-coach-o-stadium-series-cigars"
     },
     {
@@ -446,38 +455,6 @@
       },
       "confirmed_by": [],
       "id": "red-phone-booth-opens-durham-north-carolina-location-cigar-news"
-    },
-    {
-      "published_at": "2026-08-25T14:35:28+00:00",
-      "updated_at": "2026-08-25T14:35:28+00:00",
-      "title": "Bocock Brothers New Series Turns College Football Stadiums Into Cigar Boxes",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekdmSzNZUElielB0dXU2bWhlcDE0aDBUaG9hTlFpZm9mSWwxcTJ6SEhFNlF2VmVWQ3NYdkFURXVKOGY3bzZNTmVONzYtaS03YjY2clBtTGh3aWFjcWZ3OHFGTHlZU05rX3lOME1MT2ZRbW82R0xOVjBDdTc0NmhDUXZBbFpCY3ZqMHF2OXZVa0RGZ1d6T0phMk1qWnJXcVdkU3kwaDJXckE?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDNaODZUVkNsNmxmUFliQTE3U1F3RVpJVzMtSDFCQ001T0c0Um01bHFleXdkbnVnN3VHNE4wcVY4dlN3N18ycmhVQjVnQTlCTklOSEFxQjlSTHJmakl5elhneUl6Z1BxQUdxOGpPeXljUGhUVzBISVdBcEdYbmdwXzQtQU5HVzkzTDg5NEc1SHhPMFR5YWdGb3o1QWktRW4yYXQteWVBR0lHWFNJeHhueVVaOW13Y0hRZlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekdmSzNZUElielB0dXU2bWhlcDE0aDBUaG9hTlFpZm9mSWwxcTJ6SEhFNlF2VmVWQ3NYdkFURXVKOGY3bzZNTmVONzYtaS03YjY2clBtTGh3aWFjcWZ3OHFGTHlZU05rX3lOME1MT2ZRbW82R0xOVjBDdTc0NmhDUXZBbFpCY3ZqMHF2OXZVa0RGZ1d6T0phMk1qWnJXcVdkU3kwaDJXckE?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDNaODZUVkNsNmxmUFliQTE3U1F3RVpJVzMtSDFCQ001T0c0Um01bHFleXdkbnVnN3VHNE4wcVY4dlN3N18ycmhVQjVnQTlCTklOSEFxQjlSTHJmakl5elhneUl6Z1BxQUdxOGpPeXljUGhUVzBISVdBcEdYbmdwXzQtQU5HVzkzTDg5NEc1SHhPMFR5YWdGb3o1QWktRW4yYXQteWVBR0lHWFNJeHhueVVaOW13Y0hRZlE?oc=5"
-        }
-      ],
-      "id": "bocock-brothers-new-series-turns-college-football-stadiums-into-cigar-boxes"
     },
     {
       "published_at": "2026-08-24T18:23:21+00:00",
