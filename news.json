@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T10:28:27.792649+00:00",
+  "updated_at": "2026-08-30T15:19:20.335313+00:00",
   "items": [
     {
       "published_at": "2026-08-29T21:03:36+00:00",
@@ -69,6 +69,29 @@
       },
       "confirmed_by": [],
       "id": "cigar-industry-report-edition-704-8-29-26"
+    },
+    {
+      "published_at": "2026-08-29T03:37:43+00:00",
+      "updated_at": "2026-08-29T03:37:43+00:00",
+      "title": "Let’s Get Pairing Episode 94: Las 6 Provincias Miami by Espinosa Cigars",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUZKWDhXZXpGZU5PdGxoa2NxMHVBX2hQclNnenEzcVdSTXdXYUE3cEpBWldHN3BFNDFReW5Gdnc2ZUU0Z2xVTlVkdkVHdFAycVh3dnIySmhyb1VWb3RjLWdxb0szWWFZRV9kaEo1dmxNeE5UZzMwNmIwQ3FST19mcnlqZU8weUNZdllhNHRQQktrMEl3R1BhVVVJbGpfZXFXUElxbm41aG4?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUZKWDhXZXpGZU5PdGxoa2NxMHVBX2hQclNnenEzcVdSTXdXYUE3cEpBWldHN3BFNDFReW5Gdnc2ZUU0Z2xVTlVkdkVHdFAycVh3dnIySmhyb1VWb3RjLWdxb0szWWFZRV9kaEo1dmxNeE5UZzMwNmIwQ3FST19mcnlqZU8weUNZdllhNHRQQktrMEl3R1BhVVVJbGpfZXFXUElxbm41aG4?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "let-s-get-pairing-episode-94-las-6-provincias-miami-by-espinosa-cigars"
     },
     {
       "published_at": "2026-08-28T22:55:44+00:00",
@@ -594,30 +617,6 @@
       },
       "confirmed_by": [],
       "id": "honduran-president-asfura-announces-cigar-festival-scheduled-for-january-2027"
-    },
-    {
-      "published_at": "2026-08-20T12:25:08+00:00",
-      "updated_at": "2026-08-20T12:25:08+00:00",
-      "title": "Analysis Brief: Potential Sanctions for European Companies within the Habanos network",
-      "summary": "To make things easier for our readers, here is a detailed organizational chart in both image and text format, aiming to provide a better understanding of how the sanctions ripple through the various countries, jurisdictions, and companies within the Habanos Group that are—or could be—affected by the EU sanctions. This is far from a brilliant piece of writing or a captivating read, but it is highly informative for other journalists, cigar nerds, as well as retailers and end consumers in and around Europe who feel the need information—especially given that Habanos itself is not sharing very much. This is, of course, interesting from other perspectives as well.",
-      "category": [
-        "Sverige",
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Habanos_Nordic_Working_On_Something_Exiting_mini_c3fd40e5-4d5c-49e5-b3cd-5014f934aebe_1200x1200.png?v=1787228899",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/analysis-brief-potential-sanction-contagion-for-european-companies-within-the-habanos-network"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/analysis-brief-potential-sanction-contagion-for-european-companies-within-the-habanos-network"
-      },
-      "confirmed_by": [],
-      "id": "analysis-brief-potential-sanctions-for-european-companies-within-the-habanos-network"
     }
   ]
 }
