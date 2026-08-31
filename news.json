@@ -1,48 +1,117 @@
 {
-  "updated_at": "2026-08-31T11:34:38.705093+00:00",
+  "updated_at": "2026-08-31T21:53:32.491550+00:00",
   "items": [
     {
-      "published_at": "2026-08-31T09:20:36+00:00",
-      "updated_at": "2026-08-31T09:20:36+00:00",
-      "title": "Don Emmanuel Continues Global Expansion with Entry into Oman",
-      "summary": "Following Anunnaki's selection as a finalist for Best Dominican Cigar of 2026 at the Cigar Journal Cigar Trophy Awards, Don Emmanuel Cigars announces its expansion into Oman",
+      "published_at": "2026-08-31T21:43:21+00:00",
+      "updated_at": "2026-08-31T21:43:21+00:00",
+      "title": "Fuente Fuente OpusX 25 Aniversario El Tributo – Agile Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlktZHpVUUNIZjZQVzhqZEdXUm9pcV9peGU4VVpXWVdFeTM2WDNPSDItblB3MTVGLUIwbDV1a21ndGVQdVIwWmRtOUZtUmFMTTlwLVh2bDRFRk45OHQxY2VxbFhhdzFyaGFralN4MVVXVVljSjlPbHM5am4tTkYzLUVKX0dqZHg1ZkZBSGpaVWkyTHRESDFrRXJqX2NmMmw0Qnc?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlktZHpVUUNIZjZQVzhqZEdXUm9pcV9peGU4VVpXWVdFeTM2WDNPSDItblB3MTVGLUIwbDV1a21ndGVQdVIwWmRtOUZtUmFMTTlwLVh2bDRFRk45OHQxY2VxbFhhdzFyaGFralN4MVVXVVljSjlPbHM5am4tTkYzLUVKX0dqZHg1ZkZBSGpaVWkyTHRESDFrRXJqX2NmMmw0Qnc?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "fuente-fuente-opusx-25-aniversario-el-tributo-agile-cigar-review"
+    },
+    {
+      "published_at": "2026-08-31T20:50:28+00:00",
+      "updated_at": "2026-08-31T20:50:28+00:00",
+      "title": "Atlantic Celebrates 30th Anniversary With Exclusive HVC Hot Cake Fresh Out of the Oven Broadleaf",
+      "summary": "A few weeks ago, the HVC Hot Cake 10th anniversary cigar shipped nationwide. As it turns out, that's not the only new Hot Cake that's been released this month. The post Atlantic Celebrates 30th Anniversary With Exclusive HVC Hot Cake Fresh Out of the Oven Broadleaf appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/sun-moon.gif",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/HVC-Hot-Cake-Fresh-Out-of-the-Oven-Broadleaf-Atlantic-Cigar-30th-Anniversary-Feature.jpeg",
       "sources": [
         {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/atlantic-celebrates-30th-anniversary-with-exclusive-hvc-hot-cake-fresh-out-of-the-oven-broadleaf/478325/"
         }
       ],
       "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/atlantic-celebrates-30th-anniversary-with-exclusive-hvc-hot-cake-fresh-out-of-the-oven-broadleaf/478325/"
       },
       "confirmed_by": [],
-      "id": "don-emmanuel-continues-global-expansion-with-entry-into-oman"
+      "id": "atlantic-celebrates-30th-anniversary-with-exclusive-hvc-hot-cake-fresh-out-of-the-oven-bro"
+    },
+    {
+      "published_at": "2026-08-31T16:45:08+00:00",
+      "updated_at": "2026-08-31T16:45:08+00:00",
+      "title": "Altadis U.S.A. Goes to the Vault for Golden Four Event-Only Cigar Assortment",
+      "summary": "The new four-cigar, event-only sampler is said to contain unreleased blends. It will be available at select events beginning in September. Goes to the Vault for Golden Four Event-Only Cigar Assortment appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Altadis-U.S.A.-Golden-Four-Event-Only-Cigar-Assortment-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/altadis-u-s-a-goes-to-the-vault-for-golden-four-event-only-cigar-assortment/478284/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/altadis-u-s-a-goes-to-the-vault-for-golden-four-event-only-cigar-assortment/478284/"
+      },
+      "confirmed_by": [],
+      "id": "altadis-u-s-a-goes-to-the-vault-for-golden-four-event-only-cigar-assortment"
+    },
+    {
+      "published_at": "2026-08-31T15:45:16+00:00",
+      "updated_at": "2026-08-31T15:45:16+00:00",
+      "title": "Por Larrañaga 35 Aniversario Celebrates 5th Avenue Anniversary",
+      "summary": "The cigars celebrate the 35 anniversary of 5th Avenue Products Trading GmbH, the distributor of Habanos S.A. This release is the first time a German Edición Regional has been made in the 7 5/8 x 49 Prominentes vitola. The post Por Larrañaga 35 Aniversario Celebrates 5th Avenue Anniversary appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Por-Larranaga-35-Aniversario-Edicion-Regional-Alemania-Feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/por-larranaga-35-aniversario-celebrates-5th-avenue-anniversary/478261/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/por-larranaga-35-aniversario-celebrates-5th-avenue-anniversary/478261/"
+      },
+      "confirmed_by": [],
+      "id": "por-larra-aga-35-aniversario-celebrates-5th-avenue-anniversary"
     },
     {
       "published_at": "2026-08-31T08:16:02+00:00",
       "updated_at": "2026-08-31T08:16:02+00:00",
       "title": "Cavalier Genève Cigars Announces New Houston Based Warehouse",
-      "summary": "Cavalier Genève Cigars has announced today that its new Houston-based warehouse is operational and will be servicing the US market and its clients from there as of this week",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/cavalier-geneve.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cavalier-geneve-cigars-announces-new-houston-based-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=cavalier-geneve-cigars-announces-new-houston-based-warehouse"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cavalier-geneve-cigars-announces-new-houston-based-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=cavalier-geneve-cigars-announces-new-houston-based-warehouse"
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
       },
       "confirmed_by": [],
       "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
@@ -96,8 +165,8 @@
     {
       "published_at": "2026-08-30T15:57:33+00:00",
       "updated_at": "2026-08-30T15:57:33+00:00",
-      "title": "Don Emmanuel Lands in Oman",
-      "summary": "The brand, which has its cigars made in the Dominican Republic, has been growing its international distribution footprint. Earlier this month, the cigars went on sale in Oman. The post Don Emmanuel Lands in Oman appeared first on halfwheel",
+      "title": "Don Emmanuel Lands in Oman, Paraguay (Update)",
+      "summary": "The brand, which has its cigars made in the Dominican Republic, has been growing its international distribution footprint. Earlier this month, the cigars went on sale in Oman. The post Don Emmanuel Lands in Oman, Paraguay (Update) appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
@@ -114,7 +183,7 @@
         "url": "https://halfwheel.com/don-emmanuel-lands-in-oman/478196/"
       },
       "confirmed_by": [],
-      "id": "don-emmanuel-lands-in-oman"
+      "id": "don-emmanuel-lands-in-oman-paraguay-update"
     },
     {
       "published_at": "2026-08-29T21:03:36+00:00",
@@ -186,29 +255,6 @@
       "id": "cigar-industry-report-edition-704-8-29-26"
     },
     {
-      "published_at": "2026-08-29T03:37:43+00:00",
-      "updated_at": "2026-08-29T03:37:43+00:00",
-      "title": "Let’s Get Pairing Episode 94: Las 6 Provincias Miami by Espinosa Cigars",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUZKWDhXZXpGZU5PdGxoa2NxMHVBX2hQclNnenEzcVdSTXdXYUE3cEpBWldHN3BFNDFReW5Gdnc2ZUU0Z2xVTlVkdkVHdFAycVh3dnIySmhyb1VWb3RjLWdxb0szWWFZRV9kaEo1dmxNeE5UZzMwNmIwQ3FST19mcnlqZU8weUNZdllhNHRQQktrMEl3R1BhVVVJbGpfZXFXUElxbm41aG4?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUZKWDhXZXpGZU5PdGxoa2NxMHVBX2hQclNnenEzcVdSTXdXYUE3cEpBWldHN3BFNDFReW5Gdnc2ZUU0Z2xVTlVkdkVHdFAycVh3dnIySmhyb1VWb3RjLWdxb0szWWFZRV9kaEo1dmxNeE5UZzMwNmIwQ3FST19mcnlqZU8weUNZdllhNHRQQktrMEl3R1BhVVVJbGpfZXFXUElxbm41aG4?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "let-s-get-pairing-episode-94-las-6-provincias-miami-by-espinosa-cigars"
-    },
-    {
       "published_at": "2026-08-28T22:55:44+00:00",
       "updated_at": "2026-08-28T22:55:44+00:00",
       "title": "Powstanie SBC 26 Ships",
@@ -235,7 +281,7 @@
       "published_at": "2026-08-28T18:57:46+00:00",
       "updated_at": "2026-08-28T18:57:46+00:00",
       "title": "Ninth Circuit Denies Cigar Companies’ Appeal in California UTL Lawsuit",
-      "summary": "In April, the cigar industry and the California attorney general's office argued in front of a three-judge federal appeals panel. Despite some optimism coming out of the hearing, the industry did not win its bid for a prelmimarny injunction. The post Ninth Circuit Denies Cigar Companies’ Appeal in California UTL Lawsuit appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -258,7 +304,7 @@
       "published_at": "2026-08-28T15:43:49+00:00",
       "updated_at": "2026-08-28T15:43:49+00:00",
       "title": "Texas Tech Gets Second Bocock Brothers Cigar",
-      "summary": "Earlier this year, Bocock Brothers announced it had added Texas Tech to its list of collegiate cigar partners. The first Texas Tech cigar used a habano wrapper, the second one gets a Honduran maduro wrapper. The post Texas Tech Gets Second Bocock Brothers Cigar appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -331,52 +377,6 @@
       },
       "confirmed_by": [],
       "id": "rocky-patel-royal-guard-cigar-review"
-    },
-    {
-      "published_at": "2026-08-27T18:46:37+00:00",
-      "updated_at": "2026-08-27T18:46:37+00:00",
-      "title": "Escobar Cigars Ships Nasty Esco",
-      "summary": "After giving its new Nasty Esco line a soft launch earlier this summer, Escobar Cigars has begun shipping the cigars to retailers across the country.... The post Escobar Cigars Ships Nasty Esco appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Escobar-Cigars-Nasty-Esco-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/escobar-cigars-ships-nasty-esco/478048/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/escobar-cigars-ships-nasty-esco/478048/"
-      },
-      "confirmed_by": [],
-      "id": "escobar-cigars-ships-nasty-esco"
-    },
-    {
-      "published_at": "2026-08-27T17:35:02+00:00",
-      "updated_at": "2026-08-27T17:35:02+00:00",
-      "title": "Two New Independence Cigars Shipping Next Week",
-      "summary": "The Independence Robusto and Toro are slated to ship to stores on Tuesday, Sept. If that looks familiar, it's because United released an Independence Firecracker earlier this summer. The post Two New Independence Cigars Shipping Next Week appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/07/Independence-Robusto-Toro-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/two-new-independence-cigars-shipping-next-week/478035/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/two-new-independence-cigars-shipping-next-week/478035/"
-      },
-      "confirmed_by": [],
-      "id": "two-new-independence-cigars-shipping-next-week"
     },
     {
       "published_at": "2026-08-27T14:35:13+00:00",
@@ -622,93 +622,24 @@
       "published_at": "2026-08-23T11:39:54+00:00",
       "updated_at": "2026-08-23T11:39:54+00:00",
       "title": "Leaf Cigar Emporium Opens Second New Jersey Location",
-      "summary": "At a time when more and more purchases happen with a click, a swipe, and a delivery notification, one New Jersey retailer is betting on something decidedly old-fashioned: face-to-face conversation",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
       "category": [
         "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/emporiu8m.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
-      },
-      "confirmed_by": [],
-      "id": "leaf-cigar-emporium-opens-second-new-jersey-location"
-    },
-    {
-      "published_at": "2026-08-23T11:24:27+00:00",
-      "updated_at": "2026-08-23T11:24:27+00:00",
-      "title": "Camacho Cigars Launches the Limited Edition 2026",
-      "summary": "Camacho Cigars is proud to introduce the Camacho Limited Edition 2026, the second release in its Boldly Built by Masters series",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/camacho-1.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
-      },
-      "confirmed_by": [],
-      "id": "camacho-cigars-launches-the-limited-edition-2026"
-    },
-    {
-      "published_at": "2026-08-23T10:57:21+00:00",
-      "updated_at": "2026-08-23T10:57:21+00:00",
-      "title": "Cohiba Atmosphere Tel Aviv",
-      "summary": "Cohiba Atmosphere TLV, located at The David Kempinski Tel Aviv, is Israel’s first destination created to embody the high standards of premium Cuban cigar culture and the country’s exclusive home for Cuban cigars",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/tel.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cohiba-atmosphere-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=cohiba-atmosphere-tel-aviv"
-      },
-      "confirmed_by": [],
-      "id": "cohiba-atmosphere-tel-aviv"
-    },
-    {
-      "published_at": "2026-08-21T20:01:33+00:00",
-      "updated_at": "2026-08-21T20:01:33+00:00",
-      "title": "Honduran President Asfura Announces Cigar Festival, Scheduled for January 2027",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Event"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU9vQk5oaFBZZlo5Yk95ZkE5cG9RLVRFUXVzZTIwTnAtdmRfVTJtNEhNX2RXcm83clo0UzVuRjRUYkhVX29RZW9FSG00czZ0cGYyMFBhYW5icHJIWEx3UXc5dldHSFVyZE9Yeng5UWhGRkVTeUJxNDNMVGtEMi13WkplUXZqYmppODB4dzRHQUpKanZud05FVmFpZ3I4MU5CVnd1VC05NXFXQ0E?oc=5"
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHZjaXE1VU1ybGJQZFk3cUVsOWZjUVAwNHZPR2Itd09Ldkw3R1UwYXVZc0FsUFhFLUFnTzFkendDc0lGWURieHdjZnBlZnN2Vm40a2VUY2hJNzNxX1BhdVdyOGVIaEZEWGVlVUpQWFhjOUJfX0pKaUpoVktEUGlvVnUtdmVtWjRhRUE?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU9vQk5oaFBZZlo5Yk95ZkE5cG9RLVRFUXVzZTIwTnAtdmRfVTJtNEhNX2RXcm83clo0UzVuRjRUYkhVX29RZW9FSG00czZ0cGYyMFBhYW5icHJIWEx3UXc5dldHSFVyZE9Yeng5UWhGRkVTeUJxNDNMVGtEMi13WkplUXZqYmppODB4dzRHQUpKanZud05FVmFpZ3I4MU5CVnd1VC05NXFXQ0E?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHZjaXE1VU1ybGJQZFk3cUVsOWZjUVAwNHZPR2Itd09Ldkw3R1UwYXVZc0FsUFhFLUFnTzFkendDc0lGWURieHdjZnBlZnN2Vm40a2VUY2hJNzNxX1BhdVdyOGVIaEZEWGVlVUpQWFhjOUJfX0pKaUpoVktEUGlvVnUtdmVtWjRhRUE?oc=5"
       },
       "confirmed_by": [],
-      "id": "honduran-president-asfura-announces-cigar-festival-scheduled-for-january-2027"
+      "id": "leaf-cigar-emporium-opens-second-new-jersey-location"
     }
   ]
 }
