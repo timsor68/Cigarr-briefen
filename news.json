@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-09-01T15:27:27.774725+00:00",
+  "updated_at": "2026-09-01T19:55:41.989224+00:00",
   "items": [
+    {
+      "published_at": "2026-09-01T18:20:28+00:00",
+      "updated_at": "2026-09-01T18:20:28+00:00",
+      "title": "Oscar Valladares Begins Shipping Colaboraciones",
+      "summary": "Oscar Valladares Tobacco & Co. has teamed up with Casa Carrillo and Oliva Cigar Co. for this new limited edition release.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Oscar-Valladares-Colaboraciones-open-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/oscar-valladares-begins-shipping-colaboraciones/478342/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/oscar-valladares-begins-shipping-colaboraciones/478342/"
+      },
+      "confirmed_by": [],
+      "id": "oscar-valladares-begins-shipping-colaboraciones"
+    },
+    {
+      "published_at": "2026-09-01T17:19:50+00:00",
+      "updated_at": "2026-09-01T17:19:50+00:00",
+      "title": "Espinosa Begins Shipping Laranja Hybrid",
+      "summary": "Espinosa Premium Cigars has begun shipping its new Laranja Hybrid line. The new blend uses an Ecuadorian habano oscuro wrapper, a Nicaraguan binder, and Brazilian... The post Espinosa Begins Shipping Laranja Hybrid appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Espinosa-Laranja-Hybrid.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/espinosa-begins-shipping-laranja-hybrid/478408/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/espinosa-begins-shipping-laranja-hybrid/478408/"
+      },
+      "confirmed_by": [],
+      "id": "espinosa-begins-shipping-laranja-hybrid"
+    },
+    {
+      "published_at": "2026-09-01T16:28:09+00:00",
+      "updated_at": "2026-09-01T16:28:09+00:00",
+      "title": "Prime Time Special Edition 195: Cigar Company Power Rankings – 2026 Edition",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYy1YNGV2b2dPZVFwNDV2bFhlRjRpb0d3U1dxUUVUZm9ZRy1aVGF4NlFMemhCc0ZqYXpGeEhXRkVoZjQzbnQtWEk1cEtpRDlqZU9rQ28wZGh1c2dONkJBM1RTYXhyNEkxYnRTMlY4OVdXRzJ6WEpRZnFBZkRXLV8wLUQ3eHpLQ0Y0eDAwMXBXNWkyM2dUT3kyRnFselBkSVBTcFhBQVMtY0FVb0Fx?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYy1YNGV2b2dPZVFwNDV2bFhlRjRpb0d3U1dxUUVUZm9ZRy1aVGF4NlFMemhCc0ZqYXpGeEhXRkVoZjQzbnQtWEk1cEtpRDlqZU9rQ28wZGh1c2dONkJBM1RTYXhyNEkxYnRTMlY4OVdXRzJ6WEpRZnFBZkRXLV8wLUQ3eHpLQ0Y0eDAwMXBXNWkyM2dUT3kyRnFselBkSVBTcFhBQVMtY0FVb0Fx?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "prime-time-special-edition-195-cigar-company-power-rankings-2026-edition"
+    },
+    {
+      "published_at": "2026-09-01T16:19:13+00:00",
+      "updated_at": "2026-09-01T16:19:13+00:00",
+      "title": "Outcast Cigarillo Tins Head to Stores",
+      "summary": "While the brand has previously released more standard-size cigars, this new cigarillo is designed for when time is tight, or a bigger cigar isn't warranted. It's \"built for how people actually live and smoke today,\" according to Jason Wood, vp of sales and marketing for Miami Cigar & Co. The post Outcast Cigarillo Tins Head to Stores appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Outcast-Cigarillo-Open-Tin-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/outcast-cigarillo-tins-head-to-stores/477789/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/outcast-cigarillo-tins-head-to-stores/477789/"
+      },
+      "confirmed_by": [],
+      "id": "outcast-cigarillo-tins-head-to-stores"
+    },
     {
       "published_at": "2026-09-01T13:26:24+00:00",
       "updated_at": "2026-09-01T13:26:24+00:00",
@@ -186,29 +278,6 @@
       "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
     },
     {
-      "published_at": "2026-08-30T19:07:41+00:00",
-      "updated_at": "2026-08-30T19:07:41+00:00",
-      "title": "Zino Honduras Robusto",
-      "summary": "This new line is a follow-up of sorts to Davidoff's Zino Nicaragua that debuted in 2021. Blend-wise, it is made with an Ecuadorian wrapper covering a blend of Honduran tobaccos from Copán and the Jamastrán Valley. The post Zino Honduras Robusto appeared first on halfwheel",
-      "category": [
-        "Honduras"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Zino-Honduras-Robusto-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/zino-honduras-robusto/478174/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/zino-honduras-robusto/478174/"
-      },
-      "confirmed_by": [],
-      "id": "zino-honduras-robusto"
-    },
-    {
       "published_at": "2026-08-30T16:07:53+00:00",
       "updated_at": "2026-08-30T16:07:53+00:00",
       "title": "Avowed Hallowed Hands Box Pressed Robusto – Cigar Review",
@@ -230,52 +299,6 @@
       },
       "confirmed_by": [],
       "id": "avowed-hallowed-hands-box-pressed-robusto-cigar-review"
-    },
-    {
-      "published_at": "2026-08-30T15:57:33+00:00",
-      "updated_at": "2026-08-30T15:57:33+00:00",
-      "title": "Don Emmanuel Lands in Oman, Paraguay (Update)",
-      "summary": "The brand, which has its cigars made in the Dominican Republic, has been growing its international distribution footprint. Earlier this month, the cigars went on sale in Oman. The post Don Emmanuel Lands in Oman, Paraguay (Update) appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/03/Don-Emmanuel-Cigars-logo-white-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/don-emmanuel-lands-in-oman/478196/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/don-emmanuel-lands-in-oman/478196/"
-      },
-      "confirmed_by": [],
-      "id": "don-emmanuel-lands-in-oman-paraguay-update"
-    },
-    {
-      "published_at": "2026-08-29T21:03:36+00:00",
-      "updated_at": "2026-08-29T21:03:36+00:00",
-      "title": "Eastern Standard Silk Road Returns as Smokingpipes Exclusive",
-      "summary": "Laudisi is keeping it in the family. Caldwell's Eastern Standard Lancero is back for a limited run, available exclusively at . The post Eastern Standard Silk Road Returns as Smokingpipes Exclusive appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Eastern-Standard-Silk-Road-2026-Feature.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/eastern-standard-silk-road-returns-as-smokingpipes-exclusive/478135/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/eastern-standard-silk-road-returns-as-smokingpipes-exclusive/478135/"
-      },
-      "confirmed_by": [],
-      "id": "eastern-standard-silk-road-returns-as-smokingpipes-exclusive"
     },
     {
       "published_at": "2026-08-29T12:17:44+00:00",
@@ -324,8 +347,8 @@
       "id": "ninth-circuit-denies-cigar-companies-appeal-in-california-utl-lawsuit"
     },
     {
-      "published_at": "2026-08-28T15:43:49+00:00",
-      "updated_at": "2026-08-28T15:43:49+00:00",
+      "published_at": "2026-08-28T15:44:15+00:00",
+      "updated_at": "2026-08-28T15:44:15+00:00",
       "title": "Texas Tech Gets Second Bocock Brothers Cigar",
       "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
