@@ -1,28 +1,51 @@
 {
-  "updated_at": "2026-09-01T10:03:40.061303+00:00",
+  "updated_at": "2026-09-01T15:27:27.774725+00:00",
   "items": [
     {
-      "published_at": "2026-09-01T01:37:55+00:00",
-      "updated_at": "2026-09-01T01:37:55+00:00",
-      "title": "Fuente Fuente OpusX 25 Aniversario El Tributo – Agile Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-09-01T13:26:24+00:00",
+      "updated_at": "2026-09-01T13:26:24+00:00",
+      "title": "Savile Noir: Eliminating Lingering Cigar Smoke From Garments",
+      "summary": "With the product removing cigar smoke from garments, Shane drew inspiration from Savile Row in the naming of Savile Noir, and after six months of trials, Savile Noir was launched at Western Australia’s inaugural Festival of the Leaf",
       "category": [
-        "Test & betyg"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/Unbenannt-1.jpg",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlktZHpVUUNIZjZQVzhqZEdXUm9pcV9peGU4VVpXWVdFeTM2WDNPSDItblB3MTVGLUIwbDV1a21ndGVQdVIwWmRtOUZtUmFMTTlwLVh2bDRFRk45OHQxY2VxbFhhdzFyaGFralN4MVVXVVljSjlPbHM5am4tTkYzLUVKX0dqZHg1ZkZBSGpaVWkyTHRESDFrRXJqX2NmMmw0Qnc?oc=5"
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlktZHpVUUNIZjZQVzhqZEdXUm9pcV9peGU4VVpXWVdFeTM2WDNPSDItblB3MTVGLUIwbDV1a21ndGVQdVIwWmRtOUZtUmFMTTlwLVh2bDRFRk45OHQxY2VxbFhhdzFyaGFralN4MVVXVVljSjlPbHM5am4tTkYzLUVKX0dqZHg1ZkZBSGpaVWkyTHRESDFrRXJqX2NmMmw0Qnc?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
       },
       "confirmed_by": [],
-      "id": "fuente-fuente-opusx-25-aniversario-el-tributo-agile-cigar-review"
+      "id": "savile-noir-eliminating-lingering-cigar-smoke-from-garments"
+    },
+    {
+      "published_at": "2026-09-01T13:21:33+00:00",
+      "updated_at": "2026-09-01T13:21:33+00:00",
+      "title": "Indonesian Cigar For the World by Yadie Dayana",
+      "summary": "Yadie Dayana who owns Dayana Cigar Lounge and Dayana Cigars, has captured the Indonesian cigar story through his book Indonesian Cigar For The World",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/‌Indonesia-Cigar-For-The-World-Yadie-Dayana.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
+      },
+      "confirmed_by": [],
+      "id": "indonesian-cigar-for-the-world-by-yadie-dayana"
     },
     {
       "published_at": "2026-08-31T23:19:45+00:00",
@@ -253,29 +276,6 @@
       },
       "confirmed_by": [],
       "id": "eastern-standard-silk-road-returns-as-smokingpipes-exclusive"
-    },
-    {
-      "published_at": "2026-08-29T17:00:04+00:00",
-      "updated_at": "2026-08-29T17:00:04+00:00",
-      "title": "Viaje Honey Bale",
-      "summary": "Honey Bale is a new line from Viaje, debuting in June. It is named for bales of tobacco that produce high quality characteristics that set them apart from the others. The post Viaje Honey Bale appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Viaje-Honey-Bale-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/viaje-honey-bale/478042/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/viaje-honey-bale/478042/"
-      },
-      "confirmed_by": [],
-      "id": "viaje-honey-bale"
     },
     {
       "published_at": "2026-08-29T12:17:44+00:00",
