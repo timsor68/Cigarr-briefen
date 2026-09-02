@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-02T09:35:03.628904+00:00",
+  "updated_at": "2026-09-02T15:05:17.054984+00:00",
   "items": [
+    {
+      "published_at": "2026-09-02T11:36:01+00:00",
+      "updated_at": "2026-09-02T11:36:01+00:00",
+      "title": "Oliva Cigar Evening in Bratislava",
+      "summary": "Dom Cigar invites you to their next cigar event. Oliva cigar evening will take place on Tuesday, 08.09.2025 at 18:00 in Tryskac pub at Padlých Hrdinov 71 in Bratislava on the covered terrace",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/oliva.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/?utm_source=rss&utm_medium=rss&utm_campaign=oliva-cigar-evening-in-bratislava"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/?utm_source=rss&utm_medium=rss&utm_campaign=oliva-cigar-evening-in-bratislava"
+      },
+      "confirmed_by": [],
+      "id": "oliva-cigar-evening-in-bratislava"
+    },
     {
       "published_at": "2026-09-02T08:34:35+00:00",
       "updated_at": "2026-09-02T08:34:35+00:00",
@@ -23,29 +46,6 @@
       },
       "confirmed_by": [],
       "id": "quality-importers-announces-price-reductions-on-xikar-accessories"
-    },
-    {
-      "published_at": "2026-09-02T00:22:55+00:00",
-      "updated_at": "2026-09-02T00:22:55+00:00",
-      "title": "Mitchell Orchant Moves Into Brand Ambassador Role at Dominique London | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnphVzZlRkVrbFpjMEFwZ21MRlpWMzl0VERvdVFpbXc5RW5RdThrelBZNW52bVVpTmJ4QTZXVjBWYm1WZmxKLTdzaW5aV1Raam1YckhXX29Sb2pKdklJajVHQWRPNkFwNFZfQzVUUzJhU2ZxWkNtSVk0UlJCaXBxR2VXTldYUm1Xa2ozZzlQU09mSjRsWlNHbzBnU2lNaUVQZjAxX3RXVHVDLXFhaHYxLVh4RXE4UDA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnphVzZlRkVrbFpjMEFwZ21MRlpWMzl0VERvdVFpbXc5RW5RdThrelBZNW52bVVpTmJ4QTZXVjBWYm1WZmxKLTdzaW5aV1Raam1YckhXX29Sb2pKdklJajVHQWRPNkFwNFZfQzVUUzJhU2ZxWkNtSVk0UlJCaXBxR2VXTldYUm1Xa2ozZzlQU09mSjRsWlNHbzBnU2lNaUVQZjAxX3RXVHVDLXFhaHYxLVh4RXE4UDA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
     },
     {
       "published_at": "2026-09-01T21:30:33+00:00",
@@ -349,7 +349,7 @@
     {
       "published_at": "2026-08-28T18:57:46+00:00",
       "updated_at": "2026-08-28T18:57:46+00:00",
-      "title": "Ninth Circuit Denies Cigar Companies’ Appeal in California UTL Lawsuit",
+      "title": "Ninth Circuit Denies Cigar Companies Appeal in California UTL Lawsuit",
       "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
@@ -359,12 +359,12 @@
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxblAzVnJtMndiTVZEbW9DcFZjTmE1a2hqdTl0V2ZSZl81YWJENmtCR3VXMV80S1J1Umo5RlNDMU9SZmlHQ3c?oc=5"
       },
       "confirmed_by": [],
       "id": "ninth-circuit-denies-cigar-companies-appeal-in-california-utl-lawsuit"
@@ -621,52 +621,6 @@
       },
       "confirmed_by": [],
       "id": "tatiana-cappuccino-and-amaretto-classic-and-tin-offerings-shipped-cigar-new"
-    },
-    {
-      "published_at": "2026-08-23T11:39:54+00:00",
-      "updated_at": "2026-08-23T11:39:54+00:00",
-      "title": "Leaf Cigar Emporium Opens Second New Jersey Location",
-      "summary": "At a time when more and more purchases happen with a click, a swipe, and a delivery notification, one New Jersey retailer is betting on something decidedly old-fashioned: face-to-face conversation",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/emporiu8m.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/leaf-cigar-emporium-opens-second-new-jersey-location/?utm_source=rss&utm_medium=rss&utm_campaign=leaf-cigar-emporium-opens-second-new-jersey-location"
-      },
-      "confirmed_by": [],
-      "id": "leaf-cigar-emporium-opens-second-new-jersey-location"
-    },
-    {
-      "published_at": "2026-08-23T11:24:27+00:00",
-      "updated_at": "2026-08-23T11:24:27+00:00",
-      "title": "Camacho Cigars Launches the Limited Edition 2026",
-      "summary": "Camacho Cigars is proud to introduce the Camacho Limited Edition 2026, the second release in its Boldly Built by Masters series",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/camacho-1.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/camacho-cigars-launches-the-limited-edition-2026/?utm_source=rss&utm_medium=rss&utm_campaign=camacho-cigars-launches-the-limited-edition-2026"
-      },
-      "confirmed_by": [],
-      "id": "camacho-cigars-launches-the-limited-edition-2026"
     }
   ]
 }
