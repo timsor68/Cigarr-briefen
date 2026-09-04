@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-04T09:36:32.349864+00:00",
+  "updated_at": "2026-09-04T14:56:26.256282+00:00",
   "items": [
+    {
+      "published_at": "2026-09-04T14:30:51+00:00",
+      "updated_at": "2026-09-04T14:30:51+00:00",
+      "title": "Ramón Allones Carlemany Gones on Sale in Andorra",
+      "summary": "The new cigar honors Charlemagne, the Roman emperor. Unlike seemingly every other Edición Regional release these days, it only has two bands. The post Ramón Allones Carlemany Gones on Sale in Andorra appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Ramon-Allones-Carlemany-Edicion-Regional-Andorra-2025-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/ramon-allones-carlemany-gones-on-sale-in-andorra/478741/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/ramon-allones-carlemany-gones-on-sale-in-andorra/478741/"
+      },
+      "confirmed_by": [],
+      "id": "ram-n-allones-carlemany-gones-on-sale-in-andorra"
+    },
     {
       "published_at": "2026-09-03T23:30:10+00:00",
       "updated_at": "2026-09-03T23:30:10+00:00",
@@ -46,6 +69,29 @@
       },
       "confirmed_by": [],
       "id": "perdomo-shifts-30th-anniversary-to-20-count-boxes"
+    },
+    {
+      "published_at": "2026-09-03T15:32:22+00:00",
+      "updated_at": "2026-09-03T15:32:22+00:00",
+      "title": "Texas Tech Gets Cigar Line Honoring Football And West Texas",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHk2SThGMUlaTXVmeDNaM2VOQ255YmNGUzJPc3lUZDczQkowOVMxaUwyUVpPUVFtZlBaLTJybUVDQnY5cm5MUEdheTY2X3ljV0RtZlhQTzBJNkpkRl9POWpYMUFtZm1vSnlUX3MyRlJleU5zVkJnY2M0bUt5c25hbnJqM3Rpb1J3Q3ZMdWVDdEd2ZjBSTzliZ0pDTWtWRGFn?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHk2SThGMUlaTXVmeDNaM2VOQ255YmNGUzJPc3lUZDczQkowOVMxaUwyUVpPUVFtZlBaLTJybUVDQnY5cm5MUEdheTY2X3ljV0RtZlhQTzBJNkpkRl9POWpYMUFtZm1vSnlUX3MyRlJleU5zVkJnY2M0bUt5c25hbnJqM3Rpb1J3Q3ZMdWVDdEd2ZjBSTzliZ0pDTWtWRGFn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "texas-tech-gets-cigar-line-honoring-football-and-west-texas"
     },
     {
       "published_at": "2026-09-03T14:04:54+00:00",
@@ -161,29 +207,6 @@
       },
       "confirmed_by": [],
       "id": "sinistro-s-the-last-cowboy-ghoul-returns"
-    },
-    {
-      "published_at": "2026-09-02T15:12:23+00:00",
-      "updated_at": "2026-09-02T15:12:23+00:00",
-      "title": "Drew Estate Announces Box-Pressed Feral Flying Pig and Supremas Samplers; Launching Customer Rewards Program",
-      "summary": "In celebration of its 30th anniversary, Drew Estate is launching a new rewards program through which customers can earn apparel, accessories and art. There are also several new cigars, including the first Liga Privada culebra. The post Drew Estate Announces Box-Pressed Feral Flying Pig and Supremas Samplers; Launching Customer Rewards Program appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Drew-Estate-DE30-Samplers-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/drew-estate-announces-box-pressed-feral-flying-pig-and-supremas-samplers-launching-customer-rewards-program/478474/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/drew-estate-announces-box-pressed-feral-flying-pig-and-supremas-samplers-launching-customer-rewards-program/478474/"
-      },
-      "confirmed_by": [],
-      "id": "drew-estate-announces-box-pressed-feral-flying-pig-and-supremas-samplers-launching-custome"
     },
     {
       "published_at": "2026-09-02T11:36:01+00:00",
