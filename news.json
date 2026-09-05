@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-09-05T13:51:11.519058+00:00",
+  "updated_at": "2026-09-05T19:01:11.352280+00:00",
   "items": [
+    {
+      "published_at": "2026-09-05T17:38:28+00:00",
+      "updated_at": "2026-09-05T17:38:28+00:00",
+      "title": "Cigar Industry Report: Edition 705 (9/6/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWwyWlJ6WjAyXzhVdEdzeTJmdkxWeE1BbVgwM1BJUThhUDlzS0pPeHRMOVZXTlhfME1fUzgzWGpWb3FVVC0weHhlMTNZNzUtbGxaeWJCRE9VR3JoT1hCRkp5U2hVVjZPbk1rR0Rka1N5M2NoUk9PVWJCRUZfUFFiV0l3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWwyWlJ6WjAyXzhVdEdzeTJmdkxWeE1BbVgwM1BJUThhUDlzS0pPeHRMOVZXTlhfME1fUzgzWGpWb3FVVC0weHhlMTNZNzUtbGxaeWJCRE9VR3JoT1hCRkp5U2hVVjZPbk1rR0Rka1N5M2NoUk9PVWJCRUZfUFFiV0l3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-705-9-6-26"
+    },
+    {
+      "published_at": "2026-09-05T17:11:22+00:00",
+      "updated_at": "2026-09-05T17:11:22+00:00",
+      "title": "Cavalier Genève Project 10th Anniversary Claro",
+      "summary": "This is one of four different 10th anniversary cigars for Cavalier Genève. This particular one contains 10 different types of tobacco, double what was once a common standard. The post Cavalier Genève Project 10th Anniversary Claro appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Cavalier-Geneve-10th-Anniversary-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/cavalier-geneve-project-10th-anniversary-claro/478793/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/cavalier-geneve-project-10th-anniversary-claro/478793/"
+      },
+      "confirmed_by": [],
+      "id": "cavalier-gen-ve-project-10th-anniversary-claro"
+    },
     {
       "published_at": "2026-09-05T12:06:44+00:00",
       "updated_at": "2026-09-05T12:06:44+00:00",
@@ -32,29 +78,6 @@
         }
       ],
       "id": "procigar-festival-2027-registration-now-open"
-    },
-    {
-      "published_at": "2026-09-05T12:04:14+00:00",
-      "updated_at": "2026-09-05T12:04:14+00:00",
-      "title": "Cigar Industry Report: Edition 705 (9/6/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWwyWlJ6WjAyXzhVdEdzeTJmdkxWeE1BbVgwM1BJUThhUDlzS0pPeHRMOVZXTlhfME1fUzgzWGpWb3FVVC0weHhlMTNZNzUtbGxaeWJCRE9VR3JoT1hCRkp5U2hVVjZPbk1rR0Rka1N5M2NoUk9PVWJCRUZfUFFiV0l3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWwyWlJ6WjAyXzhVdEdzeTJmdkxWeE1BbVgwM1BJUThhUDlzS0pPeHRMOVZXTlhfME1fUzgzWGpWb3FVVC0weHhlMTNZNzUtbGxaeWJCRE9VR3JoT1hCRkp5U2hVVjZPbk1rR0Rka1N5M2NoUk9PVWJCRUZfUFFiV0l3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-705-9-6-26"
     },
     {
       "published_at": "2026-09-04T21:00:21+00:00",
@@ -570,29 +593,6 @@
       },
       "confirmed_by": [],
       "id": "avowed-hallowed-hands-box-pressed-robusto-cigar-review"
-    },
-    {
-      "published_at": "2026-08-28T18:57:46+00:00",
-      "updated_at": "2026-08-28T18:57:46+00:00",
-      "title": "Ninth Circuit Denies Cigar Companies’ Appeal in California UTL Lawsuit",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJaanZkdy1lemNOUkNVbUVZQXNYb0xGaXdLQUlMUDlRYnkxa3JKT0FfWC1JZUt4Rng1dEFLYlFteFI0UUpPVFZMbE1MckVvMF9RUkQzYlpvODFTYS1aVDFRRHNwMU1odzFEVlFpaUtRdEJtNnhmaVd6b1ZVbENzYWlUTGRkY2ZZZlA5NlRGS3JFLXFtVUViQnhUQXJwbGxq?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "ninth-circuit-denies-cigar-companies-appeal-in-california-utl-lawsuit"
     },
     {
       "published_at": "2026-08-28T16:42:43+00:00",
