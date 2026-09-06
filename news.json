@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T19:01:11.352280+00:00",
+  "updated_at": "2026-09-06T09:24:30.989673+00:00",
   "items": [
     {
       "published_at": "2026-09-05T17:38:28+00:00",
@@ -480,29 +480,6 @@
       "id": "indonesian-cigar-for-the-world-by-yadie-dayana"
     },
     {
-      "published_at": "2026-08-31T23:19:45+00:00",
-      "updated_at": "2026-08-31T23:19:45+00:00",
-      "title": "Rocky Patel The Edge Anniversary 20th Toro",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOGp6d0JtbHpLUDVSbnNoWU44M24xcUFQWDRXQkZzemVFN2VNZS1ISjMtb0NiNUd6RGNMek1JLUpMUmRvcVd4QXBUTHU1dUJHcVVuRXdrbG4wTUhLZ2xRUXRldXhUbW1rWElMZ1k2NlJCRTIzdXZUR214TFVSdDA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOGp6d0JtbHpLUDVSbnNoWU44M24xcUFQWDRXQkZzemVFN2VNZS1ISjMtb0NiNUd6RGNMek1JLUpMUmRvcVd4QXBUTHU1dUJHcVVuRXdrbG4wTUhLZ2xRUXRldXhUbW1rWElMZ1k2NlJCRTIzdXZUR214TFVSdDA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "rocky-patel-the-edge-anniversary-20th-toro"
-    },
-    {
       "published_at": "2026-08-31T09:20:36+00:00",
       "updated_at": "2026-08-31T09:20:36+00:00",
       "title": "Don Emmanuel Continues Global Expansion with Entry into Oman",
@@ -616,29 +593,6 @@
       },
       "confirmed_by": [],
       "id": "bocock-brothers-introduce-coach-o-stadium-series-endorsed-by-ed-orgeron-cigar-news"
-    },
-    {
-      "published_at": "2026-08-28T00:02:30+00:00",
-      "updated_at": "2026-08-28T00:02:30+00:00",
-      "title": "Los Amigos Cigars Enters U.S. Market with Small Batch 2025 Collection | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnlIZUJpN1FiSEtTTVltWHc1LTNjSFgxZUVmbjhSWnRFQmJpX2lHZ2UxcXdDSWRmVDVHWmRjcHI0UVpoS3FPcFVmamFrN3dLVjNvemJrR05zdHZIRE9keV9pS0hZWjhVRmhjTlRsZTFuU09XbFlOYU94bWdaQzZfWjdUS2ktVGJCMVpkN055aEJMS3lZSTBqcmh2QmVVcTNvV0RlVVdmbDlqd1FKei1PcFQ0Yi1JQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnlIZUJpN1FiSEtTTVltWHc1LTNjSFgxZUVmbjhSWnRFQmJpX2lHZ2UxcXdDSWRmVDVHWmRjcHI0UVpoS3FPcFVmamFrN3dLVjNvemJrR05zdHZIRE9keV9pS0hZWjhVRmhjTlRsZTFuU09XbFlOYU94bWdaQzZfWjdUS2ktVGJCMVpkN055aEJMS3lZSTBqcmh2QmVVcTNvV0RlVVdmbDlqd1FKei1PcFQ0Yi1JQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "los-amigos-cigars-enters-u-s-market-with-small-batch-2025-collection-cigar-news"
     }
   ]
 }
