@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-09-06T09:24:30.989673+00:00",
+  "updated_at": "2026-09-06T14:08:48.161173+00:00",
   "items": [
+    {
+      "published_at": "2026-09-06T12:30:21+00:00",
+      "updated_at": "2026-09-06T12:30:21+00:00",
+      "title": "Habanos utnyttjade Göteborgs Symfoniker som täckmantel för olaglig cigarrförsäljning",
+      "summary": "En faktura som Cigarrvärlden kommit över visar att den svenska importören av kubanska cigarrer tar lätt på tobakslagens bestämmelser och har sålt till privatpersoner utan tillstånd. Och utan att själva vara medvetna om det fann sig Göteborgs symfoniorkester stå som köpare, åtminstone på pappret. Och detta ska ha pågått sedan många år tillbaka.",
+      "category": [
+        "Sverige",
+        "Kuba",
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "http://cigarrklubben.se/cdn/shop/articles/Montage_Goteborgs_Symfoniorkester_COHIBA_87661cc3-0eaf-4f1d-b640-7068fd6d1180_1200x1200.jpg?v=1788699331",
+      "sources": [
+        {
+          "name": "Cigarrvärlden",
+          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-utnyttjade-goteborgs-symfoniker-som-tackmantel-for-olaglig-cigarrforaljning"
+        }
+      ],
+      "main_source": {
+        "name": "Cigarrvärlden",
+        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-utnyttjade-goteborgs-symfoniker-som-tackmantel-for-olaglig-cigarrforaljning"
+      },
+      "confirmed_by": [],
+      "id": "habanos-utnyttjade-g-teborgs-symfoniker-som-t-ckmantel-f-r-olaglig-cigarrf-rs-ljning"
+    },
+    {
+      "published_at": "2026-09-06T12:24:48+00:00",
+      "updated_at": "2026-09-06T12:24:48+00:00",
+      "title": "Habanos uses national orchestra´s name as cover for illicit revenue generation",
+      "summary": "An invoice obtained by Cigarrvärlden shows that the Swedish importer of Cuban cigars is taking the provisions of the Tobacco Act lightly and has sold to private individuals without the license to do so. And without being aware of it themselves, the Gothenburg Symphony Orchestra (Göteborgs Symfoniker AB) found themselves listed as the buyer, at least on paper. This has reportedly been going on for many years.",
+      "category": [
+        "Sverige",
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "http://cigarrklubben.se/cdn/shop/articles/Montage_Goteborgs_Symfoniorkester_COHIBA_23c4f9c9-4fd3-4003-a60e-8ba6f9e3a165_1200x1200.jpg?v=1788697647",
+      "sources": [
+        {
+          "name": "Cigarrvärlden",
+          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
+        }
+      ],
+      "main_source": {
+        "name": "Cigarrvärlden",
+        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
+      },
+      "confirmed_by": [],
+      "id": "habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
+    },
     {
       "published_at": "2026-09-05T17:38:28+00:00",
       "updated_at": "2026-09-05T17:38:28+00:00",
@@ -46,38 +95,6 @@
       },
       "confirmed_by": [],
       "id": "cavalier-gen-ve-project-10th-anniversary-claro"
-    },
-    {
-      "published_at": "2026-09-05T12:06:44+00:00",
-      "updated_at": "2026-09-05T12:06:44+00:00",
-      "title": "PROCIGAR FESTIVAL 2027: Registration Now Open",
-      "summary": "The Association of Dominican Cigar Manufacturers (PROCIGAR) proudly announces that registration is now open for the 19th edition of the PROCIGAR Festival",
-      "category": [
-        "Event"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/ProCigar.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=procigar-festival-2027-registration-now-open"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=procigar-festival-2027-registration-now-open"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
-        }
-      ],
-      "id": "procigar-festival-2027-registration-now-open"
     },
     {
       "published_at": "2026-09-04T21:00:21+00:00",
@@ -342,6 +359,29 @@
       "id": "lars-tetens-passes-away"
     },
     {
+      "published_at": "2026-09-03T00:17:57+00:00",
+      "updated_at": "2026-09-03T00:17:57+00:00",
+      "title": "Procigar Festival 2027 Registration Opens / Davidoff Departs Procigar | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "procigar-festival-2027-registration-opens-davidoff-departs-procigar-cigar-news"
+    },
+    {
       "published_at": "2026-09-02T21:41:43+00:00",
       "updated_at": "2026-09-02T21:41:43+00:00",
       "title": "Corte Madera, Calif. Moving Forward With Total Tobacco & Nicotine Sales Ban",
@@ -363,52 +403,6 @@
       },
       "confirmed_by": [],
       "id": "corte-madera-calif-moving-forward-with-total-tobacco-nicotine-sales-ban"
-    },
-    {
-      "published_at": "2026-09-02T11:36:01+00:00",
-      "updated_at": "2026-09-02T11:36:01+00:00",
-      "title": "Oliva Cigar Evening in Bratislava",
-      "summary": "Dom Cigar invites you to their next cigar event. Oliva cigar evening will take place on Tuesday, 08.09.2025 at 18:00 in Tryskac pub at Padlých Hrdinov 71 in Bratislava on the covered terrace",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/oliva.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/?utm_source=rss&utm_medium=rss&utm_campaign=oliva-cigar-evening-in-bratislava"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/?utm_source=rss&utm_medium=rss&utm_campaign=oliva-cigar-evening-in-bratislava"
-      },
-      "confirmed_by": [],
-      "id": "oliva-cigar-evening-in-bratislava"
-    },
-    {
-      "published_at": "2026-09-02T08:34:35+00:00",
-      "updated_at": "2026-09-02T08:34:35+00:00",
-      "title": "Quality Importers Announces Price Reductions On Xikar Accessories",
-      "summary": "Quality Importers Trading Company reduces wholesale and retail pricing on most of its best-selling XIKAR cigar accessories line, effective today on new orders",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/quality.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/quality-importers-announces-price-reductions-on-xikar-accessories/?utm_source=rss&utm_medium=rss&utm_campaign=quality-importers-announces-price-reductions-on-xikar-accessories"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/quality-importers-announces-price-reductions-on-xikar-accessories/?utm_source=rss&utm_medium=rss&utm_campaign=quality-importers-announces-price-reductions-on-xikar-accessories"
-      },
-      "confirmed_by": [],
-      "id": "quality-importers-announces-price-reductions-on-xikar-accessories"
     },
     {
       "published_at": "2026-09-02T00:22:55+00:00",
@@ -434,93 +428,24 @@
       "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
     },
     {
-      "published_at": "2026-09-01T13:26:24+00:00",
-      "updated_at": "2026-09-01T13:26:24+00:00",
-      "title": "Savile Noir: Eliminating Lingering Cigar Smoke From Garments",
-      "summary": "With the product removing cigar smoke from garments, Shane drew inspiration from Savile Row in the naming of Savile Noir, and after six months of trials, Savile Noir was launched at Western Australia’s inaugural Festival of the Leaf",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/Unbenannt-1.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
-      },
-      "confirmed_by": [],
-      "id": "savile-noir-eliminating-lingering-cigar-smoke-from-garments"
-    },
-    {
-      "published_at": "2026-09-01T13:21:33+00:00",
-      "updated_at": "2026-09-01T13:21:33+00:00",
-      "title": "Indonesian Cigar For the World by Yadie Dayana",
-      "summary": "Yadie Dayana who owns Dayana Cigar Lounge and Dayana Cigars, has captured the Indonesian cigar story through his book Indonesian Cigar For The World",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/‌Indonesia-Cigar-For-The-World-Yadie-Dayana.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
-      },
-      "confirmed_by": [],
-      "id": "indonesian-cigar-for-the-world-by-yadie-dayana"
-    },
-    {
-      "published_at": "2026-08-31T09:20:36+00:00",
-      "updated_at": "2026-08-31T09:20:36+00:00",
-      "title": "Don Emmanuel Continues Global Expansion with Entry into Oman",
-      "summary": "Following Anunnaki's selection as a finalist for Best Dominican Cigar of 2026 at the Cigar Journal Cigar Trophy Awards, Don Emmanuel Cigars announces its expansion into Oman",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/sun-moon.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
-      },
-      "confirmed_by": [],
-      "id": "don-emmanuel-continues-global-expansion-with-entry-into-oman"
-    },
-    {
       "published_at": "2026-08-31T08:16:02+00:00",
       "updated_at": "2026-08-31T08:16:02+00:00",
       "title": "Cavalier Genève Cigars Announces New Houston Based Warehouse",
-      "summary": "Cavalier Genève Cigars has announced today that its new Houston-based warehouse is operational and will be servicing the US market and its clients from there as of this week",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/cavalier-geneve.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cavalier-geneve-cigars-announces-new-houston-based-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=cavalier-geneve-cigars-announces-new-houston-based-warehouse"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cavalier-geneve-cigars-announces-new-houston-based-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=cavalier-geneve-cigars-announces-new-houston-based-warehouse"
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
       },
       "confirmed_by": [],
       "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
