@@ -1,9 +1,55 @@
 {
-  "updated_at": "2026-09-06T19:08:30.946130+00:00",
+  "updated_at": "2026-09-07T10:14:10.712252+00:00",
   "items": [
     {
-      "published_at": "2026-09-06T17:53:58+00:00",
-      "updated_at": "2026-09-06T17:53:58+00:00",
+      "published_at": "2026-09-07T08:14:58+00:00",
+      "updated_at": "2026-09-07T08:14:58+00:00",
+      "title": "Emilio Cigars Ships the New Limited-Edition SUAVE SUMATRA",
+      "summary": "Emilio Cigars is proud to announce the release of the Limited-Edition SUAVE SUMATRA",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/emilio.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/?utm_source=rss&utm_medium=rss&utm_campaign=emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/?utm_source=rss&utm_medium=rss&utm_campaign=emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
+      },
+      "confirmed_by": [],
+      "id": "emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
+    },
+    {
+      "published_at": "2026-09-07T07:57:46+00:00",
+      "updated_at": "2026-09-07T07:57:46+00:00",
+      "title": "Plasencia Cigars Unveils The Next Chapter Of Its Brand Evolution",
+      "summary": "Plasencia Cigars today unveils Born of This Land, the next chapter in the company's brand evolution as it honors 160 years of growing tobacco",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/plasenciaaaa.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/?utm_source=rss&utm_medium=rss&utm_campaign=plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/?utm_source=rss&utm_medium=rss&utm_campaign=plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
+    },
+    {
+      "published_at": "2026-09-06T17:53:47+00:00",
+      "updated_at": "2026-09-06T17:53:47+00:00",
       "title": "Undercrown El Tigre Dominicano Toro by Drew Estate – Cigar Review",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -429,6 +475,29 @@
       "id": "lars-tetens-passes-away-cigar-news"
     },
     {
+      "published_at": "2026-09-02T21:41:43+00:00",
+      "updated_at": "2026-09-02T21:41:43+00:00",
+      "title": "Corte Madera, Calif. Moving Forward With Total Tobacco & Nicotine Sales Ban",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2V3YkNybXZnaEVUZkZJSE0wbGQ3ZVdCOU4taVBuVUZLNVpDcGxHd0V0MnBrdzFJUzRadWZvV2pBUkVkUnFYVVZ5b3VQdEIxamp2aGpBdzlNN2NNeVM2blVFUnhiZjZXUWFVcGpqa0JMNUl1YXVYWk5UNUhueGxFbmp6Q2cxTXRIQURpWGUzYjdjb2owNmlVLVdJUEtSSGktTUxn?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2V3YkNybXZnaEVUZkZJSE0wbGQ3ZVdCOU4taVBuVUZLNVpDcGxHd0V0MnBrdzFJUzRadWZvV2pBUkVkUnFYVVZ5b3VQdEIxamp2aGpBdzlNN2NNeVM2blVFUnhiZjZXUWFVcGpqa0JMNUl1YXVYWk5UNUhueGxFbmp6Q2cxTXRIQURpWGUzYjdjb2owNmlVLVdJUEtSSGktTUxn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "corte-madera-calif-moving-forward-with-total-tobacco-nicotine-sales-ban"
+    },
+    {
       "published_at": "2026-09-02T11:36:01+00:00",
       "updated_at": "2026-09-02T11:36:01+00:00",
       "title": "Oliva Cigar Evening in Bratislava",
@@ -588,6 +657,29 @@
       },
       "confirmed_by": [],
       "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
+    },
+    {
+      "published_at": "2026-08-30T19:25:23+00:00",
+      "updated_at": "2026-08-30T19:25:23+00:00",
+      "title": "Zino Honduras Robusto",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Honduras"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dEtsM3h6WEZSNHFnbU9IajVfaWpRMXpWbEhqZXhNS2xCWkt5VWNrM0ViSm5WdC1ZREN1bFNCWXRqNlhPYXFKcHQ5TzQ2YU1IMW1NYUU4UHp2OEkzWlpIZw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dEtsM3h6WEZSNHFnbU9IajVfaWpRMXpWbEhqZXhNS2xCWkt5VWNrM0ViSm5WdC1ZREN1bFNCWXRqNlhPYXFKcHQ5TzQ2YU1IMW1NYUU4UHp2OEkzWlpIZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "zino-honduras-robusto"
     },
     {
       "published_at": "2026-08-30T16:07:53+00:00",
