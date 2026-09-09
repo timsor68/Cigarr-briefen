@@ -1,27 +1,128 @@
 {
-  "updated_at": "2026-09-08T19:53:55.534883+00:00",
+  "updated_at": "2026-09-09T09:42:21.039046+00:00",
   "items": [
     {
-      "published_at": "2026-09-08T19:50:54+00:00",
-      "updated_at": "2026-09-08T19:50:54+00:00",
+      "published_at": "2026-09-09T09:32:09+00:00",
+      "updated_at": "2026-09-09T09:32:09+00:00",
+      "title": "CigarKings Presents the COY 26 Aero Lancero",
+      "summary": "With the COY 26 Aero Lancero, CigarKings continues its Color of the Year series",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/cigar-king-1.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/?utm_source=rss&utm_medium=rss&utm_campaign=cigarkings-presents-the-coy-26-aero-lancero"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/?utm_source=rss&utm_medium=rss&utm_campaign=cigarkings-presents-the-coy-26-aero-lancero"
+      },
+      "confirmed_by": [],
+      "id": "cigarkings-presents-the-coy-26-aero-lancero"
+    },
+    {
+      "published_at": "2026-09-09T09:08:29+00:00",
+      "updated_at": "2026-09-09T09:08:29+00:00",
+      "title": "Maya Selva Cigars Introduces “Timón”",
+      "summary": "With Timón, Maya Selva is introducing a new cigar brand that makes handcrafted cigars from Honduras available at an attractive price",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/timon-1.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
+      },
+      "confirmed_by": [],
+      "id": "maya-selva-cigars-introduces-tim-n"
+    },
+    {
+      "published_at": "2026-09-09T08:31:49+00:00",
+      "updated_at": "2026-09-09T08:31:49+00:00",
+      "title": "Flor de Selva Maduro Collection: Now Available in Fino Format",
+      "summary": "The Flor de Selva Maduro Collection is expanding: Starting in October, the Grand Corona “Fino” will be available to a wider customer base",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/flor-1.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/?utm_source=rss&utm_medium=rss&utm_campaign=flor-de-selva-maduro-collection-available-in-the-fino-format"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/?utm_source=rss&utm_medium=rss&utm_campaign=flor-de-selva-maduro-collection-available-in-the-fino-format"
+      },
+      "confirmed_by": [],
+      "id": "flor-de-selva-maduro-collection-now-available-in-fino-format"
+    },
+    {
+      "published_at": "2026-09-08T21:00:10+00:00",
+      "updated_at": "2026-09-08T21:00:10+00:00",
+      "title": "Germany Halts Distribution Of Cuban Cigars",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMU5lUW1rcG5XWUU5R0RRRmlzZW1rZ1FLUVRMMGVOTzdQMm1jLXFKbjd5WE9PZFBxRlRNNWxnWWRfS0ZrT2VBZ1Y0TXVZendQcFk2S0lFZ1ItV3Q1N25vVmNhdGgtSXJ1RDYzVGl4NF9XTlprT0lLUzJBMkhnbmVGUFpPSjhROFVkR3c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMU5lUW1rcG5XWUU5R0RRRmlzZW1rZ1FLUVRMMGVOTzdQMm1jLXFKbjd5WE9PZFBxRlRNNWxnWWRfS0ZrT2VBZ1Y0TXVZendQcFk2S0lFZ1ItV3Q1N25vVmNhdGgtSXJ1RDYzVGl4NF9XTlprT0lLUzJBMkhnbmVGUFpPSjhROFVkR3c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "germany-halts-distribution-of-cuban-cigars"
+    },
+    {
+      "published_at": "2026-09-08T19:59:08+00:00",
+      "updated_at": "2026-09-08T19:59:08+00:00",
       "title": "Leo Wijnbelt Joins CLE Cigar Co",
       "summary": "Wijnbelt previously had tenures at General Cigar Co., Swisher and Universal Leaf. Now, he will oversee CLE's entire tobacco operation.",
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Leo-Wijnbelt.jpeg",
+      "status": "Bekräftad av flera källor",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://halfwheel.com/leo-wijnbelt-joins-cle-cigar-co/478970/"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://halfwheel.com/leo-wijnbelt-joins-cle-cigar-co/478970/"
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        }
+      ],
       "id": "leo-wijnbelt-joins-cle-cigar-co"
     },
     {
@@ -407,6 +508,29 @@
       "id": "prometheus-ships-diademas-for-opusx-rare-black-rare-purple-god-of-fire-never-back-down-spe"
     },
     {
+      "published_at": "2026-09-04T00:18:10+00:00",
+      "updated_at": "2026-09-04T00:18:10+00:00",
+      "title": "Perez-Carrillo Pledge Purple (Toro) by Casa Carrillo | Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzR1cXVST2ZPV1hFVllpc1VJWlFuX3FCc3FVX0JVYTM0cWRDcDVMdDB6R2ppckJSZThTZC1zQTFGS2daQWd3dV9iejZkcUxqS3JXWVl0aFZRdW9Eb29wZWsyX0hNQ2h5LWNaMW9HZlcxSHNCOUc2N20zcWlHbE5zNE5FRjQ3c01PMUlhTjlHcHVuM1JBaF9oXzZHS1oyQUtt?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzR1cXVST2ZPV1hFVllpc1VJWlFuX3FCc3FVX0JVYTM0cWRDcDVMdDB6R2ppckJSZThTZC1zQTFGS2daQWd3dV9iejZkcUxqS3JXWVl0aFZRdW9Eb29wZWsyX0hNQ2h5LWNaMW9HZlcxSHNCOUc2N20zcWlHbE5zNE5FRjQ3c01PMUlhTjlHcHVuM1JBaF9oXzZHS1oyQUtt?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "perez-carrillo-pledge-purple-toro-by-casa-carrillo-cigar-review"
+    },
+    {
       "published_at": "2026-09-03T17:07:58+00:00",
       "updated_at": "2026-09-03T17:07:58+00:00",
       "title": "Indian Motorcycle 125th Anniversary Limited Edition to Launch at Owl Shop | Cigar News",
@@ -428,6 +552,29 @@
       },
       "confirmed_by": [],
       "id": "indian-motorcycle-125th-anniversary-limited-edition-to-launch-at-owl-shop-cigar-news"
+    },
+    {
+      "published_at": "2026-09-03T15:32:22+00:00",
+      "updated_at": "2026-09-03T15:32:22+00:00",
+      "title": "Texas Tech Gets Cigar Line Honoring Football And West Texas",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVN1cjZrUHVaczNaRjVGWnJXOFRsblhUZW9NNFJaV1kwREMtYTlYbGFpOWIyTHQwc05idVFqMXhBRWRHLXMySkliTkRvU01uUjQySnJWMjRRcnh2Q2txZjJjR0lJZy1ma3AtMVRiTEdHOHRSX016TnFnRzVWSjREOER1OUxoX3FvUXNJNnA5YlNzN0djY1VwTXNHVHRyRVU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVN1cjZrUHVaczNaRjVGWnJXOFRsblhUZW9NNFJaV1kwREMtYTlYbGFpOWIyTHQwc05idVFqMXhBRWRHLXMySkliTkRvU01uUjQySnJWMjRRcnh2Q2txZjJjR0lJZy1ma3AtMVRiTEdHOHRSX016TnFnRzVWSjREOER1OUxoX3FvUXNJNnA5YlNzN0djY1VwTXNHVHRyRVU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "texas-tech-gets-cigar-line-honoring-football-and-west-texas"
     },
     {
       "published_at": "2026-09-03T02:53:07+00:00",
@@ -545,73 +692,27 @@
       "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
     },
     {
-      "published_at": "2026-09-01T13:26:24+00:00",
-      "updated_at": "2026-09-01T13:26:24+00:00",
-      "title": "Savile Noir: Eliminating Lingering Cigar Smoke From Garments",
-      "summary": "With the product removing cigar smoke from garments, Shane drew inspiration from Savile Row in the naming of Savile Noir, and after six months of trials, Savile Noir was launched at Western Australia’s inaugural Festival of the Leaf",
+      "published_at": "2026-08-31T08:16:02+00:00",
+      "updated_at": "2026-08-31T08:16:02+00:00",
+      "title": "Cavalier Genève Cigars Announces New Houston Based Warehouse",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/Unbenannt-1.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/?utm_source=rss&utm_medium=rss&utm_campaign=savile-noir-eliminating-lingering-cigar-smoke-from-garments"
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
       },
       "confirmed_by": [],
-      "id": "savile-noir-eliminating-lingering-cigar-smoke-from-garments"
-    },
-    {
-      "published_at": "2026-09-01T13:21:33+00:00",
-      "updated_at": "2026-09-01T13:21:33+00:00",
-      "title": "Indonesian Cigar For the World by Yadie Dayana",
-      "summary": "Yadie Dayana who owns Dayana Cigar Lounge and Dayana Cigars, has captured the Indonesian cigar story through his book Indonesian Cigar For The World",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/‌Indonesia-Cigar-For-The-World-Yadie-Dayana.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/indonesian-cigar-for-the-world-by-yadie-dayana/?utm_source=rss&utm_medium=rss&utm_campaign=indonesian-cigar-for-the-world-by-yadie-dayana"
-      },
-      "confirmed_by": [],
-      "id": "indonesian-cigar-for-the-world-by-yadie-dayana"
-    },
-    {
-      "published_at": "2026-08-31T09:20:36+00:00",
-      "updated_at": "2026-08-31T09:20:36+00:00",
-      "title": "Don Emmanuel Continues Global Expansion with Entry into Oman",
-      "summary": "Following Anunnaki's selection as a finalist for Best Dominican Cigar of 2026 at the Cigar Journal Cigar Trophy Awards, Don Emmanuel Cigars announces its expansion into Oman",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/08/sun-moon.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/don-emmanuel-continues-global-expansion-with-entry-into-oman/?utm_source=rss&utm_medium=rss&utm_campaign=don-emmanuel-continues-global-expansion-with-entry-into-oman"
-      },
-      "confirmed_by": [],
-      "id": "don-emmanuel-continues-global-expansion-with-entry-into-oman"
+      "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
     },
     {
       "published_at": "2026-08-30T16:07:53+00:00",
