@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-10T09:41:00.710712+00:00",
+  "updated_at": "2026-09-10T14:58:08.162322+00:00",
   "items": [
+    {
+      "published_at": "2026-09-10T13:33:31+00:00",
+      "updated_at": "2026-09-10T13:33:31+00:00",
+      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "kelner-le-80-diademas-finas-cigar-review"
+    },
     {
       "published_at": "2026-09-09T23:30:28+00:00",
       "updated_at": "2026-09-09T23:30:28+00:00",
@@ -78,19 +101,28 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/09/Supreme-Leaf-Worldwide-2.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/jfr-clara-supreme-leaf-worldwide-debuting-at-intertabac-2026/479069/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/jfr-clara-supreme-leaf-worldwide-debuting-at-intertabac-2026/479069/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
+        }
+      ],
       "id": "jfr-clara-supreme-leaf-worldwide-debuting-at-intertabac-2026"
     },
     {
