@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-09-09T19:44:46.760613+00:00",
+  "updated_at": "2026-09-10T09:41:00.710712+00:00",
   "items": [
+    {
+      "published_at": "2026-09-09T23:30:28+00:00",
+      "updated_at": "2026-09-09T23:30:28+00:00",
+      "title": "Cigar.com Transitioning to Cigora.com",
+      "summary": "Both entities are part of Scandinavian Tobacco Group's retail group. Cigora was launched as \"the next generation of cigars online,\" combining retail with education as a new way to interact with cigars. The post Transitioning to appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Cigora-logo-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/cigar-com-transitioning-to-cigora-com/479138/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/cigar-com-transitioning-to-cigora-com/479138/"
+      },
+      "confirmed_by": [],
+      "id": "cigar-com-transitioning-to-cigora-com"
+    },
+    {
+      "published_at": "2026-09-09T22:16:00+00:00",
+      "updated_at": "2026-09-09T22:16:00+00:00",
+      "title": "Viaje Platino Reserva Perfecto",
+      "summary": "In the early 2010s, the Viaje Oro Reserva and Platino Reserva were known to make annual appearances. This year, the blends returned in a new 5 1/2 x 52 box-pressed perfecto. The post Viaje Platino Reserva Perfecto appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "viaje-platino-reserva-perfecto"
+    },
     {
       "published_at": "2026-09-09T19:00:59+00:00",
       "updated_at": "2026-09-09T19:00:59+00:00",
@@ -92,6 +138,29 @@
       },
       "confirmed_by": [],
       "id": "bret-koplow-gets-top-job-at-fda-s-center-for-tobacco-products"
+    },
+    {
+      "published_at": "2026-09-09T15:00:22+00:00",
+      "updated_at": "2026-09-09T15:00:22+00:00",
+      "title": "Aganorsa Leaf Launching New Cigars For Global Market",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWxobnBSMUxUOEZxY0MxNEdDQWpZTTNYWGgyVVk3UHdEdC1oVDlCZE9LSU8zSS1GZFIzcW5KRjZJdGV0NVdjblpkOEpySnJNSkRIdFlqRHRweEl1TXE0WjVBNVg3RXRUeHJpNzNKLWNUNkpUWTlhdDJWbXhKLVdldHlHUHg1dmZ1RzBiYTY0bG82NGVwMGRZ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWxobnBSMUxUOEZxY0MxNEdDQWpZTTNYWGgyVVk3UHdEdC1oVDlCZE9LSU8zSS1GZFIzcW5KRjZJdGV0NVdjblpkOEpySnJNSkRIdFlqRHRweEl1TXE0WjVBNVg3RXRUeHJpNzNKLWNUNkpUWTlhdDJWbXhKLVdldHlHUHg1dmZ1RzBiYTY0bG82NGVwMGRZ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "aganorsa-leaf-launching-new-cigars-for-global-market"
     },
     {
       "published_at": "2026-09-09T14:29:30+00:00",
@@ -233,29 +302,6 @@
       "id": "cigarkings-presents-the-coy-26-aero-lancero"
     },
     {
-      "published_at": "2026-09-09T09:08:29+00:00",
-      "updated_at": "2026-09-09T09:08:29+00:00",
-      "title": "Maya Selva Cigars Introduces “Timón”",
-      "summary": "With Timón, Maya Selva is introducing a new cigar brand that makes handcrafted cigars from Honduras available at an attractive price",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/timon-1.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
-      },
-      "confirmed_by": [],
-      "id": "maya-selva-cigars-introduces-tim-n"
-    },
-    {
       "published_at": "2026-09-09T08:31:49+00:00",
       "updated_at": "2026-09-09T08:31:49+00:00",
       "title": "Flor de Selva Maduro Collection: Now Available in Fino Format",
@@ -334,33 +380,10 @@
       "id": "cuba-s-cigar-paradox"
     },
     {
-      "published_at": "2026-09-08T14:33:15+00:00",
-      "updated_at": "2026-09-08T14:33:15+00:00",
-      "title": "Moonflower Robusto",
-      "summary": "This marks the first time in a decade that Crowned Heads has had a new regular production line produced at the My Father factory in Estelí, Nicaragua. In addition, all of the tobacco included in the blend is grown on farms in Nicaragua owned by My Father. The post Moonflower Robusto appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Moonflower-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/moonflower-robusto/478923/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/moonflower-robusto/478923/"
-      },
-      "confirmed_by": [],
-      "id": "moonflower-robusto"
-    },
-    {
       "published_at": "2026-09-07T16:21:09+00:00",
       "updated_at": "2026-09-07T16:21:09+00:00",
       "title": "5th Avenue, German Distributor of Cuban Cigars, Pauses Deliveries Due to Banking Issues",
-      "summary": "The company told retailers that temporary banking restrictions means that it is unable to accept or deliver new orders. No timeline has been given as to when the distributor—which supplies Austria, Germany and Poland—might resume shipments. The post 5th Avenue, German Distributor of Cuban Cigars, Pauses Deliveries Due to Banking Issues appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Kuba"
       ],
@@ -546,6 +569,38 @@
       "id": "cigar-industry-report-edition-705-9-6-26"
     },
     {
+      "published_at": "2026-09-05T12:06:44+00:00",
+      "updated_at": "2026-09-05T12:06:44+00:00",
+      "title": "PROCIGAR FESTIVAL 2027: Registration Now Open",
+      "summary": "The Association of Dominican Cigar Manufacturers (PROCIGAR) proudly announces that registration is now open for the 19th edition of the PROCIGAR Festival",
+      "category": [
+        "Event"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/ProCigar.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=procigar-festival-2027-registration-now-open"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=procigar-festival-2027-registration-now-open"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        }
+      ],
+      "id": "procigar-festival-2027-registration-now-open"
+    },
+    {
       "published_at": "2026-09-04T00:18:10+00:00",
       "updated_at": "2026-09-04T00:18:10+00:00",
       "title": "Perez-Carrillo Pledge Purple (Toro) by Casa Carrillo | Cigar Review",
@@ -638,29 +693,6 @@
       "id": "lars-tetens-passes-away-cigar-news"
     },
     {
-      "published_at": "2026-09-03T00:17:57+00:00",
-      "updated_at": "2026-09-03T00:17:57+00:00",
-      "title": "Procigar Festival 2027 Registration Opens / Davidoff Departs Procigar | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "procigar-festival-2027-registration-opens-davidoff-departs-procigar-cigar-news"
-    },
-    {
       "published_at": "2026-09-02T21:41:43+00:00",
       "updated_at": "2026-09-02T21:41:43+00:00",
       "title": "Corte Madera, Calif. Moving Forward With Total Tobacco & Nicotine Sales Ban",
@@ -705,29 +737,6 @@
       },
       "confirmed_by": [],
       "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
-    },
-    {
-      "published_at": "2026-08-31T08:16:02+00:00",
-      "updated_at": "2026-08-31T08:16:02+00:00",
-      "title": "Cavalier Genève Cigars Announces New Houston Based Warehouse",
-      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSklYM0swZnFiZUw5QmlEQ2NNTnJBOENrN3pQWWZLbXkxdTNBVU9lTnBnSTdkcC1sSVRuZnZhTTItZVNPUTk3cm1Cb2NONjRpYl9OcWdoV3A1bDJWZnQxRlBoVHVRM0dZSXdfUmViZkdkRWVXRDBnVmJ4VHMwNGRBVlFYQ0ZRVVJDcVVieno0OFY0YkU4?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cavalier-gen-ve-cigars-announces-new-houston-based-warehouse"
     }
   ]
 }
