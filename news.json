@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-09-10T19:40:05.328410+00:00",
+  "updated_at": "2026-09-11T09:38:16.446404+00:00",
   "items": [
+    {
+      "published_at": "2026-09-11T01:18:33+00:00",
+      "updated_at": "2026-09-11T01:18:33+00:00",
+      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "kelner-le-80-diademas-finas-cigar-review"
+    },
+    {
+      "published_at": "2026-09-10T23:17:31+00:00",
+      "updated_at": "2026-09-10T23:17:31+00:00",
+      "title": "La Flor Dominicana Carbon Flower",
+      "summary": "For a new limited edition this year, La Flor Dominicana teamed up with ProjectCarbon, an accessory maker that specializes in using carbon fiber. The full-bodied cigars comes packaged in five-count carbon fiber cases. The post La Flor Dominicana Carbon Flower appeared first on halfwheel",
+      "category": [
+        "Dominikanska republiken"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/La-Flor-Dominicana-Carbon-Flower-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-flor-dominicana-carbon-flower/478845/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-flor-dominicana-carbon-flower/478845/"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-carbon-flower"
+    },
     {
       "published_at": "2026-09-10T18:29:39+00:00",
       "updated_at": "2026-09-10T18:29:39+00:00",
@@ -64,7 +110,7 @@
         },
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/?utm_source=rss&utm_medium=rss&utm_campaign=cigarkings-presents-the-coy-26-aero-lancero"
+          "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/"
         }
       ],
       "main_source": {
@@ -74,33 +120,10 @@
       "confirmed_by": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/?utm_source=rss&utm_medium=rss&utm_campaign=cigarkings-presents-the-coy-26-aero-lancero"
+          "url": "https://www.cigarjournal.com/cigarkings-presents-the-coy-26-aero-lancero/"
         }
       ],
       "id": "cigarkings-coy-26-aero-lancero-ships-next-week"
-    },
-    {
-      "published_at": "2026-09-10T13:33:31+00:00",
-      "updated_at": "2026-09-10T13:33:31+00:00",
-      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "kelner-le-80-diademas-finas-cigar-review"
     },
     {
       "published_at": "2026-09-10T13:08:31+00:00",
@@ -149,24 +172,24 @@
       "id": "cigar-com-transitioning-to-cigora-com"
     },
     {
-      "published_at": "2026-09-09T22:00:22+00:00",
-      "updated_at": "2026-09-09T22:00:22+00:00",
+      "published_at": "2026-09-09T22:16:00+00:00",
+      "updated_at": "2026-09-09T22:16:00+00:00",
       "title": "Viaje Platino Reserva Perfecto",
       "summary": "In the early 2010s, the Viaje Oro Reserva and Platino Reserva were known to make annual appearances. This year, the blends returned in a new 5 1/2 x 52 box-pressed perfecto. The post Viaje Platino Reserva Perfecto appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Viaje-Platino-Reserva-Perfecto-2.jpg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://halfwheel.com/viaje-platino-reserva-perfecto/478991/"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://halfwheel.com/viaje-platino-reserva-perfecto/478991/"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
       },
       "confirmed_by": [],
       "id": "viaje-platino-reserva-perfecto"
@@ -218,27 +241,27 @@
       "id": "don-emmanuel-cigars-adding-6-x-54-enki-vitola-to-annunaki-line-at-intertabac-2026"
     },
     {
-      "published_at": "2026-09-09T15:30:00+00:00",
-      "updated_at": "2026-09-09T15:30:00+00:00",
-      "title": "Bret Koplow Gets Top Job at FDA’s Center for Tobacco Products",
-      "summary": "Koplow has been serving as the acting direction since May 2025. He's just the third person to lead CTP on a full-time basis. The post Bret Koplow Gets Top Job at FDA’s Center for Tobacco Products appeared first on halfwheel",
+      "published_at": "2026-09-09T16:01:36+00:00",
+      "updated_at": "2026-09-09T16:01:36+00:00",
+      "title": "And The Winner Is…? – Cigar Trophy Awards 2026",
+      "summary": "On Tuesday, September 15, 2026, we will be presenting the most anticipated and popular consumer awards in the industry, the Cigar Trophy Awards",
       "category": [
-        "Reglering"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2022/05/FDA-Logo.jpeg",
+      "image": "https://media.cigarjournal.com/CigarTrophy2026-teaser-770x578-1.jpg",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/bret-koplow-named-director-of-fdas-center-for-tobacco-products/479036/"
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/and-the-winner-is-cigar-trophy-awards-2026/"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/bret-koplow-named-director-of-fdas-center-for-tobacco-products/479036/"
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/and-the-winner-is-cigar-trophy-awards-2026/"
       },
       "confirmed_by": [],
-      "id": "bret-koplow-gets-top-job-at-fda-s-center-for-tobacco-products"
+      "id": "and-the-winner-is-cigar-trophy-awards-2026"
     },
     {
       "published_at": "2026-09-09T15:00:22+00:00",
@@ -264,50 +287,28 @@
       "id": "aganorsa-leaf-launching-new-cigars-for-global-market"
     },
     {
-      "published_at": "2026-09-09T14:29:30+00:00",
-      "updated_at": "2026-09-09T14:29:30+00:00",
-      "title": "Brick House Bricktoberfest Returns for 2026",
-      "summary": "Newman is running back the Brick House Bricktoberfest 2025 cigar. The cigar is back and so is the beer stein promo item. The post Brick House Bricktoberfest Returns for 2026 appeared first on halfwheel",
+      "published_at": "2026-09-09T11:47:14+00:00",
+      "updated_at": "2026-09-09T11:47:14+00:00",
+      "title": "Honduras Will Have an International Tobacco Festival: Eiroa",
+      "summary": "In an exclusive interview granted to Humo Latino before the start of the eighth edition of Fuego y Barrica, Christian Eiroa, CEO of CLE Cigar Company, confirmed that commitment and authorization from competent authorities are already in place for Honduras to launch a flagship international tobacco f",
       "category": [
-        "Nyheter"
+        "Honduras",
+        "Event"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Brick-House-Bricktoberfest-2026-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/brick-house-bricktoberfest-returns-for-2026/479021/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/brick-house-bricktoberfest-returns-for-2026/479021/"
-      },
-      "confirmed_by": [],
-      "id": "brick-house-bricktoberfest-returns-for-2026"
-    },
-    {
-      "published_at": "2026-09-09T14:01:36+00:00",
-      "updated_at": "2026-09-09T14:01:36+00:00",
-      "title": "And The Winner Is…? – Cigar Trophy Awards 2026",
-      "summary": "On Tuesday, September 15, 2026, we will be presenting the most anticipated and popular consumer awards in the industry, the Cigar Trophy Awards",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/CigarTrophy2026-teaser-770x578-1.jpg",
+      "image": "https://media.cigarjournal.com/cle-cigar-company-logo.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/and-the-winner-is-cigar-trophy-awards-2026/?utm_source=rss&utm_medium=rss&utm_campaign=and-the-winner-is-cigar-trophy-awards-2026"
+          "url": "https://www.cigarjournal.com/honduras-will-have-an-international-tobacco-festival-eiroa/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/and-the-winner-is-cigar-trophy-awards-2026/?utm_source=rss&utm_medium=rss&utm_campaign=and-the-winner-is-cigar-trophy-awards-2026"
+        "url": "https://www.cigarjournal.com/honduras-will-have-an-international-tobacco-festival-eiroa/"
       },
       "confirmed_by": [],
-      "id": "and-the-winner-is-cigar-trophy-awards-2026"
+      "id": "honduras-will-have-an-international-tobacco-festival-eiroa"
     },
     {
       "published_at": "2026-09-09T11:03:32+00:00",
@@ -318,43 +319,42 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/h.lennon.gif",
+      "image": "https://media.cigarjournal.com/h.lennon.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/h-lennon-building-places-experiences-and-stories-around-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=h-lennon-building-places-experiences-and-stories-around-cigars"
+          "url": "https://www.cigarjournal.com/h-lennon-building-places-experiences-and-stories-around-cigars/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/h-lennon-building-places-experiences-and-stories-around-cigars/?utm_source=rss&utm_medium=rss&utm_campaign=h-lennon-building-places-experiences-and-stories-around-cigars"
+        "url": "https://www.cigarjournal.com/h-lennon-building-places-experiences-and-stories-around-cigars/"
       },
       "confirmed_by": [],
       "id": "h-lennon-building-places-experiences-and-stories-around-cigars"
     },
     {
-      "published_at": "2026-09-09T09:47:14+00:00",
-      "updated_at": "2026-09-09T09:47:14+00:00",
-      "title": "Honduras Will Have an International Tobacco Festival: Eiroa",
-      "summary": "In an exclusive interview granted to Humo Latino before the start of the eighth edition of Fuego y Barrica, Christian Eiroa, CEO of CLE Cigar Company, confirmed that commitment and authorization from competent authorities are already in place for Honduras to launch a flagship international tobacco festival starting in January 2027",
+      "published_at": "2026-09-09T10:31:49+00:00",
+      "updated_at": "2026-09-09T10:31:49+00:00",
+      "title": "Flor de Selva Maduro Collection: Now Available in Fino Format",
+      "summary": "The Flor de Selva Maduro Collection is expanding: Starting in October, the Grand Corona “Fino” will be available to a wider customer base",
       "category": [
-        "Honduras",
-        "Event"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2017/03/cle-cigar-company-logo.jpg",
+      "image": "https://media.cigarjournal.com/flor-1.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/honduras-will-have-an-international-tobacco-festival-eiroa/?utm_source=rss&utm_medium=rss&utm_campaign=honduras-will-have-an-international-tobacco-festival-eiroa"
+          "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/honduras-will-have-an-international-tobacco-festival-eiroa/?utm_source=rss&utm_medium=rss&utm_campaign=honduras-will-have-an-international-tobacco-festival-eiroa"
+        "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/"
       },
       "confirmed_by": [],
-      "id": "honduras-will-have-an-international-tobacco-festival-eiroa"
+      "id": "flor-de-selva-maduro-collection-now-available-in-fino-format"
     },
     {
       "published_at": "2026-09-09T09:08:29+00:00",
@@ -365,88 +365,97 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/timon-1.gif",
+      "image": "https://media.cigarjournal.com/timon-1.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
+          "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/?utm_source=rss&utm_medium=rss&utm_campaign=maya-selva-cigars-introduces-timon"
+        "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/"
       },
       "confirmed_by": [],
       "id": "maya-selva-cigars-introduces-tim-n"
     },
     {
-      "published_at": "2026-09-09T08:31:49+00:00",
-      "updated_at": "2026-09-09T08:31:49+00:00",
-      "title": "Flor de Selva Maduro Collection: Now Available in Fino Format",
-      "summary": "The Flor de Selva Maduro Collection is expanding: Starting in October, the Grand Corona “Fino” will be available to a wider customer base",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/flor-1.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/?utm_source=rss&utm_medium=rss&utm_campaign=flor-de-selva-maduro-collection-available-in-the-fino-format"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/flor-de-selva-maduro-collection-available-in-the-fino-format/?utm_source=rss&utm_medium=rss&utm_campaign=flor-de-selva-maduro-collection-available-in-the-fino-format"
-      },
-      "confirmed_by": [],
-      "id": "flor-de-selva-maduro-collection-now-available-in-fino-format"
-    },
-    {
-      "published_at": "2026-09-08T21:43:57+00:00",
-      "updated_at": "2026-09-08T21:43:57+00:00",
-      "title": "Leo Wijnbelt Joins CLE Team | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "leo-wijnbelt-joins-cle-team-cigar-news"
-    },
-    {
-      "published_at": "2026-09-08T18:34:44+00:00",
-      "updated_at": "2026-09-08T18:34:44+00:00",
+      "published_at": "2026-09-08T20:34:44+00:00",
+      "updated_at": "2026-09-08T20:34:44+00:00",
       "title": "Cuba’s Cigar Paradox",
       "summary": "Record Habanos Revenues, Shrinking Physical Supply, China’s Influence and the Unresolved Question of Who Controls Half of the World’s Most Famous Cigar Company",
       "category": [
         "Kuba"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2023/07/COHIBA-SIGLO-DE-ORO-web.jpg",
+      "image": "https://media.cigarjournal.com/COHIBA-SIGLO-DE-ORO-web-1.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cubas-cigar-paradox/?utm_source=rss&utm_medium=rss&utm_campaign=cubas-cigar-paradox"
+          "url": "https://www.cigarjournal.com/cubas-cigar-paradox/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cubas-cigar-paradox/?utm_source=rss&utm_medium=rss&utm_campaign=cubas-cigar-paradox"
+        "url": "https://www.cigarjournal.com/cubas-cigar-paradox/"
       },
       "confirmed_by": [],
       "id": "cuba-s-cigar-paradox"
+    },
+    {
+      "published_at": "2026-09-08T19:59:08+00:00",
+      "updated_at": "2026-09-08T19:59:08+00:00",
+      "title": "Leo Wijnbelt Joins CLE Cigar Co",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        }
+      ],
+      "id": "leo-wijnbelt-joins-cle-cigar-co"
+    },
+    {
+      "published_at": "2026-09-07T16:21:09+00:00",
+      "updated_at": "2026-09-07T16:21:09+00:00",
+      "title": "5th Avenue, German Distributor of Cuban Cigars, Pauses Deliveries Due to Banking Issues",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "5th-avenue-german-distributor-of-cuban-cigars-pauses-deliveries-due-to-banking-issues"
     },
     {
       "published_at": "2026-09-07T14:34:08+00:00",
@@ -473,47 +482,47 @@
       "id": "breaking-news-habanos-germany-halts-operations-due-to-eu-sanctions-against-chen-zhi"
     },
     {
-      "published_at": "2026-09-07T08:14:58+00:00",
-      "updated_at": "2026-09-07T08:14:58+00:00",
+      "published_at": "2026-09-07T10:14:58+00:00",
+      "updated_at": "2026-09-07T10:14:58+00:00",
       "title": "Emilio Cigars Ships the New Limited-Edition SUAVE SUMATRA",
       "summary": "Emilio Cigars is proud to announce the release of the Limited-Edition SUAVE SUMATRA",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/emilio.gif",
+      "image": "https://media.cigarjournal.com/emilio.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/?utm_source=rss&utm_medium=rss&utm_campaign=emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
+          "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/?utm_source=rss&utm_medium=rss&utm_campaign=emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
+        "url": "https://www.cigarjournal.com/emilio-cigars-ships-the-new-limited-edition-suave-sumatra/"
       },
       "confirmed_by": [],
       "id": "emilio-cigars-ships-the-new-limited-edition-suave-sumatra"
     },
     {
-      "published_at": "2026-09-07T07:57:46+00:00",
-      "updated_at": "2026-09-07T07:57:46+00:00",
+      "published_at": "2026-09-07T09:57:46+00:00",
+      "updated_at": "2026-09-07T09:57:46+00:00",
       "title": "Plasencia Cigars Unveils The Next Chapter Of Its Brand Evolution",
-      "summary": "Plasencia Cigars today unveils Born of This Land, the next chapter in the company's brand evolution as it honors 160 years of growing tobacco",
+      "summary": "Plasencia Cigars today unveils Born of This Land, the next chapter in the company’s brand evolution as it honors 160 years of growing tobacco",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "https://www.cigarjournal.com/wp-content/uploads/2026/09/plasenciaaaa.gif",
+      "image": "https://media.cigarjournal.com/plasenciaaaa.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/?utm_source=rss&utm_medium=rss&utm_campaign=plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
+          "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/?utm_source=rss&utm_medium=rss&utm_campaign=plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
+        "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution/"
       },
       "confirmed_by": [],
       "id": "plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
@@ -615,6 +624,38 @@
       "id": "cigar-industry-report-edition-705-9-6-26"
     },
     {
+      "published_at": "2026-09-05T14:06:44+00:00",
+      "updated_at": "2026-09-05T14:06:44+00:00",
+      "title": "PROCIGAR FESTIVAL 2027: Registration Now Open",
+      "summary": "The Association of Dominican Cigar Manufacturers (PROCIGAR) proudly announces that registration is now open for the 19th edition of the PROCIGAR Festival",
+      "category": [
+        "Event"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://media.cigarjournal.com/ProCigar.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        }
+      ],
+      "id": "procigar-festival-2027-registration-now-open"
+    },
+    {
       "published_at": "2026-09-04T00:18:10+00:00",
       "updated_at": "2026-09-04T00:18:10+00:00",
       "title": "Perez-Carrillo Pledge Purple (Toro) by Casa Carrillo | Cigar Review",
@@ -707,27 +748,73 @@
       "id": "lars-tetens-passes-away-cigar-news"
     },
     {
-      "published_at": "2026-09-03T00:17:57+00:00",
-      "updated_at": "2026-09-03T00:17:57+00:00",
-      "title": "Procigar Festival 2027 Registration Opens / Davidoff Departs Procigar | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-09-02T21:41:43+00:00",
+      "updated_at": "2026-09-02T21:41:43+00:00",
+      "title": "Corte Madera, Calif. Moving Forward With Total Tobacco & Nicotine Sales Ban",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
-        "Event"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2V3YkNybXZnaEVUZkZJSE0wbGQ3ZVdCOU4taVBuVUZLNVpDcGxHd0V0MnBrdzFJUzRadWZvV2pBUkVkUnFYVVZ5b3VQdEIxamp2aGpBdzlNN2NNeVM2blVFUnhiZjZXUWFVcGpqa0JMNUl1YXVYWk5UNUhueGxFbmp6Q2cxTXRIQURpWGUzYjdjb2owNmlVLVdJUEtSSGktTUxn?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2V3YkNybXZnaEVUZkZJSE0wbGQ3ZVdCOU4taVBuVUZLNVpDcGxHd0V0MnBrdzFJUzRadWZvV2pBUkVkUnFYVVZ5b3VQdEIxamp2aGpBdzlNN2NNeVM2blVFUnhiZjZXUWFVcGpqa0JMNUl1YXVYWk5UNUhueGxFbmp6Q2cxTXRIQURpWGUzYjdjb2owNmlVLVdJUEtSSGktTUxn?oc=5"
       },
       "confirmed_by": [],
-      "id": "procigar-festival-2027-registration-opens-davidoff-departs-procigar-cigar-news"
+      "id": "corte-madera-calif-moving-forward-with-total-tobacco-nicotine-sales-ban"
+    },
+    {
+      "published_at": "2026-09-02T11:36:01+00:00",
+      "updated_at": "2026-09-02T11:36:01+00:00",
+      "title": "Oliva Cigar Evening in Bratislava",
+      "summary": "Dom Cigar invites you to their next cigar event. Oliva cigar evening will take place on Tuesday, 08.09.2025 at 18:00 in Tryskac pub at Padlých Hrdinov 71 in Bratislava on the covered terrace",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/oliva-4.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/"
+      },
+      "confirmed_by": [],
+      "id": "oliva-cigar-evening-in-bratislava"
+    },
+    {
+      "published_at": "2026-09-02T10:34:35+00:00",
+      "updated_at": "2026-09-02T10:34:35+00:00",
+      "title": "Quality Importers Announces Price Reductions On Xikar Accessories",
+      "summary": "Quality Importers Trading Company reduces wholesale and retail pricing on most of its best-selling XIKAR cigar accessories line, effective today on new orders",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/quality.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/quality-importers-announces-price-reductions-on-xikar-accessories/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/quality-importers-announces-price-reductions-on-xikar-accessories/"
+      },
+      "confirmed_by": [],
+      "id": "quality-importers-announces-price-reductions-on-xikar-accessories"
     },
     {
       "published_at": "2026-09-02T00:22:55+00:00",
@@ -751,6 +838,29 @@
       },
       "confirmed_by": [],
       "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
+    },
+    {
+      "published_at": "2026-09-01T15:26:24+00:00",
+      "updated_at": "2026-09-01T15:26:24+00:00",
+      "title": "Savile Noir: Eliminating Lingering Cigar Smoke From Garments",
+      "summary": "With the product removing cigar smoke from garments, Shane drew inspiration from Savile Row in the naming of Savile Noir, and after six months of trials, Savile Noir was launched at Western Australia’s inaugural Festival of the Leaf",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Unbenannt-67.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/savile-noir-eliminating-lingering-cigar-smoke-from-garments/"
+      },
+      "confirmed_by": [],
+      "id": "savile-noir-eliminating-lingering-cigar-smoke-from-garments"
     }
   ]
 }
