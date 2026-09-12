@@ -1,25 +1,71 @@
 {
-  "updated_at": "2026-09-11T19:40:45.238700+00:00",
+  "updated_at": "2026-09-12T09:18:01.991438+00:00",
   "items": [
     {
-      "published_at": "2026-09-11T19:17:40+00:00",
-      "updated_at": "2026-09-11T19:17:40+00:00",
+      "published_at": "2026-09-12T08:19:04+00:00",
+      "updated_at": "2026-09-12T08:19:04+00:00",
+      "title": "GRE Trade Takes Over Distribution of Laura Chavin in Germany",
+      "summary": "Starting in October 2026, GRE Trade will take over the exclusive distribution of the premium cigar brand in Germany",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/GRE.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/gre-trade-takes-over-distribution-of-laura-chavin-in-germany/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/gre-trade-takes-over-distribution-of-laura-chavin-in-germany/"
+      },
+      "confirmed_by": [],
+      "id": "gre-trade-takes-over-distribution-of-laura-chavin-in-germany"
+    },
+    {
+      "published_at": "2026-09-12T00:16:12+00:00",
+      "updated_at": "2026-09-12T00:16:12+00:00",
+      "title": "It’s Time To Talk About the Other Habanos S.A. Shareholder",
+      "summary": "The Cuban government owns 50 percent, Chen Zhi owns 28.55 percent, and someone else owns the remaining 21.45 percent. While the Cuban cigar world continues to deal with new Chen-related problems, it's time to start thinking about what happens if the minority shareholder gets Chen's stake. To start, you have to figure out who that shareholder is.",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2018/02/Festival-de-Habano-XX-Habanos-S.A.-Booth.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/its-time-to-talk-about-habanos-sa-other-owner/479295/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/its-time-to-talk-about-habanos-sa-other-owner/479295/"
+      },
+      "confirmed_by": [],
+      "id": "it-s-time-to-talk-about-the-other-habanos-s-a-shareholder"
+    },
+    {
+      "published_at": "2026-09-11T14:30:01+00:00",
+      "updated_at": "2026-09-11T14:30:01+00:00",
       "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
       "summary": "Update: Last week, the company told its retailers that it was pausing shipments due to banking issues. This week, it has filed for insolvency. The post 5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update) appeared first on halfwheel",
       "category": [
         "Kuba"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/5th-Avenue-Products-Trading-GmbH-Logo.jpeg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+          "url": "https://halfwheel.com/5th-avenue-german-austrian-distributor-of-cuban-cigars-pauses-deliveries-due-to-banking-issues/478900/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+        "url": "https://halfwheel.com/5th-avenue-german-austrian-distributor-of-cuban-cigars-pauses-deliveries-due-to-banking-issues/478900/"
       },
       "confirmed_by": [],
       "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
@@ -241,24 +287,24 @@
       "id": "cigar-com-transitioning-to-cigora-com"
     },
     {
-      "published_at": "2026-09-09T22:16:00+00:00",
-      "updated_at": "2026-09-09T22:16:00+00:00",
+      "published_at": "2026-09-09T22:00:22+00:00",
+      "updated_at": "2026-09-09T22:00:22+00:00",
       "title": "Viaje Platino Reserva Perfecto",
       "summary": "In the early 2010s, the Viaje Oro Reserva and Platino Reserva were known to make annual appearances. This year, the blends returned in a new 5 1/2 x 52 box-pressed perfecto. The post Viaje Platino Reserva Perfecto appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Viaje-Platino-Reserva-Perfecto-2.jpg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
+          "url": "https://halfwheel.com/viaje-platino-reserva-perfecto/478991/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
+        "url": "https://halfwheel.com/viaje-platino-reserva-perfecto/478991/"
       },
       "confirmed_by": [],
       "id": "viaje-platino-reserva-perfecto"
@@ -403,6 +449,29 @@
       "id": "maya-selva-cigars-introduces-tim-n"
     },
     {
+      "published_at": "2026-09-08T21:43:57+00:00",
+      "updated_at": "2026-09-08T21:43:57+00:00",
+      "title": "Leo Wijnbelt Joins CLE Team | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "leo-wijnbelt-joins-cle-team-cigar-news"
+    },
+    {
       "published_at": "2026-09-08T20:34:44+00:00",
       "updated_at": "2026-09-08T20:34:44+00:00",
       "title": "Cuba’s Cigar Paradox",
@@ -424,38 +493,6 @@
       },
       "confirmed_by": [],
       "id": "cuba-s-cigar-paradox"
-    },
-    {
-      "published_at": "2026-09-08T19:59:08+00:00",
-      "updated_at": "2026-09-08T19:59:08+00:00",
-      "title": "Leo Wijnbelt Joins CLE Cigar Co",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "id": "leo-wijnbelt-joins-cle-cigar-co"
     },
     {
       "published_at": "2026-09-07T14:34:08+00:00",
@@ -746,52 +783,6 @@
       },
       "confirmed_by": [],
       "id": "lars-tetens-passes-away-cigar-news"
-    },
-    {
-      "published_at": "2026-09-02T11:36:01+00:00",
-      "updated_at": "2026-09-02T11:36:01+00:00",
-      "title": "Oliva Cigar Evening in Bratislava",
-      "summary": "Dom Cigar invites you to their next cigar event. Oliva cigar evening will take place on Tuesday, 08.09.2025 at 18:00 in Tryskac pub at Padlých Hrdinov 71 in Bratislava on the covered terrace",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/oliva-4.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/oliva-cigar-evening-in-bratislava/"
-      },
-      "confirmed_by": [],
-      "id": "oliva-cigar-evening-in-bratislava"
-    },
-    {
-      "published_at": "2026-09-02T00:22:55+00:00",
-      "updated_at": "2026-09-02T00:22:55+00:00",
-      "title": "Mitchell Orchant Moves Into Brand Ambassador Role at Dominique London | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnphVzZlRkVrbFpjMEFwZ21MRlpWMzl0VERvdVFpbXc5RW5RdThrelBZNW52bVVpTmJ4QTZXVjBWYm1WZmxKLTdzaW5aV1Raam1YckhXX29Sb2pKdklJajVHQWRPNkFwNFZfQzVUUzJhU2ZxWkNtSVk0UlJCaXBxR2VXTldYUm1Xa2ozZzlQU09mSjRsWlNHbzBnU2lNaUVQZjAxX3RXVHVDLXFhaHYxLVh4RXE4UDA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnphVzZlRkVrbFpjMEFwZ21MRlpWMzl0VERvdVFpbXc5RW5RdThrelBZNW52bVVpTmJ4QTZXVjBWYm1WZmxKLTdzaW5aV1Raam1YckhXX29Sb2pKdklJajVHQWRPNkFwNFZfQzVUUzJhU2ZxWkNtSVk0UlJCaXBxR2VXTldYUm1Xa2ozZzlQU09mSjRsWlNHbzBnU2lNaUVQZjAxX3RXVHVDLXFhaHYxLVh4RXE4UDA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "mitchell-orchant-moves-into-brand-ambassador-role-at-dominique-london-cigar-news"
     }
   ]
 }
