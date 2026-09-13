@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-13T10:14:20.436233+00:00",
+  "updated_at": "2026-09-13T14:54:51.320746+00:00",
   "items": [
+    {
+      "published_at": "2026-09-13T13:00:13+00:00",
+      "updated_at": "2026-09-13T13:00:13+00:00",
+      "title": "Room101 17th Anniversary",
+      "summary": "After skipping the 16th anniversary, Room101's Anniversary series gets its seventh blend for the brand's 17th anniversary. Once again, the brand has turned for AJ Fernandez for the blend. The post Room101 17th Anniversary appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Room101-17th-Anniversary-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/room101-17th-anniversary/479401/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/room101-17th-anniversary/479401/"
+      },
+      "confirmed_by": [],
+      "id": "room101-17th-anniversary"
+    },
     {
       "published_at": "2026-09-12T19:00:31+00:00",
       "updated_at": "2026-09-12T19:00:31+00:00",
@@ -23,29 +46,6 @@
       },
       "confirmed_by": [],
       "id": "black-label-trading-co-bishops-blend-2026-lancero"
-    },
-    {
-      "published_at": "2026-09-12T12:04:30+00:00",
-      "updated_at": "2026-09-12T12:04:30+00:00",
-      "title": "Cigar Industry Report: Edition 706 (9/12/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU5aNDRZODRLVmhYNk8xMnpLc1psYTVGbTQtUXRiemtpSV9NSGNQZjVoc3VyMWJRWHVOSGRHUXExRy1ZN3NHMW4wWTFjOE80WnZtMTlyTGZ2cU42TThrcUtkQ3AxZmR4VHBPNmhaUUVVSklUaGFzY2haWUNoMHhpbW9FSQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU5aNDRZODRLVmhYNk8xMnpLc1psYTVGbTQtUXRiemtpSV9NSGNQZjVoc3VyMWJRWHVOSGRHUXExRy1ZN3NHMW4wWTFjOE80WnZtMTlyTGZ2cU42TThrcUtkQ3AxZmR4VHBPNmhaUUVVSklUaGFzY2haWUNoMHhpbW9FSQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-706-9-12-26"
     },
     {
       "published_at": "2026-09-12T08:19:04+00:00",
@@ -94,24 +94,24 @@
       "id": "it-s-time-to-talk-about-the-other-habanos-s-a-shareholder"
     },
     {
-      "published_at": "2026-09-11T19:17:40+00:00",
-      "updated_at": "2026-09-11T19:17:40+00:00",
+      "published_at": "2026-09-11T14:30:01+00:00",
+      "updated_at": "2026-09-11T14:30:01+00:00",
       "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
       "summary": "Update: Last week, the company told its retailers that it was pausing shipments due to banking issues. This week, it has filed for insolvency. The post 5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update) appeared first on halfwheel",
       "category": [
         "Kuba"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/5th-Avenue-Products-Trading-GmbH-Logo.jpeg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+          "url": "https://halfwheel.com/5th-avenue-german-austrian-distributor-of-cuban-cigars-pauses-deliveries-due-to-banking-issues/478900/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+        "url": "https://halfwheel.com/5th-avenue-german-austrian-distributor-of-cuban-cigars-pauses-deliveries-due-to-banking-issues/478900/"
       },
       "confirmed_by": [],
       "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
@@ -161,29 +161,6 @@
       },
       "confirmed_by": [],
       "id": "j-c-newman-ships-the-2026-release-of-brick-house-bricktoberfest"
-    },
-    {
-      "published_at": "2026-09-11T01:18:33+00:00",
-      "updated_at": "2026-09-11T01:18:33+00:00",
-      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "kelner-le-80-diademas-finas-cigar-review"
     },
     {
       "published_at": "2026-09-10T23:17:31+00:00",
@@ -287,29 +264,6 @@
       "id": "cigarkings-coy-26-aero-lancero-ships-next-week"
     },
     {
-      "published_at": "2026-09-10T13:08:31+00:00",
-      "updated_at": "2026-09-10T13:08:31+00:00",
-      "title": "Aganorsa Leaf Supreme Leaf Worldwide to Debut at InterTabac 2026 | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "aganorsa-leaf-supreme-leaf-worldwide-to-debut-at-intertabac-2026-cigar-news"
-    },
-    {
       "published_at": "2026-09-09T23:30:28+00:00",
       "updated_at": "2026-09-09T23:30:28+00:00",
       "title": "Cigar.com Transitioning to Cigora.com",
@@ -331,29 +285,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-com-transitioning-to-cigora-com"
-    },
-    {
-      "published_at": "2026-09-09T22:16:00+00:00",
-      "updated_at": "2026-09-09T22:16:00+00:00",
-      "title": "Viaje Platino Reserva Perfecto",
-      "summary": "In the early 2010s, the Viaje Oro Reserva and Platino Reserva were known to make annual appearances. This year, the blends returned in a new 5 1/2 x 52 box-pressed perfecto. The post Viaje Platino Reserva Perfecto appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "viaje-platino-reserva-perfecto"
     },
     {
       "published_at": "2026-09-09T17:33:01+00:00",
@@ -400,6 +331,29 @@
       },
       "confirmed_by": [],
       "id": "and-the-winner-is-cigar-trophy-awards-2026"
+    },
+    {
+      "published_at": "2026-09-09T15:21:52+00:00",
+      "updated_at": "2026-09-09T15:21:52+00:00",
+      "title": "Aganorsa Leaf Launching New Cigars For Global Market",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXVrcGNqQUtUcWl4ZWlnOTYtbENSemlmcFJCZ2RjWHV0b1JDbzVTT3BNZDRtM296NG9uTzNSTlllQ2ZCV2x4dzBwRkZlWldfRFZ6QkJMZlF6Y2ptSkhPeEhXM1FhV0E0Z2JrenJoZVp1Q0RSRFJNNU14UXhfeC1QTURiRXRxdXdPY3BBNm00dWpudFlpV2c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXVrcGNqQUtUcWl4ZWlnOTYtbENSemlmcFJCZ2RjWHV0b1JDbzVTT3BNZDRtM296NG9uTzNSTlllQ2ZCV2x4dzBwRkZlWldfRFZ6QkJMZlF6Y2ptSkhPeEhXM1FhV0E0Z2JrenJoZVp1Q0RSRFJNNU14UXhfeC1QTURiRXRxdXdPY3BBNm00dWpudFlpV2c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "aganorsa-leaf-launching-new-cigars-for-global-market"
     },
     {
       "published_at": "2026-09-09T11:47:14+00:00",
@@ -518,38 +472,6 @@
       "id": "cuba-s-cigar-paradox"
     },
     {
-      "published_at": "2026-09-08T19:59:08+00:00",
-      "updated_at": "2026-09-08T19:59:08+00:00",
-      "title": "Leo Wijnbelt Joins CLE Cigar Co",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "id": "leo-wijnbelt-joins-cle-cigar-co"
-    },
-    {
       "published_at": "2026-09-07T14:34:08+00:00",
       "updated_at": "2026-09-07T14:34:08+00:00",
       "title": "BREAKING NEWS: Habanos Germany halts operations due to EU sanctions against Chen Zhi",
@@ -618,30 +540,6 @@
       },
       "confirmed_by": [],
       "id": "plasencia-cigars-unveils-the-next-chapter-of-its-brand-evolution"
-    },
-    {
-      "published_at": "2026-09-06T17:53:47+00:00",
-      "updated_at": "2026-09-06T17:53:47+00:00",
-      "title": "Undercrown El Tigre Dominicano Toro by Drew Estate – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVQdno2bThZdW1mV0xVRTQ1VEptdkE5WmprUWUtQktrS2tPRXN0N1JRVEEtazI4NFVMYkxZcjZJcjMteWEwNzcwNGNxaE9FV0tzMk40c1FtbkVPYXlnaFpVODhSdXpGY1dZeVpxa19kbGhWeEs4NUxrSGVsUVdCNklpYllRbHRtQmUwYnhETDRmVWUxWkI5MjBBdkptZmJO?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVQdno2bThZdW1mV0xVRTQ1VEptdkE5WmprUWUtQktrS2tPRXN0N1JRVEEtazI4NFVMYkxZcjZJcjMteWEwNzcwNGNxaE9FV0tzMk40c1FtbkVPYXlnaFpVODhSdXpGY1dZeVpxa19kbGhWeEs4NUxrSGVsUVdCNklpYllRbHRtQmUwYnhETDRmVWUxWkI5MjBBdkptZmJO?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "undercrown-el-tigre-dominicano-toro-by-drew-estate-cigar-review"
     },
     {
       "published_at": "2026-09-06T12:30:21+00:00",
@@ -714,52 +612,6 @@
       },
       "confirmed_by": [],
       "id": "procigar-festival-2027-registration-now-open"
-    },
-    {
-      "published_at": "2026-09-04T00:18:10+00:00",
-      "updated_at": "2026-09-04T00:18:10+00:00",
-      "title": "Perez-Carrillo Pledge Purple (Toro) by Casa Carrillo | Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzR1cXVST2ZPV1hFVllpc1VJWlFuX3FCc3FVX0JVYTM0cWRDcDVMdDB6R2ppckJSZThTZC1zQTFGS2daQWd3dV9iejZkcUxqS3JXWVl0aFZRdW9Eb29wZWsyX0hNQ2h5LWNaMW9HZlcxSHNCOUc2N20zcWlHbE5zNE5FRjQ3c01PMUlhTjlHcHVuM1JBaF9oXzZHS1oyQUtt?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzR1cXVST2ZPV1hFVllpc1VJWlFuX3FCc3FVX0JVYTM0cWRDcDVMdDB6R2ppckJSZThTZC1zQTFGS2daQWd3dV9iejZkcUxqS3JXWVl0aFZRdW9Eb29wZWsyX0hNQ2h5LWNaMW9HZlcxSHNCOUc2N20zcWlHbE5zNE5FRjQ3c01PMUlhTjlHcHVuM1JBaF9oXzZHS1oyQUtt?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "perez-carrillo-pledge-purple-toro-by-casa-carrillo-cigar-review"
-    },
-    {
-      "published_at": "2026-09-03T17:07:58+00:00",
-      "updated_at": "2026-09-03T17:07:58+00:00",
-      "title": "Indian Motorcycle 125th Anniversary Limited Edition to Launch at Owl Shop | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2Q3b3ZkVVctZ0ZsZkRqQ1F3d0lGaklBam1NMWxiSVNleHBxZ0EzMUNpUjZpVVhIdi1oLXB6SWlTYjl2WENObTQxZjJlaUZ4YUZPOGxPZHFFcFBDNC1mbDlRQ0hZTmxDU1hfd3ZFeEUtV3dDbnVvREFwWnpXckV0Ml9tWFhGMXA0THZzZHR1TXB4SXktZnVUNnRwOGR1V195RjQ3czMxWDg4c2xpNElvT29PbGV4bGctTEpnRw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2Q3b3ZkVVctZ0ZsZkRqQ1F3d0lGaklBam1NMWxiSVNleHBxZ0EzMUNpUjZpVVhIdi1oLXB6SWlTYjl2WENObTQxZjJlaUZ4YUZPOGxPZHFFcFBDNC1mbDlRQ0hZTmxDU1hfd3ZFeEUtV3dDbnVvREFwWnpXckV0Ml9tWFhGMXA0THZzZHR1TXB4SXktZnVUNnRwOGR1V195RjQ3czMxWDg4c2xpNElvT29PbGV4bGctTEpnRw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "indian-motorcycle-125th-anniversary-limited-edition-to-launch-at-owl-shop-cigar-news"
     },
     {
       "published_at": "2026-09-03T15:32:22+00:00",
