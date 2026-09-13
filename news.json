@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:18:23.382087+00:00",
+  "updated_at": "2026-09-13T10:14:20.436233+00:00",
   "items": [
     {
       "published_at": "2026-09-12T19:00:31+00:00",
@@ -700,28 +700,19 @@
       "category": [
         "Event"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "https://media.cigarjournal.com/ProCigar.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/procigar-festival-2027-registration-now-open/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXdGWjFSU2dyOVRseFdWeks2UldjSHFpVDRHNG10VFMteGQzZWFRVjVuaXhVd00yOXdSU1RWZDJEZEdjbDluUzFEeVoydU83S08yTkhhMjZIMlBXclBNaGFjeno5SEhQc2lEMU1kRkN0LUxEU0dzU3RFUVB0TkRmSU1OTXdBdjhKM1lXUVBUZFplaDR4RFdjOFZBYm1zdi0zSUg1cWxmUGJlZkRfTFhEVElPV3c?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "procigar-festival-2027-registration-now-open"
     },
     {
@@ -792,29 +783,6 @@
       },
       "confirmed_by": [],
       "id": "texas-tech-gets-cigar-line-honoring-football-and-west-texas"
-    },
-    {
-      "published_at": "2026-09-03T02:53:07+00:00",
-      "updated_at": "2026-09-03T02:53:07+00:00",
-      "title": "Lars Tetens Passes Away | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yTWh6cFlfVER1YU1xbVE2anA0Ty1TUEdrN2FrQXZoN0UyeGZRTzJvVE15dVREYUFDNVUyQmhVaDNEanFfZ0xDUlRRUG94ZVdvT1JqcDhzVnhoZ2xrY05nV3FXcDZJd3dyY1dsZmpTcFRJRDZTN2RzUkJ3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yTWh6cFlfVER1YU1xbVE2anA0Ty1TUEdrN2FrQXZoN0UyeGZRTzJvVE15dVREYUFDNVUyQmhVaDNEanFfZ0xDUlRRUG94ZVdvT1JqcDhzVnhoZ2xrY05nV3FXcDZJd3dyY1dsZmpTcFRJRDZTN2RzUkJ3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "lars-tetens-passes-away-cigar-news"
     }
   ]
 }
