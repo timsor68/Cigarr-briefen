@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-14T20:56:05.500766+00:00",
+  "updated_at": "2026-09-15T10:02:37.044895+00:00",
   "items": [
+    {
+      "published_at": "2026-09-15T05:59:49+00:00",
+      "updated_at": "2026-09-15T05:59:49+00:00",
+      "title": "Meerapfel Debuts Project 18 at InterTabac 2026",
+      "summary": "The newest version of the line known for its short, thick sizes, gets a Mexican-grown wrapper over a Nicaraguan binder and filler. It will debut in two sizes, one of which is slated to be an exclusive for the United States. The post NUb Mexico Debuts at InterTabac 2026, Coming to U.S.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Meerapfel-Cigar-Project-18-feature-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/meerapfel-debuts-project-18-at-intertabac/479635/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/meerapfel-debuts-project-18-at-intertabac/479635/"
+      },
+      "confirmed_by": [],
+      "id": "meerapfel-debuts-project-18-at-intertabac-2026"
+    },
     {
       "published_at": "2026-09-14T19:00:59+00:00",
       "updated_at": "2026-09-14T19:00:59+00:00",
@@ -25,27 +48,50 @@
       "id": "sin-compromiso-selecci-n-no-4"
     },
     {
-      "published_at": "2026-09-14T17:23:07+00:00",
-      "updated_at": "2026-09-14T17:23:07+00:00",
+      "published_at": "2026-09-14T17:17:48+00:00",
+      "updated_at": "2026-09-14T17:17:48+00:00",
       "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
       "summary": "The slender cigars debuted in February and normally come in boxes of 10 or 25. A new 50-count ceramic jar option will be available soon, with just 500 units produced. The post EGM Cigars Adding Limited Edition Ninfa Jars appeared first on halfwheel",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/EGM-Cigars-Ninfa-Jar-feature-1.jpg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qazZna0VUeXhVZl9LQ2JqN0JaZHAxWVN4b3RMdmt5NjY4NWVDVlRia3BzR0dNVmV4NHFnNkJhS1dBQmsweGc?oc=5"
+          "url": "https://halfwheel.com/egm-cigars-adding-limited-edition-ninfa-jars/479542/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qazZna0VUeXhVZl9LQ2JqN0JaZHAxWVN4b3RMdmt5NjY4NWVDVlRia3BzR0dNVmV4NHFnNkJhS1dBQmsweGc?oc=5"
+        "url": "https://halfwheel.com/egm-cigars-adding-limited-edition-ninfa-jars/479542/"
       },
       "confirmed_by": [],
       "id": "egm-cigars-adding-limited-edition-ninfa-jars"
+    },
+    {
+      "published_at": "2026-09-14T16:20:12+00:00",
+      "updated_at": "2026-09-14T16:20:12+00:00",
+      "title": "Handmade Cigar Imports Hold Steady For First Half Of Year",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "handmade-cigar-imports-hold-steady-for-first-half-of-year"
     },
     {
       "published_at": "2026-09-14T16:00:05+00:00",
@@ -126,36 +172,27 @@
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
     },
     {
-      "published_at": "2026-09-14T08:51:16+00:00",
-      "updated_at": "2026-09-14T08:51:16+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Confirms It Has Filed for Insolvency",
-      "summary": "The company, which distributes Cuban cigars in Austria, Germany and Poland, has issued a statement regarding last week's insolvency filings. The post 5th Avenue, German Distributor of Cuban Cigars, Confirms It Has Filed for Insolvency appeared first on halfwheel",
+      "published_at": "2026-09-14T09:30:01+00:00",
+      "updated_at": "2026-09-14T09:30:01+00:00",
+      "title": "5th Avenue has filed for insolvency proceeding",
+      "summary": "It has been known for several days that 5th Avenue Products Trading-GmbH has filed for bankruptcy. We most recently reported on the background to this situation in our article “Cuba’s Cigar Paradox,” among others",
       "category": [
-        "Kuba"
+        "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/5thAvenue.jpg",
       "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
-        },
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
-        }
-      ],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-confirms-it-has-filed-for-insolvency"
+      "confirmed_by": [],
+      "id": "5th-avenue-has-filed-for-insolvency-proceeding"
     },
     {
       "published_at": "2026-09-13T18:26:57+00:00",
@@ -226,52 +263,6 @@
       },
       "confirmed_by": [],
       "id": "new-england-cigar-expo-releases-2026-limited-edition-pizza-cigar"
-    },
-    {
-      "published_at": "2026-09-13T13:00:13+00:00",
-      "updated_at": "2026-09-13T13:00:13+00:00",
-      "title": "Room101 17th Anniversary",
-      "summary": "After skipping the 16th anniversary, Room101's Anniversary series gets its seventh blend for the brand's 17th anniversary. Once again, the brand has turned for AJ Fernandez for the blend. The post Room101 17th Anniversary appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Room101-17th-Anniversary-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/room101-17th-anniversary/479401/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/room101-17th-anniversary/479401/"
-      },
-      "confirmed_by": [],
-      "id": "room101-17th-anniversary"
-    },
-    {
-      "published_at": "2026-09-12T19:00:31+00:00",
-      "updated_at": "2026-09-12T19:00:31+00:00",
-      "title": "Black Label Trading Co. Bishops Blend 2026 Lancero",
-      "summary": "It has been 10 years since Black Label Trading Co. That means it is time for a 10th anniversary release, only it's not called that. The post Black Label Trading Co.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Black-Label-Trading-Co.-Bishops-Blend-2026-Lancero-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/black-label-trading-co-bishops-blend-2026-lancero/479356/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/black-label-trading-co-bishops-blend-2026-lancero/479356/"
-      },
-      "confirmed_by": [],
-      "id": "black-label-trading-co-bishops-blend-2026-lancero"
     },
     {
       "published_at": "2026-09-12T12:04:30+00:00",
@@ -412,50 +403,27 @@
       "id": "aganorsa-leaf-supreme-leaf-worldwide-to-debut-at-intertabac-2026-cigar-news"
     },
     {
-      "published_at": "2026-09-09T23:36:25+00:00",
-      "updated_at": "2026-09-09T23:36:25+00:00",
-      "title": "Cigar.com Transitioning to Cigora.com",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "published_at": "2026-09-09T17:33:01+00:00",
+      "updated_at": "2026-09-09T17:33:01+00:00",
+      "title": "Germany Halts Distribution Of Cuban Cigars",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
       "category": [
-        "Nyheter"
+        "Kuba"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
       },
       "confirmed_by": [],
-      "id": "cigar-com-transitioning-to-cigora-com"
-    },
-    {
-      "published_at": "2026-09-09T22:16:00+00:00",
-      "updated_at": "2026-09-09T22:16:00+00:00",
-      "title": "Viaje Platino Reserva Perfecto",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLc2dwQkhXTEFjZlZJWDFWYlBvaVRhRmppVC14VDc1dWJxOXNKUjZ4WUQyTUhlcENGNWgxRGlHZDBtNlFMbU55WjZSbzJ4cXh2MlpoSGFINzQtQzlSR3haSERueEFCVHFTRWdJdA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "viaje-platino-reserva-perfecto"
+      "id": "germany-halts-distribution-of-cuban-cigars"
     },
     {
       "published_at": "2026-09-09T16:01:36+00:00",
@@ -574,59 +542,27 @@
       "id": "flor-de-selva-maduro-collection-now-available-in-fino-format"
     },
     {
-      "published_at": "2026-09-09T09:08:29+00:00",
-      "updated_at": "2026-09-09T09:08:29+00:00",
-      "title": "Maya Selva Cigars Introduces “Timón”",
-      "summary": "With Timón, Maya Selva is introducing a new cigar brand that makes handcrafted cigars from Honduras available at an attractive price",
+      "published_at": "2026-09-08T21:43:57+00:00",
+      "updated_at": "2026-09-08T21:43:57+00:00",
+      "title": "Leo Wijnbelt Joins CLE Team | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/timon-1.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/maya-selva-cigars-introduces-timon/"
-      },
-      "confirmed_by": [],
-      "id": "maya-selva-cigars-introduces-tim-n"
-    },
-    {
-      "published_at": "2026-09-08T19:59:08+00:00",
-      "updated_at": "2026-09-08T19:59:08+00:00",
-      "title": "Leo Wijnbelt Joins CLE Cigar Co",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
-        },
-        {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia0VsX25ESFlwWEJlbWgtMGg2ZElRN3NKOC1FdjhLM09DXzJvVVhQN0VFXzQtN2J6Vnl4ZjBuX3Z2cFJ6VDV1Sm9ncVRHdEJOeFZmNXhlVUlNWWxENm5UNVpKWVRRVlBISkZwckNR?oc=5"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
-        }
-      ],
-      "id": "leo-wijnbelt-joins-cle-cigar-co"
+      "confirmed_by": [],
+      "id": "leo-wijnbelt-joins-cle-team-cigar-news"
     },
     {
       "published_at": "2026-09-07T14:34:08+00:00",
