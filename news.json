@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T15:32:53.927626+00:00",
+  "updated_at": "2026-09-15T20:13:49.506281+00:00",
   "items": [
     {
-      "published_at": "2026-09-15T14:30:31+00:00",
-      "updated_at": "2026-09-15T14:30:31+00:00",
+      "published_at": "2026-09-15T19:21:00+00:00",
+      "updated_at": "2026-09-15T19:21:00+00:00",
       "title": "Oliva to Release Nub Mexico | Cigar News",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -25,27 +25,82 @@
       "id": "oliva-to-release-nub-mexico-cigar-news"
     },
     {
-      "published_at": "2026-09-15T13:25:47+00:00",
-      "updated_at": "2026-09-15T13:25:47+00:00",
-      "title": "Black Works Culture Vulture Formally Announced | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-09-15T18:52:40+00:00",
+      "updated_at": "2026-09-15T18:52:40+00:00",
+      "title": "Oliva Year of the Goat Coming to International Markets",
+      "summary": "This 6 x 60 double toro uses a Cameroon wrapper over a Nicaraguan binder and filler. Unfortunately, none of the 20,000 cigars being made are slated to head to the U.S. The post Oliva Year of the Goat Coming to International Markets appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Oliva-Year-of-the-Goat-open-box-feature.jpg",
       "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/oliva-year-of-the-goat-coming-to-international-markets/479698/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/oliva-year-of-the-goat-coming-to-international-markets/479698/"
+      },
+      "confirmed_by": [],
+      "id": "oliva-year-of-the-goat-coming-to-international-markets"
+    },
+    {
+      "published_at": "2026-09-15T17:27:58+00:00",
+      "updated_at": "2026-09-15T17:27:58+00:00",
+      "title": "Black Works Studio Culture Vulture Coming This Month",
+      "summary": "James Brown, the brand's creator, calls it \"a whole new level for Black Works Studio.\" The Connecticut and candela strips give the cigars an Ombre-style fade that moves from green to yellow and back to green. The post Black Works Studio Culture Vulture Coming This Month appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/BLK-WKS-Culture-Vulture-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
+        },
         {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
+        }
+      ],
+      "id": "black-works-studio-culture-vulture-coming-this-month"
+    },
+    {
+      "published_at": "2026-09-15T16:00:50+00:00",
+      "updated_at": "2026-09-15T16:00:50+00:00",
+      "title": "AGANORSA Leaf Aniversario Connecticut Tubo",
+      "summary": "After being released as an event-exclusive in 2025, the 6 x 52 round toro vitola returned this past summer. But instead of being one cigar in a 10-count sampler, this newest version is now a regular production size packaged in an aluminum tube. The post AGANORSA Leaf Aniversario Connecticut Tubo appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/AGANORSA-Leaf-Aniversario-Connecticut-Tubo-3.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-tubo/479274/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-tubo/479274/"
       },
       "confirmed_by": [],
-      "id": "black-works-culture-vulture-formally-announced-cigar-news"
+      "id": "aganorsa-leaf-aniversario-connecticut-tubo"
     },
     {
       "published_at": "2026-09-15T13:00:48+00:00",
@@ -120,7 +175,7 @@
       "published_at": "2026-09-14T17:23:07+00:00",
       "updated_at": "2026-09-14T17:23:07+00:00",
       "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
-      "summary": "The slender cigars debuted in February and normally come in boxes of 10 or 25. A new 50-count ceramic jar option will be available soon, with just 500 units produced. The post EGM Cigars Adding Limited Edition Ninfa Jars appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nya utgåvor"
       ],
@@ -138,6 +193,29 @@
       },
       "confirmed_by": [],
       "id": "egm-cigars-adding-limited-edition-ninfa-jars"
+    },
+    {
+      "published_at": "2026-09-14T16:24:53+00:00",
+      "updated_at": "2026-09-14T16:24:53+00:00",
+      "title": "Bocock Brothers Announce Mizzou Stadium Series: Memorial Stadium 100 Year Celebration | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "bocock-brothers-announce-mizzou-stadium-series-memorial-stadium-100-year-celebration-cigar"
     },
     {
       "published_at": "2026-09-14T16:20:12+00:00",
@@ -161,61 +239,6 @@
       },
       "confirmed_by": [],
       "id": "handmade-cigar-imports-hold-steady-for-first-half-of-year"
-    },
-    {
-      "published_at": "2026-09-14T16:00:05+00:00",
-      "updated_at": "2026-09-14T16:00:05+00:00",
-      "title": "Villiger de Nicaragua Edición Limitada 2026 Releasing Tomorrow in Europe",
-      "summary": "This is the fourth and final release in the series, which debuted in 2022. The 6 x 60 gordo is made with an Ecuadorian Sumatra-seed wrapper, a Mexican San Andrés binder and a filler blend composed of Nicaraguan and U.S. The post Villiger de Nicaragua Edición Limitada 2026 Releasing Tomorrow in Europe appeared first on halfwheel",
-      "category": [
-        "Nicaragua"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Villiger-de-Nicaragua-Edicion-Limitada-2026-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/villiger-de-nicaragua-edicion-limitada-2026-releasing-tomorrow-in-europe/479520/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/villiger-de-nicaragua-edicion-limitada-2026-releasing-tomorrow-in-europe/479520/"
-      },
-      "confirmed_by": [],
-      "id": "villiger-de-nicaragua-edici-n-limitada-2026-releasing-tomorrow-in-europe"
-    },
-    {
-      "published_at": "2026-09-14T15:00:35+00:00",
-      "updated_at": "2026-09-14T15:00:35+00:00",
-      "title": "Bocock Brothers Pay Tribute to 100th Anniversary of Mizzou’s Memorial Stadium",
-      "summary": "Mizzou is the second school to get a cigar that comes in a box designed to look like a stadium. it coincides with the 100th anniversary of Memorial Stadium. The post Bocock Brothers Pay Tribute to 100th Anniversary of Mizzou’s Memorial Stadium appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Bocock-Brothers-Mizzou-Stadium-Series-Memorial-Stadium-100-Year-Celebration-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/bocock-brothers-pay-tribute-to-100th-anniversary-of-mizzous-memorial-stadium/479489/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/bocock-brothers-pay-tribute-to-100th-anniversary-of-mizzous-memorial-stadium/479489/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
-        }
-      ],
-      "id": "bocock-brothers-pay-tribute-to-100th-anniversary-of-mizzou-s-memorial-stadium"
     },
     {
       "published_at": "2026-09-14T11:06:55+00:00",
