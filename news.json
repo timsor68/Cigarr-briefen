@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-09-16T09:54:41.919444+00:00",
+  "updated_at": "2026-09-16T15:24:55.519678+00:00",
   "items": [
     {
-      "published_at": "2026-09-16T08:46:14+00:00",
-      "updated_at": "2026-09-16T08:46:14+00:00",
+      "published_at": "2026-09-16T14:43:07+00:00",
+      "updated_at": "2026-09-16T14:43:07+00:00",
+      "title": "Land Of The Wrapper Leaf: Touring Jalapa With Nestor Plasencia",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "land-of-the-wrapper-leaf-touring-jalapa-with-nestor-plasencia"
+    },
+    {
+      "published_at": "2026-09-16T12:12:32+00:00",
+      "updated_at": "2026-09-16T12:12:32+00:00",
       "title": "KS Cigar Accessories Turns Pick, Punch and Stand into One",
       "summary": "Kemal Saatçioğlu showed a new accessory at the KS Cigar Accessories stand: a single object that works as a cigar pick, a punch cutter and a stand",
       "category": [
@@ -23,6 +46,52 @@
       },
       "confirmed_by": [],
       "id": "ks-cigar-accessories-turns-pick-punch-and-stand-into-one"
+    },
+    {
+      "published_at": "2026-09-16T10:39:10+00:00",
+      "updated_at": "2026-09-16T10:39:10+00:00",
+      "title": "Matilde Cigars Opens the Pineapple Cigar Factory",
+      "summary": "Enrique and Ricardo Seijas brought Matilde's full existing range to Dortmund, but the news on the stand was a factory",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHZMMXRxVmpfUXV0TlV0cWdQSGduZnBHejFWYUhqX1BTQUdOWEk5UEl0dTlCbm01TmNXaXY5TVlUem8xQlhDOE85dXJXZU5lUHdxUXQxUVJXMWJYU3JLQjFZcHJlMkhMd19EaDBVTk5VUDlkakRpVXhhRzVaWFVHLW4yNUo?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHZMMXRxVmpfUXV0TlV0cWdQSGduZnBHejFWYUhqX1BTQUdOWEk5UEl0dTlCbm01TmNXaXY5TVlUem8xQlhDOE85dXJXZU5lUHdxUXQxUVJXMWJYU3JLQjFZcHJlMkhMd19EaDBVTk5VUDlkakRpVXhhRzVaWFVHLW4yNUo?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "matilde-cigars-opens-the-pineapple-cigar-factory"
+    },
+    {
+      "published_at": "2026-09-16T10:34:10+00:00",
+      "updated_at": "2026-09-16T10:34:10+00:00",
+      "title": "Toreo Aiming for New Markets and Heads for the PCA",
+      "summary": "Frank Emmer and Zafi Barzilay brought the full Toreo portfolio to Dortmund, where the news was less about the cigars than about where they are going",
+      "category": [
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/PHOTO-2026-09-16-12-28-44.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/toreo-aiming-for-new-markets-and-heads-for-the-pca/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/toreo-aiming-for-new-markets-and-heads-for-the-pca/"
+      },
+      "confirmed_by": [],
+      "id": "toreo-aiming-for-new-markets-and-heads-for-the-pca"
     },
     {
       "published_at": "2026-09-16T08:37:05+00:00",
@@ -334,29 +403,6 @@
       "id": "meerapfel-debuts-project-18-at-intertabac-2026"
     },
     {
-      "published_at": "2026-09-14T19:00:59+00:00",
-      "updated_at": "2026-09-14T19:00:59+00:00",
-      "title": "Sin Compromiso Selección No. 4",
-      "summary": "The Sin Compromiso line debuted in 2019, but it took Steve Saka of Dunbarton Tobacco & Trust five years to get the blend just right for a robusto vitola, releasing this size in 2024. It placed very highly on several awards list, now it's time to see what two years in the humidor has done to it. The post Sin Compromiso Selección No.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Sin-Compromiso-Seleccion-No4-Redux-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/sin-compromiso-seleccion-no-4-2/479101/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/sin-compromiso-seleccion-no-4-2/479101/"
-      },
-      "confirmed_by": [],
-      "id": "sin-compromiso-selecci-n-no-4"
-    },
-    {
       "published_at": "2026-09-14T17:23:07+00:00",
       "updated_at": "2026-09-14T17:23:07+00:00",
       "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
@@ -493,76 +539,6 @@
       },
       "confirmed_by": [],
       "id": "kopp-tobaccos-introduces-perdomo-legacy-in-germany"
-    },
-    {
-      "published_at": "2026-09-13T16:42:16+00:00",
-      "updated_at": "2026-09-13T16:42:16+00:00",
-      "title": "Coming up – Maya Selva Cigars at Intertabac 2026",
-      "summary": "Maya Selva Cigars presents new additions to its iconic cigar portfolio at InterTabac 2026",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHZmQWwyd3lnVGtmV0dwcVBfbnNVcmtWS3pMSE9PWW5OOXJvazJXZEVjZEdtN292eU5lQTJDOWNzX3NzVlhLcW9pRjF0VGdSQ3c3eE5QeG9ack1sMVZMeXRmZlV6SDRfZXRpVHI0Ty1wN3YzalNPbVhiTFVwRlVpajB3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHZmQWwyd3lnVGtmV0dwcVBfbnNVcmtWS3pMSE9PWW5OOXJvazJXZEVjZEdtN292eU5lQTJDOWNzX3NzVlhLcW9pRjF0VGdSQ3c3eE5QeG9ack1sMVZMeXRmZlV6SDRfZXRpVHI0Ty1wN3YzalNPbVhiTFVwRlVpajB3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "coming-up-maya-selva-cigars-at-intertabac-2026"
-    },
-    {
-      "published_at": "2026-09-13T16:32:16+00:00",
-      "updated_at": "2026-09-13T16:32:16+00:00",
-      "title": "New England Cigar Expo Releases 2026 Limited Edition Pizza Cigar",
-      "summary": "The New England Cigar Expo taking place Friday and Saturday, September 25–26, 2026, will once again commemorate the event with its own limited cigar",
-      "category": [
-        "Nya utgåvor",
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0JSRElxVzMxMzh5YWNpSksyY0tueFFDaFFmUUtWbnhnaG5OZ1ZPRXk4b1dMYm5sbUZ2UVNZOWx2RWNyM0VfZXpfR0ZJNW1tZkE0V2dVME1mZTRqWTFLWmtTWjJvVm13UXVRZU56dzBiYTFhUktLLUFRNXJXZGF4MXBINmRfa2JhZjF0cWo0d2k3NGJ4MEFfUnhn?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0JSRElxVzMxMzh5YWNpSksyY0tueFFDaFFmUUtWbnhnaG5OZ1ZPRXk4b1dMYm5sbUZ2UVNZOWx2RWNyM0VfZXpfR0ZJNW1tZkE0V2dVME1mZTRqWTFLWmtTWjJvVm13UXVRZU56dzBiYTFhUktLLUFRNXJXZGF4MXBINmRfa2JhZjF0cWo0d2k3NGJ4MEFfUnhn?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "new-england-cigar-expo-releases-2026-limited-edition-pizza-cigar"
-    },
-    {
-      "published_at": "2026-09-12T12:04:30+00:00",
-      "updated_at": "2026-09-12T12:04:30+00:00",
-      "title": "Cigar Industry Report: Edition 706 (9/12/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU5aNDRZODRLVmhYNk8xMnpLc1psYTVGbTQtUXRiemtpSV9NSGNQZjVoc3VyMWJRWHVOSGRHUXExRy1ZN3NHMW4wWTFjOE80WnZtMTlyTGZ2cU42TThrcUtkQ3AxZmR4VHBPNmhaUUVVSklUaGFzY2haWUNoMHhpbW9FSQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU5aNDRZODRLVmhYNk8xMnpLc1psYTVGbTQtUXRiemtpSV9NSGNQZjVoc3VyMWJRWHVOSGRHUXExRy1ZN3NHMW4wWTFjOE80WnZtMTlyTGZ2cU42TThrcUtkQ3AxZmR4VHBPNmhaUUVVSklUaGFzY2haWUNoMHhpbW9FSQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-706-9-12-26"
     },
     {
       "published_at": "2026-09-11T07:00:00+00:00",
@@ -735,55 +711,6 @@
       },
       "confirmed_by": [],
       "id": "undercrown-el-tigre-dominicano-toro-by-drew-estate-cigar-review"
-    },
-    {
-      "published_at": "2026-09-06T12:30:21+00:00",
-      "updated_at": "2026-09-06T12:30:21+00:00",
-      "title": "Habanos utnyttjade Göteborgs Symfoniker som täckmantel för olaglig cigarrförsäljning",
-      "summary": "En faktura som Cigarrvärlden kommit över visar att den svenska importören av kubanska cigarrer tar lätt på tobakslagens bestämmelser och har sålt till privatpersoner utan tillstånd. Och utan att själva vara medvetna om det fann sig Göteborgs symfoniorkester stå som köpare, åtminstone på pappret. Och detta ska ha pågått sedan många år tillbaka.",
-      "category": [
-        "Sverige",
-        "Kuba",
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Montage_Goteborgs_Symfoniorkester_COHIBA_87661cc3-0eaf-4f1d-b640-7068fd6d1180_1200x1200.jpg?v=1788699331",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-utnyttjade-goteborgs-symfoniker-som-tackmantel-for-olaglig-cigarrforaljning"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-utnyttjade-goteborgs-symfoniker-som-tackmantel-for-olaglig-cigarrforaljning"
-      },
-      "confirmed_by": [],
-      "id": "habanos-utnyttjade-g-teborgs-symfoniker-som-t-ckmantel-f-r-olaglig-cigarrf-rs-ljning"
-    },
-    {
-      "published_at": "2026-09-06T12:24:48+00:00",
-      "updated_at": "2026-09-06T12:24:48+00:00",
-      "title": "Habanos uses national orchestra´s name as cover for illicit revenue generation",
-      "summary": "An invoice obtained by Cigarrvärlden shows that the Swedish importer of Cuban cigars is taking the provisions of the Tobacco Act lightly and has sold to private individuals without the license to do so. And without being aware of it themselves, the Gothenburg Symphony Orchestra (Göteborgs Symfoniker AB) found themselves listed as the buyer, at least on paper. This has reportedly been going on for many years.",
-      "category": [
-        "Sverige",
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Montage_Goteborgs_Symfoniorkester_COHIBA_23c4f9c9-4fd3-4003-a60e-8ba6f9e3a165_1200x1200.jpg?v=1788697647",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
-      },
-      "confirmed_by": [],
-      "id": "habanos-uses-national-orchestra-s-name-as-cover-for-illicit-revenue-generation"
     }
   ]
 }
