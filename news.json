@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-16T15:24:55.519678+00:00",
+  "updated_at": "2026-09-16T20:05:38.423037+00:00",
   "items": [
+    {
+      "published_at": "2026-09-16T17:13:24+00:00",
+      "updated_at": "2026-09-16T17:13:24+00:00",
+      "title": "Stolen Throne Highway Drifter Showing Up at Stores",
+      "summary": "This is the first release from the company to feature a shaggy foot. Blend-wise, the 6 x 52 toro incorporates an Ecuadorian habano-seed wrapper covering a binder and filler blend grown in Nicaragua. The post Stolen Throne Highway Drifter Showing Up at Stores appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Stolen-Throne-Highway-Drifter-Feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/stolen-throne-highway-drifter-showing-up-at-stores/479775/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/stolen-throne-highway-drifter-showing-up-at-stores/479775/"
+      },
+      "confirmed_by": [],
+      "id": "stolen-throne-highway-drifter-showing-up-at-stores"
+    },
     {
       "published_at": "2026-09-16T14:43:07+00:00",
       "updated_at": "2026-09-16T14:43:07+00:00",
@@ -48,8 +71,8 @@
       "id": "ks-cigar-accessories-turns-pick-punch-and-stand-into-one"
     },
     {
-      "published_at": "2026-09-16T10:39:10+00:00",
-      "updated_at": "2026-09-16T10:39:10+00:00",
+      "published_at": "2026-09-16T10:42:46+00:00",
+      "updated_at": "2026-09-16T10:42:46+00:00",
       "title": "Matilde Cigars Opens the Pineapple Cigar Factory",
       "summary": "Enrique and Ricardo Seijas brought Matilde's full existing range to Dortmund, but the news on the stand was a factory",
       "category": [
@@ -687,30 +710,6 @@
       },
       "confirmed_by": [],
       "id": "breaking-news-habanos-germany-halts-operations-due-to-eu-sanctions-against-chen-zhi"
-    },
-    {
-      "published_at": "2026-09-06T17:53:47+00:00",
-      "updated_at": "2026-09-06T17:53:47+00:00",
-      "title": "Undercrown El Tigre Dominicano Toro by Drew Estate – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVQdno2bThZdW1mV0xVRTQ1VEptdkE5WmprUWUtQktrS2tPRXN0N1JRVEEtazI4NFVMYkxZcjZJcjMteWEwNzcwNGNxaE9FV0tzMk40c1FtbkVPYXlnaFpVODhSdXpGY1dZeVpxa19kbGhWeEs4NUxrSGVsUVdCNklpYllRbHRtQmUwYnhETDRmVWUxWkI5MjBBdkptZmJO?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVQdno2bThZdW1mV0xVRTQ1VEptdkE5WmprUWUtQktrS2tPRXN0N1JRVEEtazI4NFVMYkxZcjZJcjMteWEwNzcwNGNxaE9FV0tzMk40c1FtbkVPYXlnaFpVODhSdXpGY1dZeVpxa19kbGhWeEs4NUxrSGVsUVdCNklpYllRbHRtQmUwYnhETDRmVWUxWkI5MjBBdkptZmJO?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "undercrown-el-tigre-dominicano-toro-by-drew-estate-cigar-review"
     }
   ]
 }
