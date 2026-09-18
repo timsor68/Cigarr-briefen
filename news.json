@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T09:43:16.623857+00:00",
+  "updated_at": "2026-09-18T14:58:33.259898+00:00",
   "items": [
     {
       "published_at": "2026-09-18T09:04:53+00:00",
@@ -25,24 +25,24 @@
       "id": "new-cigar-cube-humidors-custom-design-meets-smart-storage"
     },
     {
-      "published_at": "2026-09-18T08:47:38+00:00",
-      "updated_at": "2026-09-18T08:47:38+00:00",
+      "published_at": "2026-09-18T08:54:51+00:00",
+      "updated_at": "2026-09-18T08:54:51+00:00",
       "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
       "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
       "category": [
         "Reglering"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PHOTO-2026-09-17-12-44-26.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth/"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth/"
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
       },
       "confirmed_by": [],
       "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
@@ -71,8 +71,8 @@
       "id": "two-new-cigars-from-stauffenberg"
     },
     {
-      "published_at": "2026-09-18T08:27:17+00:00",
-      "updated_at": "2026-09-18T08:27:17+00:00",
+      "published_at": "2026-09-18T08:29:47+00:00",
+      "updated_at": "2026-09-18T08:29:47+00:00",
       "title": "Supreme Leaf, Now World Wide",
       "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
       "category": [
@@ -115,6 +115,30 @@
       },
       "confirmed_by": [],
       "id": "sapphire-and-half-coronas-from-rocky"
+    },
+    {
+      "published_at": "2026-09-17T17:56:57+00:00",
+      "updated_at": "2026-09-17T17:56:57+00:00",
+      "title": "La Flor Dominicana Suave Natural Gobernador (2025) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Dominikanska republiken",
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-suave-natural-gobernador-2025-cigar-review"
     },
     {
       "published_at": "2026-09-17T13:02:16+00:00",
@@ -325,29 +349,6 @@
       "id": "intertabac-2026-wednesday"
     },
     {
-      "published_at": "2026-09-16T19:11:05+00:00",
-      "updated_at": "2026-09-16T19:11:05+00:00",
-      "title": "My Favorite Cigar",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZWtydkhLLUIzYTMybjY3N0d3X3h6T3VVS2tVS1NIV3RvdTNMUFlUNnpJUXNsXzJlSWdOaTFzak5jN2RjZjktWG9SYXcxUmNBNTZjSGhqNlhUUFJRdGdiay1mUFZ3MUdmSExSTXVzUHE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZWtydkhLLUIzYTMybjY3N0d3X3h6T3VVS2tVS1NIV3RvdTNMUFlUNnpJUXNsXzJlSWdOaTFzak5jN2RjZjktWG9SYXcxUmNBNTZjSGhqNlhUUFJRdGdiay1mUFZ3MUdmSExSTXVzUHE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "my-favorite-cigar"
-    },
-    {
       "published_at": "2026-09-16T17:13:24+00:00",
       "updated_at": "2026-09-16T17:13:24+00:00",
       "title": "Stolen Throne Highway Drifter Showing Up at Stores",
@@ -369,29 +370,6 @@
       },
       "confirmed_by": [],
       "id": "stolen-throne-highway-drifter-showing-up-at-stores"
-    },
-    {
-      "published_at": "2026-09-16T14:43:07+00:00",
-      "updated_at": "2026-09-16T14:43:07+00:00",
-      "title": "Land Of The Wrapper Leaf: Touring Jalapa With Nestor Plasencia",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "land-of-the-wrapper-leaf-touring-jalapa-with-nestor-plasencia"
     },
     {
       "published_at": "2026-09-15T18:52:40+00:00",
@@ -424,19 +402,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/09/BLK-WKS-Culture-Vulture-feature.jpg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
+        }
+      ],
       "id": "black-works-studio-culture-vulture-coming-this-month"
     },
     {
@@ -532,10 +519,10 @@
       "id": "egm-cigars-adding-limited-edition-ninfa-jars"
     },
     {
-      "published_at": "2026-09-14T16:20:12+00:00",
-      "updated_at": "2026-09-14T16:20:12+00:00",
-      "title": "Handmade Cigar Imports Hold Steady For First Half Of Year",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "published_at": "2026-09-14T16:24:53+00:00",
+      "updated_at": "2026-09-14T16:24:53+00:00",
+      "title": "Bocock Brothers Announce Mizzou Stadium Series: Memorial Stadium 100 Year Celebration | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -543,16 +530,16 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
       },
       "confirmed_by": [],
-      "id": "handmade-cigar-imports-hold-steady-for-first-half-of-year"
+      "id": "bocock-brothers-announce-mizzou-stadium-series-memorial-stadium-100-year-celebration-cigar"
     },
     {
       "published_at": "2026-09-14T11:06:55+00:00",
@@ -578,42 +565,10 @@
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
     },
     {
-      "published_at": "2026-09-14T08:51:16+00:00",
-      "updated_at": "2026-09-14T08:51:16+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Confirms It Has Filed for Insolvency",
-      "summary": "It has been known for several days that 5th Avenue Products Trading-GmbH has filed for bankruptcy. We most recently reported on the background to this situation in our article “Cuba’s Cigar Paradox,” among others",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
-        },
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
-        }
-      ],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-confirms-it-has-filed-for-insolvency"
-    },
-    {
-      "published_at": "2026-09-09T17:33:01+00:00",
-      "updated_at": "2026-09-09T17:33:01+00:00",
-      "title": "Germany Halts Distribution Of Cuban Cigars",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "updated_at": "2026-09-11T07:00:00+00:00",
+      "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Kuba"
       ],
@@ -621,16 +576,62 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
       },
       "confirmed_by": [],
-      "id": "germany-halts-distribution-of-cuban-cigars"
+      "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
+    },
+    {
+      "published_at": "2026-09-11T01:18:33+00:00",
+      "updated_at": "2026-09-11T01:18:33+00:00",
+      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "kelner-le-80-diademas-finas-cigar-review"
+    },
+    {
+      "published_at": "2026-09-08T21:43:57+00:00",
+      "updated_at": "2026-09-08T21:43:57+00:00",
+      "title": "Leo Wijnbelt Joins CLE Team | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "leo-wijnbelt-joins-cle-team-cigar-news"
     }
   ]
 }
