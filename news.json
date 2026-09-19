@@ -1,9 +1,124 @@
 {
-  "updated_at": "2026-09-18T19:34:26.481137+00:00",
+  "updated_at": "2026-09-19T09:28:26.006819+00:00",
   "items": [
     {
-      "published_at": "2026-09-18T19:22:58+00:00",
-      "updated_at": "2026-09-18T19:22:58+00:00",
+      "published_at": "2026-09-19T07:48:51+00:00",
+      "updated_at": "2026-09-19T07:48:51+00:00",
+      "title": "A Rum Finished the Cognac Way, Made for Cigar",
+      "summary": "A rum-based spirit made for cigars was presented at the Cigar Culture Summit on 14 September, limited to 200 bottles",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekV5QWhhTFh1SGtMWnVVSExZRE9CM2NzSmxSR0NCLV8tT0YzWWdTa0JXaldHRzVvMXdxQ0YtN0kzekEtZmFkLThTRXBueXhpY2lCQlRMNy1BZ1A3VW5WNnRvVUJ5eklRY3RmZkhhQ0FEcURPdmFXSDNOZ2JSUzA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekV5QWhhTFh1SGtMWnVVSExZRE9CM2NzSmxSR0NCLV8tT0YzWWdTa0JXaldHRzVvMXdxQ0YtN0kzekEtZmFkLThTRXBueXhpY2lCQlRMNy1BZ1A3VW5WNnRvVUJ5eklRY3RmZkhhQ0FEcURPdmFXSDNOZ2JSUzA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "a-rum-finished-the-cognac-way-made-for-cigar"
+    },
+    {
+      "published_at": "2026-09-19T07:08:52+00:00",
+      "updated_at": "2026-09-19T07:08:52+00:00",
+      "title": "Mantis Adds Marine Ashtrays and Carbon Fibre Cases",
+      "summary": "David Kelaty, founder and chief executive of Mantis, used InterTabac to introduce three products: a travel humidor, the Flex Marine ashtray collection and a forged carbon fibre cigar case",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/PHOTO-2026-09-16-17-14-30%202.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/mantis-adds-marine-ashtrays-and-carbon-fibre-cases/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/mantis-adds-marine-ashtrays-and-carbon-fibre-cases/"
+      },
+      "confirmed_by": [],
+      "id": "mantis-adds-marine-ashtrays-and-carbon-fibre-cases"
+    },
+    {
+      "published_at": "2026-09-19T07:05:00+00:00",
+      "updated_at": "2026-09-19T07:05:00+00:00",
+      "title": "Boveda Takes Best Humidor as 100-Count Model Nears",
+      "summary": "Benny Patock had the 50-count wooden humidor on the Boveda stand the morning after it won the Cigar Trophy 2026 for Best Humidor, and confirmed a 100-count version is next: the United States at the end of 2026, Europe at the beginning of 2027",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/PHOTO-2026-09-16-15-27-28%202.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/boveda-takes-best-humidor-as-100-count-model-nears/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/boveda-takes-best-humidor-as-100-count-model-nears/"
+      },
+      "confirmed_by": [],
+      "id": "boveda-takes-best-humidor-as-100-count-model-nears"
+    },
+    {
+      "published_at": "2026-09-19T02:47:09+00:00",
+      "updated_at": "2026-09-19T02:47:09+00:00",
+      "title": "Austin Cigar Lounge Rebrands as Overton’s | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2tDS2hsZHZuZE5KUjBvcEtmbFdubXJqWWJjNE5PYmNlRm1Za0ZrdTNsc3h3NXFrZnVsanFCVlVYNXBYbDVoQ2xYRTN1OURLZVlxWGFhZVlhck9uYU9icjFnU09hcTdHNWIyb0Vtb1puTG4zRkdBaFE1Y3VhSGFpSHFNSDNYcUFvTlNMTVlFaEE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2tDS2hsZHZuZE5KUjBvcEtmbFdubXJqWWJjNE5PYmNlRm1Za0ZrdTNsc3h3NXFrZnVsanFCVlVYNXBYbDVoQ2xYRTN1OURLZVlxWGFhZVlhck9uYU9icjFnU09hcTdHNWIyb0Vtb1puTG4zRkdBaFE1Y3VhSGFpSHFNSDNYcUFvTlNMTVlFaEE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "austin-cigar-lounge-rebrands-as-overton-s-cigar-news"
+    },
+    {
+      "published_at": "2026-09-18T20:35:40+00:00",
+      "updated_at": "2026-09-18T20:35:40+00:00",
+      "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
+      "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
+    },
+    {
+      "published_at": "2026-09-18T19:28:20+00:00",
+      "updated_at": "2026-09-18T19:28:20+00:00",
       "title": "Drew Estate Ships Four-Pack Petacas for Six Liga Privada Cigars",
       "summary": "The four-packs are being offered for two vitolas in the Liga Privada H99 Connecticut Corojo, No. However, Drew Estate is limiting the new packaging option to Drew Diplomat retailers as a way to support brick-and-mortar partners. The post Drew Estate Ships Four-Pack Petacas for Six Liga Privada Cigars appeared first on halfwheel",
       "category": [
@@ -71,8 +186,31 @@
       "id": "nub-cigars-launches-nub-m-xico"
     },
     {
-      "published_at": "2026-09-18T09:04:53+00:00",
-      "updated_at": "2026-09-18T09:04:53+00:00",
+      "published_at": "2026-09-18T17:36:07+00:00",
+      "updated_at": "2026-09-18T17:36:07+00:00",
+      "title": "Supreme Leaf, Now World Wide",
+      "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "supreme-leaf-now-world-wide"
+    },
+    {
+      "published_at": "2026-09-18T09:05:12+00:00",
+      "updated_at": "2026-09-18T09:05:12+00:00",
       "title": "New Cigar Cube Humidors: Custom Design Meets Smart Storage",
       "summary": "Heiko Pörz is excited to present his latest creations: the Cigar Cube and its compact little brother, the Mini Cube",
       "category": [
@@ -92,29 +230,6 @@
       },
       "confirmed_by": [],
       "id": "new-cigar-cube-humidors-custom-design-meets-smart-storage"
-    },
-    {
-      "published_at": "2026-09-18T08:54:51+00:00",
-      "updated_at": "2026-09-18T08:54:51+00:00",
-      "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
-      "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
     },
     {
       "published_at": "2026-09-18T08:42:36+00:00",
@@ -138,29 +253,6 @@
       },
       "confirmed_by": [],
       "id": "two-new-cigars-from-stauffenberg"
-    },
-    {
-      "published_at": "2026-09-18T08:29:47+00:00",
-      "updated_at": "2026-09-18T08:29:47+00:00",
-      "title": "Supreme Leaf, Now World Wide",
-      "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "supreme-leaf-now-world-wide"
     },
     {
       "published_at": "2026-09-18T08:19:04+00:00",
@@ -303,52 +395,6 @@
       "id": "egm-revives-the-nynfa-vitola"
     },
     {
-      "published_at": "2026-09-17T10:12:52+00:00",
-      "updated_at": "2026-09-17T10:12:52+00:00",
-      "title": "PCA Expands International Outreach with New Asia Event",
-      "summary": "The Premium Cigar Association (PCA) is expanding its international activities with a new event in Asia while strengthening its focus on education and cooperation across the global premium cigar industry",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_6155.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/pca-expands-international-outreach-with-new-asia-event/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/pca-expands-international-outreach-with-new-asia-event/"
-      },
-      "confirmed_by": [],
-      "id": "pca-expands-international-outreach-with-new-asia-event"
-    },
-    {
-      "published_at": "2026-09-17T10:08:18+00:00",
-      "updated_at": "2026-09-17T10:08:18+00:00",
-      "title": "Karen Berger Celebrates the Cigar Journal Trophy",
-      "summary": "Karen Berger Cigars celebrated a major recognition at InterTabac 2026, with Ixtelli receiving an award for Best Boutique Cigar from Nicaragua",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Karen-Berger.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/karen-berger-celebrates-the-cigar-journal-trophy/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/karen-berger-celebrates-the-cigar-journal-trophy/"
-      },
-      "confirmed_by": [],
-      "id": "karen-berger-celebrates-the-cigar-journal-trophy"
-    },
-    {
       "published_at": "2026-09-17T10:00:42+00:00",
       "updated_at": "2026-09-17T10:00:42+00:00",
       "title": "InterTabac 2026: Wednesday",
@@ -370,29 +416,6 @@
       },
       "confirmed_by": [],
       "id": "intertabac-2026-wednesday"
-    },
-    {
-      "published_at": "2026-09-17T09:54:09+00:00",
-      "updated_at": "2026-09-17T09:54:09+00:00",
-      "title": "Cigraal Unveils New Limited Edition in Dortmund",
-      "summary": "Eric Piras of Confidential Cigar is in Dortmund to introduce the brand’s latest release: the Confidential Limited Edition, offered in Claro and Colorado, both in Toro size",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Cigraal.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigraal-unveils-new-limited-edition-in-dortmund/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cigraal-unveils-new-limited-edition-in-dortmund/"
-      },
-      "confirmed_by": [],
-      "id": "cigraal-unveils-new-limited-edition-in-dortmund"
     },
     {
       "published_at": "2026-09-16T19:11:05+00:00",
@@ -623,12 +646,12 @@
       "sources": [
         {
           "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDAxVzNZaDV5RWJzb0toT3VLbmlDU3c0TXpvQjhqMWplZXRIb2ZBeFU4SFVaeEN1d2lrMkRINERvbmtIQjlMRVR1a0JKOU5UN0s1MndhcnEwb1I0MGFBZjFhOFMyTzRGN3ZHMVhWNng3OEtlM3BfZmZVUnpLclhSR3FqaHhKYWxRM2ZuNE05N2N2aG5Uc2ZHTHV3bzc?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1U3MVFVbTE4cVVhWGRuOGFwYkNPTnVMRWlXQThDdE1tNEtMM2hEa2Z0bXpnRnpEUXJxZHR2SkdPWV92dnU5NGZKX2hyY2hUcmFkdWhVRWQ4dk54a3dyNXZWRzJJTWtUT21ycVBINXNvd3p2ZThzUGhTSThERjJURjNKaEdmZWFVYUtleDBta0k2RG5VYjE0MDNqYUpKdw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDAxVzNZaDV5RWJzb0toT3VLbmlDU3c0TXpvQjhqMWplZXRIb2ZBeFU4SFVaeEN1d2lrMkRINERvbmtIQjlMRVR1a0JKOU5UN0s1MndhcnEwb1I0MGFBZjFhOFMyTzRGN3ZHMVhWNng3OEtlM3BfZmZVUnpLclhSR3FqaHhKYWxRM2ZuNE05N2N2aG5Uc2ZHTHV3bzc?oc=5"
       },
       "confirmed_by": [],
       "id": "handmade-cigar-imports-hold-steady-for-first-half-of-year"
@@ -703,33 +726,10 @@
       "id": "kelner-le-80-diademas-finas-cigar-review"
     },
     {
-      "published_at": "2026-09-09T17:33:01+00:00",
-      "updated_at": "2026-09-09T17:33:01+00:00",
-      "title": "Germany Halts Distribution Of Cuban Cigars",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXhiY3NHZkZIR1V0T2pSQVpLZDBHZ2JhUldlWElZRW5NcFp0ZDRVU3RrZUVVTTJBVmdUZXpqcEtiUHhvWXFYcm1oeFJXMHUzeU4zNzI1ejFGeGxHWkRsQUF2Q21CSkxSMWVwYk9kOXZ1bjhfYVEzdDRua0xEUUtaQUJIREFRejBP?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "germany-halts-distribution-of-cuban-cigars"
-    },
-    {
-      "published_at": "2026-09-09T07:00:00+00:00",
-      "updated_at": "2026-09-09T07:00:00+00:00",
-      "title": "Aganorsa Leaf Launching New Cigars For Global Market",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "published_at": "2026-09-10T13:08:31+00:00",
+      "updated_at": "2026-09-10T13:08:31+00:00",
+      "title": "Aganorsa Leaf Supreme Leaf Worldwide to Debut at InterTabac 2026 | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Nya utgåvor"
       ],
@@ -737,22 +737,22 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXVrcGNqQUtUcWl4ZWlnOTYtbENSemlmcFJCZ2RjWHV0b1JDbzVTT3BNZDRtM296NG9uTzNSTlllQ2ZCV2x4dzBwRkZlWldfRFZ6QkJMZlF6Y2ptSkhPeEhXM1FhV0E0Z2JrenJoZVp1Q0RSRFJNNU14UXhfeC1QTURiRXRxdXdPY3BBNm00dWpudFlpV2c?oc=5"
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXVrcGNqQUtUcWl4ZWlnOTYtbENSemlmcFJCZ2RjWHV0b1JDbzVTT3BNZDRtM296NG9uTzNSTlllQ2ZCV2x4dzBwRkZlWldfRFZ6QkJMZlF6Y2ptSkhPeEhXM1FhV0E0Z2JrenJoZVp1Q0RSRFJNNU14UXhfeC1QTURiRXRxdXdPY3BBNm00dWpudFlpV2c?oc=5"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
       },
       "confirmed_by": [],
-      "id": "aganorsa-leaf-launching-new-cigars-for-global-market"
+      "id": "aganorsa-leaf-supreme-leaf-worldwide-to-debut-at-intertabac-2026-cigar-news"
     },
     {
-      "published_at": "2026-09-08T21:43:57+00:00",
-      "updated_at": "2026-09-08T21:43:57+00:00",
-      "title": "Leo Wijnbelt Joins CLE Team | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-09-09T23:36:25+00:00",
+      "updated_at": "2026-09-09T23:36:25+00:00",
+      "title": "Cigar.com Transitioning to Cigora.com",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -760,16 +760,16 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bkRkdEdhTlFPV3FLVkZhNTJqZWd5MzEtWHFYYjVPY1MtOTdXVWVZajRBdjBIeWlkV2JfNlhESzR3Z0U1UUVqNmN4M1kwNzlEYk1ldHc0Q1pQSE5YQ1BSRms1UUxLLXpKaVE2bkhJakJGWFI1WUNIaDhkU21ySlE?oc=5"
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
       },
       "confirmed_by": [],
-      "id": "leo-wijnbelt-joins-cle-team-cigar-news"
+      "id": "cigar-com-transitioning-to-cigora-com"
     }
   ]
 }
