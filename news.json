@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-09-19T09:28:26.006819+00:00",
+  "updated_at": "2026-09-19T14:23:02.043219+00:00",
   "items": [
     {
-      "published_at": "2026-09-19T07:48:51+00:00",
-      "updated_at": "2026-09-19T07:48:51+00:00",
+      "published_at": "2026-09-19T12:02:12+00:00",
+      "updated_at": "2026-09-19T12:02:12+00:00",
+      "title": "Cigar Industry Report: Edition 707 (9/19/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-707-9-19-26"
+    },
+    {
+      "published_at": "2026-09-19T07:58:46+00:00",
+      "updated_at": "2026-09-19T07:58:46+00:00",
       "title": "A Rum Finished the Cognac Way, Made for Cigar",
       "summary": "A rum-based spirit made for cigars was presented at the Cigar Culture Summit on 14 September, limited to 200 bottles",
       "category": [
@@ -92,29 +115,6 @@
       },
       "confirmed_by": [],
       "id": "austin-cigar-lounge-rebrands-as-overton-s-cigar-news"
-    },
-    {
-      "published_at": "2026-09-18T20:35:40+00:00",
-      "updated_at": "2026-09-18T20:35:40+00:00",
-      "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
-      "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
     },
     {
       "published_at": "2026-09-18T19:28:20+00:00",
@@ -209,6 +209,29 @@
       "id": "supreme-leaf-now-world-wide"
     },
     {
+      "published_at": "2026-09-18T14:48:45+00:00",
+      "updated_at": "2026-09-18T14:48:45+00:00",
+      "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
+      "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
+    },
+    {
       "published_at": "2026-09-18T09:05:12+00:00",
       "updated_at": "2026-09-18T09:05:12+00:00",
       "title": "New Cigar Cube Humidors: Custom Design Meets Smart Storage",
@@ -276,30 +299,6 @@
       },
       "confirmed_by": [],
       "id": "sapphire-and-half-coronas-from-rocky"
-    },
-    {
-      "published_at": "2026-09-17T17:56:57+00:00",
-      "updated_at": "2026-09-17T17:56:57+00:00",
-      "title": "La Flor Dominicana Suave Natural Gobernador (2025) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "la-flor-dominicana-suave-natural-gobernador-2025-cigar-review"
     },
     {
       "published_at": "2026-09-17T13:02:16+00:00",
@@ -416,29 +415,6 @@
       },
       "confirmed_by": [],
       "id": "intertabac-2026-wednesday"
-    },
-    {
-      "published_at": "2026-09-16T19:11:05+00:00",
-      "updated_at": "2026-09-16T19:11:05+00:00",
-      "title": "My Favorite Cigar",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZWtydkhLLUIzYTMybjY3N0d3X3h6T3VVS2tVS1NIV3RvdTNMUFlUNnpJUXNsXzJlSWdOaTFzak5jN2RjZjktWG9SYXcxUmNBNTZjSGhqNlhUUFJRdGdiay1mUFZ3MUdmSExSTXVzUHE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZWtydkhLLUIzYTMybjY3N0d3X3h6T3VVS2tVS1NIV3RvdTNMUFlUNnpJUXNsXzJlSWdOaTFzak5jN2RjZjktWG9SYXcxUmNBNTZjSGhqNlhUUFJRdGdiay1mUFZ3MUdmSExSTXVzUHE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "my-favorite-cigar"
     },
     {
       "published_at": "2026-09-16T17:13:24+00:00",
@@ -680,27 +656,36 @@
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
     },
     {
-      "published_at": "2026-09-11T07:00:00+00:00",
-      "updated_at": "2026-09-11T07:00:00+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "published_at": "2026-09-14T08:51:16+00:00",
+      "updated_at": "2026-09-14T08:51:16+00:00",
+      "title": "5th Avenue, German Distributor of Cuban Cigars, Confirms It Has Filed for Insolvency",
+      "summary": "It has been known for several days that 5th Avenue Products Trading-GmbH has filed for bankruptcy. We most recently reported on the background to this situation in our article “Cuba’s Cigar Paradox,” among others",
       "category": [
         "Kuba"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
       },
-      "confirmed_by": [],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
+        }
+      ],
+      "id": "5th-avenue-german-distributor-of-cuban-cigars-confirms-it-has-filed-for-insolvency"
     },
     {
       "published_at": "2026-09-11T01:18:33+00:00",
