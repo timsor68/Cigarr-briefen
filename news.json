@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-19T14:23:02.043219+00:00",
+  "updated_at": "2026-09-19T19:18:11.411110+00:00",
   "items": [
+    {
+      "published_at": "2026-09-19T18:54:49+00:00",
+      "updated_at": "2026-09-19T18:54:49+00:00",
+      "title": "Montecristo Espada Conquistador Ricasso",
+      "summary": "The Conquistador is the fifth line in the Montecristo Espada collection. Like the other four, it is made in Nicaragua by Plasencia Cigars and features an all-Nicaraguan blend. The post Montecristo Espada Conquistador Ricasso appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Montecristo-Espada-Conquistador-Ricasso-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/montecristo-espada-conquistador-ricasso/479395/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/montecristo-espada-conquistador-ricasso/479395/"
+      },
+      "confirmed_by": [],
+      "id": "montecristo-espada-conquistador-ricasso"
+    },
     {
       "published_at": "2026-09-19T12:02:12+00:00",
       "updated_at": "2026-09-19T12:02:12+00:00",
@@ -541,29 +564,6 @@
       "id": "aganorsa-leaf-aniversario-connecticut-tubo"
     },
     {
-      "published_at": "2026-09-15T13:00:48+00:00",
-      "updated_at": "2026-09-15T13:00:48+00:00",
-      "title": "Caldwell Mooncake Debuting Tomorrow",
-      "summary": "Mooncake is described as a lighter variant of the Yellow Cake brand. At least for the first release, it is limited to 12,000 cigars. The post Caldwell Mooncake Debuting Tomorrow appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Mooncake-Feature.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/caldwell-mooncake-debuting-tomorrow/479651/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/caldwell-mooncake-debuting-tomorrow/479651/"
-      },
-      "confirmed_by": [],
-      "id": "caldwell-mooncake-debuting-tomorrow"
-    },
-    {
       "published_at": "2026-09-14T17:23:07+00:00",
       "updated_at": "2026-09-14T17:23:07+00:00",
       "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
@@ -656,36 +656,27 @@
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
     },
     {
-      "published_at": "2026-09-14T08:51:16+00:00",
-      "updated_at": "2026-09-14T08:51:16+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Confirms It Has Filed for Insolvency",
-      "summary": "It has been known for several days that 5th Avenue Products Trading-GmbH has filed for bankruptcy. We most recently reported on the background to this situation in our article “Cuba’s Cigar Paradox,” among others",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "updated_at": "2026-09-11T07:00:00+00:00",
+      "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Kuba"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
-        },
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RqVGJLZ1JLWFZHalAxNWpoOUxGdll4V3M5QndNNXdvLW51NGFCQWozRWJCcFV4U3d5MTNkOUZDMzVWWHE2YkdUbE5ydFcwNjgzS2ZoZzlSMnBwLU5oS21Oek1ERkR1bXpTVDlOSEM3MmVfcDZRejFZb0ZRZ1ZBQjNOQnhuTGx5OGlYbEFSNG5xRm9WbXBibUxPLUhmLUQzbGpYbmhzQWZxbm1GVG9FcDFB?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/5th-avenue-has-filed-for-insolvency-proceeding/"
-        }
-      ],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-confirms-it-has-filed-for-insolvency"
+      "confirmed_by": [],
+      "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
     },
     {
       "published_at": "2026-09-11T01:18:33+00:00",
