@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-19T19:18:11.411110+00:00",
+  "updated_at": "2026-09-20T09:47:19.866360+00:00",
   "items": [
+    {
+      "published_at": "2026-09-19T20:42:22+00:00",
+      "updated_at": "2026-09-19T20:42:22+00:00",
+      "title": "Cigar Industry Report: Edition 707 (9/19/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-707-9-19-26"
+    },
     {
       "published_at": "2026-09-19T18:54:49+00:00",
       "updated_at": "2026-09-19T18:54:49+00:00",
@@ -25,10 +48,10 @@
       "id": "montecristo-espada-conquistador-ricasso"
     },
     {
-      "published_at": "2026-09-19T12:02:12+00:00",
-      "updated_at": "2026-09-19T12:02:12+00:00",
-      "title": "Cigar Industry Report: Edition 707 (9/19/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-09-19T07:58:46+00:00",
+      "updated_at": "2026-09-19T07:58:46+00:00",
+      "title": "Boveda Takes Best Humidor as 100-Count Model Nears",
+      "summary": "Benny Patock had the 50-count wooden humidor on the Boveda stand the morning after it won the Cigar Trophy 2026 for Best Humidor, and confirmed a 100-count version is next: the United States at the end of 2026, Europe at the beginning of 2027",
       "category": [
         "Nyheter"
       ],
@@ -36,16 +59,16 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlJWU2xzUm9CVkhGY1c2TnM3NkplNHdYeWhvLTZ2NjkxN0VQZEpsczZEbW5IT1lnaXQ4TVF4UnlEb29JSE9oakk4em5fYTNIYk5pODFUOVhfeVFZUk5lNEJkZUR2WDJqS3hidGZFWFBUdF9pbF9fWFJLYkc4U21mc3puUTk2TGM?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1B3WDBqWGlJbmZWQlh0LUo2SDhuREQtbjNCUkpiakEzVG91dkVSVlZzTDFnR2d4eHRGWmNzQ1JQWkprN2s3Mjg1Qk90SXEyMXhjWmtpVW9UYXYxT3BXWXJYc3BpUUREZ3ZaZVFLTjhPbUdRalJqeHF3QUdKd19DSTRlUQ?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlJWU2xzUm9CVkhGY1c2TnM3NkplNHdYeWhvLTZ2NjkxN0VQZEpsczZEbW5IT1lnaXQ4TVF4UnlEb29JSE9oakk4em5fYTNIYk5pODFUOVhfeVFZUk5lNEJkZUR2WDJqS3hidGZFWFBUdF9pbF9fWFJLYkc4U21mc3puUTk2TGM?oc=5"
       },
       "confirmed_by": [],
-      "id": "cigar-industry-report-edition-707-9-19-26"
+      "id": "boveda-takes-best-humidor-as-100-count-model-nears"
     },
     {
       "published_at": "2026-09-19T07:58:46+00:00",
@@ -94,29 +117,6 @@
       "id": "mantis-adds-marine-ashtrays-and-carbon-fibre-cases"
     },
     {
-      "published_at": "2026-09-19T07:05:00+00:00",
-      "updated_at": "2026-09-19T07:05:00+00:00",
-      "title": "Boveda Takes Best Humidor as 100-Count Model Nears",
-      "summary": "Benny Patock had the 50-count wooden humidor on the Boveda stand the morning after it won the Cigar Trophy 2026 for Best Humidor, and confirmed a 100-count version is next: the United States at the end of 2026, Europe at the beginning of 2027",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PHOTO-2026-09-16-15-27-28%202.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/boveda-takes-best-humidor-as-100-count-model-nears/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/boveda-takes-best-humidor-as-100-count-model-nears/"
-      },
-      "confirmed_by": [],
-      "id": "boveda-takes-best-humidor-as-100-count-model-nears"
-    },
-    {
       "published_at": "2026-09-19T02:47:09+00:00",
       "updated_at": "2026-09-19T02:47:09+00:00",
       "title": "Austin Cigar Lounge Rebrands as Overton’s | Cigar News",
@@ -140,24 +140,24 @@
       "id": "austin-cigar-lounge-rebrands-as-overton-s-cigar-news"
     },
     {
-      "published_at": "2026-09-18T19:28:20+00:00",
-      "updated_at": "2026-09-18T19:28:20+00:00",
+      "published_at": "2026-09-18T19:20:00+00:00",
+      "updated_at": "2026-09-18T19:20:00+00:00",
       "title": "Drew Estate Ships Four-Pack Petacas for Six Liga Privada Cigars",
       "summary": "The four-packs are being offered for two vitolas in the Liga Privada H99 Connecticut Corojo, No. However, Drew Estate is limiting the new packaging option to Drew Diplomat retailers as a way to support brick-and-mortar partners. The post Drew Estate Ships Four-Pack Petacas for Six Liga Privada Cigars appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Liga-Privada-Petacas.jpg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVl9rT1M0Y0pETm5CTDZzNHgzSlk0VFFCdkp2QmtUQUhzZVczamJSbV9jelBnd0tyMTBvT1BtbWE2V2YwZnFhdzN5UXEtY29sNDRsUUZRZVUyUjRCZ1B3RGdHMUJzZ1Y0RFVmSFJ5SHpySmpERGhZM240LWFNVF9BWlhGNC1iS3hPNF9QMHFaTjgyUTh4eGZsUA?oc=5"
+          "url": "https://halfwheel.com/drew-estate-ships-four-pack-petacas-for-six-liga-privada-cigars/479854/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVl9rT1M0Y0pETm5CTDZzNHgzSlk0VFFCdkp2QmtUQUhzZVczamJSbV9jelBnd0tyMTBvT1BtbWE2V2YwZnFhdzN5UXEtY29sNDRsUUZRZVUyUjRCZ1B3RGdHMUJzZ1Y0RFVmSFJ5SHpySmpERGhZM240LWFNVF9BWlhGNC1iS3hPNF9QMHFaTjgyUTh4eGZsUA?oc=5"
+        "url": "https://halfwheel.com/drew-estate-ships-four-pack-petacas-for-six-liga-privada-cigars/479854/"
       },
       "confirmed_by": [],
       "id": "drew-estate-ships-four-pack-petacas-for-six-liga-privada-cigars"
@@ -207,29 +207,6 @@
       },
       "confirmed_by": [],
       "id": "nub-cigars-launches-nub-m-xico"
-    },
-    {
-      "published_at": "2026-09-18T17:36:07+00:00",
-      "updated_at": "2026-09-18T17:36:07+00:00",
-      "title": "Supreme Leaf, Now World Wide",
-      "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85anY0aWlhX2wtcmdQb2Rwbl9LUy1RdFVkWTZBT2lWQ043THpXNm5iVG9HdnB2cGZVaU9OeFVzc1RvWUpjMHJsSWJyVlBlMTNjRF9vdk9Rak5ISnZUVkVPU3RsdHAwWllX?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "supreme-leaf-now-world-wide"
     },
     {
       "published_at": "2026-09-18T14:48:45+00:00",
@@ -322,6 +299,53 @@
       },
       "confirmed_by": [],
       "id": "sapphire-and-half-coronas-from-rocky"
+    },
+    {
+      "published_at": "2026-09-18T08:09:23+00:00",
+      "updated_at": "2026-09-18T08:09:23+00:00",
+      "title": "Supreme Leaf, Now World Wide",
+      "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_7749%20Kopie.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/supreme-leaf-now-world-wide/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/supreme-leaf-now-world-wide/"
+      },
+      "confirmed_by": [],
+      "id": "supreme-leaf-now-world-wide"
+    },
+    {
+      "published_at": "2026-09-17T17:56:57+00:00",
+      "updated_at": "2026-09-17T17:56:57+00:00",
+      "title": "La Flor Dominicana Suave Natural Gobernador (2025) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Dominikanska republiken",
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-suave-natural-gobernador-2025-cigar-review"
     },
     {
       "published_at": "2026-09-17T13:02:16+00:00",
@@ -564,29 +588,6 @@
       "id": "aganorsa-leaf-aniversario-connecticut-tubo"
     },
     {
-      "published_at": "2026-09-14T17:23:07+00:00",
-      "updated_at": "2026-09-14T17:23:07+00:00",
-      "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sS005eFc0STlGS0tnUEs3NkVWaDBjMUZRUGpXOWpBNVpsVGUteVZGREF2LW5abjZlU2RSeG1MVDdjQmpfRWNONmN5NmNBenY4NnMzbWJfQmd4S0t0SHBLbzlpN1AyS1laVnFDdUhzR2hzRHo0Q3JaLTVjRlFUQUk?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sS005eFc0STlGS0tnUEs3NkVWaDBjMUZRUGpXOWpBNVpsVGUteVZGREF2LW5abjZlU2RSeG1MVDdjQmpfRWNONmN5NmNBenY4NnMzbWJfQmd4S0t0SHBLbzlpN1AyS1laVnFDdUhzR2hzRHo0Q3JaLTVjRlFUQUk?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "egm-cigars-adding-limited-edition-ninfa-jars"
-    },
-    {
       "published_at": "2026-09-14T16:24:53+00:00",
       "updated_at": "2026-09-14T16:24:53+00:00",
       "title": "Bocock Brothers Announce Mizzou Stadium Series: Memorial Stadium 100 Year Celebration | Cigar News",
@@ -656,29 +657,6 @@
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
     },
     {
-      "published_at": "2026-09-11T07:00:00+00:00",
-      "updated_at": "2026-09-11T07:00:00+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
-    },
-    {
       "published_at": "2026-09-11T01:18:33+00:00",
       "updated_at": "2026-09-11T01:18:33+00:00",
       "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
@@ -700,52 +678,6 @@
       },
       "confirmed_by": [],
       "id": "kelner-le-80-diademas-finas-cigar-review"
-    },
-    {
-      "published_at": "2026-09-10T13:08:31+00:00",
-      "updated_at": "2026-09-10T13:08:31+00:00",
-      "title": "Aganorsa Leaf Supreme Leaf Worldwide to Debut at InterTabac 2026 | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHM1WjNpRjdNQ1lPOEUwVGN3MGxiZVFJa01KVjFPSWw5aTZnb0g4M2ltY3lMNXNkQTFvQjlDSGxVTTVCOVVuQkl3amtWb2V3RWFYaUpSLTFYMFZqU2RZYTZqY2c3TmtDQ3JBRDh2Vm1ZbGQta1RnZ1pFM2M4V0dQV3VnZnZJUFJkUHlsNnpjUnQ4bWkxUnZMY2FHeGVFbEE3TlE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "aganorsa-leaf-supreme-leaf-worldwide-to-debut-at-intertabac-2026-cigar-news"
-    },
-    {
-      "published_at": "2026-09-09T23:36:25+00:00",
-      "updated_at": "2026-09-09T23:36:25+00:00",
-      "title": "Cigar.com Transitioning to Cigora.com",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WeDR1SVVkUTIxMmNjd0FKeTktTXhYNmNFZVh0N3dHMFdrMnQ2cm9UcEF6Y3ladHlRZDlxcl9MQzktSW9yODYyOWg0U2lvWi1Ob1UwY0JMcHpkdVlGRUc1TXJxNWh1Y0VaZHo1NFYtQWFBeUttcUE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-com-transitioning-to-cigora-com"
     }
   ]
 }
