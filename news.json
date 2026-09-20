@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-09-20T14:41:16.077424+00:00",
+  "updated_at": "2026-09-20T19:26:30.407942+00:00",
   "items": [
+    {
+      "published_at": "2026-09-20T17:07:01+00:00",
+      "updated_at": "2026-09-20T17:07:01+00:00",
+      "title": "Honduras Women Cigar Club Launches in Tegucigalpa",
+      "summary": "Creating a space to learn, share, and enjoy cigars in an elegant and authentic way and, above all, among women, is what drove Aurora Membreño to establish the Honduras Women Cigar Club (HWCC)",
+      "category": [
+        "Honduras",
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFdFVEFPMXNMMXA4OUd4dkFqRTFTMWM1TmRoUmJtYjJPU1dGNF9LU21FYzdHUHp1U2Naa3VqVHN1NnlVNnFEcjFzb2cya1d4aEJuMlUxVmNEZHBXLXpzSkVjRENyZDdSTlZaa0FOMHlmVlQxREg1dHUwOFp2SXF4T2l5M0MyQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFdFVEFPMXNMMXA4OUd4dkFqRTFTMWM1TmRoUmJtYjJPU1dGNF9LU21FYzdHUHp1U2Naa3VqVHN1NnlVNnFEcjFzb2cya1d4aEJuMlUxVmNEZHBXLXpzSkVjRENyZDdSTlZaa0FOMHlmVlQxREg1dHUwOFp2SXF4T2l5M0MyQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "honduras-women-cigar-club-launches-in-tegucigalpa"
+    },
+    {
+      "published_at": "2026-09-20T16:00:00+00:00",
+      "updated_at": "2026-09-20T16:00:00+00:00",
+      "title": "Perez-Carrillo Ascend Ridge",
+      "summary": "According to the company, this new regular production line was inspired by the idea of progression. Blend-wise, the cigars are made with an Ecuadorian habano wrapper, a binder grown in Estelí, Nicaragua and Nicaraguan filler tobaccos. The post Perez-Carrillo Ascend Ridge appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Perez-Carrillo-Ascend-Ridge-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/perez-carrillo-ascend-ridge/479905/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/perez-carrillo-ascend-ridge/479905/"
+      },
+      "confirmed_by": [],
+      "id": "perez-carrillo-ascend-ridge"
+    },
+    {
+      "published_at": "2026-09-20T15:14:21+00:00",
+      "updated_at": "2026-09-20T15:14:21+00:00",
+      "title": "Tabacalera el Artista Signs International Cigar Cooperation Agreement with China Tobacco",
+      "summary": "Partnership brings together Dominican tobacco and cigar-making expertise with Chinese production and market reach for the new Taishan · Artista cigar project",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image-2.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco/"
+      },
+      "confirmed_by": [],
+      "id": "tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco"
+    },
     {
       "published_at": "2026-09-20T12:59:23+00:00",
       "updated_at": "2026-09-20T12:59:23+00:00",
@@ -94,24 +164,24 @@
       "id": "boveda-takes-best-humidor-as-100-count-model-nears"
     },
     {
-      "published_at": "2026-09-19T07:30:34+00:00",
-      "updated_at": "2026-09-19T07:30:34+00:00",
+      "published_at": "2026-09-19T07:58:46+00:00",
+      "updated_at": "2026-09-19T07:58:46+00:00",
       "title": "A Rum Finished the Cognac Way, Made for Cigar",
       "summary": "A rum-based spirit made for cigars was presented at the Cigar Culture Summit on 14 September, limited to 200 bottles",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PHOTO-2026-09-16-11-05-16.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/a-rum-finished-the-cognac-way-made-for-cigar/"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekV5QWhhTFh1SGtMWnVVSExZRE9CM2NzSmxSR0NCLV8tT0YzWWdTa0JXaldHRzVvMXdxQ0YtN0kzekEtZmFkLThTRXBueXhpY2lCQlRMNy1BZ1A3VW5WNnRvVUJ5eklRY3RmZkhhQ0FEcURPdmFXSDNOZ2JSUzA?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/a-rum-finished-the-cognac-way-made-for-cigar/"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekV5QWhhTFh1SGtMWnVVSExZRE9CM2NzSmxSR0NCLV8tT0YzWWdTa0JXaldHRzVvMXdxQ0YtN0kzekEtZmFkLThTRXBueXhpY2lCQlRMNy1BZ1A3VW5WNnRvVUJ5eklRY3RmZkhhQ0FEcURPdmFXSDNOZ2JSUzA?oc=5"
       },
       "confirmed_by": [],
       "id": "a-rum-finished-the-cognac-way-made-for-cigar"
@@ -395,52 +465,6 @@
       "id": "courts-legally-binding-judgment-offically-no-tobacco-license-to-elite-trading-scandinavia-"
     },
     {
-      "published_at": "2026-09-17T12:13:51+00:00",
-      "updated_at": "2026-09-17T12:13:51+00:00",
-      "title": "DH Cigars Takes Next Step Towards More Sustainable Packaging",
-      "summary": "Rather than presenting a major new launch at InterTabac, DH is highlighting another step in its sustainability strategy: the transition towards new packaging designed to reduce the amount of material used",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_0990.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/dh-cigars-takes-next-step-towards-more-sustainable-packaging/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/dh-cigars-takes-next-step-towards-more-sustainable-packaging/"
-      },
-      "confirmed_by": [],
-      "id": "dh-cigars-takes-next-step-towards-more-sustainable-packaging"
-    },
-    {
-      "published_at": "2026-09-17T11:45:17+00:00",
-      "updated_at": "2026-09-17T11:45:17+00:00",
-      "title": "Jamm Introduces Three New Cigars",
-      "summary": "Jamm Cigars is expanding its portfolio with three new releases for the European and Brazilian markets: the JP 50 Maduro, the new Majesty brand and the Mini JP 50",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_0978.JPG",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/jamm-introduces-three-new-cigars/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/jamm-introduces-three-new-cigars/"
-      },
-      "confirmed_by": [],
-      "id": "jamm-introduces-three-new-cigars"
-    },
-    {
       "published_at": "2026-09-17T10:00:42+00:00",
       "updated_at": "2026-09-17T10:00:42+00:00",
       "title": "InterTabac 2026: Wednesday",
@@ -565,29 +589,6 @@
       "id": "black-works-studio-culture-vulture-coming-this-month"
     },
     {
-      "published_at": "2026-09-15T16:00:50+00:00",
-      "updated_at": "2026-09-15T16:00:50+00:00",
-      "title": "AGANORSA Leaf Aniversario Connecticut Tubo",
-      "summary": "After being released as an event-exclusive in 2025, the 6 x 52 round toro vitola returned this past summer. But instead of being one cigar in a 10-count sampler, this newest version is now a regular production size packaged in an aluminum tube. The post AGANORSA Leaf Aniversario Connecticut Tubo appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/AGANORSA-Leaf-Aniversario-Connecticut-Tubo-3.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-tubo/479274/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/aganorsa-leaf-aniversario-connecticut-tubo/479274/"
-      },
-      "confirmed_by": [],
-      "id": "aganorsa-leaf-aniversario-connecticut-tubo"
-    },
-    {
       "published_at": "2026-09-14T17:23:07+00:00",
       "updated_at": "2026-09-14T17:23:07+00:00",
       "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
@@ -609,29 +610,6 @@
       },
       "confirmed_by": [],
       "id": "egm-cigars-adding-limited-edition-ninfa-jars"
-    },
-    {
-      "published_at": "2026-09-14T16:24:53+00:00",
-      "updated_at": "2026-09-14T16:24:53+00:00",
-      "title": "Bocock Brothers Announce Mizzou Stadium Series: Memorial Stadium 100 Year Celebration | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3FkbVR6b3A0aDZ1ZEstQUl2NmNHTGFtMktySkhOOThtSkJXMVBNcTlqeVFaTnZxZ0l3S2kwTXJsNzdhRGhITVUwX0VBa3NVRmxPUHRua0tfV1Z5NmhJbElRTjlTelNqZXdGd2k2ZjQ4djJ6dFJMaURZTktWWWFKa20wT2ZqWjZ0RDQ3R1lfRTRfQW1PQnNabEZveUdCY1BGU0JEYzZiNFR6WXJSUmpGUzFvOElsTDd1cHh3bDQ3YjV2b1EtMmpXX3R4MA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "bocock-brothers-announce-mizzou-stadium-series-memorial-stadium-100-year-celebration-cigar"
     },
     {
       "published_at": "2026-09-14T16:20:12+00:00",
