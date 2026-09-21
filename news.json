@@ -1,9 +1,147 @@
 {
-  "updated_at": "2026-09-20T19:26:30.407942+00:00",
+  "updated_at": "2026-09-21T10:40:20.338153+00:00",
   "items": [
     {
-      "published_at": "2026-09-20T17:07:01+00:00",
-      "updated_at": "2026-09-20T17:07:01+00:00",
+      "published_at": "2026-09-21T09:14:26+00:00",
+      "updated_at": "2026-09-21T09:14:26+00:00",
+      "title": "Continental launches Tradicion Line",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. With partly new ownership, Continental Tobacco from Hungary, came to InterTabac with a whole new line of cigars. Still under the name Essenze, they now have added the Tradicion line.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/20260917_130633.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/continental-launches-tradicion-line/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/continental-launches-tradicion-line/"
+      },
+      "confirmed_by": [],
+      "id": "continental-launches-tradicion-line"
+    },
+    {
+      "published_at": "2026-09-21T08:49:28+00:00",
+      "updated_at": "2026-09-21T08:49:28+00:00",
+      "title": "New Alejandro Mata",
+      "summary": "Alfambra Boutique Cigars presents in the Intertabac 2026 tradeshow a new regular-production brand, positioned in the premium segment, that bears the name of the company’s founder: Alejandro Mata",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_7734.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/new-alejandro-mata/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/new-alejandro-mata/"
+      },
+      "confirmed_by": [],
+      "id": "new-alejandro-mata"
+    },
+    {
+      "published_at": "2026-09-21T08:39:01+00:00",
+      "updated_at": "2026-09-21T08:39:01+00:00",
+      "title": "Chateau Diadem Launches Two New Cigars",
+      "summary": "After feedback from their customers, Chateau Diadem decided to expand their portfolio with a new line this year",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/20260917_113705.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
+      },
+      "confirmed_by": [],
+      "id": "chateau-diadem-launches-two-new-cigars"
+    },
+    {
+      "published_at": "2026-09-21T08:09:17+00:00",
+      "updated_at": "2026-09-21T08:09:17+00:00",
+      "title": "A Cloud Dancer from Cigar Kings",
+      "summary": "Philipp from Cigar Kings at InterTabac 2026 introduces the new Color of the Year: Aero Lancero – Cloud Dancer",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZUEzU2lrNENzaURha1lSa0dOLXR5Ynk3RTAtMjJLRmVzSlBHOFdxekpOTm5OYzZLM1dnMUFHMXVROGdobHM3RENSajQ5SlBua1JMVW5sQ3pNZmxYVVF5bHFsd1hTdDF6eXdacEdR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZUEzU2lrNENzaURha1lSa0dOLXR5Ynk3RTAtMjJLRmVzSlBHOFdxekpOTm5OYzZLM1dnMUFHMXVROGdobHM3RENSajQ5SlBua1JMVW5sQ3pNZmxYVVF5bHFsd1hTdDF6eXdacEdR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "a-cloud-dancer-from-cigar-kings"
+    },
+    {
+      "published_at": "2026-09-21T08:06:21+00:00",
+      "updated_at": "2026-09-21T08:06:21+00:00",
+      "title": "A Perdomo LEGACY",
+      "summary": "At InterTabac 2026, Arthur Kemper of Perdomo Cigars introduces the Perdomo Legacy Father & Son",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/PHOTO-2026-09-17-15-15-54.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/a-perdomo-legacy/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/a-perdomo-legacy/"
+      },
+      "confirmed_by": [],
+      "id": "a-perdomo-legacy"
+    },
+    {
+      "published_at": "2026-09-20T21:04:01+00:00",
+      "updated_at": "2026-09-20T21:04:01+00:00",
+      "title": "Artista Cigars, China National to Collaborate on New Line",
+      "summary": "One vitola will be made by Artista in the Dominican Republic, the other will be made at a factory in Shandong, China. The cigars will debut later this year in Asia before eventually heading to other markets. The post Artista Cigars, China National to Collaborate on New Line appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Taishan-·-Artista-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/artista-cigars-china-national-to-collaborate-on-new-line/479951/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/artista-cigars-china-national-to-collaborate-on-new-line/479951/"
+      },
+      "confirmed_by": [],
+      "id": "artista-cigars-china-national-to-collaborate-on-new-line"
+    },
+    {
+      "published_at": "2026-09-20T17:06:53+00:00",
+      "updated_at": "2026-09-20T17:06:53+00:00",
       "title": "Honduras Women Cigar Club Launches in Tegucigalpa",
       "summary": "Creating a space to learn, share, and enjoy cigars in an elegant and authentic way and, above all, among women, is what drove Aurora Membreño to establish the Honduras Women Cigar Club (HWCC)",
       "category": [
@@ -233,6 +371,29 @@
       "id": "austin-cigar-lounge-rebrands-as-overton-s-cigar-news"
     },
     {
+      "published_at": "2026-09-18T20:49:54+00:00",
+      "updated_at": "2026-09-18T20:49:54+00:00",
+      "title": "New Cigar Cube Humidors: Custom Design Meets Smart Storage",
+      "summary": "Heiko Pörz is excited to present his latest creations: the Cigar Cube and its compact little brother, the Mini Cube",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3IydElUMmJFdktTR01KSXVybnFteUZNZldXZkZHSzRwblF5amRUWTl4VVpmWlFhUHcxdFppQ1c0X29Lc0toRVVIZ2doaUhlR1FSNkF6U1h6al92OGNZTFlhZlRFMldidGQ1Tm55dGhaT2RJVXE3UHV0OS1sWWwxdTZ0SmJnSjFiZnIwQ2hoaHU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3IydElUMmJFdktTR01KSXVybnFteUZNZldXZkZHSzRwblF5amRUWTl4VVpmWlFhUHcxdFppQ1c0X29Lc0toRVVIZ2doaUhlR1FSNkF6U1h6al92OGNZTFlhZlRFMldidGQ1Tm55dGhaT2RJVXE3UHV0OS1sWWwxdTZ0SmJnSjFiZnIwQ2hoaHU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "new-cigar-cube-humidors-custom-design-meets-smart-storage"
+    },
+    {
       "published_at": "2026-09-18T19:28:20+00:00",
       "updated_at": "2026-09-18T19:28:20+00:00",
       "title": "Drew Estate Ships Four-Pack Petacas for Six Liga Privada Cigars",
@@ -277,144 +438,6 @@
       },
       "confirmed_by": [],
       "id": "costa-rica-getting-new-edici-n-regional-this-month-with-el-rey-del-mundo-tico"
-    },
-    {
-      "published_at": "2026-09-18T17:36:29+00:00",
-      "updated_at": "2026-09-18T17:36:29+00:00",
-      "title": "NUB Cigars Launches NUB México",
-      "summary": "As a tribute to one of Mesoamerica’s most sacred plants, NUB presents “NUB México”—a new product line inspired by this ancient culture",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbmlFWEVmbWZwbnRWeTBFOE91NFlzTUVHY1lmNGxvcWtoVG9relBOTkl4eUlhaWYxa0JHcDJEUjFnZ3RqSUVuaWZtMWJJT19KN1RIUFpxcm4wdmg3SkpKbDh0N3hGZXEyWTZmNQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbmlFWEVmbWZwbnRWeTBFOE91NFlzTUVHY1lmNGxvcWtoVG9relBOTkl4eUlhaWYxa0JHcDJEUjFnZ3RqSUVuaWZtMWJJT19KN1RIUFpxcm4wdmg3SkpKbDh0N3hGZXEyWTZmNQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "nub-cigars-launches-nub-m-xico"
-    },
-    {
-      "published_at": "2026-09-18T14:48:45+00:00",
-      "updated_at": "2026-09-18T14:48:45+00:00",
-      "title": "Tradition and another Cigar Journal Trophy at the Kleinlagel Booth",
-      "summary": "The third day of InterTabac began in a convivial atmosphere with a traditional Bavarian Weißwurst breakfast for fellow exhibitors and friends",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUtaTFp6cU9ITkhyaUtZT3RDLWxmdmJvTGUyc0c3VlBnSnAzYTVhcEdYV2pEaGtPdFYzQmZYVDFlX1BMZ1puZGM5cW81eVozVENtbEpEOExuVWR4ZlBCZ3Q0bTB3MzY1b1BLREJnLThqU2tkYUJfV0tFUnl6QV9NUk1sSlh5cmI3cVo2enZvdk5sV3pCbDBLTzhSbHU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "tradition-and-another-cigar-journal-trophy-at-the-kleinlagel-booth"
-    },
-    {
-      "published_at": "2026-09-18T09:05:12+00:00",
-      "updated_at": "2026-09-18T09:05:12+00:00",
-      "title": "New Cigar Cube Humidors: Custom Design Meets Smart Storage",
-      "summary": "Heiko Pörz is excited to present his latest creations: the Cigar Cube and its compact little brother, the Mini Cube",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3IydElUMmJFdktTR01KSXVybnFteUZNZldXZkZHSzRwblF5amRUWTl4VVpmWlFhUHcxdFppQ1c0X29Lc0toRVVIZ2doaUhlR1FSNkF6U1h6al92OGNZTFlhZlRFMldidGQ1Tm55dGhaT2RJVXE3UHV0OS1sWWwxdTZ0SmJnSjFiZnIwQ2hoaHU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3IydElUMmJFdktTR01KSXVybnFteUZNZldXZkZHSzRwblF5amRUWTl4VVpmWlFhUHcxdFppQ1c0X29Lc0toRVVIZ2doaUhlR1FSNkF6U1h6al92OGNZTFlhZlRFMldidGQ1Tm55dGhaT2RJVXE3UHV0OS1sWWwxdTZ0SmJnSjFiZnIwQ2hoaHU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "new-cigar-cube-humidors-custom-design-meets-smart-storage"
-    },
-    {
-      "published_at": "2026-09-18T08:42:36+00:00",
-      "updated_at": "2026-09-18T08:42:36+00:00",
-      "title": "Two New Cigars from Stauffenberg",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Launched this summer, the Edition 3 in a Toro format is a full-bodied cigar with pronounced notes of chocolate and coffee.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PHOTO-2026-09-17-12-32-09.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/two-new-cigars-from-stauffenberg/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/two-new-cigars-from-stauffenberg/"
-      },
-      "confirmed_by": [],
-      "id": "two-new-cigars-from-stauffenberg"
-    },
-    {
-      "published_at": "2026-09-18T08:19:04+00:00",
-      "updated_at": "2026-09-18T08:19:04+00:00",
-      "title": "Sapphire and Half Coronas from Rocky",
-      "summary": "Rocky Patel introduces the new Sapphire cigar to international markets",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PHOTO-2026-09-17-12-19-42.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/sapphire-and-half-coronas-from-rocky/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/sapphire-and-half-coronas-from-rocky/"
-      },
-      "confirmed_by": [],
-      "id": "sapphire-and-half-coronas-from-rocky"
-    },
-    {
-      "published_at": "2026-09-18T08:09:23+00:00",
-      "updated_at": "2026-09-18T08:09:23+00:00",
-      "title": "Supreme Leaf, Now World Wide",
-      "summary": "Nicaragua’s Aganorsa Leaf returns to Intertabac 2026 with a new Supreme Leaf cigar but now designed for the European market: the Aganorsa Supreme Leaf World Wide",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_7749%20Kopie.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/supreme-leaf-now-world-wide/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/supreme-leaf-now-world-wide/"
-      },
-      "confirmed_by": [],
-      "id": "supreme-leaf-now-world-wide"
     },
     {
       "published_at": "2026-09-17T17:56:57+00:00",
@@ -511,10 +534,10 @@
       "id": "stolen-throne-highway-drifter-showing-up-at-stores"
     },
     {
-      "published_at": "2026-09-16T14:43:07+00:00",
-      "updated_at": "2026-09-16T14:43:07+00:00",
-      "title": "Land Of The Wrapper Leaf: Touring Jalapa With Nestor Plasencia",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "published_at": "2026-09-15T13:30:07+00:00",
+      "updated_at": "2026-09-15T13:30:07+00:00",
+      "title": "Black Works Culture Vulture Formally Announced | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -522,71 +545,16 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "land-of-the-wrapper-leaf-touring-jalapa-with-nestor-plasencia"
-    },
-    {
-      "published_at": "2026-09-15T18:52:40+00:00",
-      "updated_at": "2026-09-15T18:52:40+00:00",
-      "title": "Oliva Year of the Goat Coming to International Markets",
-      "summary": "This 6 x 60 double toro uses a Cameroon wrapper over a Nicaraguan binder and filler. Unfortunately, none of the 20,000 cigars being made are slated to head to the U.S. The post Oliva Year of the Goat Coming to International Markets appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Oliva-Year-of-the-Goat-open-box-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/oliva-year-of-the-goat-coming-to-international-markets/479698/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/oliva-year-of-the-goat-coming-to-international-markets/479698/"
-      },
-      "confirmed_by": [],
-      "id": "oliva-year-of-the-goat-coming-to-international-markets"
-    },
-    {
-      "published_at": "2026-09-15T17:27:58+00:00",
-      "updated_at": "2026-09-15T17:27:58+00:00",
-      "title": "Black Works Studio Culture Vulture Coming This Month",
-      "summary": "James Brown, the brand's creator, calls it \"a whole new level for Black Works Studio.\" The Connecticut and candela strips give the cigars an Ombre-style fade that moves from green to yellow and back to green. The post Black Works Studio Culture Vulture Coming This Month appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/BLK-WKS-Culture-Vulture-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
-        },
-        {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/black-works-studio-culture-vulture-coming-this-month/479683/"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ZreWhBVGhaRU8tWE94NVl5YWQ3aXBHTnFGOFhDdjVCQjhRR2M4OUhqR3ZUdnlyb3YwTjJuNkhleUFzS0FpMnotMnJEenllNDUwSy1sS1lNbE45T2Z2UURhYXlSOGNOWFYtLU9RUjNhbDA5czBIcWZIbXlwZlM1aW10RnZ2MFNNNVJxU0F6Z2xnSUpsX09NTA?oc=5"
-        }
-      ],
-      "id": "black-works-studio-culture-vulture-coming-this-month"
+      "confirmed_by": [],
+      "id": "black-works-culture-vulture-formally-announced-cigar-news"
     },
     {
       "published_at": "2026-09-14T17:23:07+00:00",
@@ -612,29 +580,6 @@
       "id": "egm-cigars-adding-limited-edition-ninfa-jars"
     },
     {
-      "published_at": "2026-09-14T16:20:12+00:00",
-      "updated_at": "2026-09-14T16:20:12+00:00",
-      "title": "Handmade Cigar Imports Hold Steady For First Half Of Year",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDAxVzNZaDV5RWJzb0toT3VLbmlDU3c0TXpvQjhqMWplZXRIb2ZBeFU4SFVaeEN1d2lrMkRINERvbmtIQjlMRVR1a0JKOU5UN0s1MndhcnEwb1I0MGFBZjFhOFMyTzRGN3ZHMVhWNng3OEtlM3BfZmZVUnpLclhSR3FqaHhKYWxRM2ZuNE05N2N2aG5Uc2ZHTHV3bzc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDAxVzNZaDV5RWJzb0toT3VLbmlDU3c0TXpvQjhqMWplZXRIb2ZBeFU4SFVaeEN1d2lrMkRINERvbmtIQjlMRVR1a0JKOU5UN0s1MndhcnEwb1I0MGFBZjFhOFMyTzRGN3ZHMVhWNng3OEtlM3BfZmZVUnpLclhSR3FqaHhKYWxRM2ZuNE05N2N2aG5Uc2ZHTHV3bzc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "handmade-cigar-imports-hold-steady-for-first-half-of-year"
-    },
-    {
       "published_at": "2026-09-14T11:06:55+00:00",
       "updated_at": "2026-09-14T11:06:55+00:00",
       "title": "Cigars with a Scent of Mother Russia & Soviet",
@@ -656,52 +601,6 @@
       },
       "confirmed_by": [],
       "id": "cigars-with-a-scent-of-mother-russia-soviet"
-    },
-    {
-      "published_at": "2026-09-11T07:00:00+00:00",
-      "updated_at": "2026-09-11T07:00:00+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Files for Insolvency (Update)",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelVCdXpFeTlhazBrakVVTnFVS3BEbGFVcGtoc1g4cVl4S285VVE0Zlc4NURrVW1HNUdXUVlwREJoMmZiNFpNV1VWbjgyVGxKcFBZcEYtc0lNMHF0anA5aFhfM1ZzdXliNjNzb0dUU3hKM18xOEpId25TdjZib0pZb044VVR1UE8xZ01YNDhqV3RwdlRCMVRhYXpNNU1BazZRc3k0d3VLd3RXOW9aTXhqTklfWnZBNTFCV3ZwdDdKdE9XQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-files-for-insolvency-update"
-    },
-    {
-      "published_at": "2026-09-11T01:18:33+00:00",
-      "updated_at": "2026-09-11T01:18:33+00:00",
-      "title": "Kelner LE 80 (Diademas Finas) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUxRYldOYUJoVmhsdDNOM0xOUGxmVHRRNE9mS1V0RDJXT1JxTmtfUEJUMkZXbkZNVzZxNWRGUXdxZFhVZFVwY25UcVZnek5wTmltZ3JvQkM1dWJEQ2wwc2dWcmVPYVVSY3ZqVGFFbzZIb085OGduYlItMGhRLTJCTnN3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "kelner-le-80-diademas-finas-cigar-review"
     }
   ]
 }
