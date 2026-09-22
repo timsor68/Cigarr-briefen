@@ -1,28 +1,106 @@
 {
-  "updated_at": "2026-09-21T21:02:14.002146+00:00",
+  "updated_at": "2026-09-22T09:55:11.085691+00:00",
   "items": [
     {
-      "published_at": "2026-09-21T18:52:30+00:00",
-      "updated_at": "2026-09-21T18:52:30+00:00",
-      "title": "Commemorative Cuban La Gloria Cubana Humidor Coming To Switzerland",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "published_at": "2026-09-22T08:30:30+00:00",
+      "updated_at": "2026-09-22T08:30:30+00:00",
+      "title": "La Gloria Cubana 35 Aniversario Coming to Swizerland Next Month",
+      "summary": "The limited edition humidor celebrates the 35th anniversary of La Casa del Habano, the worldwide network of Cuban cigar stores. Also coming to store shelves is the 20-count boxes of the Romeo y Julieta Amantes. The post La Gloria Cubana 35 Aniversario Coming to Swizerland Next Month appeared first on halfwheel",
       "category": [
         "Kuba"
       ],
-      "status": "Trovärdig källa",
-      "image": "",
+      "status": "Bekräftad av flera källor",
+      "image": "https://halfwheel.com/wp-content/uploads/2025/02/Festival-del-Habano-XXV-La-Gloria-Cubano-35-Aniversario-La-Casa-del-Habano-Open-Box-scaled.jpg",
       "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month/480027/"
+        },
         {
           "name": "Cigar Aficionado",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month/480027/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+        }
+      ],
+      "id": "la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month"
+    },
+    {
+      "published_at": "2026-09-22T08:00:48+00:00",
+      "updated_at": "2026-09-22T08:00:48+00:00",
+      "title": "The Traveler Cigars Honors Maradona",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. For ten years, Emiliano Lagos at The Traveler Cigars, worked with the famous football player Diego Maradona in creating The Traveler Maradona tribute cigar. At this year’s InterTabac, he launched a new ashtray and a cutter as a tribute to the late superstar.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/The%20Traveler%20Cigars.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-traveler-cigars-honors-maradona/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-traveler-cigars-honors-maradona/"
       },
       "confirmed_by": [],
-      "id": "commemorative-cuban-la-gloria-cubana-humidor-coming-to-switzerland"
+      "id": "the-traveler-cigars-honors-maradona"
+    },
+    {
+      "published_at": "2026-09-22T07:49:15+00:00",
+      "updated_at": "2026-09-22T07:49:15+00:00",
+      "title": "Dos Amigos at Intertabac 2026",
+      "summary": "At Intertabac, Stefan Lampert presented his new products, including his latest creation, the BABA YAGA",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/PHOTO-2026-09-20-20-03-40.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/dos-amigos-at-intertabac-2026/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/dos-amigos-at-intertabac-2026/"
+      },
+      "confirmed_by": [],
+      "id": "dos-amigos-at-intertabac-2026"
+    },
+    {
+      "published_at": "2026-09-21T17:08:20+00:00",
+      "updated_at": "2026-09-21T17:08:20+00:00",
+      "title": "Platinum Nova Cigars Unveils the Royal Falcon",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0lBLUpMNXFEaU5uWS1WcXBvYW9MWTdqQVMxWkg2QjRIZGozUEw5SkxtTU9abDQzNEdIbFVvcjJod28xbWZ3dlM1NWl3M1ZRVXNTeWUzUjhXX2t4dFNoaTRIblA5OTBaZjlmY2YxMXU5ejI2cVo2aEMyRHMzYmhUbw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0lBLUpMNXFEaU5uWS1WcXBvYW9MWTdqQVMxWkg2QjRIZGozUEw5SkxtTU9abDQzNEdIbFVvcjJod28xbWZ3dlM1NWl3M1ZRVXNTeWUzUjhXX2t4dFNoaTRIblA5OTBaZjlmY2YxMXU5ejI2cVo2aEMyRHMzYmhUbw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "platinum-nova-cigars-unveils-the-royal-falcon"
     },
     {
       "published_at": "2026-09-21T17:08:20+00:00",
@@ -48,27 +126,27 @@
       "id": "camorra-cigars-plans-to-expand-in-2027"
     },
     {
-      "published_at": "2026-09-21T16:37:29+00:00",
-      "updated_at": "2026-09-21T16:37:29+00:00",
-      "title": "Platinum Nova Cigars Unveils the Royal Falcon",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. The main star at this year Intertabac booth of Platinum Nova Cigar is the Royal Falcon. The new release comes into different sizes, Robusto and Toro. The Royal Falcon is a full body cigar with a Habano Oscuro wrapper, Corojo binder and Nicaraguan filler.",
+      "published_at": "2026-09-21T16:40:32+00:00",
+      "updated_at": "2026-09-21T16:40:32+00:00",
+      "title": "Artista Cigars Signs its cooperation with China Tobacco International",
+      "summary": "Partnership brings together Dominican tobacco and cigar-making expertise with Chinese production and market reach for the new Taishan · Artista cigar project",
       "category": [
-        "Nya utgåvor"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Platinum%20Nova%20Cigars.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/platinum-nova-cigars-unveils-the-royal-falcon/"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUFCUTM5ZEFXV2NUY1RYRDhiamM1T3hLWDEwNDIzcmtKTjdXMmtidFF3MjZmQlRTbW5SY0FQRVV2SktVS2cxQ1ZBT3RmTmdrc1VpU084eHNKTjFlS0hXZkdJbnRIUWtsek51elhWY24zc1k0M0Nzc09aRGlFVUtNU0pxa2RVVmJoWnZoVmFZTHI4dkgtYnZFamV1eHV6anN4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/platinum-nova-cigars-unveils-the-royal-falcon/"
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUFCUTM5ZEFXV2NUY1RYRDhiamM1T3hLWDEwNDIzcmtKTjdXMmtidFF3MjZmQlRTbW5SY0FQRVV2SktVS2cxQ1ZBT3RmTmdrc1VpU084eHNKTjFlS0hXZkdJbnRIUWtsek51elhWY24zc1k0M0Nzc09aRGlFVUtNU0pxa2RVVmJoWnZoVmFZTHI4dkgtYnZFamV1eHV6anN4?oc=5"
       },
       "confirmed_by": [],
-      "id": "platinum-nova-cigars-unveils-the-royal-falcon"
+      "id": "artista-cigars-signs-its-cooperation-with-china-tobacco-international"
     },
     {
       "published_at": "2026-09-21T16:31:03+00:00",
@@ -140,8 +218,8 @@
       "id": "jfr-20th-anniversary-gordito"
     },
     {
-      "published_at": "2026-09-21T15:22:30+00:00",
-      "updated_at": "2026-09-21T15:22:30+00:00",
+      "published_at": "2026-09-21T15:25:23+00:00",
+      "updated_at": "2026-09-21T15:25:23+00:00",
       "title": "13 Fantastic Cigars You Should Be Smoking Now",
       "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
       "category": [
@@ -301,30 +379,6 @@
       "id": "artista-cigars-china-national-to-collaborate-on-new-line"
     },
     {
-      "published_at": "2026-09-20T17:06:53+00:00",
-      "updated_at": "2026-09-20T17:06:53+00:00",
-      "title": "Honduras Women Cigar Club Launches in Tegucigalpa",
-      "summary": "Creating a space to learn, share, and enjoy cigars in an elegant and authentic way and, above all, among women, is what drove Aurora Membreño to establish the Honduras Women Cigar Club (HWCC)",
-      "category": [
-        "Honduras",
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFdFVEFPMXNMMXA4OUd4dkFqRTFTMWM1TmRoUmJtYjJPU1dGNF9LU21FYzdHUHp1U2Naa3VqVHN1NnlVNnFEcjFzb2cya1d4aEJuMlUxVmNEZHBXLXpzSkVjRENyZDdSTlZaa0FOMHlmVlQxREg1dHUwOFp2SXF4T2l5M0MyQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFdFVEFPMXNMMXA4OUd4dkFqRTFTMWM1TmRoUmJtYjJPU1dGNF9LU21FYzdHUHp1U2Naa3VqVHN1NnlVNnFEcjFzb2cya1d4aEJuMlUxVmNEZHBXLXpzSkVjRENyZDdSTlZaa0FOMHlmVlQxREg1dHUwOFp2SXF4T2l5M0MyQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "honduras-women-cigar-club-launches-in-tegucigalpa"
-    },
-    {
       "published_at": "2026-09-20T16:00:00+00:00",
       "updated_at": "2026-09-20T16:00:00+00:00",
       "title": "Perez-Carrillo Ascend Ridge",
@@ -346,52 +400,6 @@
       },
       "confirmed_by": [],
       "id": "perez-carrillo-ascend-ridge"
-    },
-    {
-      "published_at": "2026-09-20T15:14:21+00:00",
-      "updated_at": "2026-09-20T15:14:21+00:00",
-      "title": "Tabacalera el Artista Signs International Cigar Cooperation Agreement with China Tobacco",
-      "summary": "Partnership brings together Dominican tobacco and cigar-making expertise with Chinese production and market reach for the new Taishan · Artista cigar project",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image-2.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco/"
-      },
-      "confirmed_by": [],
-      "id": "tabacalera-el-artista-signs-international-cigar-cooperation-agreement-with-china-tobacco"
-    },
-    {
-      "published_at": "2026-09-20T12:59:23+00:00",
-      "updated_at": "2026-09-20T12:59:23+00:00",
-      "title": "My Father Presents Their Second Honduran Factory Release",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. After presenting last year the first release out of their Honduran Factory, My Father Cigars came with another release for the InterTabac 2026. The My Father La Lealtad combines tobaccos from Nicaragua and Honduras for the first time.",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/myfather.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/my-father-presents-their-second-honduran-factory-release/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/my-father-presents-their-second-honduran-factory-release/"
-      },
-      "confirmed_by": [],
-      "id": "my-father-presents-their-second-honduran-factory-release"
     },
     {
       "published_at": "2026-09-19T20:42:22+00:00",
@@ -580,29 +588,6 @@
       "id": "intertabac-2026-wednesday"
     },
     {
-      "published_at": "2026-09-16T17:13:24+00:00",
-      "updated_at": "2026-09-16T17:13:24+00:00",
-      "title": "Stolen Throne Highway Drifter Showing Up at Stores",
-      "summary": "This is the first release from the company to feature a shaggy foot. Blend-wise, the 6 x 52 toro incorporates an Ecuadorian habano-seed wrapper covering a binder and filler blend grown in Nicaragua. The post Stolen Throne Highway Drifter Showing Up at Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Stolen-Throne-Highway-Drifter-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/stolen-throne-highway-drifter-showing-up-at-stores/479775/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/stolen-throne-highway-drifter-showing-up-at-stores/479775/"
-      },
-      "confirmed_by": [],
-      "id": "stolen-throne-highway-drifter-showing-up-at-stores"
-    },
-    {
       "published_at": "2026-09-16T14:43:07+00:00",
       "updated_at": "2026-09-16T14:43:07+00:00",
       "title": "Land Of The Wrapper Leaf: Touring Jalapa With Nestor Plasencia",
@@ -615,12 +600,12 @@
       "sources": [
         {
           "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUlNclloT3UwQ0ZoNGlXOEY2RS15aklxUjdkODZyVmRybEl6T0JPaktVTHd3SURla0tsSXk1a0ZyUzdTZkYxb3BvenJWOXVkSzFxRUVkMXpCZVZnMFB4SGVJNkVNLUJlakMybTRiUXJkeFd4SVU4SThHV0ZwRjc3RFdkcWJzMHNEWHRHVjZPb3haUDAzel9GMVppRHF4X3pGVGc?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVUzajFqb0FmUDBIdXFDUWlaamhrcWRZMzJxendrZU5PTnJkcW9sU3VMRkFoUEh3YnhCN1MtVFp4MW9LWjZveTQ2UV9UejRSR3BidEdKdGRMSWNLdE4ySUF6Yi1hWVlZaEl1UEF5dUtOR2tnd3pYUlBBT1ZVX0VGLVpFaUozWV8xTkQ4TmQxUzVOM1o3d3VsaFIyUGdiTFRRQlhZ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUlNclloT3UwQ0ZoNGlXOEY2RS15aklxUjdkODZyVmRybEl6T0JPaktVTHd3SURla0tsSXk1a0ZyUzdTZkYxb3BvenJWOXVkSzFxRUVkMXpCZVZnMFB4SGVJNkVNLUJlakMybTRiUXJkeFd4SVU4SThHV0ZwRjc3RFdkcWJzMHNEWHRHVjZPb3haUDAzel9GMVppRHF4X3pGVGc?oc=5"
       },
       "confirmed_by": [],
       "id": "land-of-the-wrapper-leaf-touring-jalapa-with-nestor-plasencia"
@@ -647,29 +632,6 @@
       },
       "confirmed_by": [],
       "id": "black-works-culture-vulture-formally-announced-cigar-news"
-    },
-    {
-      "published_at": "2026-09-14T17:23:07+00:00",
-      "updated_at": "2026-09-14T17:23:07+00:00",
-      "title": "EGM Cigars Adding Limited Edition Ninfa Jars",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sS005eFc0STlGS0tnUEs3NkVWaDBjMUZRUGpXOWpBNVpsVGUteVZGREF2LW5abjZlU2RSeG1MVDdjQmpfRWNONmN5NmNBenY4NnMzbWJfQmd4S0t0SHBLbzlpN1AyS1laVnFDdUhzR2hzRHo0Q3JaLTVjRlFUQUk?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sS005eFc0STlGS0tnUEs3NkVWaDBjMUZRUGpXOWpBNVpsVGUteVZGREF2LW5abjZlU2RSeG1MVDdjQmpfRWNONmN5NmNBenY4NnMzbWJfQmd4S0t0SHBLbzlpN1AyS1laVnFDdUhzR2hzRHo0Q3JaLTVjRlFUQUk?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "egm-cigars-adding-limited-edition-ninfa-jars"
     },
     {
       "published_at": "2026-09-14T16:20:12+00:00",
