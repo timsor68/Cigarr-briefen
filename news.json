@@ -1,6 +1,121 @@
 {
-  "updated_at": "2026-09-24T09:57:44.990444+00:00",
+  "updated_at": "2026-09-24T15:48:25.089317+00:00",
   "items": [
+    {
+      "published_at": "2026-09-24T10:35:35+00:00",
+      "updated_at": "2026-09-24T10:35:35+00:00",
+      "title": "Plasencia Reserva Original Now Available in a 14-Count Box",
+      "summary": "Plasencia Cigars is transitioning the Reserva Original collection from 10-count to 14-count boxes",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/images-1.png",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/plasencia-reserva-original-now-available-in-a-14-count-box/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/plasencia-reserva-original-now-available-in-a-14-count-box/"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-reserva-original-now-available-in-a-14-count-box"
+    },
+    {
+      "published_at": "2026-09-24T10:23:42+00:00",
+      "updated_at": "2026-09-24T10:23:42+00:00",
+      "title": "Montosa Maduro Now Also Available in Mini Cigarillo Format",
+      "summary": "In addition to the MONTOSA Claro Mini Cigarillo, the new MONTOSA Maduro Mini Cigarillo now joins the MONTOSA family",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Montosa%20Maduro%20Cigarillo%20doppel_s.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/montosa-maduro-now-also-available-in-mini-cigarillo-format/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/montosa-maduro-now-also-available-in-mini-cigarillo-format/"
+      },
+      "confirmed_by": [],
+      "id": "montosa-maduro-now-also-available-in-mini-cigarillo-format"
+    },
+    {
+      "published_at": "2026-09-24T10:03:37+00:00",
+      "updated_at": "2026-09-24T10:03:37+00:00",
+      "title": "Saint George in the 10th Anniversary",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Slaying the dragon, like Saint George. Foundation Cigar Company was represented at Intertabac 2026 by George Frakes, the company's international markets manager. Foundation—the company founded by Nick Melillo ten years ago—has always maintained a striking and original design aesthetic, culminating in the 10th Anniversary Salomon, a cigar of 178 mmx 58 (7x58), which depicts Saint George driving his spear into the dragon. According to Frakes, \"Saint George represents the tobacco industry overcoming the various challenges it faces, particularly in this years regarding regulations, but those are not the unique: it also represents the spirit of resilience, triumph, and dedication that has guided the company over the past decade \".",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_7803.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/saint-george-in-the-10th-anniversary/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/saint-george-in-the-10th-anniversary/"
+      },
+      "confirmed_by": [],
+      "id": "saint-george-in-the-10th-anniversary"
+    },
+    {
+      "published_at": "2026-09-24T09:54:29+00:00",
+      "updated_at": "2026-09-24T09:54:29+00:00",
+      "title": "Year of the Goat",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Flor de Selva was among the first brands to join the celebration of the Chinese New Year. In fact, the new limited-edition Flor de Selva Year of the Goat —set to hit the market towards the end of the year—marks the tenth release in this series since the Year of the Dog edition, launched in 2018.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_7782.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/year-of-the-goat/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/year-of-the-goat/"
+      },
+      "confirmed_by": [],
+      "id": "year-of-the-goat"
+    },
+    {
+      "published_at": "2026-09-24T09:43:16+00:00",
+      "updated_at": "2026-09-24T09:43:16+00:00",
+      "title": "Dominican Gems",
+      "summary": "Saga, the brand from De los Reyes Cigars, was represented at Intertabac 2026 by Nirka Reyes",
+      "category": [
+        "Dominikanska republiken"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_7757.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/dominican-gems/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/dominican-gems/"
+      },
+      "confirmed_by": [],
+      "id": "dominican-gems"
+    },
     {
       "published_at": "2026-09-23T23:29:27+00:00",
       "updated_at": "2026-09-23T23:29:27+00:00",
@@ -256,38 +371,6 @@
       "id": "viaje-zombies-return-with-alternate-art"
     },
     {
-      "published_at": "2026-09-22T08:30:30+00:00",
-      "updated_at": "2026-09-22T08:30:30+00:00",
-      "title": "La Gloria Cubana 35 Aniversario Coming to Swizerland Next Month",
-      "summary": "The limited edition humidor celebrates the 35th anniversary of La Casa del Habano, the worldwide network of Cuban cigar stores. Also coming to store shelves is the 20-count boxes of the Romeo y Julieta Amantes. The post La Gloria Cubana 35 Aniversario Coming to Swizerland Next Month appeared first on halfwheel",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2025/02/Festival-del-Habano-XXV-La-Gloria-Cubano-35-Aniversario-La-Casa-del-Habano-Open-Box-scaled.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month/480027/"
-        },
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month/480027/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
-        }
-      ],
-      "id": "la-gloria-cubana-35-aniversario-coming-to-swizerland-next-month"
-    },
-    {
       "published_at": "2026-09-22T08:21:35+00:00",
       "updated_at": "2026-09-22T08:21:35+00:00",
       "title": "The Traveler Cigars Honors Maradona",
@@ -332,6 +415,29 @@
       },
       "confirmed_by": [],
       "id": "dos-amigos-at-intertabac-2026"
+    },
+    {
+      "published_at": "2026-09-22T00:25:35+00:00",
+      "updated_at": "2026-09-22T00:25:35+00:00",
+      "title": "Commemorative Cuban La Gloria Cubana Humidor Coming To Switzerland",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "commemorative-cuban-la-gloria-cubana-humidor-coming-to-switzerland"
     },
     {
       "published_at": "2026-09-21T17:08:20+00:00",
@@ -426,29 +532,6 @@
       "id": "hirochi-robaina-introduces-limited-jar-and-anniversary-humidor"
     },
     {
-      "published_at": "2026-09-21T16:31:03+00:00",
-      "updated_at": "2026-09-21T16:31:03+00:00",
-      "title": "The Meerapfel Project 18 Debuts at Intertabac 2026",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Every year the Meerapfel booth at Intertabac brings a new limited release to life and this year star was the Project 18.",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Meerapfel-1.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/the-meerapfel-project-18-debuts-at-intertabac-2026/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/the-meerapfel-project-18-debuts-at-intertabac-2026/"
-      },
-      "confirmed_by": [],
-      "id": "the-meerapfel-project-18-debuts-at-intertabac-2026"
-    },
-    {
       "published_at": "2026-09-21T15:25:23+00:00",
       "updated_at": "2026-09-21T15:25:23+00:00",
       "title": "13 Fantastic Cigars You Should Be Smoking Now",
@@ -470,98 +553,6 @@
       },
       "confirmed_by": [],
       "id": "13-fantastic-cigars-you-should-be-smoking-now"
-    },
-    {
-      "published_at": "2026-09-21T11:48:56+00:00",
-      "updated_at": "2026-09-21T11:48:56+00:00",
-      "title": "A Cloud Dancer from Cigar Kings",
-      "summary": "Philipp from Cigar Kings at InterTabac 2026 introduces the new Color of the Year: Aero Lancero – Cloud Dancer",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZUEzU2lrNENzaURha1lSa0dOLXR5Ynk3RTAtMjJLRmVzSlBHOFdxekpOTm5OYzZLM1dnMUFHMXVROGdobHM3RENSajQ5SlBua1JMVW5sQ3pNZmxYVVF5bHFsd1hTdDF6eXdacEdR?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZUEzU2lrNENzaURha1lSa0dOLXR5Ynk3RTAtMjJLRmVzSlBHOFdxekpOTm5OYzZLM1dnMUFHMXVROGdobHM3RENSajQ5SlBua1JMVW5sQ3pNZmxYVVF5bHFsd1hTdDF6eXdacEdR?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "a-cloud-dancer-from-cigar-kings"
-    },
-    {
-      "published_at": "2026-09-21T09:14:26+00:00",
-      "updated_at": "2026-09-21T09:14:26+00:00",
-      "title": "Continental launches Tradicion Line",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. With partly new ownership, Continental Tobacco from Hungary, came to InterTabac with a whole new line of cigars. Still under the name Essenze, they now have added the Tradicion line.",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/20260917_130633.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/continental-launches-tradicion-line/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/continental-launches-tradicion-line/"
-      },
-      "confirmed_by": [],
-      "id": "continental-launches-tradicion-line"
-    },
-    {
-      "published_at": "2026-09-21T08:49:28+00:00",
-      "updated_at": "2026-09-21T08:49:28+00:00",
-      "title": "New Alejandro Mata",
-      "summary": "Alfambra Boutique Cigars presents in the Intertabac 2026 tradeshow a new regular-production brand, positioned in the premium segment, that bears the name of the company’s founder: Alejandro Mata",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_7734.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/new-alejandro-mata/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/new-alejandro-mata/"
-      },
-      "confirmed_by": [],
-      "id": "new-alejandro-mata"
-    },
-    {
-      "published_at": "2026-09-21T08:39:01+00:00",
-      "updated_at": "2026-09-21T08:39:01+00:00",
-      "title": "Chateau Diadem Launches Two New Cigars",
-      "summary": "After feedback from their customers, Chateau Diadem decided to expand their portfolio with a new line this year",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/20260917_113705.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/chateau-diadem-launches-two-new-cigars/"
-      },
-      "confirmed_by": [],
-      "id": "chateau-diadem-launches-two-new-cigars"
     },
     {
       "published_at": "2026-09-20T23:27:35+00:00",
@@ -748,29 +739,6 @@
       },
       "confirmed_by": [],
       "id": "black-works-culture-vulture-formally-announced-cigar-news"
-    },
-    {
-      "published_at": "2026-09-14T11:06:55+00:00",
-      "updated_at": "2026-09-14T11:06:55+00:00",
-      "title": "Cigars with a Scent of Mother Russia & Soviet",
-      "summary": "Secret funding from Moscow, educational trips to the Soviet Union, a mysterious \"baron\", the KGB, the FSB, murder and Russian hacker attacks against Argentinian authorities are what emerges when Cigarrvärlden begins to pull in loose ends from a previous investigation of a cigar shop in Stockholm. What happens when we dig all the way back to the 70:s? Given Habanos Nordic AB's years-long proximity to the shop in question, alongside Charlie Minato’s editorial proposing that Arab shareholders might replace Chen Zhi, the story remains incomplete without the dimension of Russian and Soviet espionage.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Flagga_kina_ingen_UR_public_domain_8e688404-a7c5-4c07-8607-8d49af96da19_1200x1200.png?v=1789384387",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/cigars-with-a-scent-of-mother-russia-soviet"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/cigars-with-a-scent-of-mother-russia-soviet"
-      },
-      "confirmed_by": [],
-      "id": "cigars-with-a-scent-of-mother-russia-soviet"
     }
   ]
 }
