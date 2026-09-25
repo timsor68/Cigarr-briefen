@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-24T20:28:57.427309+00:00",
+  "updated_at": "2026-09-25T10:10:24.510169+00:00",
   "items": [
+    {
+      "published_at": "2026-09-24T23:08:51+00:00",
+      "updated_at": "2026-09-24T23:08:51+00:00",
+      "title": "Elie Bleu’s Year of the Goat Collection Goes on Sale",
+      "summary": "Elie Bleu is one of the first companies to put its Year of the Goat items on sale. The first three are on sale with additional releases scheduled for October and December. The post Elie Bleu’s Year of the Goat Collection Goes on Sale appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Elie-Bleu-Year-of-the-Goat-Humidor.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/elie-bleus-year-of-the-goat-collection-goes-on-sale/480328/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/elie-bleus-year-of-the-goat-collection-goes-on-sale/480328/"
+      },
+      "confirmed_by": [],
+      "id": "elie-bleu-s-year-of-the-goat-collection-goes-on-sale"
+    },
     {
       "published_at": "2026-09-24T16:31:23+00:00",
       "updated_at": "2026-09-24T16:31:23+00:00",
@@ -256,29 +279,6 @@
       "id": "quality-importers-trading-company-brings-back-qi-spotlight-trade-show-cigar-news"
     },
     {
-      "published_at": "2026-09-22T22:48:44+00:00",
-      "updated_at": "2026-09-22T22:48:44+00:00",
-      "title": "Saga Ambar Robusto by De Los Reyes Cigars – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFhBWUVlMG5YcldmYmRpZU5YSDdmTTFNc3hCT283Q0NuejZaRlNnSXFFTVlhNzdlYm0tb0hkcjd5SHY1eFBVeXZXdURsVW5uSnRCaFNzZWxKRkcxRzFOS0Vud1RuVHIyUlhPOWVydmVMYmF2REhDYjhmNUlYRnk5LXRBNENNd2VZSTBKUUxZeW9qdXBm?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFhBWUVlMG5YcldmYmRpZU5YSDdmTTFNc3hCT283Q0NuejZaRlNnSXFFTVlhNzdlYm0tb0hkcjd5SHY1eFBVeXZXdURsVW5uSnRCaFNzZWxKRkcxRzFOS0Vud1RuVHIyUlhPOWVydmVMYmF2REhDYjhmNUlYRnk5LXRBNENNd2VZSTBKUUxZeW9qdXBm?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "saga-ambar-robusto-by-de-los-reyes-cigars-cigar-review"
-    },
-    {
       "published_at": "2026-09-22T22:15:38+00:00",
       "updated_at": "2026-09-22T22:15:38+00:00",
       "title": "Dunbarton Tobacco & Trust Previews Overseas No. 2",
@@ -302,29 +302,6 @@
       "id": "dunbarton-tobacco-trust-previews-overseas-no-2"
     },
     {
-      "published_at": "2026-09-22T18:44:35+00:00",
-      "updated_at": "2026-09-22T18:44:35+00:00",
-      "title": "Plasencia El Año de la Cabra Shown off at InterTabac 2026",
-      "summary": "InterTabac 2026 had lots of new Year of the Goat-themed cigars. The most difficult to find was a new octagon-shaped box in the Plasencia booth. The post Plasencia El Año de la Cabra Shown off at InterTabac 2026 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Plasencia-El-Ano-de-la-Cabra.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/plasencia-el-ano-de-la-cabra-shown-off-at-intertabac-2026/480092/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/plasencia-el-ano-de-la-cabra-shown-off-at-intertabac-2026/480092/"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-el-a-o-de-la-cabra-shown-off-at-intertabac-2026"
-    },
-    {
       "published_at": "2026-09-22T14:30:08+00:00",
       "updated_at": "2026-09-22T14:30:08+00:00",
       "title": "Fine Cigars and Luxury Cars: The Smoke Show in Canada’s Niagara Region",
@@ -346,29 +323,6 @@
       },
       "confirmed_by": [],
       "id": "fine-cigars-and-luxury-cars-the-smoke-show-in-canada-s-niagara-region"
-    },
-    {
-      "published_at": "2026-09-22T14:24:17+00:00",
-      "updated_at": "2026-09-22T14:24:17+00:00",
-      "title": "Trinidad Vigía Reserva Cosecha 2022 Shown Off in Switzerland",
-      "summary": "The new Vigía Reserva Cosecha 2022 is the first Trinidad cigar to get the Reserva or Gran Reserva treatment. As with seemingly every other new Cuban cigar release of late, it's got one more band than expected. The post Trinidad Vigía Reserva Cosecha 2022 Shown Off in Switzerland appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Trinidad-Vigia-Reserva-2022-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/trinidad-vigia-reserva-cosecha-2022-shown-off-in-switzerland/480070/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/trinidad-vigia-reserva-cosecha-2022-shown-off-in-switzerland/480070/"
-      },
-      "confirmed_by": [],
-      "id": "trinidad-vig-a-reserva-cosecha-2022-shown-off-in-switzerland"
     },
     {
       "published_at": "2026-09-22T08:21:35+00:00",
@@ -463,29 +417,6 @@
       "id": "camorra-cigars-plans-to-expand-in-2027"
     },
     {
-      "published_at": "2026-09-21T16:40:32+00:00",
-      "updated_at": "2026-09-21T16:40:32+00:00",
-      "title": "Artista Cigars Signs its cooperation with China Tobacco International",
-      "summary": "Partnership brings together Dominican tobacco and cigar-making expertise with Chinese production and market reach for the new Taishan · Artista cigar project",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUFCUTM5ZEFXV2NUY1RYRDhiamM1T3hLWDEwNDIzcmtKTjdXMmtidFF3MjZmQlRTbW5SY0FQRVV2SktVS2cxQ1ZBT3RmTmdrc1VpU084eHNKTjFlS0hXZkdJbnRIUWtsek51elhWY24zc1k0M0Nzc09aRGlFVUtNU0pxa2RVVmJoWnZoVmFZTHI4dkgtYnZFamV1eHV6anN4?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUFCUTM5ZEFXV2NUY1RYRDhiamM1T3hLWDEwNDIzcmtKTjdXMmtidFF3MjZmQlRTbW5SY0FQRVV2SktVS2cxQ1ZBT3RmTmdrc1VpU084eHNKTjFlS0hXZkdJbnRIUWtsek51elhWY24zc1k0M0Nzc09aRGlFVUtNU0pxa2RVVmJoWnZoVmFZTHI4dkgtYnZFamV1eHV6anN4?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "artista-cigars-signs-its-cooperation-with-china-tobacco-international"
-    },
-    {
       "published_at": "2026-09-21T16:37:29+00:00",
       "updated_at": "2026-09-21T16:37:29+00:00",
       "title": "Platinum Nova Cigars Unveils the Royal Falcon",
@@ -530,6 +461,29 @@
       },
       "confirmed_by": [],
       "id": "hirochi-robaina-introduces-limited-jar-and-anniversary-humidor"
+    },
+    {
+      "published_at": "2026-09-21T16:31:03+00:00",
+      "updated_at": "2026-09-21T16:31:03+00:00",
+      "title": "The Meerapfel Project 18 Debuts at Intertabac 2026",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Every year the Meerapfel booth at Intertabac brings a new limited release to life and this year star was the Project 18.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Meerapfel-1.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/the-meerapfel-project-18-debuts-at-intertabac-2026/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/the-meerapfel-project-18-debuts-at-intertabac-2026/"
+      },
+      "confirmed_by": [],
+      "id": "the-meerapfel-project-18-debuts-at-intertabac-2026"
     },
     {
       "published_at": "2026-09-21T15:25:23+00:00",
