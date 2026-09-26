@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:28:17.117748+00:00",
+  "updated_at": "2026-09-26T09:50:45.532659+00:00",
   "items": [
     {
       "published_at": "2026-09-25T20:07:08+00:00",
@@ -406,15 +406,38 @@
       "sources": [
         {
           "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdklXbUw0enNIRDEzLVJ4T3o2RXFjU0p6SlhNb01ZaGZYWmVMemVzTGNNVWQzOTBaWVhJUXYyZW1RRUl5cXJqM2JBcGRTS1duUW9pb3JtZjBEWVFhaGUyMXY4c0ZUZ0NnZnJJWElZM1p6QUxHVGNPSUo3b0JDTzB5ZnR4WE13YmVnOXVXYzhiUHpOZTFhRVJucmdvOHBVMHhEM2lodjlUTnM?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlpRbGhacWo5T1Nhcy04Z2dzaVNRVTRoOGlCYV91ZTdHdUw1M1VZUW5Ec0txU3pnVE5XUnhncnBLMFE4Z1QxZVpjN2xIQi01TU5ETWlaVi1tSEtHUDlKWXM3S1d4YzY5SUgyX2JBT1JPRk1rajRDWmdNQXd3SVFDNjVaZl9PQXpzSVB0OVJOa0dIQnczU08tU0lDRFM5Zlg1dkJrTHlaallOdw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdklXbUw0enNIRDEzLVJ4T3o2RXFjU0p6SlhNb01ZaGZYWmVMemVzTGNNVWQzOTBaWVhJUXYyZW1RRUl5cXJqM2JBcGRTS1duUW9pb3JtZjBEWVFhaGUyMXY4c0ZUZ0NnZnJJWElZM1p6QUxHVGNPSUo3b0JDTzB5ZnR4WE13YmVnOXVXYzhiUHpOZTFhRVJucmdvOHBVMHhEM2lodjlUTnM?oc=5"
       },
       "confirmed_by": [],
       "id": "commemorative-cuban-la-gloria-cubana-humidor-coming-to-switzerland"
+    },
+    {
+      "published_at": "2026-09-21T17:08:20+00:00",
+      "updated_at": "2026-09-21T17:08:20+00:00",
+      "title": "Platinum Nova Cigars Unveils the Royal Falcon",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0lBLUpMNXFEaU5uWS1WcXBvYW9MWTdqQVMxWkg2QjRIZGozUEw5SkxtTU9abDQzNEdIbFVvcjJod28xbWZ3dlM1NWl3M1ZRVXNTeWUzUjhXX2t4dFNoaTRIblA5OTBaZjlmY2YxMXU5ejI2cVo2aEMyRHMzYmhUbw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0lBLUpMNXFEaU5uWS1WcXBvYW9MWTdqQVMxWkg2QjRIZGozUEw5SkxtTU9abDQzNEdIbFVvcjJod28xbWZ3dlM1NWl3M1ZRVXNTeWUzUjhXX2t4dFNoaTRIblA5OTBaZjlmY2YxMXU5ejI2cVo2aEMyRHMzYmhUbw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "platinum-nova-cigars-unveils-the-royal-falcon"
     },
     {
       "published_at": "2026-09-21T17:08:20+00:00",
@@ -438,29 +461,6 @@
       },
       "confirmed_by": [],
       "id": "camorra-cigars-plans-to-expand-in-2027"
-    },
-    {
-      "published_at": "2026-09-21T16:37:29+00:00",
-      "updated_at": "2026-09-21T16:37:29+00:00",
-      "title": "Platinum Nova Cigars Unveils the Royal Falcon",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. The main star at this year Intertabac booth of Platinum Nova Cigar is the Royal Falcon. The new release comes into different sizes, Robusto and Toro. The Royal Falcon is a full body cigar with a Habano Oscuro wrapper, Corojo binder and Nicaraguan filler.",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Platinum%20Nova%20Cigars.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/platinum-nova-cigars-unveils-the-royal-falcon/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/platinum-nova-cigars-unveils-the-royal-falcon/"
-      },
-      "confirmed_by": [],
-      "id": "platinum-nova-cigars-unveils-the-royal-falcon"
     },
     {
       "published_at": "2026-09-21T16:33:18+00:00",
