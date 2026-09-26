@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-09-26T14:58:02.213844+00:00",
+  "updated_at": "2026-09-26T19:49:43.150973+00:00",
   "items": [
     {
-      "published_at": "2026-09-26T12:05:59+00:00",
-      "updated_at": "2026-09-26T12:05:59+00:00",
+      "published_at": "2026-09-26T18:13:01+00:00",
+      "updated_at": "2026-09-26T18:13:01+00:00",
+      "title": "Alec Bradley Thirty Years Perfecto",
+      "summary": "Alan Rubin, founder of Alec Bradley, picked this blend alongside his two sons: Alec and Bradley. While there are three regular production vitolas, this one is a limited edition. The post Alec Bradley Thirty Years Perfecto appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Alec-Bradley-30-Years-Perfecto-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/alec-bradley-thirty-years-perfecto/479600/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/alec-bradley-thirty-years-perfecto/479600/"
+      },
+      "confirmed_by": [],
+      "id": "alec-bradley-thirty-years-perfecto"
+    },
+    {
+      "published_at": "2026-09-26T12:10:54+00:00",
+      "updated_at": "2026-09-26T12:10:54+00:00",
       "title": "Cigar Industry Report: Edition 708 (9/26/26)",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -299,29 +322,6 @@
       },
       "confirmed_by": [],
       "id": "casa-carrillo-s-pledge-of-allegiance-rockets-take-flight-next-week"
-    },
-    {
-      "published_at": "2026-09-23T20:09:39+00:00",
-      "updated_at": "2026-09-23T20:09:39+00:00",
-      "title": "Elie Bleu Expands Into Leather Goods",
-      "summary": "The French humidor maker says the new items come from a tannery in Spain. Items like cigar cases, wallets and passport holders are offered in blue and brown leather. The post Elie Bleu Expands Into Leather Goods appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Elie-Bleu-Leather-Goods-1.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/elie-bleu-expands-into-leather-goods/480128/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/elie-bleu-expands-into-leather-goods/480128/"
-      },
-      "confirmed_by": [],
-      "id": "elie-bleu-expands-into-leather-goods"
     },
     {
       "published_at": "2026-09-23T16:32:37+00:00",
