@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-09-27T15:38:32.624013+00:00",
+  "updated_at": "2026-09-27T20:07:53.755362+00:00",
   "items": [
     {
-      "published_at": "2026-09-27T13:36:04+00:00",
-      "updated_at": "2026-09-27T13:36:04+00:00",
+      "published_at": "2026-09-27T17:13:13+00:00",
+      "updated_at": "2026-09-27T17:13:13+00:00",
+      "title": "Fermin Perez Cigars Moves Production to Tabacalera Familia Disla, Distribution to Domain Distribution",
+      "summary": "The company had been producing its cigars in its own factory in Estelí. Now, it is leveraging the production and distribution services of the company behind Domain Cigars. The post Fermin Perez Cigars Moves Production to Tabacalera Familia Disla, Distribution to Domain Distribution appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Fermin-Perez-beauty-logo-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-distribution/480471/"
+      },
+      "confirmed_by": [],
+      "id": "fermin-perez-cigars-moves-production-to-tabacalera-familia-disla-distribution-to-domain-di"
+    },
+    {
+      "published_at": "2026-09-27T13:50:34+00:00",
+      "updated_at": "2026-09-27T13:50:34+00:00",
       "title": "Martin Kove The Prodigal Son – Cigar Review",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -622,30 +645,6 @@
       },
       "confirmed_by": [],
       "id": "drew-estate-ships-four-pack-petacas-for-six-liga-privada-cigars"
-    },
-    {
-      "published_at": "2026-09-17T17:56:57+00:00",
-      "updated_at": "2026-09-17T17:56:57+00:00",
-      "title": "La Flor Dominicana Suave Natural Gobernador (2025) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOak83YXRBUmk4bVE3NmtYc0FjR3Zpa2NNUEUtY3hUcDdUWERvdF9mSTNTdXNnY3dQa0RPZW5wOFdSU3lQaUhpanZLVXJTZGw1NDhUVGRaOF9YeW9sc2JVanJLWFJoeHhBQkFyMVRIMXJDTzhHLTNlVE1hTlpYQnJRX0dpR0E1Qk5yUThURW5sT3dpZF93U0R3QXlncy1Vdw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "la-flor-dominicana-suave-natural-gobernador-2025-cigar-review"
     }
   ]
 }
