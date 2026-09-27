@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-09-27T10:32:14.094487+00:00",
+  "updated_at": "2026-09-27T15:38:32.624013+00:00",
   "items": [
+    {
+      "published_at": "2026-09-27T13:36:04+00:00",
+      "updated_at": "2026-09-27T13:36:04+00:00",
+      "title": "Martin Kove The Prodigal Son – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlpYMmw2YlFmOHZtaGlPNzU4WjRZM2QyVHRCbFMwM2g2amhZUk5IWVVfc3JjVWhqQTZWb3FXQ1FXU3dMMU5ScXpTdlV1M2JoN1lWZ19KMS1pWDBPT2o1eHgyTHpXTzVtVjJBU2lfWkhhVVl5YXNVR0s1ODc2V1BCM3lnRQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlpYMmw2YlFmOHZtaGlPNzU4WjRZM2QyVHRCbFMwM2g2amhZUk5IWVVfc3JjVWhqQTZWb3FXQ1FXU3dMMU5ScXpTdlV1M2JoN1lWZ19KMS1pWDBPT2o1eHgyTHpXTzVtVjJBU2lfWkhhVVl5YXNVR0s1ODc2V1BCM3lnRQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "martin-kove-the-prodigal-son-cigar-review"
+    },
+    {
+      "published_at": "2026-09-27T13:00:44+00:00",
+      "updated_at": "2026-09-27T13:00:44+00:00",
+      "title": "Montecristo Fragata Debuting at TFWA 2026",
+      "summary": "Typically, a new cigar shown off at the TFWA conference will be a travel exclusive. This year, it's a new Montecristo. The post Montecristo Fragata Debuting at TFWA 2026 appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2019/02/Habanos-S.A.-Logo.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/montecristo-fragata-debuting-at-tfwa-2026/480446/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/montecristo-fragata-debuting-at-tfwa-2026/480446/"
+      },
+      "confirmed_by": [],
+      "id": "montecristo-fragata-debuting-at-tfwa-2026"
+    },
     {
       "published_at": "2026-09-26T18:13:01+00:00",
       "updated_at": "2026-09-26T18:13:01+00:00",
@@ -299,29 +345,6 @@
       },
       "confirmed_by": [],
       "id": "dominican-gems"
-    },
-    {
-      "published_at": "2026-09-23T23:29:27+00:00",
-      "updated_at": "2026-09-23T23:29:27+00:00",
-      "title": "Casa Carrillo’s Pledge of Allegiance Rockets Take Flight Next Week",
-      "summary": "After releasing a toro vitola in June, Casa Carrillo has a pair of figurados ready to head to stores. They come in a limited-edition humidor and don't come cheap, priced at $50 per cigar or $1,000 for the 20-count humidor. The post Casa Carrillo’s Pledge of Allegiance Rockets Take Flight Next Week appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Casa-Carrillo-Pledge-of-Allegiance-Rockets-feature-1.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/casa-carrillos-pledge-of-allegiance-rockets-take-flight-next-week/480185/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/casa-carrillos-pledge-of-allegiance-rockets-take-flight-next-week/480185/"
-      },
-      "confirmed_by": [],
-      "id": "casa-carrillo-s-pledge-of-allegiance-rockets-take-flight-next-week"
     },
     {
       "published_at": "2026-09-23T16:32:37+00:00",
@@ -623,30 +646,6 @@
       },
       "confirmed_by": [],
       "id": "la-flor-dominicana-suave-natural-gobernador-2025-cigar-review"
-    },
-    {
-      "published_at": "2026-09-17T13:02:16+00:00",
-      "updated_at": "2026-09-17T13:02:16+00:00",
-      "title": "Courts Legally Binding Judgment: Offically no Tobacco License to Elite Trading Scandinavia AB",
-      "summary": "The Gothenburg Court of Appeal dismissed Elite Trading's appeal on the 11th of this month, following a request to withdraw the case made by Elite Trading Scandinavia's liquidator, who cited that a tobacco license is no longer needed since the company is going into liquidation. The Gothenburg Court of Appeal confirmed to Cigarrvärlden that the dismissal became legally binding on September 11th and is not subject to appeal.",
-      "category": [
-        "Sverige",
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "http://cigarrklubben.se/cdn/shop/articles/Flag_of_Sweden_svg_3eb44cf4-2be8-42f8-b232-a380ffbc0a4b_1200x1200.webp?v=1789650137",
-      "sources": [
-        {
-          "name": "Cigarrvärlden",
-          "url": "https://cigarrklubben.se/blogs/cigarrvarlden/courts-legally-binding-judgment-offically-no-tobacco-license-to-elite-trading-scandinavia-ab"
-        }
-      ],
-      "main_source": {
-        "name": "Cigarrvärlden",
-        "url": "https://cigarrklubben.se/blogs/cigarrvarlden/courts-legally-binding-judgment-offically-no-tobacco-license-to-elite-trading-scandinavia-ab"
-      },
-      "confirmed_by": [],
-      "id": "courts-legally-binding-judgment-offically-no-tobacco-license-to-elite-trading-scandinavia-"
     }
   ]
 }
