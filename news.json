@@ -1,6 +1,121 @@
 {
-  "updated_at": "2026-09-30T16:48:36.112432+00:00",
+  "updated_at": "2026-09-30T21:24:52.785710+00:00",
   "items": [
+    {
+      "published_at": "2026-09-30T21:05:23+00:00",
+      "updated_at": "2026-09-30T21:05:23+00:00",
+      "title": "Maya Selva Launches Timón, A Value-Priced Honduran Puro",
+      "summary": "The new line is designed to introduce people to Honduran cigars at a reasonable price. It's a Honduran puro priced at under €4, and while availability is limited to a handful of countries, a worldwide release is planned for 2027. The post Maya Selva Launches Timón, A Value-Priced Honduran Puro appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Maya-Selva-Timon-retail-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/maya-selva-launches-timon-a-value-priced-honduran-puro/480763/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/maya-selva-launches-timon-a-value-priced-honduran-puro/480763/"
+      },
+      "confirmed_by": [],
+      "id": "maya-selva-launches-tim-n-a-value-priced-honduran-puro"
+    },
+    {
+      "published_at": "2026-09-30T20:05:56+00:00",
+      "updated_at": "2026-09-30T20:05:56+00:00",
+      "title": "Cavalier Genève Ships New Small Batch Lancero & Salomónes",
+      "summary": "Both cigars are made with the same blend: a Honduran wrapper over a binder from Jalapa, Nicaragua, with filler tobaccos grown in Nicaragua and Paraguay. The Lancero is packaged in 20-count boxes while the Salomónes is being sold in 10-count boxes. The post Cavalier Genève Ships New Small Batch Lancero & Salomónes appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Cavalier-Geneve-Small-Batch-Lancero-Salomones.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/cavalier-geneve-ships-new-small-batch-lancero-salomones/480739/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/cavalier-geneve-ships-new-small-batch-lancero-salomones/480739/"
+      },
+      "confirmed_by": [],
+      "id": "cavalier-gen-ve-ships-new-small-batch-lancero-salom-nes"
+    },
+    {
+      "published_at": "2026-09-30T20:00:20+00:00",
+      "updated_at": "2026-09-30T20:00:20+00:00",
+      "title": "Don Emmanuel Ships Annunaki Enki",
+      "summary": "The fourth size in the line is also the first figurado. The blend remains the same as the other sizes. The post Don Emmanuel Ships Annunaki Enki appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Don-Emmanuel-Anunnaki-Enki-open-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/don-emmanuel-ships-annunaki-enki/480738/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/don-emmanuel-ships-annunaki-enki/480738/"
+      },
+      "confirmed_by": [],
+      "id": "don-emmanuel-ships-annunaki-enki"
+    },
+    {
+      "published_at": "2026-09-30T19:00:09+00:00",
+      "updated_at": "2026-09-30T19:00:09+00:00",
+      "title": "Fermin Perez’s Newest Line Showcases Tobacco from Estelí, Nicaragua",
+      "summary": "The new line was blended to explore the character of the region and provide a focused expression of the tobacco grown there. It's the first new line since moving production to Tabacalera Familia Disla S.A., which is also in Estelí. The post Fermin Perez’s Newest Line Showcases Tobacco from Estelí, Nicaragua appeared first on halfwheel",
+      "category": [
+        "Nicaragua"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Fermin-Perez-Puro-Esteli-open-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/fermin-perezs-newest-line-showcases-tobacco-from-esteli-nicaragua/480729/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/fermin-perezs-newest-line-showcases-tobacco-from-esteli-nicaragua/480729/"
+      },
+      "confirmed_by": [],
+      "id": "fermin-perez-s-newest-line-showcases-tobacco-from-estel-nicaragua"
+    },
+    {
+      "published_at": "2026-09-30T18:00:54+00:00",
+      "updated_at": "2026-09-30T18:00:54+00:00",
+      "title": "Jake Wyatt Cigar Co. Releases Ember & Earth",
+      "summary": "The new line was created with the intention of being a great everyday cigar at an approachable price point. The blend uses Honduran, Nicaraguan, and U.S.-grown tobacco. Releases Ember & Earth appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Jake-Wyatt-Ember-Earth-feature-1.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/jake-wyatt-cigar-co-releases-ember-earth/480720/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/jake-wyatt-cigar-co-releases-ember-earth/480720/"
+      },
+      "confirmed_by": [],
+      "id": "jake-wyatt-cigar-co-releases-ember-earth"
+    },
     {
       "published_at": "2026-09-30T16:35:23+00:00",
       "updated_at": "2026-09-30T16:35:23+00:00",
@@ -94,52 +209,6 @@
       "id": "hooten-young-collaborating-with-ruger-for-new-cigars-bourbon"
     },
     {
-      "published_at": "2026-09-29T16:29:59+00:00",
-      "updated_at": "2026-09-29T16:29:59+00:00",
-      "title": "Cigars On 35, Lewisville, Texas",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigars-on-35-lewisville-texas"
-    },
-    {
-      "published_at": "2026-09-29T15:14:25+00:00",
-      "updated_at": "2026-09-29T15:14:25+00:00",
-      "title": "Elie Bleu Angel de la Revolución Ashtray Debuting Next Month",
-      "summary": "The new five-cigar ashtray is made from obsidian from Mount Arteni in Armenia. It is expected to go on sale in late October or early November. The post Elie Bleu Angel de la Revolución Ashtray Debuting Next Month appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Elie-Bleu-Angel-de-la-Revolucion-Ashtray.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/elie-bleu-angel-de-la-revolucion-ashtray-debuting-next-month/480626/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/elie-bleu-angel-de-la-revolucion-ashtray-debuting-next-month/480626/"
-      },
-      "confirmed_by": [],
-      "id": "elie-bleu-angel-de-la-revoluci-n-ashtray-debuting-next-month"
-    },
-    {
       "published_at": "2026-09-29T13:45:59+00:00",
       "updated_at": "2026-09-29T13:45:59+00:00",
       "title": "Prime Time Special Edition 197: Lou Cross, Lure Cigars",
@@ -166,7 +235,7 @@
       "published_at": "2026-09-29T02:40:57+00:00",
       "updated_at": "2026-09-29T02:40:57+00:00",
       "title": "Bond Roberts Adds Non-Cuban Cigar Auctions",
-      "summary": "After tens of thousands of Cuban cigar auctions, Bond Roberts is opening things up for non-Cuban cigars. The post Bond Roberts Adds Non-Cuban Cigar Auctions appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Kuba"
       ],
@@ -184,29 +253,6 @@
       },
       "confirmed_by": [],
       "id": "bond-roberts-adds-non-cuban-cigar-auctions"
-    },
-    {
-      "published_at": "2026-09-28T21:00:37+00:00",
-      "updated_at": "2026-09-28T21:00:37+00:00",
-      "title": "Drew Estate Ships Six New Cigars",
-      "summary": "The six new cigars can be found inside of two different three-pack samplers. These samplers are part of the company's 30th anniversary celebration and its new DE30 Rewards program for consumers, which is open for registration. The post Drew Estate Ships Six New Cigars appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Drew-Estate-DE30-Samplers-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/drew-estate-ships-six-new-cigars/480582/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/drew-estate-ships-six-new-cigars/480582/"
-      },
-      "confirmed_by": [],
-      "id": "drew-estate-ships-six-new-cigars"
     },
     {
       "published_at": "2026-09-28T20:55:57+00:00",
@@ -253,52 +299,6 @@
       },
       "confirmed_by": [],
       "id": "my-father-la-lealtad-toro-cigar-review"
-    },
-    {
-      "published_at": "2026-09-28T20:00:32+00:00",
-      "updated_at": "2026-09-28T20:00:32+00:00",
-      "title": "Gellis Family Cigars Essentials on the Way to Retailers",
-      "summary": "The new regular production line is debuting in just one vitola, a 4 1/2 x 32 petit corona priced at $6.99 each. Blend-wise, the cigars are made with an Ecuadorian Connecticut-seed wrapper and binder, along with Nicaraguan tobacco in the filler. The post Gellis Family Cigars Essentials on the Way to Retailers appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Gellis-Family-Cigars-Essentials.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/gellis-family-cigars-essentials-on-the-way-to-retailers/480569/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/gellis-family-cigars-essentials-on-the-way-to-retailers/480569/"
-      },
-      "confirmed_by": [],
-      "id": "gellis-family-cigars-essentials-on-the-way-to-retailers"
-    },
-    {
-      "published_at": "2026-09-28T14:33:03+00:00",
-      "updated_at": "2026-09-28T14:33:03+00:00",
-      "title": "Confidenciaal Incognito Launching Next Month",
-      "summary": "Confidenciaal has a new blend. For now, it can only be purchased as part of the Incognito box, which shows it off in two different wrappers options. The post Confidenciaal Incognito Launching Next Month appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Confidenciaal-Incognito-3.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/confidenciaal-incognito-launching-next-month/480502/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/confidenciaal-incognito-launching-next-month/480502/"
-      },
-      "confirmed_by": [],
-      "id": "confidenciaal-incognito-launching-next-month"
     },
     {
       "published_at": "2026-09-28T08:39:33+00:00",
@@ -668,52 +668,6 @@
       },
       "confirmed_by": [],
       "id": "quality-importers-trading-company-brings-back-qi-spotlight-trade-show-cigar-news"
-    },
-    {
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "updated_at": "2026-09-21T07:00:00+00:00",
-      "title": "Commemorative Cuban La Gloria Cubana Humidor Coming To Switzerland",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdklXbUw0enNIRDEzLVJ4T3o2RXFjU0p6SlhNb01ZaGZYWmVMemVzTGNNVWQzOTBaWVhJUXYyZW1RRUl5cXJqM2JBcGRTS1duUW9pb3JtZjBEWVFhaGUyMXY4c0ZUZ0NnZnJJWElZM1p6QUxHVGNPSUo3b0JDTzB5ZnR4WE13YmVnOXVXYzhiUHpOZTFhRVJucmdvOHBVMHhEM2lodjlUTnM?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdklXbUw0enNIRDEzLVJ4T3o2RXFjU0p6SlhNb01ZaGZYWmVMemVzTGNNVWQzOTBaWVhJUXYyZW1RRUl5cXJqM2JBcGRTS1duUW9pb3JtZjBEWVFhaGUyMXY4c0ZUZ0NnZnJJWElZM1p6QUxHVGNPSUo3b0JDTzB5ZnR4WE13YmVnOXVXYzhiUHpOZTFhRVJucmdvOHBVMHhEM2lodjlUTnM?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "commemorative-cuban-la-gloria-cubana-humidor-coming-to-switzerland"
-    },
-    {
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "updated_at": "2026-09-21T07:00:00+00:00",
-      "title": "13 Fantastic Cigars You Should Be Smoking Now",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb21KMjliZlRIOUtPelR0Z1BSLW9HS2JDZDhBN3lGc0tuaExzb2VUUDZTS0c0YWg4LXg0ZDQyLXpuTkJhSmllMHMyVFRHWWFjOWE2Z21zWjV4aC0wc3BTcTY0VjdIWmxlVEk4aUVLNVRlcjRTb3V1OXdHQnJ4UlNMaGpYTnVfTGRYTGJUcnNR?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb21KMjliZlRIOUtPelR0Z1BSLW9HS2JDZDhBN3lGc0tuaExzb2VUUDZTS0c0YWg4LXg0ZDQyLXpuTkJhSmllMHMyVFRHWWFjOWE2Z21zWjV4aC0wc3BTcTY0VjdIWmxlVEk4aUVLNVRlcjRTb3V1OXdHQnJ4UlNMaGpYTnVfTGRYTGJUcnNR?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "13-fantastic-cigars-you-should-be-smoking-now"
     }
   ]
 }
