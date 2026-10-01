@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:24:52.785710+00:00",
+  "updated_at": "2026-10-01T11:35:41.816308+00:00",
   "items": [
     {
       "published_at": "2026-09-30T21:05:23+00:00",
@@ -207,6 +207,29 @@
       },
       "confirmed_by": [],
       "id": "hooten-young-collaborating-with-ruger-for-new-cigars-bourbon"
+    },
+    {
+      "published_at": "2026-09-29T15:50:54+00:00",
+      "updated_at": "2026-09-29T15:50:54+00:00",
+      "title": "Cigars On 35, Lewisville, Texas",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHR4YTBwOV80ZUpicTNKdjZpS1NQN1hBWW5vMjR6QzY4NFhnNVVBS29UTzVtTjdYY0MwSTZjUHB5VjFFb25WOHpocHpTNHhPdU1rUU1EanRMWlZUck1saW1YTXBlNWN3TUE2WktzeXRFYXZ6NnRXTF9FMWtFeWN4UEhiOGRQUQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHR4YTBwOV80ZUpicTNKdjZpS1NQN1hBWW5vMjR6QzY4NFhnNVVBS29UTzVtTjdYY0MwSTZjUHB5VjFFb25WOHpocHpTNHhPdU1rUU1EanRMWlZUck1saW1YTXBlNWN3TUE2WktzeXRFYXZ6NnRXTF9FMWtFeWN4UEhiOGRQUQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigars-on-35-lewisville-texas"
     },
     {
       "published_at": "2026-09-29T13:45:59+00:00",
