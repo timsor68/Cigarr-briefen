@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:05:05.725930+00:00",
+  "updated_at": "2026-10-02T16:37:53.013860+00:00",
   "items": [
     {
       "published_at": "2026-10-02T08:28:09+00:00",
@@ -600,6 +600,29 @@
       "id": "cao-amazon-basin-extra-a-ejo-returns-for-2026"
     },
     {
+      "published_at": "2026-09-25T07:00:00+00:00",
+      "updated_at": "2026-09-25T07:00:00+00:00",
+      "title": "New England Cigar Expo Returns – September 25–26, 2026",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "category": [
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFo2MENYMnAzd0hiVDZ2WTlfRzhUN3ZfektyQkZPeUgzTU54V0hGR0J6MUUwWXZpVmlmb2hxV2ZKZF9saGxFTFhYSEl0aFNHcm1jRnQ0SnBtLVdWdkROekplek5pMjRVMERhNGlZNGdPUk9uV25BX2YtVWlqU2xIZURHX2xGNlBx?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFo2MENYMnAzd0hiVDZ2WTlfRzhUN3ZfektyQkZPeUgzTU54V0hGR0J6MUUwWXZpVmlmb2hxV2ZKZF9saGxFTFhYSEl0aFNHcm1jRnQ0SnBtLVdWdkROekplek5pMjRVMERhNGlZNGdPUk9uV25BX2YtVWlqU2xIZURHX2xGNlBx?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "new-england-cigar-expo-returns-september-25-26-2026"
+    },
+    {
       "published_at": "2026-09-24T10:35:35+00:00",
       "updated_at": "2026-09-24T10:35:35+00:00",
       "title": "Plasencia Reserva Original Now Available in a 14-Count Box",
@@ -644,29 +667,6 @@
       },
       "confirmed_by": [],
       "id": "montosa-maduro-now-also-available-in-mini-cigarillo-format"
-    },
-    {
-      "published_at": "2026-09-24T10:03:37+00:00",
-      "updated_at": "2026-09-24T10:03:37+00:00",
-      "title": "Saint George in the 10th Anniversary",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Slaying the dragon, like Saint George. Foundation Cigar Company was represented at Intertabac 2026 by George Frakes, the company's international markets manager. Foundation—the company founded by Nick Melillo ten years ago—has always maintained a striking and original design aesthetic, culminating in the 10th Anniversary Salomon, a cigar of 178 mmx 58 (7x58), which depicts Saint George driving his spear into the dragon. According to Frakes, \"Saint George represents the tobacco industry overcoming the various challenges it faces, particularly in this years regarding regulations, but those are not the unique: it also represents the spirit of resilience, triumph, and dedication that has guided the company over the past decade \".",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_7803.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/saint-george-in-the-10th-anniversary/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/saint-george-in-the-10th-anniversary/"
-      },
-      "confirmed_by": [],
-      "id": "saint-george-in-the-10th-anniversary"
     },
     {
       "published_at": "2026-09-23T03:03:44+00:00",
