@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-01T21:48:16.934441+00:00",
+  "updated_at": "2026-10-02T11:05:05.725930+00:00",
   "items": [
+    {
+      "published_at": "2026-10-02T08:28:09+00:00",
+      "updated_at": "2026-10-02T08:28:09+00:00",
+      "title": "El Pulpo Takes Center Stage in Hungary",
+      "summary": "Artesano del Tobacco founders Billy and Gus Fakih join Hungarian cigar enthusiasts for an evening of cigars, conversation, and the story behind the award-winning brand",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image00001.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/el-pulpo-takes-center-stage-in-hungary/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/el-pulpo-takes-center-stage-in-hungary/"
+      },
+      "confirmed_by": [],
+      "id": "el-pulpo-takes-center-stage-in-hungary"
+    },
+    {
+      "published_at": "2026-10-01T21:56:19+00:00",
+      "updated_at": "2026-10-01T21:56:19+00:00",
+      "title": "Yagua Robusto",
+      "summary": "unveiled a new line called Yagua that was notable for being rolled without molds and packed in royal palm leaf, resulting in some uniquely shaped toros. This year, the company added a robusto vitola to the line. The post Yagua Robusto appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Yagua-Robusto-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/yagua-robusto/480824/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/yagua-robusto/480824/"
+      },
+      "confirmed_by": [],
+      "id": "yagua-robusto"
+    },
     {
       "published_at": "2026-10-01T20:35:10+00:00",
       "updated_at": "2026-10-01T20:35:10+00:00",
@@ -184,29 +230,6 @@
       },
       "confirmed_by": [],
       "id": "cavalier-gen-ve-ships-new-small-batch-lancero-salom-nes"
-    },
-    {
-      "published_at": "2026-09-30T20:00:20+00:00",
-      "updated_at": "2026-09-30T20:00:20+00:00",
-      "title": "Don Emmanuel Ships Annunaki Enki",
-      "summary": "The fourth size in the line is also the first figurado. The blend remains the same as the other sizes. The post Don Emmanuel Ships Annunaki Enki appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/09/Don-Emmanuel-Anunnaki-Enki-open-box-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/don-emmanuel-ships-annunaki-enki/480738/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/don-emmanuel-ships-annunaki-enki/480738/"
-      },
-      "confirmed_by": [],
-      "id": "don-emmanuel-ships-annunaki-enki"
     },
     {
       "published_at": "2026-09-30T11:17:57+00:00",
@@ -644,53 +667,6 @@
       },
       "confirmed_by": [],
       "id": "saint-george-in-the-10th-anniversary"
-    },
-    {
-      "published_at": "2026-09-24T09:54:29+00:00",
-      "updated_at": "2026-09-24T09:54:29+00:00",
-      "title": "Year of the Goat",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Flor de Selva was among the first brands to join the celebration of the Chinese New Year. In fact, the new limited-edition Flor de Selva Year of the Goat —set to hit the market towards the end of the year—marks the tenth release in this series since the Year of the Dog edition, launched in 2018.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_7782.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/year-of-the-goat/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/year-of-the-goat/"
-      },
-      "confirmed_by": [],
-      "id": "year-of-the-goat"
-    },
-    {
-      "published_at": "2026-09-23T16:32:37+00:00",
-      "updated_at": "2026-09-23T16:32:37+00:00",
-      "title": "Deadwood Dominicana Buenas Noches Toro by Drew Estate – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnBfYWwwWm9td0ZCMGlJYkozVmFweUpCUHh3ZVVXLXRCd0hXS3Bjenl4NC1ZVndBTHBTRkdXUHBUbm9xeHJhZk54U056b1ZtTzR4T1dIdC13YUJjQjg3ZnNOLTY3UVdyakttQXpIX0dtQVduZVdMSkIyYTZ3RllCTmpaQjhSRmRrQV81QXNoZzNyWWljZTVELXFiMDRodWpHQk9mcQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnBfYWwwWm9td0ZCMGlJYkozVmFweUpCUHh3ZVVXLXRCd0hXS3Bjenl4NC1ZVndBTHBTRkdXUHBUbm9xeHJhZk54U056b1ZtTzR4T1dIdC13YUJjQjg3ZnNOLTY3UVdyakttQXpIX0dtQVduZVdMSkIyYTZ3RllCTmpaQjhSRmRrQV81QXNoZzNyWWljZTVELXFiMDRodWpHQk9mcQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "deadwood-dominicana-buenas-noches-toro-by-drew-estate-cigar-review"
     },
     {
       "published_at": "2026-09-23T03:03:44+00:00",
