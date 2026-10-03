@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-03T10:23:21.309534+00:00",
+  "updated_at": "2026-10-03T15:08:08.598392+00:00",
   "items": [
+    {
+      "published_at": "2026-10-03T12:03:22+00:00",
+      "updated_at": "2026-10-03T12:03:22+00:00",
+      "title": "Cigar Industry Report: Edition 709 (10/3/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-709-10-3-26"
+    },
     {
       "published_at": "2026-10-02T19:57:17+00:00",
       "updated_at": "2026-10-02T19:57:17+00:00",
@@ -538,29 +561,6 @@
       },
       "confirmed_by": [],
       "id": "martin-kove-the-prodigal-son-cigar-review"
-    },
-    {
-      "published_at": "2026-09-26T12:10:54+00:00",
-      "updated_at": "2026-09-26T12:10:54+00:00",
-      "title": "Cigar Industry Report: Edition 708 (9/26/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUhZbHJScHljeC1XeTZCVTVMRDVLRnZKc1JlUlhqMC13TmJjR1doYkJSSHdXY0Vhd0ZCdWQ0MGM4b1dIWWhfZjVQTjhBQjBMbG5uMzJDYkNVYVV1TURMbHRyUmdIampRM09Oa0tGbTlsdGFTbkRWczg0UW9NblhoR09Gcw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUhZbHJScHljeC1XeTZCVTVMRDVLRnZKc1JlUlhqMC13TmJjR1doYkJSSHdXY0Vhd0ZCdWQ0MGM4b1dIWWhfZjVQTjhBQjBMbG5uMzJDYkNVYVV1TURMbHRyUmdIampRM09Oa0tGbTlsdGFTbkRWczg0UW9NblhoR09Gcw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-708-9-26-26"
     },
     {
       "published_at": "2026-09-26T01:51:01+00:00",
