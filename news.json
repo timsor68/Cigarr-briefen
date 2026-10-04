@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-03T19:49:19.690854+00:00",
+  "updated_at": "2026-10-04T11:05:42.328865+00:00",
   "items": [
+    {
+      "published_at": "2026-10-03T23:59:54+00:00",
+      "updated_at": "2026-10-03T23:59:54+00:00",
+      "title": "Cigar Industry Report: Edition 709 (10/3/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-709-10-3-26"
+    },
     {
       "published_at": "2026-10-03T19:18:44+00:00",
       "updated_at": "2026-10-03T19:18:44+00:00",
@@ -23,29 +46,6 @@
       },
       "confirmed_by": [],
       "id": "red-meat-lovers-spicy-beef-stick"
-    },
-    {
-      "published_at": "2026-10-03T16:48:17+00:00",
-      "updated_at": "2026-10-03T16:48:17+00:00",
-      "title": "Cigar Industry Report: Edition 709 (10/3/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-709-10-3-26"
     },
     {
       "published_at": "2026-10-02T19:57:17+00:00",
@@ -653,52 +653,6 @@
       },
       "confirmed_by": [],
       "id": "new-england-cigar-expo-returns-september-25-26-2026"
-    },
-    {
-      "published_at": "2026-09-24T10:35:35+00:00",
-      "updated_at": "2026-09-24T10:35:35+00:00",
-      "title": "Plasencia Reserva Original Now Available in a 14-Count Box",
-      "summary": "Plasencia Cigars is transitioning the Reserva Original collection from 10-count to 14-count boxes",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/images-1.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/plasencia-reserva-original-now-available-in-a-14-count-box/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/plasencia-reserva-original-now-available-in-a-14-count-box/"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-reserva-original-now-available-in-a-14-count-box"
-    },
-    {
-      "published_at": "2026-09-24T10:23:42+00:00",
-      "updated_at": "2026-09-24T10:23:42+00:00",
-      "title": "Montosa Maduro Now Also Available in Mini Cigarillo Format",
-      "summary": "In addition to the MONTOSA Claro Mini Cigarillo, the new MONTOSA Maduro Mini Cigarillo now joins the MONTOSA family",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Montosa%20Maduro%20Cigarillo%20doppel_s.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/montosa-maduro-now-also-available-in-mini-cigarillo-format/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/montosa-maduro-now-also-available-in-mini-cigarillo-format/"
-      },
-      "confirmed_by": [],
-      "id": "montosa-maduro-now-also-available-in-mini-cigarillo-format"
     }
   ]
 }
