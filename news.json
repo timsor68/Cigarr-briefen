@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-05T12:14:28.704749+00:00",
+  "updated_at": "2026-10-05T23:09:08.129248+00:00",
   "items": [
+    {
+      "published_at": "2026-10-05T17:55:28+00:00",
+      "updated_at": "2026-10-05T17:55:28+00:00",
+      "title": "Laura Barlau Joins Espinosa Premium Cigars",
+      "summary": "Barlau has been in the cigar industry since 2007, holding roles in cigar purchasing, vendor relations, and retail partnerships. Most recently, she was with Best Cigar Prices. The post Laura Barlau Joins Espinosa Premium Cigars appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zd0JPd0xCVm5ZWlNIclFUb0xkbmxkaUtaaTNkSnhHVXZiTW82bTJTcDRvMUdFYUdWWk9aekNzOV9BVUVENGppODJaTms5N2E1SHp5ZzFtNGczQnNXa3hVRnp4TWN4OVFrcVpfaVVxRWgtWVNlYS1HVlZRNzY?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMU1XdWd2a2R6YzNMdTBxV0dpSTk0RnZsb1V3ZmprN0dPQUNpaExyNTBnUXh2TWZVaGJQWnNhNW50eUg4RGFROVhqYUFqMEdYQUZucWl0Zi1qTHpNdFUxZ19PSU1fNWxYWXlkb2k2TXhqbEhNbks1LW50UzNaMmNURWJlRkNYT0FveUtTZXZPVFl2anl4SkhMc2p1S1JFRVR3TVE3WFFLUDg0TGNVaVlsT2dkM2NKblJ3MW93aWpkWnZCQ2NUZWktWU5jVElSZw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zd0JPd0xCVm5ZWlNIclFUb0xkbmxkaUtaaTNkSnhHVXZiTW82bTJTcDRvMUdFYUdWWk9aekNzOV9BVUVENGppODJaTms5N2E1SHp5ZzFtNGczQnNXa3hVRnp4TWN4OVFrcVpfaVVxRWgtWVNlYS1HVlZRNzY?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMU1XdWd2a2R6YzNMdTBxV0dpSTk0RnZsb1V3ZmprN0dPQUNpaExyNTBnUXh2TWZVaGJQWnNhNW50eUg4RGFROVhqYUFqMEdYQUZucWl0Zi1qTHpNdFUxZ19PSU1fNWxYWXlkb2k2TXhqbEhNbks1LW50UzNaMmNURWJlRkNYT0FveUtTZXZPVFl2anl4SkhMc2p1S1JFRVR3TVE3WFFLUDg0TGNVaVlsT2dkM2NKblJ3MW93aWpkWnZCQ2NUZWktWU5jVElSZw?oc=5"
+        }
+      ],
+      "id": "laura-barlau-joins-espinosa-premium-cigars"
+    },
+    {
+      "published_at": "2026-10-05T16:33:55+00:00",
+      "updated_at": "2026-10-05T16:33:55+00:00",
+      "title": "Tradecraft Cigars Announces Shinobi as Fourth Core Line",
+      "summary": "The line is debuting via Luxury Cigar Club ahead of its widespread release in December. The line is inspired by ancient Japanese culture, while the company calls it a full-bodied blend. The post Tradecraft Cigars Announces Shinobi as Fourth Core Line appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Tradecraft-Shinobi-cigars-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/tradecraft-cigars-announces-shinobi-as-fourth-core-line/481053/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/tradecraft-cigars-announces-shinobi-as-fourth-core-line/481053/"
+      },
+      "confirmed_by": [],
+      "id": "tradecraft-cigars-announces-shinobi-as-fourth-core-line"
+    },
     {
       "published_at": "2026-10-05T07:36:49+00:00",
       "updated_at": "2026-10-05T07:36:49+00:00",
@@ -71,8 +126,8 @@
       "id": "tatuaje-black-label-torpedo"
     },
     {
-      "published_at": "2026-10-03T23:59:54+00:00",
-      "updated_at": "2026-10-03T23:59:54+00:00",
+      "published_at": "2026-10-04T00:00:00+00:00",
+      "updated_at": "2026-10-04T00:00:00+00:00",
       "title": "Cigar Industry Report: Edition 709 (10/3/26)",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -264,52 +319,6 @@
       "id": "warped-releases-isla-del-cocodrilo-robusto"
     },
     {
-      "published_at": "2026-10-01T18:10:16+00:00",
-      "updated_at": "2026-10-01T18:10:16+00:00",
-      "title": "La Aurora Expanding Hors d’Age Line for 2026",
-      "summary": "This month, La Aurora will release the latest editions of its two high-end, vintage releases. The Hors d'Age line, made of tobacco that is at least a dozen years old, will be offered in a lancero. The post La Aurora Expanding Hors d’Age Line for 2026 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/La-Aurora-Hors-dAge-2025-Lancero-Feature.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/la-aurora-expanding-hors-dage-line-for-2026/480860/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/la-aurora-expanding-hors-dage-line-for-2026/480860/"
-      },
-      "confirmed_by": [],
-      "id": "la-aurora-expanding-hors-d-age-line-for-2026"
-    },
-    {
-      "published_at": "2026-10-01T17:07:28+00:00",
-      "updated_at": "2026-10-01T17:07:28+00:00",
-      "title": "XIKAR Sentinel Leather Cases Head to Stores",
-      "summary": "XIKAR has its own zippered leather travel humidor. It can hold up to five 60-ring gauges as well as a whole assortment of cigar accessories. The post XIKAR Sentinel Leather Cases Head to Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/XIKAR-Sentinel-Leather-Case-Feature.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/xikar-sentinel-leather-cases-head-to-stores/480832/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/xikar-sentinel-leather-cases-head-to-stores/480832/"
-      },
-      "confirmed_by": [],
-      "id": "xikar-sentinel-leather-cases-head-to-stores"
-    },
-    {
       "published_at": "2026-09-30T11:17:57+00:00",
       "updated_at": "2026-09-30T11:17:57+00:00",
       "title": "Celebrate the Season with Bricktoberfest",
@@ -402,29 +411,6 @@
       "id": "bond-roberts-adds-non-cuban-cigar-auctions"
     },
     {
-      "published_at": "2026-09-28T20:55:57+00:00",
-      "updated_at": "2026-09-28T20:55:57+00:00",
-      "title": "Bond Roberts Expands Auction Platform to New World Cigars | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGx5S0tIQk1rVWtIaC1TZGtjVWxPZWRnaG9kU21FekNrWmJCWnUxeTFkb2J4bjVGU0E5ZHAzVExUaGV0a3U1SFZkWHJXV3V4bmRSbmJxZDJzUWxMSF9jTW5TNW5Va1N6UlZObVVEa1FMYnpZSFJLbmc1U0ZhOVZ5VGIwbElUVXg5NW1VV1BrUHZycTJiWTNVNXN1UkVFUVF1ckZEUGVObw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGx5S0tIQk1rVWtIaC1TZGtjVWxPZWRnaG9kU21FekNrWmJCWnUxeTFkb2J4bjVGU0E5ZHAzVExUaGV0a3U1SFZkWHJXV3V4bmRSbmJxZDJzUWxMSF9jTW5TNW5Va1N6UlZObVVEa1FMYnpZSFJLbmc1U0ZhOVZ5VGIwbElUVXg5NW1VV1BrUHZycTJiWTNVNXN1UkVFUVF1ckZEUGVObw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "bond-roberts-expands-auction-platform-to-new-world-cigars-cigar-news"
-    },
-    {
       "published_at": "2026-09-28T20:50:57+00:00",
       "updated_at": "2026-09-28T20:50:57+00:00",
       "title": "My Father La Lealtad Toro – Cigar Review",
@@ -471,6 +457,29 @@
       "id": "toscano-t-the-cigar-co-created-with-the-club-amici-del-toscano"
     },
     {
+      "published_at": "2026-09-28T08:35:12+00:00",
+      "updated_at": "2026-09-28T08:35:12+00:00",
+      "title": "Zino Cigars Launches a New Limited Release: The Zino Z-Collection Blue",
+      "summary": "After the launch of the Z-Collection Green, Zino Cigars returns with the second limited release of its refreshed accessories line: the Zino Z-Collection Blue",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXy1aNUd6SjJGLVFoS1dLcTBXSHN6Ukd0c1gyY19Kc3A2TDZFVWREdGNpb0FNaGUtQWpRUHZ3RUI0YkFrRjJJWlpuajRqYVpoYTZXMnVDRk1ibXNsbmZESGRzTU1KQlFwdTRwMXJ6eDd2dl9kSUVqamlwRktKVjU2ZHlIcGJFSDl0Vm5xVF8yYjdfTy1IbWR2eHljbzh0cGVJ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXy1aNUd6SjJGLVFoS1dLcTBXSHN6Ukd0c1gyY19Kc3A2TDZFVWREdGNpb0FNaGUtQWpRUHZ3RUI0YkFrRjJJWlpuajRqYVpoYTZXMnVDRk1ibXNsbmZESGRzTU1KQlFwdTRwMXJ6eDd2dl9kSUVqamlwRktKVjU2ZHlIcGJFSDl0Vm5xVF8yYjdfTy1IbWR2eHljbzh0cGVJ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue"
+    },
+    {
       "published_at": "2026-09-28T08:25:16+00:00",
       "updated_at": "2026-09-28T08:25:16+00:00",
       "title": "Alec Bradley Launches Chunk Sumatra",
@@ -492,29 +501,6 @@
       },
       "confirmed_by": [],
       "id": "alec-bradley-launches-chunk-sumatra"
-    },
-    {
-      "published_at": "2026-09-28T08:03:05+00:00",
-      "updated_at": "2026-09-28T08:03:05+00:00",
-      "title": "Zino Cigars Launches a New Limited Release: The Zino Z-Collection Blue",
-      "summary": "After the launch of the Z-Collection Green, Zino Cigars returns with the second limited release of its refreshed accessories line: the Zino Z-Collection Blue",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/51002678_zinoacc_lrel_zcoll_humtravl_line1_004%20Kopie%202.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue/"
-      },
-      "confirmed_by": [],
-      "id": "zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue"
     },
     {
       "published_at": "2026-09-28T07:55:47+00:00",
@@ -630,29 +616,6 @@
       },
       "confirmed_by": [],
       "id": "el-oso-fumar-takes-take-375-vance-taylor-stoic-cigars"
-    },
-    {
-      "published_at": "2026-09-25T16:09:55+00:00",
-      "updated_at": "2026-09-25T16:09:55+00:00",
-      "title": "CAO Amazon Basin Extra Añejo Returns for 2026",
-      "summary": "CAO is bringing back Amazon Basin Extra Añejo, a limited release of the Amazon Basin blend aged for two years to allow its tobaccos to fully mature",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/CAO%20Amazon%20Basin%20Extra%20Anejo_box.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cao-amazon-basin-extra-anejo-returns-for-2026/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cao-amazon-basin-extra-anejo-returns-for-2026/"
-      },
-      "confirmed_by": [],
-      "id": "cao-amazon-basin-extra-a-ejo-returns-for-2026"
     }
   ]
 }
