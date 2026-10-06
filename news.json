@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-10-06T12:00:15.397331+00:00",
+  "updated_at": "2026-10-06T21:36:35.518957+00:00",
   "items": [
+    {
+      "published_at": "2026-10-06T21:27:17+00:00",
+      "updated_at": "2026-10-06T21:27:17+00:00",
+      "title": "Ferio Tego Milestones",
+      "summary": "This year would have been Miles Davis' 100th birthday, and to honor the legendary jazz trumpeter, Ferio Tego created a limited edition cigar. It shares its name with Davis' seminal 1958 album \"Milestones.\" The post Ferio Tego Milestones appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Ferio-Tego-Milestones-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/ferio-tego-milestones/481035/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/ferio-tego-milestones/481035/"
+      },
+      "confirmed_by": [],
+      "id": "ferio-tego-milestones"
+    },
+    {
+      "published_at": "2026-10-06T18:35:27+00:00",
+      "updated_at": "2026-10-06T18:35:27+00:00",
+      "title": "Wildfire Cigar Co. Introduces Off-Grid",
+      "summary": "Visitors to Wildfire Cigar Co.'s PCA 2026 booth will find some of this familiar. The new limited edition comes via Tabacalera William Ventura. Introduces Off-Grid appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Wildfire-Off-Grid.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/wildfire-cigar-co-introduces-off-grid/481145/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/wildfire-cigar-co-introduces-off-grid/481145/"
+      },
+      "confirmed_by": [],
+      "id": "wildfire-cigar-co-introduces-off-grid"
+    },
+    {
+      "published_at": "2026-10-06T16:03:10+00:00",
+      "updated_at": "2026-10-06T16:03:10+00:00",
+      "title": "La Flor Dominicana Andalusian Bull 10th Anniversary Maduro Shipping This Week",
+      "summary": "It's been a decade since the release of the wildly popular Andalusian Bull. This week, there's a new documentary about the cigar. Oh yeah, there's also a new limited edition version with a broadleaf wrapper.",
+      "category": [
+        "Dominikanska republiken"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/La-Flor-Dominicana-Andalusian-Bull-10th-Anniversary-Maduro-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week/481113/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week/481113/"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week"
+    },
+    {
+      "published_at": "2026-10-06T13:35:54+00:00",
+      "updated_at": "2026-10-06T13:35:54+00:00",
+      "title": "A Cigar Hustlers Podcast Adds New Personalities to Its Lineup",
+      "summary": "A Cigar Hustlers Podcast is expanding its lineup with Cheanno Respo and Siggy Schlieper joining as rotating co-hosts, and Tim McGuffie joining the engineering team. Tim is the brother of longtime show engineer Phil McGuffie",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNlVzZJdm5fNE1pY1NHVnBYR1RSU09FSElYcFFTd2lmall6TXBrOHFIUnRPekN3ZUs3R3lqRi1mcmtjLUk0MTg0dnFoczNvS2o1TjVCSjFYc0pnbGZYNGlMMEtWdHZhaF9YeHA4QXo3MkJ4bEFkZThIRWJBRVQxV0ExV1BTd0NlSE9OUkc0ZXZiNUViMUE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNlVzZJdm5fNE1pY1NHVnBYR1RSU09FSElYcFFTd2lmall6TXBrOHFIUnRPekN3ZUs3R3lqRi1mcmtjLUk0MTg0dnFoczNvS2o1TjVCSjFYc0pnbGZYNGlMMEtWdHZhaF9YeHA4QXo3MkJ4bEFkZThIRWJBRVQxV0ExV1BTd0NlSE9OUkc0ZXZiNUViMUE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "a-cigar-hustlers-podcast-adds-new-personalities-to-its-lineup"
+    },
     {
       "published_at": "2026-10-05T17:55:28+00:00",
       "updated_at": "2026-10-05T17:55:28+00:00",
@@ -204,29 +296,6 @@
       "id": "kingmakers-and-marshawn-lynch-partner-for-new-beast-mode-cigar"
     },
     {
-      "published_at": "2026-10-02T17:52:58+00:00",
-      "updated_at": "2026-10-02T17:52:58+00:00",
-      "title": "Apostate Death Mask on the Way to Stores",
-      "summary": "This release marks the first time that Apostate has had a cigar made at the Fábrica Oveja Negra factory in Estelí, Nicaragua. The limited edition release is a 5 1/2 x 48 robusto made with a Mexican San Andrés wrapper. The post Apostate Death Mask on the Way to Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Death-Mask.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/apostate-death-mask-on-the-way-to-stores/480935/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/apostate-death-mask-on-the-way-to-stores/480935/"
-      },
-      "confirmed_by": [],
-      "id": "apostate-death-mask-on-the-way-to-stores"
-    },
-    {
       "published_at": "2026-10-02T08:28:09+00:00",
       "updated_at": "2026-10-02T08:28:09+00:00",
       "title": "El Pulpo Takes Center Stage in Hungary",
@@ -250,75 +319,6 @@
       "id": "el-pulpo-takes-center-stage-in-hungary"
     },
     {
-      "published_at": "2026-10-01T21:56:19+00:00",
-      "updated_at": "2026-10-01T21:56:19+00:00",
-      "title": "Yagua Robusto",
-      "summary": "unveiled a new line called Yagua that was notable for being rolled without molds and packed in royal palm leaf, resulting in some uniquely shaped toros. This year, the company added a robusto vitola to the line. The post Yagua Robusto appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Yagua-Robusto-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/yagua-robusto/480824/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/yagua-robusto/480824/"
-      },
-      "confirmed_by": [],
-      "id": "yagua-robusto"
-    },
-    {
-      "published_at": "2026-10-01T20:35:10+00:00",
-      "updated_at": "2026-10-01T20:35:10+00:00",
-      "title": "STG Announces Tariff Refund for Retailers",
-      "summary": "Later this month, STG will give retailers a credit for the tariff fees it paid between May 2025 and February of this year. Those credits are expected to arrive in a few weeks. The post STG Announces Tariff Refund for Retailers appeared first on halfwheel",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/05/STG-Logo.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/stg-announces-tariff-refund-for-retailers/480898/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/stg-announces-tariff-refund-for-retailers/480898/"
-      },
-      "confirmed_by": [],
-      "id": "stg-announces-tariff-refund-for-retailers"
-    },
-    {
-      "published_at": "2026-10-01T19:15:28+00:00",
-      "updated_at": "2026-10-01T19:15:28+00:00",
-      "title": "Warped Releases Isla del Cocodrilo Robusto",
-      "summary": "This is the fifth Isla del Cocodrilo vitola to be released. The line gets its name from a term used to reference the shape of Cuba. The post Warped Releases Isla del Cocodrilo Robusto appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Warped-Isla-del-Cocodrilo-Robusto-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/warped-releases-isla-del-cocodrilo-robusto/480861/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/warped-releases-isla-del-cocodrilo-robusto/480861/"
-      },
-      "confirmed_by": [],
-      "id": "warped-releases-isla-del-cocodrilo-robusto"
-    },
-    {
       "published_at": "2026-09-30T11:17:57+00:00",
       "updated_at": "2026-09-30T11:17:57+00:00",
       "title": "Celebrate the Season with Bricktoberfest",
@@ -340,6 +340,29 @@
       },
       "confirmed_by": [],
       "id": "celebrate-the-season-with-bricktoberfest"
+    },
+    {
+      "published_at": "2026-09-29T16:29:59+00:00",
+      "updated_at": "2026-09-29T16:29:59+00:00",
+      "title": "Cigars On 35, Lewisville, Texas",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigars-on-35-lewisville-texas"
     },
     {
       "published_at": "2026-09-29T13:45:59+00:00",
