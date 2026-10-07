@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-06T21:36:35.518957+00:00",
+  "updated_at": "2026-10-07T11:45:39.909289+00:00",
   "items": [
+    {
+      "published_at": "2026-10-07T11:23:22+00:00",
+      "updated_at": "2026-10-07T11:23:22+00:00",
+      "title": "Esperitu Cigar Introduces Iconica Series",
+      "summary": "Esperitu Cigar introduces Iconica Series: A new expression of Indonesian tobacco",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OaUtNN3REdlFiUUh0UjlIeFhBWUdmZWFUX09yNmJyZlUxUWpJbVk5RGZkMjMwang0WWZ2eXpmd3gxU1FpclBhdWtUbGVFTk91bzZIbGpxQlJTV1ptcGxTOVhmb2ltbjBJV3hBS2tPTFhqYzdmb3lPRWNn?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OaUtNN3REdlFiUUh0UjlIeFhBWUdmZWFUX09yNmJyZlUxUWpJbVk5RGZkMjMwang0WWZ2eXpmd3gxU1FpclBhdWtUbGVFTk91bzZIbGpxQlJTV1ptcGxTOVhmb2ltbjBJV3hBS2tPTFhqYzdmb3lPRWNn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "esperitu-cigar-introduces-iconica-series"
+    },
     {
       "published_at": "2026-10-06T21:27:17+00:00",
       "updated_at": "2026-10-06T21:27:17+00:00",
@@ -218,29 +241,6 @@
       "id": "tatuaje-black-label-torpedo"
     },
     {
-      "published_at": "2026-10-04T00:00:00+00:00",
-      "updated_at": "2026-10-04T00:00:00+00:00",
-      "title": "Cigar Industry Report: Edition 709 (10/3/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-709-10-3-26"
-    },
-    {
       "published_at": "2026-10-03T19:18:44+00:00",
       "updated_at": "2026-10-03T19:18:44+00:00",
       "title": "Red Meat Lovers Spicy Beef Stick",
@@ -262,6 +262,29 @@
       },
       "confirmed_by": [],
       "id": "red-meat-lovers-spicy-beef-stick"
+    },
+    {
+      "published_at": "2026-10-03T16:48:17+00:00",
+      "updated_at": "2026-10-03T16:48:17+00:00",
+      "title": "Cigar Industry Report: Edition 709 (10/3/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxGZ0FDQ0tlU2FTaTgzLVFUUk1hMzc2alpXTE9VRXg0NVR1aHhOa1Q3NGFRQ2RPMHk5SXF3ZENjdm5FNUFVZnZTTTA4TXBWUURZSFh6VFlHX1hDaWhOZnkxeWZyS21uSkluc0tSbWI1YVVtRFZWMGp1SWYtZTZYWlJiQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-709-10-3-26"
     },
     {
       "published_at": "2026-10-02T19:57:17+00:00",
@@ -340,29 +363,6 @@
       },
       "confirmed_by": [],
       "id": "celebrate-the-season-with-bricktoberfest"
-    },
-    {
-      "published_at": "2026-09-29T16:29:59+00:00",
-      "updated_at": "2026-09-29T16:29:59+00:00",
-      "title": "Cigars On 35, Lewisville, Texas",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcWdkOEpqQjRiVVB1d0ZuUHo2bUxWTlZDSHk4U1BiRTJhWDlhdDBBbjVuUndGTWlZbWdJendzUlZVVk5Qb0tCWFB0MDJXRDdqVlF4ZTFiMEpfbDFKQkstNGFxdHl5MmJEalJDS1JnRU5xT0NXRWhmXw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigars-on-35-lewisville-texas"
     },
     {
       "published_at": "2026-09-29T13:45:59+00:00",
