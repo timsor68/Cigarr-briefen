@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-08T12:00:13.344230+00:00",
+  "updated_at": "2026-10-08T22:03:01.733892+00:00",
   "items": [
+    {
+      "published_at": "2026-10-08T18:00:06+00:00",
+      "updated_at": "2026-10-08T18:00:06+00:00",
+      "title": "Report: Germany Gives Cigars & Pipes a Reprieve from Massive Tobacco Tax Increase",
+      "summary": "Over the summer, the German government was working on a proposal that called for a 14x increase for cigar taxes. It would appear that a much more modest increase will go into effect next year. The post Report: Germany Gives Cigars & Pipes a Reprieve from Massive Tobacco Tax Increase appeared first on halfwheel",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/07/Germany.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase/481310/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase/481310/"
+      },
+      "confirmed_by": [],
+      "id": "report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase"
+    },
+    {
+      "published_at": "2026-10-08T15:44:12+00:00",
+      "updated_at": "2026-10-08T15:44:12+00:00",
+      "title": "Cohiba Talismán Added to Línea Clásica Line",
+      "summary": "Last night in London, Habanos S.A. showed off the new-look regular production Cohiba Talismán. In the U.K., the suggested pricing is £200 per cigar.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Cohiba-Talisman-4.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/cohiba-talisman-added-to-linea-clasica-line/481281/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/cohiba-talisman-added-to-linea-clasica-line/481281/"
+      },
+      "confirmed_by": [],
+      "id": "cohiba-talism-n-added-to-l-nea-cl-sica-line"
+    },
     {
       "published_at": "2026-10-08T09:31:52+00:00",
       "updated_at": "2026-10-08T09:31:52+00:00",
@@ -126,7 +172,7 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Gestocigars_logo.png",
+      "image": "https://media.cigarjournal.com/gestooooo.gif",
       "sources": [
         {
           "name": "Cigar Journal",
@@ -305,7 +351,7 @@
       "published_at": "2026-10-05T17:55:28+00:00",
       "updated_at": "2026-10-05T17:55:28+00:00",
       "title": "Laura Barlau Joins Espinosa Premium Cigars",
-      "summary": "Barlau has been in the cigar industry since 2007, holding roles in cigar purchasing, vendor relations, and retail partnerships. Most recently, she was with Best Cigar Prices. The post Laura Barlau Joins Espinosa Premium Cigars appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -493,29 +539,6 @@
       },
       "confirmed_by": [],
       "id": "prime-time-special-edition-197-lou-cross-lure-cigars"
-    },
-    {
-      "published_at": "2026-09-28T20:50:57+00:00",
-      "updated_at": "2026-09-28T20:50:57+00:00",
-      "title": "My Father La Lealtad Toro – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdHNPOFRSdzRiREQ1RngtdnNqUUg3bTRvMDVfVm9ZNHRYaHZZcnNoeE5IcnY5UE93M2ducGFselk1a1pNeVhGTWFDc1RTemtOMjNxN0pzUzVDRFJRdDdnVDhoR1FReWZnRGZUdENkd1IwUE5hVnpVLTZ4STk5U00?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdHNPOFRSdzRiREQ1RngtdnNqUUg3bTRvMDVfVm9ZNHRYaHZZcnNoeE5IcnY5UE93M2ducGFselk1a1pNeVhGTWFDc1RTemtOMjNxN0pzUzVDRFJRdDdnVDhoR1FReWZnRGZUdENkd1IwUE5hVnpVLTZ4STk5U00?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "my-father-la-lealtad-toro-cigar-review"
     }
   ]
 }
