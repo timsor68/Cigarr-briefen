@@ -1,6 +1,53 @@
 {
-  "updated_at": "2026-10-07T21:57:45.151242+00:00",
+  "updated_at": "2026-10-08T12:00:13.344230+00:00",
   "items": [
+    {
+      "published_at": "2026-10-08T09:31:52+00:00",
+      "updated_at": "2026-10-08T09:31:52+00:00",
+      "title": "Habanos S.A. Launches Montecristo Fragata",
+      "summary": "presents Montecristo Fragata - a new travel humidor created exclusively for the Duty Free & Travel Retail channels",
+      "category": [
+        "Kuba",
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/YDRAY-WIL-MONTECRISTO-FRAGATA-3.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/habanos-s-a-launches-montecristo-fragata/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/habanos-s-a-launches-montecristo-fragata/"
+      },
+      "confirmed_by": [],
+      "id": "habanos-s-a-launches-montecristo-fragata"
+    },
+    {
+      "published_at": "2026-10-07T23:00:10+00:00",
+      "updated_at": "2026-10-07T23:00:10+00:00",
+      "title": "Fratello USA 250",
+      "summary": "The new limited edition was created to commemorate the 250th anniversary of the founding of the United States. It is a 6 x 54 toro made with a Nicaraguan wrapper covering a Pennsylvania binder and filler tobaccos grown in the Dominican Republic and Pennsylvania. The post Fratello USA 250 appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Fratello-USA-250-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/fratello-usa-250/481152/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/fratello-usa-250/481152/"
+      },
+      "confirmed_by": [],
+      "id": "fratello-usa-250"
+    },
     {
       "published_at": "2026-10-07T20:56:04+00:00",
       "updated_at": "2026-10-07T20:56:04+00:00",
@@ -69,6 +116,29 @@
       },
       "confirmed_by": [],
       "id": "nub-mexico-arriving-at-stores"
+    },
+    {
+      "published_at": "2026-10-07T13:04:56+00:00",
+      "updated_at": "2026-10-07T13:04:56+00:00",
+      "title": "Gestocigars Sees Growing Demand for Affordable Overruns",
+      "summary": "Gestocigars is seeing increasing interest in more affordable cigars as consumers become more price-conscious. According to the Swiss company, it is currently selling more cigars, but at a lower average price than in previous years",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Gestocigars_logo.png",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/gestocigars-sees-growing-demand-for-affordable-overruns/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/gestocigars-sees-growing-demand-for-affordable-overruns/"
+      },
+      "confirmed_by": [],
+      "id": "gestocigars-sees-growing-demand-for-affordable-overruns"
     },
     {
       "published_at": "2026-10-07T12:13:19+00:00",
@@ -209,24 +279,24 @@
       "id": "la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week"
     },
     {
-      "published_at": "2026-10-06T13:35:54+00:00",
-      "updated_at": "2026-10-06T13:35:54+00:00",
+      "published_at": "2026-10-06T13:12:52+00:00",
+      "updated_at": "2026-10-06T13:12:52+00:00",
       "title": "A Cigar Hustlers Podcast Adds New Personalities to Its Lineup",
       "summary": "A Cigar Hustlers Podcast is expanding its lineup with Cheanno Respo and Siggy Schlieper joining as rotating co-hosts, and Tim McGuffie joining the engineering team. Tim is the brother of longtime show engineer Phil McGuffie",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/95171ccf-040d-9faf-3dbd-422496576c50.png",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNlVzZJdm5fNE1pY1NHVnBYR1RSU09FSElYcFFTd2lmall6TXBrOHFIUnRPekN3ZUs3R3lqRi1mcmtjLUk0MTg0dnFoczNvS2o1TjVCSjFYc0pnbGZYNGlMMEtWdHZhaF9YeHA4QXo3MkJ4bEFkZThIRWJBRVQxV0ExV1BTd0NlSE9OUkc0ZXZiNUViMUE?oc=5"
+          "url": "https://www.cigarjournal.com/a-cigar-hustlers-podcast-adds-new-personalities-to-its-lineup/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNlVzZJdm5fNE1pY1NHVnBYR1RSU09FSElYcFFTd2lmall6TXBrOHFIUnRPekN3ZUs3R3lqRi1mcmtjLUk0MTg0dnFoczNvS2o1TjVCSjFYc0pnbGZYNGlMMEtWdHZhaF9YeHA4QXo3MkJ4bEFkZThIRWJBRVQxV0ExV1BTd0NlSE9OUkc0ZXZiNUViMUE?oc=5"
+        "url": "https://www.cigarjournal.com/a-cigar-hustlers-podcast-adds-new-personalities-to-its-lineup/"
       },
       "confirmed_by": [],
       "id": "a-cigar-hustlers-podcast-adds-new-personalities-to-its-lineup"
@@ -262,29 +332,6 @@
         }
       ],
       "id": "laura-barlau-joins-espinosa-premium-cigars"
-    },
-    {
-      "published_at": "2026-10-05T16:33:55+00:00",
-      "updated_at": "2026-10-05T16:33:55+00:00",
-      "title": "Tradecraft Cigars Announces Shinobi as Fourth Core Line",
-      "summary": "The line is debuting via Luxury Cigar Club ahead of its widespread release in December. The line is inspired by ancient Japanese culture, while the company calls it a full-bodied blend. The post Tradecraft Cigars Announces Shinobi as Fourth Core Line appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Tradecraft-Shinobi-cigars-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/tradecraft-cigars-announces-shinobi-as-fourth-core-line/481053/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/tradecraft-cigars-announces-shinobi-as-fourth-core-line/481053/"
-      },
-      "confirmed_by": [],
-      "id": "tradecraft-cigars-announces-shinobi-as-fourth-core-line"
     },
     {
       "published_at": "2026-10-05T07:36:49+00:00",
@@ -469,121 +516,6 @@
       },
       "confirmed_by": [],
       "id": "my-father-la-lealtad-toro-cigar-review"
-    },
-    {
-      "published_at": "2026-09-28T08:39:33+00:00",
-      "updated_at": "2026-09-28T08:39:33+00:00",
-      "title": "Toscano T: The Cigar Co-Created With the Club Amici del Toscano",
-      "summary": "Manifatture Sigaro Toscano presents the Toscano T, the result of a two-year co-creation project launched in mid-2024 with more than 2,500 enthusiasts from the Club Amici del Toscano",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Toscano%20T.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/toscano-t-the-cigar-co-created-with-the-club-amici-del-toscano/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/toscano-t-the-cigar-co-created-with-the-club-amici-del-toscano/"
-      },
-      "confirmed_by": [],
-      "id": "toscano-t-the-cigar-co-created-with-the-club-amici-del-toscano"
-    },
-    {
-      "published_at": "2026-09-28T08:25:16+00:00",
-      "updated_at": "2026-09-28T08:25:16+00:00",
-      "title": "Alec Bradley Launches Chunk Sumatra",
-      "summary": "Alec Bradley is adding more weight to the Chunk series with a new offering this fall. Chunk Sumatra — the third dedicated Chunk cigar — is a full-time release that will ship to retailers starting in October",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/AB%20Chunk%20Sumatra_box.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/alec-bradley-launches-chunk-sumatra/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/alec-bradley-launches-chunk-sumatra/"
-      },
-      "confirmed_by": [],
-      "id": "alec-bradley-launches-chunk-sumatra"
-    },
-    {
-      "published_at": "2026-09-28T08:03:05+00:00",
-      "updated_at": "2026-09-28T08:03:05+00:00",
-      "title": "Zino Cigars Launches a New Limited Release: The Zino Z-Collection Blue",
-      "summary": "After the launch of the Z-Collection Green, Zino Cigars returns with the second limited release of its refreshed accessories line: the Zino Z-Collection Blue",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/51002678_zinoacc_lrel_zcoll_humtravl_line1_004%20Kopie%202.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue/"
-      },
-      "confirmed_by": [],
-      "id": "zino-cigars-launches-a-new-limited-release-the-zino-z-collection-blue"
-    },
-    {
-      "published_at": "2026-09-28T07:55:47+00:00",
-      "updated_at": "2026-09-28T07:55:47+00:00",
-      "title": "Casa Magna, New Times, New Image",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Quesada Cigars is undergoing a period of transition and transformation under the leadership of Raquel and Patricia Quesada—a shift that inevitably brings a new style better suited to the times. At Intertabac 2026, Raquel Quesada focused on welcoming international distributors to unveil the rebranding of the company’s most iconic line, Casa Magna, across all its versions: Colorado, Liga F, and Maduro. The new design is modern and fresh, yet it clearly conveys continuity through its conceptual clarity and, above all, respect for the brand's legacy.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/IMG_7796.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/casa-magna-new-times-new-image/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/casa-magna-new-times-new-image/"
-      },
-      "confirmed_by": [],
-      "id": "casa-magna-new-times-new-image"
-    },
-    {
-      "published_at": "2026-09-28T07:46:03+00:00",
-      "updated_at": "2026-09-28T07:46:03+00:00",
-      "title": "PDR’s Small Batch Cabinet",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Abe Flores, PDR Cigars, released at the Intertabac 2026 his new Small Batch Reserve, a novelty series featuring two distinct expressions, ready for international markets: first one with an Ecuadorian Habano wrapper, in a red band, and the other with a Broadleaf Maduro wrapper, in a blue band. Both use a Sumatra binder and a blend of Dominican and Broadleaf leaves in the filler. The new Small Batch Reserve comes in trendy formats—short, thick ring-gauge cigars (102 mm x 60 / 4x60)—and features a very classic cigar presentation: cabinet 25-count boxes with sliding lids.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/PDR%20Cigars.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/pdr-s-small-batch-cabinet/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/pdr-s-small-batch-cabinet/"
-      },
-      "confirmed_by": [],
-      "id": "pdr-s-small-batch-cabinet"
     }
   ]
 }
