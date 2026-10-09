@@ -1,25 +1,48 @@
 {
-  "updated_at": "2026-10-08T22:03:01.733892+00:00",
+  "updated_at": "2026-10-09T11:52:27.807066+00:00",
   "items": [
     {
-      "published_at": "2026-10-08T18:00:06+00:00",
-      "updated_at": "2026-10-08T18:00:06+00:00",
+      "published_at": "2026-10-08T23:31:06+00:00",
+      "updated_at": "2026-10-08T23:31:06+00:00",
+      "title": "CLE, FIU Collaborating for New Tobacco Research Lab",
+      "summary": "Christian Eiroa says he wants to reduce the barriers to entry for growing tobacco. A new partnership with FIU will include growing tobacco at a farm outside of Miami in hopes of learning more about the process. The post CLE, FIU Collaborating for New Tobacco Research Lab appeared first on halfwheel",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUx1d1haeVF6eFZmWDdNMFotV2NWRXNiQ05Lcmpod3Z6bU1aRE5XcVB3dV8yZWNRX3ZYSTJzNVZfbDkyWk8wdjRpUksyYjJnUzRydFFUc2tyQkNaNnB5Ujl4eFFaTnF6dUdkeHpUZExqc2sxMTZEQ0p3bVZ0V3FvVWs3elVWT1U?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUx1d1haeVF6eFZmWDdNMFotV2NWRXNiQ05Lcmpod3Z6bU1aRE5XcVB3dV8yZWNRX3ZYSTJzNVZfbDkyWk8wdjRpUksyYjJnUzRydFFUc2tyQkNaNnB5Ujl4eFFaTnF6dUdkeHpUZExqc2sxMTZEQ0p3bVZ0V3FvVWs3elVWT1U?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cle-fiu-collaborating-for-new-tobacco-research-lab"
+    },
+    {
+      "published_at": "2026-10-08T19:23:51+00:00",
+      "updated_at": "2026-10-08T19:23:51+00:00",
       "title": "Report: Germany Gives Cigars & Pipes a Reprieve from Massive Tobacco Tax Increase",
       "summary": "Over the summer, the German government was working on a proposal that called for a 14x increase for cigar taxes. It would appear that a much more modest increase will go into effect next year. The post Report: Germany Gives Cigars & Pipes a Reprieve from Massive Tobacco Tax Increase appeared first on halfwheel",
       "category": [
         "Reglering"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/07/Germany.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://halfwheel.com/report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase/481310/"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFNYcEE5QVlsSmhwTDYzSVJWYWdYckJTVkc2MjFIc192NjVLWTNYQ05xQTlUdVZtUEFZM1ZfMjVHaVlfcWZUZ1lPY3pEVWJNUkx3QTNlOVhQRHlWTV9EUm1PTFdfRkFGVVgzN1VGcnczTzNvZUFFZ3YtWWwtNDhVTzRDMDFoZXowUVo4RmVUZ19KU3d6UVlFcDUzMWd6a090ZzN6QUNJNXliSlcw?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://halfwheel.com/report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase/481310/"
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFNYcEE5QVlsSmhwTDYzSVJWYWdYckJTVkc2MjFIc192NjVLWTNYQ05xQTlUdVZtUEFZM1ZfMjVHaVlfcWZUZ1lPY3pEVWJNUkx3QTNlOVhQRHlWTV9EUm1PTFdfRkFGVVgzN1VGcnczTzNvZUFFZ3YtWWwtNDhVTzRDMDFoZXowUVo4RmVUZ19KU3d6UVlFcDUzMWd6a090ZzN6QUNJNXliSlcw?oc=5"
       },
       "confirmed_by": [],
       "id": "report-germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase"
@@ -300,29 +323,6 @@
       },
       "confirmed_by": [],
       "id": "wildfire-cigar-co-introduces-off-grid"
-    },
-    {
-      "published_at": "2026-10-06T16:03:10+00:00",
-      "updated_at": "2026-10-06T16:03:10+00:00",
-      "title": "La Flor Dominicana Andalusian Bull 10th Anniversary Maduro Shipping This Week",
-      "summary": "It's been a decade since the release of the wildly popular Andalusian Bull. This week, there's a new documentary about the cigar. Oh yeah, there's also a new limited edition version with a broadleaf wrapper.",
-      "category": [
-        "Dominikanska republiken"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/La-Flor-Dominicana-Andalusian-Bull-10th-Anniversary-Maduro-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week/481113/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week/481113/"
-      },
-      "confirmed_by": [],
-      "id": "la-flor-dominicana-andalusian-bull-10th-anniversary-maduro-shipping-this-week"
     },
     {
       "published_at": "2026-10-06T13:12:52+00:00",
