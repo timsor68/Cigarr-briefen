@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-10T16:13:24.822614+00:00",
+  "updated_at": "2026-10-10T20:33:25.938342+00:00",
   "items": [
+    {
+      "published_at": "2026-10-10T18:54:06+00:00",
+      "updated_at": "2026-10-10T18:54:06+00:00",
+      "title": "ADVentura Blackfin’s Parlay Robusto",
+      "summary": "In 2025, the ADVentura Blackfin's Parlay debuted as part of a sampler of the brand's core lines. This year, the line got a full release with three new sizes and an updated blend. The post ADVentura Blackfin’s Parlay Robusto appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/ADVentura-Blackfins-Parlay-Robusto-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/adventura-blackfins-parlay-robusto/481413/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/adventura-blackfins-parlay-robusto/481413/"
+      },
+      "confirmed_by": [],
+      "id": "adventura-blackfin-s-parlay-robusto"
+    },
     {
       "published_at": "2026-10-10T01:01:43+00:00",
       "updated_at": "2026-10-10T01:01:43+00:00",
