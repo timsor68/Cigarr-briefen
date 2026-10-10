@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:09:21.332089+00:00",
+  "updated_at": "2026-10-10T16:13:24.822614+00:00",
   "items": [
     {
       "published_at": "2026-10-10T01:01:43+00:00",
@@ -530,29 +530,6 @@
       },
       "confirmed_by": [],
       "id": "el-pulpo-takes-center-stage-in-hungary"
-    },
-    {
-      "published_at": "2026-09-30T11:17:57+00:00",
-      "updated_at": "2026-09-30T11:17:57+00:00",
-      "title": "Celebrate the Season with Bricktoberfest",
-      "summary": "The annual limited-edition Brick House Bricktoberfest Churchill cigar puts a seasonal twist on a time-honored tradition",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Bricktoberfest.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/celebrate-the-season-with-bricktoberfest/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/celebrate-the-season-with-bricktoberfest/"
-      },
-      "confirmed_by": [],
-      "id": "celebrate-the-season-with-bricktoberfest"
     }
   ]
 }
