@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-10T20:33:25.938342+00:00",
+  "updated_at": "2026-10-11T11:22:58.468509+00:00",
   "items": [
+    {
+      "published_at": "2026-10-10T22:33:04+00:00",
+      "updated_at": "2026-10-10T22:33:04+00:00",
+      "title": "Crux Marblehead Toro – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16SzFlTEFfekVGdXZPYUY5TGhocHViVXZpSWVkVlNiQ2FJQndkTENUQ0FfUURTaU1TemN4N29Ydk5sZlEtMXFETktBWmJ3a1ZhRklzWGplMGpWNEhBVDdjMGdQX0pHZXctamZQTjA0YUxqSVVaM3MzRg?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16SzFlTEFfekVGdXZPYUY5TGhocHViVXZpSWVkVlNiQ2FJQndkTENUQ0FfUURTaU1TemN4N29Ydk5sZlEtMXFETktBWmJ3a1ZhRklzWGplMGpWNEhBVDdjMGdQX0pHZXctamZQTjA0YUxqSVVaM3MzRg?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "crux-marblehead-toro-cigar-review"
+    },
     {
       "published_at": "2026-10-10T18:54:06+00:00",
       "updated_at": "2026-10-10T18:54:06+00:00",
