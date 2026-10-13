@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:36:40.183642+00:00",
+  "updated_at": "2026-10-13T12:40:53.065549+00:00",
   "items": [
     {
       "published_at": "2026-10-12T22:46:10+00:00",
@@ -211,24 +211,24 @@
       "id": "cava-par-s-relocates-to-calle-par-s-in-barcelona-and-expands-its-cigar-offering"
     },
     {
-      "published_at": "2026-10-12T08:49:04+00:00",
-      "updated_at": "2026-10-12T08:49:04+00:00",
+      "published_at": "2026-10-12T08:15:23+00:00",
+      "updated_at": "2026-10-12T08:15:23+00:00",
       "title": "Cigar Worth Launches October 12th",
       "summary": "David Garofalo announced the October 12 launch of the world’s first valuation platform created for premium cigars",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/cw.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HV29hOGdXR0hjcDlVOVpWM291QnFTcE42VmZNQTNScVBzUTRacjk1STBiU25tSGZrY2pNcFp2NExDdnk4OXh0bUlsMFlteno1cjVGOUtHcHRBT1FXQVJ6a1ZUUFFfU29TV0xTRW9sMDA?oc=5"
+          "url": "https://www.cigarjournal.com/cigar-worth-launches-october-12th/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HV29hOGdXR0hjcDlVOVpWM291QnFTcE42VmZNQTNScVBzUTRacjk1STBiU25tSGZrY2pNcFp2NExDdnk4OXh0bUlsMFlteno1cjVGOUtHcHRBT1FXQVJ6a1ZUUFFfU29TV0xTRW9sMDA?oc=5"
+        "url": "https://www.cigarjournal.com/cigar-worth-launches-october-12th/"
       },
       "confirmed_by": [],
       "id": "cigar-worth-launches-october-12th"
