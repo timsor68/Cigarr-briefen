@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-10-13T12:40:53.065549+00:00",
+  "updated_at": "2026-10-13T21:49:42.739812+00:00",
   "items": [
+    {
+      "published_at": "2026-10-13T20:26:12+00:00",
+      "updated_at": "2026-10-13T20:26:12+00:00",
+      "title": "Historic Regional Edition Cuban Cigar For Africa",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0RTSFlfLWh5aHZIajBxREo0Q3Jvb19KTzlGajdPNmNXX0FkcmlpLXpjODh2eGlzSzZhRjhVZ1VjN2JmclM5dFNpZnJTLW9zOFlKWkx2ckdFZVpoVHFjLXBPalpjNV9wRlVGbnhzazhqZzR5Z3EyQzdWSi1XUllSTkUtaDhhWnJ4eXFSeEZhRGxwdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0RTSFlfLWh5aHZIajBxREo0Q3Jvb19KTzlGajdPNmNXX0FkcmlpLXpjODh2eGlzSzZhRjhVZ1VjN2JmclM5dFNpZnJTLW9zOFlKWkx2ckdFZVpoVHFjLXBPalpjNV9wRlVGbnhzazhqZzR5Z3EyQzdWSi1XUllSTkUtaDhhWnJ4eXFSeEZhRGxwdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "historic-regional-edition-cuban-cigar-for-africa"
+    },
+    {
+      "published_at": "2026-10-13T19:41:15+00:00",
+      "updated_at": "2026-10-13T19:41:15+00:00",
+      "title": "John Greeby Joins Best Cigar Prices",
+      "summary": "Until a month or so ago, Greeby held a similar role at Cigars International. He's the latest CI alumni to join Best Cigar Prices. The post John Greeby Joins Best Cigar Prices appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yWkppdmlnUEkwUWhxWkdZSEFfRWoxc2RhS2tNc2h5WDEtU0RWZF8ySGR6b0V3eE51UEN1czA2NXhXQUowVEM5X0JoNV9KN1ptdGRodk5nMFpPa1pHTGpkR19KX2NBcmRNazFudTV4M2NIQlU?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yWkppdmlnUEkwUWhxWkdZSEFfRWoxc2RhS2tNc2h5WDEtU0RWZF8ySGR6b0V3eE51UEN1czA2NXhXQUowVEM5X0JoNV9KN1ptdGRodk5nMFpPa1pHTGpkR19KX2NBcmRNazFudTV4M2NIQlU?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "john-greeby-joins-best-cigar-prices"
+    },
+    {
+      "published_at": "2026-10-13T17:50:01+00:00",
+      "updated_at": "2026-10-13T17:50:01+00:00",
+      "title": "Pan Caliente de HVC 10th Anniversary Limited Edition 2026",
+      "summary": "HVC's Pan Caliente was once a one-size limited edition; 10 years later, it's a full-fledged series with multiple regular production blends. This particular variation is the first time the company has released a cigar with Peruvian tobacco. The post Pan Caliente de HVC 10th Anniversary Limited Edition 2026 appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Pan-Caliente-de-HVC-10th-Anniversary-Limited-Edition-2026-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/pan-caliente-de-hvc-10th-anniversary-limited-edition-2026/481604/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/pan-caliente-de-hvc-10th-anniversary-limited-edition-2026/481604/"
+      },
+      "confirmed_by": [],
+      "id": "pan-caliente-de-hvc-10th-anniversary-limited-edition-2026"
+    },
+    {
+      "published_at": "2026-10-13T14:55:13+00:00",
+      "updated_at": "2026-10-13T14:55:13+00:00",
+      "title": "Lure Recreates The Codfather",
+      "summary": "As a brand, Lure is based on the late Lou Cross Jr. The Codfather is based on the cigars that were smoked at Cross Jr.'s funeral. The post Lure Recreates The Codfather appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Lure-The-Codfather-3.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/lure-recreates-the-codfather/481651/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/lure-recreates-the-codfather/481651/"
+      },
+      "confirmed_by": [],
+      "id": "lure-recreates-the-codfather"
+    },
     {
       "published_at": "2026-10-12T22:46:10+00:00",
       "updated_at": "2026-10-12T22:46:10+00:00",
@@ -142,29 +234,6 @@
       "id": "the-new-england-cigar-expo-2026"
     },
     {
-      "published_at": "2026-10-12T12:00:20+00:00",
-      "updated_at": "2026-10-12T12:00:20+00:00",
-      "title": "Rojas Cigars Street Tacos Mictlán Coming This Month",
-      "summary": "The company is honoring Día de los Muertos, the Mexican tradition celebrated on Nov. 1 and 2, when families remember departed loved ones through offerings and gatherings that celebrate their lives and keep their memories alive. The line's name comes from the name of the underworld where most souls journeyed after their death.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Rojas-Cigars-Street-Tacos-Mictlan-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/rojas-cigars-street-tacos-mictlan-coming-this-month/481543/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/rojas-cigars-street-tacos-mictlan-coming-this-month/481543/"
-      },
-      "confirmed_by": [],
-      "id": "rojas-cigars-street-tacos-mictl-n-coming-this-month"
-    },
-    {
       "published_at": "2026-10-12T11:09:09+00:00",
       "updated_at": "2026-10-12T11:09:09+00:00",
       "title": "Casa Carrillo Expands Pledge Purple with New Robusto Size",
@@ -211,73 +280,50 @@
       "id": "cava-par-s-relocates-to-calle-par-s-in-barcelona-and-expands-its-cigar-offering"
     },
     {
-      "published_at": "2026-10-12T08:15:23+00:00",
-      "updated_at": "2026-10-12T08:15:23+00:00",
+      "published_at": "2026-10-12T08:49:04+00:00",
+      "updated_at": "2026-10-12T08:49:04+00:00",
       "title": "Cigar Worth Launches October 12th",
       "summary": "David Garofalo announced the October 12 launch of the world’s first valuation platform created for premium cigars",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/cw.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigar-worth-launches-october-12th/"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HV29hOGdXR0hjcDlVOVpWM291QnFTcE42VmZNQTNScVBzUTRacjk1STBiU25tSGZrY2pNcFp2NExDdnk4OXh0bUlsMFlteno1cjVGOUtHcHRBT1FXQVJ6a1ZUUFFfU29TV0xTRW9sMDA?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cigar-worth-launches-october-12th/"
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HV29hOGdXR0hjcDlVOVpWM291QnFTcE42VmZNQTNScVBzUTRacjk1STBiU25tSGZrY2pNcFp2NExDdnk4OXh0bUlsMFlteno1cjVGOUtHcHRBT1FXQVJ6a1ZUUFFfU29TV0xTRW9sMDA?oc=5"
       },
       "confirmed_by": [],
       "id": "cigar-worth-launches-october-12th"
     },
     {
-      "published_at": "2026-10-11T20:48:11+00:00",
-      "updated_at": "2026-10-11T20:48:11+00:00",
+      "published_at": "2026-10-11T21:44:29+00:00",
+      "updated_at": "2026-10-11T21:44:29+00:00",
       "title": "Tres Decadas by Gurkha Toro",
-      "summary": "It's a Juan Lopez cigar, but not that Juan Lopez cigar. The post Tres Decadas by Gurkha Toro appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Tres-Decadas-by-Gurkha-Toro-2.jpg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://halfwheel.com/tres-decadas-by-gurkha-toro/481231/"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qX2pERXo3bVRTMXlUck1tWm1sRDc3WWRMaS1rLVZwZFExbWp0dnpWNXZDLUhjbDhvMWt3RXR0NWJCNmctRjZwWGdKV1ZhV2RWb0NoS3gtbnhPb1ZIZGNLVVAxR3U5MkpP?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://halfwheel.com/tres-decadas-by-gurkha-toro/481231/"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qX2pERXo3bVRTMXlUck1tWm1sRDc3WWRMaS1rLVZwZFExbWp0dnpWNXZDLUhjbDhvMWt3RXR0NWJCNmctRjZwWGdKV1ZhV2RWb0NoS3gtbnhPb1ZIZGNLVVAxR3U5MkpP?oc=5"
       },
       "confirmed_by": [],
       "id": "tres-decadas-by-gurkha-toro"
-    },
-    {
-      "published_at": "2026-10-11T14:12:06+00:00",
-      "updated_at": "2026-10-11T14:12:06+00:00",
-      "title": "Bolívar Safari Debuting in Côte d’Ivoire on Nov. 21",
-      "summary": "The cigar is being released to commemorate the 125th anniversary of the Bolívar brand. It's the first Bolívar with a pigtail cap and the first Edición Regional for the continent of Africa. 21 appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2019/02/Habanos-S.A.-Logo.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/bolivar-safari-debuting-in-cote-divoire-on-nov-21/481486/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/bolivar-safari-debuting-in-cote-divoire-on-nov-21/481486/"
-      },
-      "confirmed_by": [],
-      "id": "bol-var-safari-debuting-in-c-te-d-ivoire-on-nov-21"
     },
     {
       "published_at": "2026-10-11T12:06:45+00:00",
