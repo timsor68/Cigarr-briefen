@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-14T20:42:09.577806+00:00",
+  "updated_at": "2026-10-15T09:51:58.153702+00:00",
   "items": [
+    {
+      "published_at": "2026-10-14T21:16:26+00:00",
+      "updated_at": "2026-10-14T21:16:26+00:00",
+      "title": "Gurkha TAA 2026 Coming in November",
+      "summary": "The Gurkha TAA 2026 is a toro extra that uses a dark habano wrapper. The boxes, which come with their own humidifiers, are designed to double as humidors. The post Gurkha TAA 2026 Coming in November appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Gurkha-TAA-2026-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/gurkha-taa-2026-coming-in-november/481759/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/gurkha-taa-2026-coming-in-november/481759/"
+      },
+      "confirmed_by": [],
+      "id": "gurkha-taa-2026-coming-in-november"
+    },
     {
       "published_at": "2026-10-14T19:07:30+00:00",
       "updated_at": "2026-10-14T19:07:30+00:00",
@@ -725,29 +748,6 @@
       },
       "confirmed_by": [],
       "id": "espinosa-cigars-names-laura-barlau-vice-president-of-key-accounts-and-special-projects-cig"
-    },
-    {
-      "published_at": "2026-10-05T01:24:59+00:00",
-      "updated_at": "2026-10-05T01:24:59+00:00",
-      "title": "Crowned Heads Blood Medicine B Positive LE 2026 5 1/2 x 56 – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3pTdU04clhjWUl1WGVIMjZKUHdhN0s4RWo0QjlfZmNLMzVZQTctWjRDY2wyTnBZLTZwYUZ0NjkzeEpJWEtBaEx0OTVuXzhldXFtZVpENjVFZ3JiOWVlcEZfMU91SF8wY3hENzk1Vm5KcFU2eC1rTVgwRnhRWTBndWhpVGI0b29CM1c1N0MzREZaTTFjS1BvbkVBU1M0cWUtSVRMWllLd2lESVU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3pTdU04clhjWUl1WGVIMjZKUHdhN0s4RWo0QjlfZmNLMzVZQTctWjRDY2wyTnBZLTZwYUZ0NjkzeEpJWEtBaEx0OTVuXzhldXFtZVpENjVFZ3JiOWVlcEZfMU91SF8wY3hENzk1Vm5KcFU2eC1rTVgwRnhRWTBndWhpVGI0b29CM1c1N0MzREZaTTFjS1BvbkVBU1M0cWUtSVRMWllLd2lESVU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "crowned-heads-blood-medicine-b-positive-le-2026-5-1-2-x-56-cigar-review"
     }
   ]
 }
