@@ -1,6 +1,107 @@
 {
-  "updated_at": "2026-10-15T20:19:29.589416+00:00",
+  "updated_at": "2026-10-16T09:45:30.348531+00:00",
   "items": [
+    {
+      "published_at": "2026-10-16T07:48:02+00:00",
+      "updated_at": "2026-10-16T07:48:02+00:00",
+      "title": "Cohiba Talisman has its Day View Presenting New Features",
+      "summary": "The Cohiba Talisman is the newest ‘vitola’ inside the brand’s Linea Clásica",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image00004.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/cohiba-talisman-has-its-day-view-presenting-new-features/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/cohiba-talisman-has-its-day-view-presenting-new-features/"
+      },
+      "confirmed_by": [],
+      "id": "cohiba-talisman-has-its-day-view-presenting-new-features"
+    },
+    {
+      "published_at": "2026-10-15T23:09:50+00:00",
+      "updated_at": "2026-10-15T23:09:50+00:00",
+      "title": "Casa Molina Opens New Flagship New Orleans Location, Plans Cigar Factories for 2027",
+      "summary": "On Friday, Casa Molina will open up a new store in New Orleans. By next year, that store will also be home to one of the company's two Louisiana-based cigar factories. The post Casa Molina Opens New Flagship New Orleans Location, Plans Cigar Factories for 2027 appeared first on halfwheel",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbU5sT3V2ZHRPYlNxZXQwaURuTVAyblBJcHlaNTFJU092UVNHb3RRS1JtZlkwVTVJdHFTTzB2MFVGeV9wTFNmRDVMaExhbTVORmU4SnZPTkNaQnNNSjg4b0dKd1A3WUc3X0JTckdiTVFSSW5Pc0ptN240TkU5SEVQSzlpYmZfZFcyTG5YOWd1S01zSHlxeGdwdXlBVGlLbFN5eTdEWHB0cjhvbEQyMXcyOVFR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbU5sT3V2ZHRPYlNxZXQwaURuTVAyblBJcHlaNTFJU092UVNHb3RRS1JtZlkwVTVJdHFTTzB2MFVGeV9wTFNmRDVMaExhbTVORmU4SnZPTkNaQnNNSjg4b0dKd1A3WUc3X0JTckdiTVFSSW5Pc0ptN240TkU5SEVQSzlpYmZfZFcyTG5YOWd1S01zSHlxeGdwdXlBVGlLbFN5eTdEWHB0cjhvbEQyMXcyOVFR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "casa-molina-opens-new-flagship-new-orleans-location-plans-cigar-factories-for-2027"
+    },
+    {
+      "published_at": "2026-10-15T22:38:56+00:00",
+      "updated_at": "2026-10-15T22:38:56+00:00",
+      "title": "Fratello Cigars to Launch Concealed Carry II with Fidel Cigar | Cigar News",
+      "summary": "The line will once again feature six installments, this time themed around the Cuban Embargo. Like the first edition, details about the cigars remain undisclosed. The post Concealed Carry Second Edition Debuting This Month with Fidel appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Concealed-Carry-II-The-Cuban-Embargo-Fidel-closed-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/concealed-carry-second-edition-debuting-this-month-with-fidel/481693/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNei1sb2ZtdVFoeVA4bTV1UzdJMGlyQ25kLXItRmFvZWhiTDQtZmdOX0p1V0p5RzJTU3dSWEJrOUZIbmpGVnNtZElXTjRDWG1wNTVNeFpfbklpTmhodlRzNGExTVVIalpGQmNvUXAxd29GLXdXcHZTRkdBRWZHU0xFWHBuLXJpdkRGVi1nTERzaDhsdm5YYUxEeUtBMlhkS0tlS0VUcUdYZjlPWUJK?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/concealed-carry-second-edition-debuting-this-month-with-fidel/481693/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNei1sb2ZtdVFoeVA4bTV1UzdJMGlyQ25kLXItRmFvZWhiTDQtZmdOX0p1V0p5RzJTU3dSWEJrOUZIbmpGVnNtZElXTjRDWG1wNTVNeFpfbklpTmhodlRzNGExTVVIalpGQmNvUXAxd29GLXdXcHZTRkdBRWZHU0xFWHBuLXJpdkRGVi1nTERzaDhsdm5YYUxEeUtBMlhkS0tlS0VUcUdYZjlPWUJK?oc=5"
+        }
+      ],
+      "id": "fratello-cigars-to-launch-concealed-carry-ii-with-fidel-cigar-cigar-news"
+    },
+    {
+      "published_at": "2026-10-15T20:40:12+00:00",
+      "updated_at": "2026-10-15T20:40:12+00:00",
+      "title": "Lampert Limitada 2026",
+      "summary": "The Lampert Limitada 2026 is a box-pressed toro by way of Tabacos de Costa Rica. The post Lampert Limitada 2026 appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Lampert-Limitada-2026-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/lampert-limitada-2026/481244/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/lampert-limitada-2026/481244/"
+      },
+      "confirmed_by": [],
+      "id": "lampert-limitada-2026"
+    },
     {
       "published_at": "2026-10-14T21:16:26+00:00",
       "updated_at": "2026-10-14T21:16:26+00:00",
@@ -140,29 +241,6 @@
       "id": "from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo"
     },
     {
-      "published_at": "2026-10-13T23:32:37+00:00",
-      "updated_at": "2026-10-13T23:32:37+00:00",
-      "title": "Concealed Carry Second Edition Debuting This Month with Fidel",
-      "summary": "The line will once again feature six installments, this time themed around the Cuban Embargo. Like the first edition, details about the cigars remain undisclosed. The post Concealed Carry Second Edition Debuting This Month with Fidel appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Concealed-Carry-II-The-Cuban-Embargo-Fidel-closed-box-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/concealed-carry-second-edition-debuting-this-month-with-fidel/481693/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/concealed-carry-second-edition-debuting-this-month-with-fidel/481693/"
-      },
-      "confirmed_by": [],
-      "id": "concealed-carry-second-edition-debuting-this-month-with-fidel"
-    },
-    {
       "published_at": "2026-10-13T19:43:48+00:00",
       "updated_at": "2026-10-13T19:43:48+00:00",
       "title": "John Greeby Joins Best Cigar Prices",
@@ -218,29 +296,6 @@
       "id": "pan-caliente-de-hvc-10th-anniversary-limited-edition-2026"
     },
     {
-      "published_at": "2026-10-13T14:55:13+00:00",
-      "updated_at": "2026-10-13T14:55:13+00:00",
-      "title": "Lure Recreates The Codfather",
-      "summary": "As a brand, Lure is based on the late Lou Cross Jr. The Codfather is based on the cigars that were smoked at Cross Jr.'s funeral. The post Lure Recreates The Codfather appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Lure-The-Codfather-3.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/lure-recreates-the-codfather/481651/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/lure-recreates-the-codfather/481651/"
-      },
-      "confirmed_by": [],
-      "id": "lure-recreates-the-codfather"
-    },
-    {
       "published_at": "2026-10-13T14:45:21+00:00",
       "updated_at": "2026-10-13T14:45:21+00:00",
       "title": "Historic Regional Edition Cuban Cigar For Africa",
@@ -262,29 +317,6 @@
       },
       "confirmed_by": [],
       "id": "historic-regional-edition-cuban-cigar-for-africa"
-    },
-    {
-      "published_at": "2026-10-12T22:46:10+00:00",
-      "updated_at": "2026-10-12T22:46:10+00:00",
-      "title": "Hooten Young Ships Midnight Hammer 2026",
-      "summary": "This is the second release of the 6 x 60 torpedo with a shaggy foot. There's a bunch of new packaging options, including a travel case called the Bomber Buddy. The post Hooten Young Ships Midnight Hammer 2026 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Hooten-Young-Midnight-Hammer-2026-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/hooten-young-ships-midnight-hammer-2026/481624/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/hooten-young-ships-midnight-hammer-2026/481624/"
-      },
-      "confirmed_by": [],
-      "id": "hooten-young-ships-midnight-hammer-2026"
     },
     {
       "published_at": "2026-10-12T19:11:47+00:00",
@@ -702,52 +734,6 @@
       },
       "confirmed_by": [],
       "id": "esperitu-cigar-introduces-iconica-series"
-    },
-    {
-      "published_at": "2026-10-07T11:57:05+00:00",
-      "updated_at": "2026-10-07T11:57:05+00:00",
-      "title": "2nd Edition Atabey Ritos Gift Set with Porcelain Ashtray",
-      "summary": "Atabey Ritos Gift Set features five Atabey Ritos cigars (6 1/8 x 55) in cosmetic grade tubes paired with an elegant porcelain Atabey ashtray",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Atabey-Ritos-Gift-Set.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/2nd-edition-atabey-ritos-gift-set-with-porcelain-ashtray/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/2nd-edition-atabey-ritos-gift-set-with-porcelain-ashtray/"
-      },
-      "confirmed_by": [],
-      "id": "2nd-edition-atabey-ritos-gift-set-with-porcelain-ashtray"
-    },
-    {
-      "published_at": "2026-10-05T20:29:59+00:00",
-      "updated_at": "2026-10-05T20:29:59+00:00",
-      "title": "Espinosa Cigars Names Laura Barlau Vice President of Key Accounts and Special Projects | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMU1XdWd2a2R6YzNMdTBxV0dpSTk0RnZsb1V3ZmprN0dPQUNpaExyNTBnUXh2TWZVaGJQWnNhNW50eUg4RGFROVhqYUFqMEdYQUZucWl0Zi1qTHpNdFUxZ19PSU1fNWxYWXlkb2k2TXhqbEhNbks1LW50UzNaMmNURWJlRkNYT0FveUtTZXZPVFl2anl4SkhMc2p1S1JFRVR3TVE3WFFLUDg0TGNVaVlsT2dkM2NKblJ3MW93aWpkWnZCQ2NUZWktWU5jVElSZw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMU1XdWd2a2R6YzNMdTBxV0dpSTk0RnZsb1V3ZmprN0dPQUNpaExyNTBnUXh2TWZVaGJQWnNhNW50eUg4RGFROVhqYUFqMEdYQUZucWl0Zi1qTHpNdFUxZ19PSU1fNWxYWXlkb2k2TXhqbEhNbks1LW50UzNaMmNURWJlRkNYT0FveUtTZXZPVFl2anl4SkhMc2p1S1JFRVR3TVE3WFFLUDg0TGNVaVlsT2dkM2NKblJ3MW93aWpkWnZCQ2NUZWktWU5jVElSZw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "espinosa-cigars-names-laura-barlau-vice-president-of-key-accounts-and-special-projects-cig"
     }
   ]
 }
