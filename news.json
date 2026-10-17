@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-16T19:56:01.265261+00:00",
+  "updated_at": "2026-10-17T09:18:43.655349+00:00",
   "items": [
+    {
+      "published_at": "2026-10-17T05:04:19+00:00",
+      "updated_at": "2026-10-17T05:04:19+00:00",
+      "title": "Cigar Industry Report: Edition 711 (10/17/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjJKbFM0dnJkMm4yVzBCUHBhTEh0cXEzWktPUWczd0pfSEVIZUdHdENzbVU3UTNCWkRORHdIdWlhUUcxRUhLQlNhRmpfLTF6M21jSzJVRVZOYmJab2hlNnlocGZZenhaa1pGYUtqVEJzLUE1UGswNmhydTNGeHJRZ3BDdTk?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjJKbFM0dnJkMm4yVzBCUHBhTEh0cXEzWktPUWczd0pfSEVIZUdHdENzbVU3UTNCWkRORHdIdWlhUUcxRUhLQlNhRmpfLTF6M21jSzJVRVZOYmJab2hlNnlocGZZenhaa1pGYUtqVEJzLUE1UGswNmhydTNGeHJRZ3BDdTk?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-711-10-17-26"
+    },
+    {
+      "published_at": "2026-10-16T23:00:19+00:00",
+      "updated_at": "2026-10-16T23:00:19+00:00",
+      "title": "Caldwell The Queen is Dead Teased",
+      "summary": "The Queen is Dead is a logical follow-up to Long Live the Queen. Robert Caldwell has compared it to the company's Anastasia and Long Live the Queen blends. The post Caldwell The Queen is Dead Teased appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/The-Queen-is-Dead-Feature.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/caldwell-the-queen-is-dead-teased/481858/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/caldwell-the-queen-is-dead-teased/481858/"
+      },
+      "confirmed_by": [],
+      "id": "caldwell-the-queen-is-dead-teased"
+    },
     {
       "published_at": "2026-10-16T16:54:18+00:00",
       "updated_at": "2026-10-16T16:54:18+00:00",
@@ -25,8 +71,8 @@
       "id": "bond-roberts-fabrica-5-launches-2-sisters-sorella-di-notte-sister-of-the-night-cigar-news"
     },
     {
-      "published_at": "2026-10-16T15:12:18+00:00",
-      "updated_at": "2026-10-16T15:12:18+00:00",
+      "published_at": "2026-10-16T15:14:29+00:00",
+      "updated_at": "2026-10-16T15:14:29+00:00",
       "title": "SCHUSTER XO: Limited Edition with 2004 Cameroon Wrapper",
       "summary": "Cigarrenfabrik August Schuster introduces the SCHUSTER XO – 2004 Cameroon Wrapper, a limited-edition cigarillo line featuring Cameroon wrapper tobacco harvested in 2004 and aged for more than two decades",
       "category": [
@@ -310,10 +356,33 @@
       "id": "from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo"
     },
     {
+      "published_at": "2026-10-13T20:57:05+00:00",
+      "updated_at": "2026-10-13T20:57:05+00:00",
+      "title": "Historic Regional Edition Cuban Cigar For Africa",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXV4SWZMSkFvQkRLdVI4UUhRNWJqZkdTNzVlVDloSlhBb2ppSXpOSndQSG5XYU1qbU11XzVmd1UwRWdvaTUxOUZDNFlmTGhDR1UwOVNDd0hqNXhraVh5QzBNTWRpbUZmZG0yMDJZSVdLMHNYbXN2Z0ZwbVgyXy0xcEVqLUpNeG9nY0phRkg0Rmk?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXV4SWZMSkFvQkRLdVI4UUhRNWJqZkdTNzVlVDloSlhBb2ppSXpOSndQSG5XYU1qbU11XzVmd1UwRWdvaTUxOUZDNFlmTGhDR1UwOVNDd0hqNXhraVh5QzBNTWRpbUZmZG0yMDJZSVdLMHNYbXN2Z0ZwbVgyXy0xcEVqLUpNeG9nY0phRkg0Rmk?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "historic-regional-edition-cuban-cigar-for-africa"
+    },
+    {
       "published_at": "2026-10-13T19:43:48+00:00",
       "updated_at": "2026-10-13T19:43:48+00:00",
       "title": "John Greeby Joins Best Cigar Prices",
-      "summary": "Until a month or so ago, Greeby held a similar role at Cigars International. He's the latest CI alumni to join Best Cigar Prices. The post John Greeby Joins Best Cigar Prices appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -340,29 +409,6 @@
         }
       ],
       "id": "john-greeby-joins-best-cigar-prices"
-    },
-    {
-      "published_at": "2026-10-13T14:45:21+00:00",
-      "updated_at": "2026-10-13T14:45:21+00:00",
-      "title": "Historic Regional Edition Cuban Cigar For Africa",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1dNRjRuV1RFY1Zfak1ZeUNCZmVjNktkZWw5UU4xOWVpdWhZUnJFVGxBdV9sRVFNVEo2NFdOYmIya2twd01XYUdWelBRQWRZNzhqQ3BiZUV4Q0tDdFV3NGJxbzhFazFVRmFXS2JmVjBJTVE0dG5FaXN1aFlRMVh2NmNWT2tTOV9lUFRPcEdFR2JXU0dOTmtQYU1NS05zR2s?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1dNRjRuV1RFY1Zfak1ZeUNCZmVjNktkZWw5UU4xOWVpdWhZUnJFVGxBdV9sRVFNVEo2NFdOYmIya2twd01XYUdWelBRQWRZNzhqQ3BiZUV4Q0tDdFV3NGJxbzhFazFVRmFXS2JmVjBJTVE0dG5FaXN1aFlRMVh2NmNWT2tTOV9lUFRPcEdFR2JXU0dOTmtQYU1NS05zR2s?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "historic-regional-edition-cuban-cigar-for-africa"
     },
     {
       "published_at": "2026-10-12T19:11:47+00:00",
@@ -549,29 +595,6 @@
       },
       "confirmed_by": [],
       "id": "tres-decadas-by-gurkha-toro"
-    },
-    {
-      "published_at": "2026-10-11T12:06:45+00:00",
-      "updated_at": "2026-10-11T12:06:45+00:00",
-      "title": "Cigar Industry Report: Edition 710 (10/11/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd25YcmxtTEZMaDFnWnJCbW5DUHZpZEJSN1lSb1puaVowXy1FaG5oOV9SdXh0M0pSd0Z3aFpkZzlObzhhM1lsS2J5WXBzVlN5aFBvRmJzWFlwTjByaUdSX1hERGpMcWRmMWQydHU1MG0xaFRSUXA3MFBhUFZwZHl1MXczVFQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd25YcmxtTEZMaDFnWnJCbW5DUHZpZEJSN1lSb1puaVowXy1FaG5oOV9SdXh0M0pSd0Z3aFpkZzlObzhhM1lsS2J5WXBzVlN5aFBvRmJzWFlwTjByaUdSX1hERGpMcWRmMWQydHU1MG0xaFRSUXA3MFBhUFZwZHl1MXczVFQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-710-10-11-26"
     },
     {
       "published_at": "2026-10-10T22:33:04+00:00",
