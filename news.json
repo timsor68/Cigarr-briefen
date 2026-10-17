@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:18:43.655349+00:00",
+  "updated_at": "2026-10-17T14:11:30.573164+00:00",
   "items": [
     {
       "published_at": "2026-10-17T05:04:19+00:00",
@@ -46,6 +46,29 @@
       },
       "confirmed_by": [],
       "id": "caldwell-the-queen-is-dead-teased"
+    },
+    {
+      "published_at": "2026-10-16T22:54:04+00:00",
+      "updated_at": "2026-10-16T22:54:04+00:00",
+      "title": "Padrón Releases Updated No. 1 Cigar of the Year Sampler for 2026 | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd055TFlwTjJjal90aEZQMVJQazNCdV8wckJmTmdxZlhEajBBSFZFQjk1TVUxNHhFb2ZDekRTTEUtVUd3eGlCS2xULXdKOWlpSXZwV2Nnc0IyakwwTUEtRWlQbGhnbGNVenp5MjEwd1MxSGhlbXItWldHQWV0SHBYVGFNVmpvLTJIbVhOVWxXNFlpNlNlQTdtV096c2ZQamExRDE2RDhMeGZWczEyNmtJ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd055TFlwTjJjal90aEZQMVJQazNCdV8wckJmTmdxZlhEajBBSFZFQjk1TVUxNHhFb2ZDekRTTEUtVUd3eGlCS2xULXdKOWlpSXZwV2Nnc0IyakwwTUEtRWlQbGhnbGNVenp5MjEwd1MxSGhlbXItWldHQWV0SHBYVGFNVmpvLTJIbVhOVWxXNFlpNlNlQTdtV096c2ZQamExRDE2RDhMeGZWczEyNmtJ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "padr-n-releases-updated-no-1-cigar-of-the-year-sampler-for-2026-cigar-news"
     },
     {
       "published_at": "2026-10-16T16:54:18+00:00",
@@ -711,52 +734,6 @@
       },
       "confirmed_by": [],
       "id": "germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase-update"
-    },
-    {
-      "published_at": "2026-10-07T13:04:56+00:00",
-      "updated_at": "2026-10-07T13:04:56+00:00",
-      "title": "Gestocigars Sees Growing Demand for Affordable Overruns",
-      "summary": "Gestocigars is seeing increasing interest in more affordable cigars as consumers become more price-conscious. According to the Swiss company, it is currently selling more cigars, but at a lower average price than in previous years",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/gestooooo.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/gestocigars-sees-growing-demand-for-affordable-overruns/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/gestocigars-sees-growing-demand-for-affordable-overruns/"
-      },
-      "confirmed_by": [],
-      "id": "gestocigars-sees-growing-demand-for-affordable-overruns"
-    },
-    {
-      "published_at": "2026-10-07T12:13:19+00:00",
-      "updated_at": "2026-10-07T12:13:19+00:00",
-      "title": "Cigar Culture Summit Africa: First Speakers and Topics Announced",
-      "summary": "Market development, brand building and cigar culture take center stage in Johannesburg",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbm5taEdpTmhuS3FDQmRUWnJHbl81VWNEbkdwZGZGQVJaSlBFUVpOVXZES0thNDNWR0tKUHhVaGk4RXV3bEtaa3Eza0kxdFk1aXU3TUJRbXF4UjVveWpnb1lRdkRUcjA2V3RsNklNZzNEZzRBY2VCMkJSMGw1a3RpQUtrSFBQWU5QMGI0RFBlVFlacTJ1QlhhRQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbm5taEdpTmhuS3FDQmRUWnJHbl81VWNEbkdwZGZGQVJaSlBFUVpOVXZES0thNDNWR0tKUHhVaGk4RXV3bEtaa3Eza0kxdFk1aXU3TUJRbXF4UjVveWpnb1lRdkRUcjA2V3RsNklNZzNEZzRBY2VCMkJSMGw1a3RpQUtrSFBQWU5QMGI0RFBlVFlacTJ1QlhhRQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-culture-summit-africa-first-speakers-and-topics-announced"
     }
   ]
 }
