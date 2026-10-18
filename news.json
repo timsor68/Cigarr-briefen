@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-17T19:21:34.504724+00:00",
+  "updated_at": "2026-10-18T09:33:28.918426+00:00",
   "items": [
+    {
+      "published_at": "2026-10-18T00:15:52+00:00",
+      "updated_at": "2026-10-18T00:15:52+00:00",
+      "title": "La Galera 90th Anniversary Nanán",
+      "summary": "This year marks the 90th anniversary of Tabacalera Palma. The Dominican factory is celebrating with its first all-Dominican blend and an all-new vitola. The post La Galera 90th Anniversary Nanán appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/La-Galera-90th-Anniversary-Nanan-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-galera-90th-anniversary-nanan/481766/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-galera-90th-anniversary-nanan/481766/"
+      },
+      "confirmed_by": [],
+      "id": "la-galera-90th-anniversary-nan-n"
+    },
     {
       "published_at": "2026-10-17T05:04:19+00:00",
       "updated_at": "2026-10-17T05:04:19+00:00",
@@ -643,29 +666,6 @@
       "id": "crux-marblehead-toro-cigar-review"
     },
     {
-      "published_at": "2026-10-09T23:06:42+00:00",
-      "updated_at": "2026-10-09T23:06:42+00:00",
-      "title": "Mike Ditka Passes Away | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVld0ZzlESFpmUGY0Vy1OV1o0ZlVQVFNrZ09OUXJmVDlScndaMVlFVzE2SFp3VDhEcW1WeVo3TWptX285N2dtYjItWlZ2N2dOd0thN1lScjgwS1Q0b3Q5SGxJR0ZMYldnaG5MdUY2NlB5VTRUM3R2Mw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVld0ZzlESFpmUGY0Vy1OV1o0ZlVQVFNrZ09OUXJmVDlScndaMVlFVzE2SFp3VDhEcW1WeVo3TWptX285N2dtYjItWlZ2N2dOd0thN1lScjgwS1Q0b3Q5SGxJR0ZMYldnaG5MdUY2NlB5VTRUM3R2Mw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "mike-ditka-passes-away-cigar-news"
-    },
-    {
       "published_at": "2026-10-09T19:31:42+00:00",
       "updated_at": "2026-10-09T19:31:42+00:00",
       "title": "PCA Bringing The Cigar Academy to South Korea in December | Cigar News",
@@ -689,51 +689,27 @@
       "id": "pca-bringing-the-cigar-academy-to-south-korea-in-december-cigar-news"
     },
     {
-      "published_at": "2026-10-08T09:31:52+00:00",
-      "updated_at": "2026-10-08T09:31:52+00:00",
-      "title": "Habanos S.A. Launches Montecristo Fragata",
-      "summary": "presents Montecristo Fragata - a new travel humidor created exclusively for the Duty Free & Travel Retail channels",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "updated_at": "2026-10-09T07:00:00+00:00",
+      "title": "Mike Ditka Passes Away | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
-        "Kuba",
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/YDRAY-WIL-MONTECRISTO-FRAGATA-3.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/habanos-s-a-launches-montecristo-fragata/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/habanos-s-a-launches-montecristo-fragata/"
-      },
-      "confirmed_by": [],
-      "id": "habanos-s-a-launches-montecristo-fragata"
-    },
-    {
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "updated_at": "2026-10-08T07:00:00+00:00",
-      "title": "Germany Gives Cigars & Pipes a Reprieve from Massive Tobacco Tax Increase (Update)",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Reglering"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFNYcEE5QVlsSmhwTDYzSVJWYWdYckJTVkc2MjFIc192NjVLWTNYQ05xQTlUdVZtUEFZM1ZfMjVHaVlfcWZUZ1lPY3pEVWJNUkx3QTNlOVhQRHlWTV9EUm1PTFdfRkFGVVgzN1VGcnczTzNvZUFFZ3YtWWwtNDhVTzRDMDFoZXowUVo4RmVUZ19KU3d6UVlFcDUzMWd6a090ZzN6QUNJNXliSlcw?oc=5"
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVld0ZzlESFpmUGY0Vy1OV1o0ZlVQVFNrZ09OUXJmVDlScndaMVlFVzE2SFp3VDhEcW1WeVo3TWptX285N2dtYjItWlZ2N2dOd0thN1lScjgwS1Q0b3Q5SGxJR0ZMYldnaG5MdUY2NlB5VTRUM3R2Mw?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFNYcEE5QVlsSmhwTDYzSVJWYWdYckJTVkc2MjFIc192NjVLWTNYQ05xQTlUdVZtUEFZM1ZfMjVHaVlfcWZUZ1lPY3pEVWJNUkx3QTNlOVhQRHlWTV9EUm1PTFdfRkFGVVgzN1VGcnczTzNvZUFFZ3YtWWwtNDhVTzRDMDFoZXowUVo4RmVUZ19KU3d6UVlFcDUzMWd6a090ZzN6QUNJNXliSlcw?oc=5"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVld0ZzlESFpmUGY0Vy1OV1o0ZlVQVFNrZ09OUXJmVDlScndaMVlFVzE2SFp3VDhEcW1WeVo3TWptX285N2dtYjItWlZ2N2dOd0thN1lScjgwS1Q0b3Q5SGxJR0ZMYldnaG5MdUY2NlB5VTRUM3R2Mw?oc=5"
       },
       "confirmed_by": [],
-      "id": "germany-gives-cigars-pipes-a-reprieve-from-massive-tobacco-tax-increase-update"
+      "id": "mike-ditka-passes-away-cigar-news"
     }
   ]
 }
