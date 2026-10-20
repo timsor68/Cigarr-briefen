@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-20T10:00:39.304473+00:00",
+  "updated_at": "2026-10-20T15:38:20.055956+00:00",
   "items": [
+    {
+      "published_at": "2026-10-20T13:00:01+00:00",
+      "updated_at": "2026-10-20T13:00:01+00:00",
+      "title": "Rocky Patel America 250 Shipping to Stores This Week",
+      "summary": "Rocky Patel will perhaps be the final cigar company to release a cigar made for the 250th anniversary of the founding of America. These particular cigars have been aging since early 2025. The post Rocky Patel America 250 Shipping to Stores This Week appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Rocky-Patel-America-250-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/rocky-patel-america-250-shipping-to-stores-this-week/482036/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/rocky-patel-america-250-shipping-to-stores-this-week/482036/"
+      },
+      "confirmed_by": [],
+      "id": "rocky-patel-america-250-shipping-to-stores-this-week"
+    },
+    {
+      "published_at": "2026-10-20T09:40:14+00:00",
+      "updated_at": "2026-10-20T09:40:14+00:00",
+      "title": "Vandermarliere Cigar Family Celebrates its 100th Company Anniversary",
+      "summary": "With a two-day programme in Belgium, the Vandermarliere Cigar Family celebrated its 100th anniversary",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/VCF-100Y---Press-Release-4.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/still-rolling-after-100-years/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/still-rolling-after-100-years/"
+      },
+      "confirmed_by": [],
+      "id": "vandermarliere-cigar-family-celebrates-its-100th-company-anniversary"
+    },
     {
       "published_at": "2026-10-19T21:29:41+00:00",
       "updated_at": "2026-10-19T21:29:41+00:00",
@@ -152,23 +198,32 @@
       "published_at": "2026-10-19T15:15:42+00:00",
       "updated_at": "2026-10-19T15:15:42+00:00",
       "title": "Plasencia Alma Fuerte Colorado Claro Torpedo Semi-Boxpress Heads to Corona Cigar Co",
-      "summary": "This is the second exclusive Plasencia vitola for Corona. It also might be the first Alma Fuerte Colorado Claro to go on sale with the updated packaging.",
+      "summary": "New Alma Fuerte Torpedo Semi-Boxpressed joins the exclusive Colorado Claro-wrapped Alma del Cielo Robusto Gordo, now presented in Plasencia's new packaging",
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/10/Plasencia-Alma-Fuerte-Colorado-Claro-Torpedo-Semi-Boxpress-Feature.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co/481981/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co/481981/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
+        }
+      ],
       "id": "plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co"
     },
     {
@@ -308,29 +363,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-regulations-update-germany-norway-and-spain"
-    },
-    {
-      "published_at": "2026-10-18T17:46:25+00:00",
-      "updated_at": "2026-10-18T17:46:25+00:00",
-      "title": "Queen of the West Bel D’oro",
-      "summary": "Queen of the West is the first release from Creekside Cigar Co., based just outside of Cicinnati, Ohio. The line gets its nickname from one of the city's nicknames, while Bel D'Oro is a reference to the color of the wrapper. The post Queen of the West Bel D’oro appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Queen-of-the-West-Bel-Doro-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/queen-of-the-west-bel-doro/481792/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/queen-of-the-west-bel-doro/481792/"
-      },
-      "confirmed_by": [],
-      "id": "queen-of-the-west-bel-d-oro"
     },
     {
       "published_at": "2026-10-18T15:39:33+00:00",
@@ -779,29 +811,6 @@
       },
       "confirmed_by": [],
       "id": "casa-carrillo-expands-pledge-purple-with-new-robusto-size"
-    },
-    {
-      "published_at": "2026-10-12T10:27:15+00:00",
-      "updated_at": "2026-10-12T10:27:15+00:00",
-      "title": "Cava París Relocates to Calle París in Barcelona and Expands Its Cigar Offering",
-      "summary": "The tobacconist has opened a redesigned store featuring a 22 m² walk-in humidor, while its online platform Humibest focuses on premium cigar accessories",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/preview-1.webp",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/c/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/c/"
-      },
-      "confirmed_by": [],
-      "id": "cava-par-s-relocates-to-calle-par-s-in-barcelona-and-expands-its-cigar-offering"
     },
     {
       "published_at": "2026-10-11T21:44:29+00:00",
