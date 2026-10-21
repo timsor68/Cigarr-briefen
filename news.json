@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:33:38.856174+00:00",
+  "updated_at": "2026-10-21T10:05:31.430157+00:00",
   "items": [
     {
       "published_at": "2026-10-20T20:19:03+00:00",
@@ -126,6 +126,29 @@
       "id": "rocky-patel-america-250-shipping-to-stores-this-week"
     },
     {
+      "published_at": "2026-10-20T10:13:59+00:00",
+      "updated_at": "2026-10-20T10:13:59+00:00",
+      "title": "Plasencia Cigars and Corona Cigar Company Expand Product Partnership with Alma Fuerte",
+      "summary": "New Alma Fuerte Torpedo Semi-Boxpressed joins the exclusive Colorado Claro-wrapped Alma del Cielo Robusto Gordo, now presented in Plasencia's new packaging",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-cigars-and-corona-cigar-company-expand-product-partnership-with-alma-fuerte"
+    },
+    {
       "published_at": "2026-10-19T21:29:41+00:00",
       "updated_at": "2026-10-19T21:29:41+00:00",
       "title": "Blackbird Cigar Company to Ship Mockingbird Small Batch | Cigar News",
@@ -248,61 +271,6 @@
       },
       "confirmed_by": [],
       "id": "quesada-ships-don-manolo-79"
-    },
-    {
-      "published_at": "2026-10-19T16:38:34+00:00",
-      "updated_at": "2026-10-19T16:38:34+00:00",
-      "title": "Tabacalera USA Announces New Executive Roles",
-      "summary": "Nicolas Maslowski, Davide Moro and Brad Winstead have all gotten new titles. Notably, all of their titles are Tabacalera USA-related, a change from how the c-suite used to be divided. The post Tabacalera USA Announces New Executive Roles appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2023/08/‎Tabacalera-USA-Logo.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/tabacalera-usa-announces-new-executive-roles/481998/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/tabacalera-usa-announces-new-executive-roles/481998/"
-      },
-      "confirmed_by": [],
-      "id": "tabacalera-usa-announces-new-executive-roles"
-    },
-    {
-      "published_at": "2026-10-19T15:15:42+00:00",
-      "updated_at": "2026-10-19T15:15:42+00:00",
-      "title": "Plasencia Alma Fuerte Colorado Claro Torpedo Semi-Boxpress Heads to Corona Cigar Co",
-      "summary": "New Alma Fuerte Torpedo Semi-Boxpressed joins the exclusive Colorado Claro-wrapped Alma del Cielo Robusto Gordo, now presented in Plasencia's new packaging",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Plasencia-Alma-Fuerte-Colorado-Claro-Torpedo-Semi-Boxpress-Feature.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co/481981/"
-        },
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co/481981/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
-        }
-      ],
-      "id": "plasencia-alma-fuerte-colorado-claro-torpedo-semi-boxpress-heads-to-corona-cigar-co"
     },
     {
       "published_at": "2026-10-19T10:11:28+00:00",
@@ -822,29 +790,6 @@
       "id": "the-new-england-cigar-expo-2026"
     },
     {
-      "published_at": "2026-10-12T11:09:09+00:00",
-      "updated_at": "2026-10-12T11:09:09+00:00",
-      "title": "Casa Carrillo Expands Pledge Purple with New Robusto Size",
-      "summary": "Casa Carrillo announces the addition of a new Robusto size to the Pledge Purple Premier Collection, expanding one of the company’s releases with a new format designed to deliver the signature Pledge Purple experience in a more compact presentation",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Final_4747.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/casa-carrillo-expands-pledge-purple-with-new-robusto-size/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/casa-carrillo-expands-pledge-purple-with-new-robusto-size/"
-      },
-      "confirmed_by": [],
-      "id": "casa-carrillo-expands-pledge-purple-with-new-robusto-size"
-    },
-    {
       "published_at": "2026-10-11T21:44:29+00:00",
       "updated_at": "2026-10-11T21:44:29+00:00",
       "title": "Tres Decadas by Gurkha Toro",
@@ -866,29 +811,6 @@
       },
       "confirmed_by": [],
       "id": "tres-decadas-by-gurkha-toro"
-    },
-    {
-      "published_at": "2026-10-10T22:33:04+00:00",
-      "updated_at": "2026-10-10T22:33:04+00:00",
-      "title": "Crux Marblehead Toro – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16SzFlTEFfekVGdXZPYUY5TGhocHViVXZpSWVkVlNiQ2FJQndkTENUQ0FfUURTaU1TemN4N29Ydk5sZlEtMXFETktBWmJ3a1ZhRklzWGplMGpWNEhBVDdjMGdQX0pHZXctamZQTjA0YUxqSVVaM3MzRg?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16SzFlTEFfekVGdXZPYUY5TGhocHViVXZpSWVkVlNiQ2FJQndkTENUQ0FfUURTaU1TemN4N29Ydk5sZlEtMXFETktBWmJ3a1ZhRklzWGplMGpWNEhBVDdjMGdQX0pHZXctamZQTjA0YUxqSVVaM3MzRg?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "crux-marblehead-toro-cigar-review"
     }
   ]
 }
