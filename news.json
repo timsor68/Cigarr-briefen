@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-21T15:55:50.177496+00:00",
+  "updated_at": "2026-10-21T20:36:36.549125+00:00",
   "items": [
+    {
+      "published_at": "2026-10-21T20:30:53+00:00",
+      "updated_at": "2026-10-21T20:30:53+00:00",
+      "title": "Warped Adds Cloud Hopper Black",
+      "summary": "This is the second Cloud Hopper blend after the line debuted in 2017. The new blend features a Mexican San Andrés wrapper over a Nicaraguan binder and filler. The post Warped Adds Cloud Hopper Black appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/16bfd824-0a62-4a04-9598-a69322a0499e.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/warped-adds-cloud-hopper-black/482229/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/warped-adds-cloud-hopper-black/482229/"
+      },
+      "confirmed_by": [],
+      "id": "warped-adds-cloud-hopper-black"
+    },
+    {
+      "published_at": "2026-10-21T18:57:48+00:00",
+      "updated_at": "2026-10-21T18:57:48+00:00",
+      "title": "Espinosa La Bomba Warhead TAA Exclusive Coming Next Month",
+      "summary": "It's a 6 x 55 box-pressed toro that uses a Mexican San Andrés wrapper over a Nicaraguan binder and filler. The company says it delivers “a unique, flavorful take on the already successful Warhead blend.” The post Espinosa La Bomba Warhead TAA Exclusive Coming Next Month appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/601-La-Bomba-Warhead-TAA-2026-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/espinosa-la-bomba-warhead-taa-exclusive-coming-next-month/482238/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/espinosa-la-bomba-warhead-taa-exclusive-coming-next-month/482238/"
+      },
+      "confirmed_by": [],
+      "id": "espinosa-la-bomba-warhead-taa-exclusive-coming-next-month"
+    },
     {
       "published_at": "2026-10-21T15:25:32+00:00",
       "updated_at": "2026-10-21T15:25:32+00:00",
@@ -9,26 +55,35 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/10/Perez-Carrillo-Battleborn-2026-Heroes-1.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/perez-carrillo-battleborn-gets-new-blend-for-2026/482184/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/perez-carrillo-battleborn-gets-new-blend-for-2026/482184/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+        }
+      ],
       "id": "perez-carrillo-battleborn-gets-new-blend-for-2026"
     },
     {
       "published_at": "2026-10-21T13:00:21+00:00",
       "updated_at": "2026-10-21T13:00:21+00:00",
       "title": "Crowned Heads Belgian Blue LE 2026 Shipping Next Week",
-      "summary": "The third release of the Canadian-exclusive limited edition is a 4 7/8 x 56 robusto extra with a pigtail, slightly thicker than last year's release. This year, there is also a contest, with winners receiving a special five-pack sampler of Moose Kick cigars. The post Crowned Heads Shipping Moose Kick Limited Edition 2026 This Week appeared first on halfwheel",
+      "summary": "Belgian Blue is returning for its third year, this time, in its smallest vitola to date. Crowned Heads says the blend packs a bunch thanks to a blend that is 75 percent ligero. The post Crowned Heads Belgian Blue LE 2026 Shipping Next Week appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
@@ -158,29 +213,6 @@
       "id": "vandermarliere-cigar-family-celebrates-its-100th-company-anniversary"
     },
     {
-      "published_at": "2026-10-20T13:00:01+00:00",
-      "updated_at": "2026-10-20T13:00:01+00:00",
-      "title": "Rocky Patel America 250 Shipping to Stores This Week",
-      "summary": "Rocky Patel will perhaps be the final cigar company to release a cigar made for the 250th anniversary of the founding of America. These particular cigars have been aging since early 2025. The post Rocky Patel America 250 Shipping to Stores This Week appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/08/Rocky-Patel-America-250-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/rocky-patel-america-250-shipping-to-stores-this-week/482036/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/rocky-patel-america-250-shipping-to-stores-this-week/482036/"
-      },
-      "confirmed_by": [],
-      "id": "rocky-patel-america-250-shipping-to-stores-this-week"
-    },
-    {
       "published_at": "2026-10-20T10:13:59+00:00",
       "updated_at": "2026-10-20T10:13:59+00:00",
       "title": "Plasencia Cigars and Corona Cigar Company Expand Product Partnership with Alma Fuerte",
@@ -202,29 +234,6 @@
       },
       "confirmed_by": [],
       "id": "plasencia-cigars-and-corona-cigar-company-expand-product-partnership-with-alma-fuerte"
-    },
-    {
-      "published_at": "2026-10-19T21:29:41+00:00",
-      "updated_at": "2026-10-19T21:29:41+00:00",
-      "title": "Blackbird Cigar Company to Ship Mockingbird Small Batch | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZMQ1Y1bjlDRDRTN3B4RUhkSnhUZ2V1NVJpWXdQLTFndmFnTll1YjE5MDlhV29UN245THU3RXpVaTlrZm1WQ0xLMXp1RTExODFscVptQXNxX2luVVNPbEEybmVFb1NXeVI1LUR1blJlYzdwX2hib1k3TFhiU0FfZHFYZnk2a0NKclE0N1VUMjVFWGR0QURaSzI1R0syQXM5YzhyRg?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZMQ1Y1bjlDRDRTN3B4RUhkSnhUZ2V1NVJpWXdQLTFndmFnTll1YjE5MDlhV29UN245THU3RXpVaTlrZm1WQ0xLMXp1RTExODFscVptQXNxX2luVVNPbEEybmVFb1NXeVI1LUR1blJlYzdwX2hib1k3TFhiU0FfZHFYZnk2a0NKclE0N1VUMjVFWGR0QURaSzI1R0syQXM5YzhyRg?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "blackbird-cigar-company-to-ship-mockingbird-small-batch-cigar-news"
     },
     {
       "published_at": "2026-10-19T19:18:52+00:00",
@@ -365,6 +374,29 @@
       "id": "cigar-industry-report-edition-711-10-17-26"
     },
     {
+      "published_at": "2026-10-16T22:54:04+00:00",
+      "updated_at": "2026-10-16T22:54:04+00:00",
+      "title": "Padrón Releases Updated No. 1 Cigar of the Year Sampler for 2026 | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd055TFlwTjJjal90aEZQMVJQazNCdV8wckJmTmdxZlhEajBBSFZFQjk1TVUxNHhFb2ZDekRTTEUtVUd3eGlCS2xULXdKOWlpSXZwV2Nnc0IyakwwTUEtRWlQbGhnbGNVenp5MjEwd1MxSGhlbXItWldHQWV0SHBYVGFNVmpvLTJIbVhOVWxXNFlpNlNlQTdtV096c2ZQamExRDE2RDhMeGZWczEyNmtJ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd055TFlwTjJjal90aEZQMVJQazNCdV8wckJmTmdxZlhEajBBSFZFQjk1TVUxNHhFb2ZDekRTTEUtVUd3eGlCS2xULXdKOWlpSXZwV2Nnc0IyakwwTUEtRWlQbGhnbGNVenp5MjEwd1MxSGhlbXItWldHQWV0SHBYVGFNVmpvLTJIbVhOVWxXNFlpNlNlQTdtV096c2ZQamExRDE2RDhMeGZWczEyNmtJ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "padr-n-releases-updated-no-1-cigar-of-the-year-sampler-for-2026-cigar-news"
+    },
+    {
       "published_at": "2026-10-16T16:54:18+00:00",
       "updated_at": "2026-10-16T16:54:18+00:00",
       "title": "Bond Roberts' Fabrica 5 Launches 2 Sisters Sorella di Notte: Sister of the Night | Cigar News",
@@ -432,6 +464,29 @@
       },
       "confirmed_by": [],
       "id": "cohiba-talisman-has-its-day-view-presenting-new-features"
+    },
+    {
+      "published_at": "2026-10-15T23:09:50+00:00",
+      "updated_at": "2026-10-15T23:09:50+00:00",
+      "title": "Casa Molina Opens New Flagship New Orleans Location, Plans Cigar Factories for 2027",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbU5sT3V2ZHRPYlNxZXQwaURuTVAyblBJcHlaNTFJU092UVNHb3RRS1JtZlkwVTVJdHFTTzB2MFVGeV9wTFNmRDVMaExhbTVORmU4SnZPTkNaQnNNSjg4b0dKd1A3WUc3X0JTckdiTVFSSW5Pc0ptN240TkU5SEVQSzlpYmZfZFcyTG5YOWd1S01zSHlxeGdwdXlBVGlLbFN5eTdEWHB0cjhvbEQyMXcyOVFR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbU5sT3V2ZHRPYlNxZXQwaURuTVAyblBJcHlaNTFJU092UVNHb3RRS1JtZlkwVTVJdHFTTzB2MFVGeV9wTFNmRDVMaExhbTVORmU4SnZPTkNaQnNNSjg4b0dKd1A3WUc3X0JTckdiTVFSSW5Pc0ptN240TkU5SEVQSzlpYmZfZFcyTG5YOWd1S01zSHlxeGdwdXlBVGlLbFN5eTdEWHB0cjhvbEQyMXcyOVFR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "casa-molina-opens-new-flagship-new-orleans-location-plans-cigar-factories-for-2027"
     },
     {
       "published_at": "2026-10-15T22:38:56+00:00",
@@ -526,8 +581,31 @@
       "id": "from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo"
     },
     {
-      "published_at": "2026-10-13T19:43:48+00:00",
-      "updated_at": "2026-10-13T19:43:48+00:00",
+      "published_at": "2026-10-13T08:01:52+00:00",
+      "updated_at": "2026-10-13T08:01:52+00:00",
+      "title": "Lure Cigars to Release The Codfather | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGhHa2pYWmFYRkhsWlotM01teTB4dmozQ3VEX3NadXBOcExkRXp4aGp2WGZrVFVsUkNMUmpiTHZLQ3pRb2xRZ3NTTGlzOGZzS080bTZ3RWMyb3dUZWRkMEZiU2xkSzlEQ2ZVQ1FhLTdkYUVxMFJwRk5jdDJxNkdfU1JTYzhoUTRIaDVv?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGhHa2pYWmFYRkhsWlotM01teTB4dmozQ3VEX3NadXBOcExkRXp4aGp2WGZrVFVsUkNMUmpiTHZLQ3pRb2xRZ3NTTGlzOGZzS080bTZ3RWMyb3dUZWRkMEZiU2xkSzlEQ2ZVQ1FhLTdkYUVxMFJwRk5jdDJxNkdfU1JTYzhoUTRIaDVv?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "lure-cigars-to-release-the-codfather-cigar-news"
+    },
+    {
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "updated_at": "2026-10-13T07:00:00+00:00",
       "title": "John Greeby Joins Best Cigar Prices",
       "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
@@ -556,29 +634,6 @@
         }
       ],
       "id": "john-greeby-joins-best-cigar-prices"
-    },
-    {
-      "published_at": "2026-10-13T08:01:52+00:00",
-      "updated_at": "2026-10-13T08:01:52+00:00",
-      "title": "Lure Cigars to Release The Codfather | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGhHa2pYWmFYRkhsWlotM01teTB4dmozQ3VEX3NadXBOcExkRXp4aGp2WGZrVFVsUkNMUmpiTHZLQ3pRb2xRZ3NTTGlzOGZzS080bTZ3RWMyb3dUZWRkMEZiU2xkSzlEQ2ZVQ1FhLTdkYUVxMFJwRk5jdDJxNkdfU1JTYzhoUTRIaDVv?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGhHa2pYWmFYRkhsWlotM01teTB4dmozQ3VEX3NadXBOcExkRXp4aGp2WGZrVFVsUkNMUmpiTHZLQ3pRb2xRZ3NTTGlzOGZzS080bTZ3RWMyb3dUZWRkMEZiU2xkSzlEQ2ZVQ1FhLTdkYUVxMFJwRk5jdDJxNkdfU1JTYzhoUTRIaDVv?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "lure-cigars-to-release-the-codfather-cigar-news"
     },
     {
       "published_at": "2026-10-13T07:00:00+00:00",
@@ -625,6 +680,30 @@
       },
       "confirmed_by": [],
       "id": "david-garofalo-launches-cigar-worth-cigar-news"
+    },
+    {
+      "published_at": "2026-10-12T14:21:47+00:00",
+      "updated_at": "2026-10-12T14:21:47+00:00",
+      "title": "MBombay Mora Toro (2026 Release/2019 Vintage) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor",
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVMtOEVUU3pmVG1rYTJGYkZETW5MYzZiSmRiRnAtQWhKWl9QOGRQczE4QmJwQ243STdHMktwS3V0NlktUjMzUjl5Mndpa1FxTnBkWXU4WmdoeGlZMnhGQWdHR3lnR09IUE5paG1FRkNRdkxuMnlOZlJDSm5fT0Y1cTFvWWRyNHZGTl9wRkR2RVJEVXZYcE5V?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVMtOEVUU3pmVG1rYTJGYkZETW5MYzZiSmRiRnAtQWhKWl9QOGRQczE4QmJwQ243STdHMktwS3V0NlktUjMzUjl5Mndpa1FxTnBkWXU4WmdoeGlZMnhGQWdHR3lnR09IUE5paG1FRkNRdkxuMnlOZlJDSm5fT0Y1cTFvWWRyNHZGTl9wRkR2RVJEVXZYcE5V?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "mbombay-mora-toro-2026-release-2019-vintage-cigar-review"
     },
     {
       "published_at": "2026-10-12T12:24:23+00:00",
