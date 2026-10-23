@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-23T10:00:56.070066+00:00",
+  "updated_at": "2026-10-23T15:43:33.783250+00:00",
   "items": [
+    {
+      "published_at": "2026-10-23T14:54:58+00:00",
+      "updated_at": "2026-10-23T14:54:58+00:00",
+      "title": "Joya de Nicaragua Cuatro Cinco Edición Americana Returns for 2026",
+      "summary": "After a two-year hiatus, the Edición Americana is back. Once again, it's offered a 6 x 54 box-pressed belicoso format. The post Joya de Nicaragua Cuatro Cinco Edición Americana Returns for 2026 appeared first on halfwheel",
+      "category": [
+        "Nicaragua"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Joya-de-Nicaragua-Cuatro-Cinco-Edicion-Americana-2026-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/joya-de-nicaragua-cuatro-cinco-edicion-americana-returns-for-2026/482352/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/joya-de-nicaragua-cuatro-cinco-edicion-americana-returns-for-2026/482352/"
+      },
+      "confirmed_by": [],
+      "id": "joya-de-nicaragua-cuatro-cinco-edici-n-americana-returns-for-2026"
+    },
     {
       "published_at": "2026-10-22T21:45:00+00:00",
       "updated_at": "2026-10-22T21:45:00+00:00",
@@ -9,19 +32,28 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2025/04/Arturo-Fuente-Black-Pink-1-scaled.jpg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/arturo-fuentes-black-pink-gets-full-release/482336/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/arturo-fuentes-black-pink-gets-full-release/482336/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
+        }
+      ],
       "id": "arturo-fuente-s-black-pink-gets-full-release"
     },
     {
@@ -278,38 +310,6 @@
       "id": "warped-adds-cloud-hopper-black"
     },
     {
-      "published_at": "2026-10-21T15:25:32+00:00",
-      "updated_at": "2026-10-21T15:25:32+00:00",
-      "title": "Perez-Carrillo Battleborn Gets New Blend for 2026",
-      "summary": "For its sophomore release, Battleborn gets a new blend, a different size, a new color scheme and even a different box-count. Battleborn Heroes debuts at an event tomorrow. The post Perez-Carrillo Battleborn Gets New Blend for 2026 appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Perez-Carrillo-Battleborn-2026-Heroes-1.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/perez-carrillo-battleborn-gets-new-blend-for-2026/482184/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/perez-carrillo-battleborn-gets-new-blend-for-2026/482184/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
-        }
-      ],
-      "id": "perez-carrillo-battleborn-gets-new-blend-for-2026"
-    },
-    {
       "published_at": "2026-10-20T15:58:39+00:00",
       "updated_at": "2026-10-20T15:58:39+00:00",
       "title": "Plasencia Cigars Names Javier Carranza New U.S. VP of Sales",
@@ -524,6 +524,29 @@
       },
       "confirmed_by": [],
       "id": "cigar-regulations-update-germany-norway-and-spain"
+    },
+    {
+      "published_at": "2026-10-18T15:39:33+00:00",
+      "updated_at": "2026-10-18T15:39:33+00:00",
+      "title": "Casa Carrillo Social Media Exclusive Blend 3 (2026) – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-social-media-exclusive-blend-3-2026-cigar-review"
     },
     {
       "published_at": "2026-10-17T05:04:19+00:00",
