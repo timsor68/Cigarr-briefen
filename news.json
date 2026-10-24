@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-23T20:25:57.031510+00:00",
+  "updated_at": "2026-10-24T09:30:17.172934+00:00",
   "items": [
+    {
+      "published_at": "2026-10-24T05:35:10+00:00",
+      "updated_at": "2026-10-24T05:35:10+00:00",
+      "title": "El Oso Fumar Takes Take #378: Matt Booth, Scandinavian Tobacco Group",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGZmTENtZXdMSU9jQjZ0d0pmMzNhQk1RYnJOZGdkSjR5VjhQaFE5NThQQVQzX1JuckVfNGYzTW5mTGRyQ3YzRVpwb3EwOTdyZ2dnU0pUSFpVLTMzYUtUSHBnYXotM0JrWWhsTFp6RnBmYjRMbXRkNUpsUGlrUkRxd0V6V2dZTTJael80OXJVNVlpVFpYLWliT1R1YllLWS1PNHA0?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGZmTENtZXdMSU9jQjZ0d0pmMzNhQk1RYnJOZGdkSjR5VjhQaFE5NThQQVQzX1JuckVfNGYzTW5mTGRyQ3YzRVpwb3EwOTdyZ2dnU0pUSFpVLTMzYUtUSHBnYXotM0JrWWhsTFp6RnBmYjRMbXRkNUpsUGlrUkRxd0V6V2dZTTJael80OXJVNVlpVFpYLWliT1R1YllLWS1PNHA0?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "el-oso-fumar-takes-take-378-matt-booth-scandinavian-tobacco-group"
+    },
+    {
+      "published_at": "2026-10-23T22:00:01+00:00",
+      "updated_at": "2026-10-23T22:00:01+00:00",
+      "title": "Oasis Caliber V",
+      "summary": "Cigar Oasis is best known for selling devices that provide humidity, however the company also sells Caliber hygrometers, which measure humidity. In late 2025, it introduced the Caliber V, which has a new e-ink display and an updated sensor. The post Oasis Caliber V appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Oasis-Caliber-V-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/oasis-caliber-v/482343/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/oasis-caliber-v/482343/"
+      },
+      "confirmed_by": [],
+      "id": "oasis-caliber-v"
+    },
     {
       "published_at": "2026-10-23T20:13:40+00:00",
       "updated_at": "2026-10-23T20:13:40+00:00",
@@ -763,52 +809,6 @@
       },
       "confirmed_by": [],
       "id": "aging-room-blue-amber-blue-maestro-cigar-review"
-    },
-    {
-      "published_at": "2026-10-14T08:34:44+00:00",
-      "updated_at": "2026-10-14T08:34:44+00:00",
-      "title": "Indonesian Cigar Festival 2026: Bringing Indonesia’s Cigar Industry to the Global Stage",
-      "summary": "The Indonesian Cigar Festival 2026 (ICF) brought together Indonesia’s local cigar industry with elements of culture, lifestyle, and entertainment in a three-day event held at Bali Collection, The Nusa Dua, Bali, from October 1 to 3, 2026",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHRyWXphYlp3M05CUnFhWTBFaW5KLWcxR0w1VGhUeW5VdDN6SEphZl9LVG5mQ0otTUM4NEtJUXFfNzMydnZrWF9VSU16bkIxUmdEYTRaOXA3czdRUmlFbnEtVFlsc2ZFZzVwMHk5Q0g5S0pFVV9ianBDcGJicXFYTDhGUzZzS2ZudHdaUVI0TUR0OHJGeU1YTXJ5ZDdEVEsxSW9WT2IxcGdiTzFlSDZDSXI1dzJiaFE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHRyWXphYlp3M05CUnFhWTBFaW5KLWcxR0w1VGhUeW5VdDN6SEphZl9LVG5mQ0otTUM4NEtJUXFfNzMydnZrWF9VSU16bkIxUmdEYTRaOXA3czdRUmlFbnEtVFlsc2ZFZzVwMHk5Q0g5S0pFVV9ianBDcGJicXFYTDhGUzZzS2ZudHdaUVI0TUR0OHJGeU1YTXJ5ZDdEVEsxSW9WT2IxcGdiTzFlSDZDSXI1dzJiaFE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "indonesian-cigar-festival-2026-bringing-indonesia-s-cigar-industry-to-the-global-stage"
-    },
-    {
-      "published_at": "2026-10-14T07:32:40+00:00",
-      "updated_at": "2026-10-14T07:32:40+00:00",
-      "title": "From Cigar Culture to Contemporary Art: Takeshi Ikeda Presents “TIME WORN” in Tokyo",
-      "summary": "Japanese contemporary artist Takeshi Ikeda, known for creating artworks from cigar ribbons, recently presented his solo exhibition TIME WORN at the Isetan Shinjuku Art Gallery, Tokyo",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/%C3%A7CCartography%20of%20Ceremony%20-%20Prayers%20in%20Structure.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo/"
-      },
-      "confirmed_by": [],
-      "id": "from-cigar-culture-to-contemporary-art-takeshi-ikeda-presents-time-worn-in-tokyo"
     }
   ]
 }
