@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-10-24T19:28:32.536197+00:00",
+  "updated_at": "2026-10-25T09:46:58.829208+00:00",
   "items": [
+    {
+      "published_at": "2026-10-24T23:15:57+00:00",
+      "updated_at": "2026-10-24T23:15:57+00:00",
+      "title": "Cigar Industry Report: Edition 712 (10/24/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXE0YnNKNC10RGltN2lsWWljU2xXX3U3TktNR2lXa0lpTEhjT0plamVpb2JlaktyQzFtR2RMTTJzY2NfSS1NM0M4NFJLOGVwNFlNd1Bkazl6Mk4zZmJUTmd1U21Zd2dVbFBJN1ZZR05NV3BGZkpWeTR2WFJRZTYyUjdYYS0?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXE0YnNKNC10RGltN2lsWWljU2xXX3U3TktNR2lXa0lpTEhjT0plamVpb2JlaktyQzFtR2RMTTJzY2NfSS1NM0M4NFJLOGVwNFlNd1Bkazl6Mk4zZmJUTmd1U21Zd2dVbFBJN1ZZR05NV3BGZkpWeTR2WFJRZTYyUjdYYS0?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-712-10-24-26"
+    },
+    {
+      "published_at": "2026-10-24T20:23:10+00:00",
+      "updated_at": "2026-10-24T20:23:10+00:00",
+      "title": "La Aurora Family Creed Series Perseverancia Toro",
+      "summary": "The sophomore release in La Aurora's Family Creed Series is made with a Pennsylvania broadleaf wrapper covering a Mexican San Andrés binder and filler tobaccos grown in the Dominican Republic, Nicaragua and Pennsylvania. The post La Aurora Family Creed Series Perseverancia Toro appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/La-Aurora-Family-Creed-Perseverancia-Toro-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-aurora-family-creed-series-perseverancia-toro/482496/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-aurora-family-creed-series-perseverancia-toro/482496/"
+      },
+      "confirmed_by": [],
+      "id": "la-aurora-family-creed-series-perseverancia-toro"
+    },
+    {
+      "published_at": "2026-10-24T19:40:10+00:00",
+      "updated_at": "2026-10-24T19:40:10+00:00",
+      "title": "CAO Flathead Speed Shop Habano V654 Crankshaft – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDBpeW9hZ2c1a3JRdEVTRjhFWmY3b1FiN0lGQ3hZNEtBbTVuWlk1N3JCbkhKcDN3OVBQWW42RFlUOE5ObmhVSmhOQkJlWFdGVGx4eUdJM2RZbFM0RkhPYjFwbUNUUjU2S3dPS2xwVjJvcjdXY1FueG9LbW9SZS0xNF9raGV2UHhYdmpGVUotV2FEbjRQdzRYQ200aw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDBpeW9hZ2c1a3JRdEVTRjhFWmY3b1FiN0lGQ3hZNEtBbTVuWlk1N3JCbkhKcDN3OVBQWW42RFlUOE5ObmhVSmhOQkJlWFdGVGx4eUdJM2RZbFM0RkhPYjFwbUNUUjU2S3dPS2xwVjJvcjdXY1FueG9LbW9SZS0xNF9raGV2UHhYdmpGVUotV2FEbjRQdzRYQ200aw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cao-flathead-speed-shop-habano-v654-crankshaft-cigar-review"
+    },
     {
       "published_at": "2026-10-24T15:00:59+00:00",
       "updated_at": "2026-10-24T15:00:59+00:00",
@@ -23,29 +92,6 @@
       },
       "confirmed_by": [],
       "id": "loaisiga-cigars-releasing-el-cadejo-in-november"
-    },
-    {
-      "published_at": "2026-10-24T13:14:04+00:00",
-      "updated_at": "2026-10-24T13:14:04+00:00",
-      "title": "Cigar Industry Report: Edition 712 (10/24/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXE0YnNKNC10RGltN2lsWWljU2xXX3U3TktNR2lXa0lpTEhjT0plamVpb2JlaktyQzFtR2RMTTJzY2NfSS1NM0M4NFJLOGVwNFlNd1Bkazl6Mk4zZmJUTmd1U21Zd2dVbFBJN1ZZR05NV3BGZkpWeTR2WFJRZTYyUjdYYS0?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXE0YnNKNC10RGltN2lsWWljU2xXX3U3TktNR2lXa0lpTEhjT0plamVpb2JlaktyQzFtR2RMTTJzY2NfSS1NM0M4NFJLOGVwNFlNd1Bkazl6Mk4zZmJUTmd1U21Zd2dVbFBJN1ZZR05NV3BGZkpWeTR2WFJRZTYyUjdYYS0?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-712-10-24-26"
     },
     {
       "published_at": "2026-10-24T13:00:27+00:00",
@@ -273,29 +319,6 @@
       "id": "arturo-fuente-s-black-pink-gets-full-release"
     },
     {
-      "published_at": "2026-10-22T21:00:14+00:00",
-      "updated_at": "2026-10-22T21:00:14+00:00",
-      "title": "Rocky Patel Matrix Announced as TAA 2026 Exclusive",
-      "summary": "The Matrix is a new toro that uses a Connecticut broadleaf wrapper. The company says it has notes of earth, nuts and chocolate. The post Rocky Patel Matrix Announced as TAA 2026 Exclusive appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Rocky-Patel-Matrix-TAA-2026-2.jpeg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/rocky-patel-matrix-announced-as-taa-2026-exclusive/482324/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/rocky-patel-matrix-announced-as-taa-2026-exclusive/482324/"
-      },
-      "confirmed_by": [],
-      "id": "rocky-patel-matrix-announced-as-taa-2026-exclusive"
-    },
-    {
       "published_at": "2026-10-22T20:50:04+00:00",
       "updated_at": "2026-10-22T20:50:04+00:00",
       "title": "Cohiba Talismán to Become Regular Production Offering | Cigar News",
@@ -512,8 +535,8 @@
       "id": "plasencia-cigars-and-corona-cigar-company-expand-product-partnership-with-alma-fuerte"
     },
     {
-      "published_at": "2026-10-19T20:44:55+00:00",
-      "updated_at": "2026-10-19T20:44:55+00:00",
+      "published_at": "2026-10-19T19:18:52+00:00",
+      "updated_at": "2026-10-19T19:18:52+00:00",
       "title": "Tennessee Earns Another Smoky Victory In The Cigar Game",
       "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
       "category": [
@@ -524,12 +547,12 @@
       "sources": [
         {
           "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXNHSWNKYmoxUndMc2tPM09UUzlIN3JxQ29mbTBBU1ZHeW1FREx5eEJKdEtQOG5TWmtWQmVSVDkwNVpXRlZkRjM1ZjlBeWJERUY2V1VQUlU3Z3lrUmpOd3F2aDFROXdZeDQtbE5wWnY2Nks2N0FQcDg1RFRiRDFUaTl0SzNWN0ltN0JIdVJHajRyYm9FY0tBbzdiNFljdkVwVlM4cmlEc04?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFdJZEhjQWU4MEV3T2RCX0dyQ2xERnBfQklnUi1nQ0Q4T1E1cjA0UzdpTjluLWJYTFhQbmhOV2xOYTZ0eEtXanliTkl6aFdqN0F6TVpjdUc3emdHVHlYcFBJVm5qb29DZnhnWUhNWUlUUmt6cjhSNmRHVF9lTmJ0ZGN6ak5uck5rbDlLOHZ2WjF2dzNvbmh2TmZ4QQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXNHSWNKYmoxUndMc2tPM09UUzlIN3JxQ29mbTBBU1ZHeW1FREx5eEJKdEtQOG5TWmtWQmVSVDkwNVpXRlZkRjM1ZjlBeWJERUY2V1VQUlU3Z3lrUmpOd3F2aDFROXdZeDQtbE5wWnY2Nks2N0FQcDg1RFRiRDFUaTl0SzNWN0ltN0JIdVJHajRyYm9FY0tBbzdiNFljdkVwVlM4cmlEc04?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFdJZEhjQWU4MEV3T2RCX0dyQ2xERnBfQklnUi1nQ0Q4T1E1cjA0UzdpTjluLWJYTFhQbmhOV2xOYTZ0eEtXanliTkl6aFdqN0F6TVpjdUc3emdHVHlYcFBJVm5qb29DZnhnWUhNWUlUUmt6cjhSNmRHVF9lTmJ0ZGN6ak5uck5rbDlLOHZ2WjF2dzNvbmh2TmZ4QQ?oc=5"
       },
       "confirmed_by": [],
       "id": "tennessee-earns-another-smoky-victory-in-the-cigar-game"
