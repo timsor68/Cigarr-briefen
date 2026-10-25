@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-25T09:46:58.829208+00:00",
+  "updated_at": "2026-10-25T14:56:29.333169+00:00",
   "items": [
+    {
+      "published_at": "2026-10-25T12:45:59+00:00",
+      "updated_at": "2026-10-25T12:45:59+00:00",
+      "title": "Davidoff Launches the City Edition",
+      "summary": "Davidoff Cigars unveils the City Edition, a new limited-release series of cigars dedicated exclusively to the Davidoff of Geneva since 1911 flagship stores",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/city.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-launches-the-city-edition/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/davidoff-launches-the-city-edition/"
+      },
+      "confirmed_by": [],
+      "id": "davidoff-launches-the-city-edition"
+    },
     {
       "published_at": "2026-10-24T23:15:57+00:00",
       "updated_at": "2026-10-24T23:15:57+00:00",
