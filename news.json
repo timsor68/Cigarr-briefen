@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-25T14:56:29.333169+00:00",
+  "updated_at": "2026-10-25T19:34:41.306695+00:00",
   "items": [
+    {
+      "published_at": "2026-10-25T17:00:39+00:00",
+      "updated_at": "2026-10-25T17:00:39+00:00",
+      "title": "Gran Habano Persian King Omega Omega",
+      "summary": "Omega Omega marks a number of firsts for Gran Habano. It's the first time the company has made a cigar entirely of Honduran tobacco. In addition, it's the first Persian King cigar that comes with a band, two in fact.",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Gran-Habano-Persian-King-Omega-Omega-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/gran-habano-persian-king-omega-omega/482516/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/gran-habano-persian-king-omega-omega/482516/"
+      },
+      "confirmed_by": [],
+      "id": "gran-habano-persian-king-omega-omega"
+    },
     {
       "published_at": "2026-10-25T12:45:59+00:00",
       "updated_at": "2026-10-25T12:45:59+00:00",
@@ -310,36 +333,27 @@
       "id": "joya-de-nicaragua-cuatro-cinco-edici-n-americana-returns-for-2026"
     },
     {
-      "published_at": "2026-10-22T21:45:00+00:00",
-      "updated_at": "2026-10-22T21:45:00+00:00",
-      "title": "Arturo Fuente’s Black Pink Gets Full Release",
-      "summary": "After a soft launch for TAA stores in March, next week, the Black Pink will head to stores nationwide. All four vitolas are expected to be part of the shipment. The post Arturo Fuente’s Black Pink Gets Full Release appeared first on halfwheel",
+      "published_at": "2026-10-22T21:00:04+00:00",
+      "updated_at": "2026-10-22T21:00:04+00:00",
+      "title": "Arturo Fuente Vintage 1960s Black Pink Heading for Release | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2025/04/Arturo-Fuente-Black-Pink-1-scaled.jpg",
+      "status": "Trovärdig källa",
+      "image": "",
       "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/arturo-fuentes-black-pink-gets-full-release/482336/"
-        },
         {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
         }
       ],
       "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/arturo-fuentes-black-pink-gets-full-release/482336/"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
-        }
-      ],
-      "id": "arturo-fuente-s-black-pink-gets-full-release"
+      "confirmed_by": [],
+      "id": "arturo-fuente-vintage-1960s-black-pink-heading-for-release-cigar-news"
     },
     {
       "published_at": "2026-10-22T20:50:04+00:00",
