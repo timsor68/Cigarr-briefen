@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-27T16:35:04.404359+00:00",
+  "updated_at": "2026-10-27T21:16:32.997325+00:00",
   "items": [
+    {
+      "published_at": "2026-10-27T18:15:56+00:00",
+      "updated_at": "2026-10-27T18:15:56+00:00",
+      "title": "Ted’s Dark Roast Coffee Liqueur Seasoned Cigar Slated for November",
+      "summary": "Coffee liqueur is the latest flavor in Ted's expansive portfolio of alcohol-infused cigars. The company says the newest release will arrive in mid-November. The post Ted’s Dark Roast Coffee Liqueur Seasoned Cigar Slated for November appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Teds-Dark-Roast-Coffee-Liqueur-Seasoned-Cigar-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/teds-dark-roast-coffee-liqueur-seasoned-cigar-slated-for-november/482710/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/teds-dark-roast-coffee-liqueur-seasoned-cigar-slated-for-november/482710/"
+      },
+      "confirmed_by": [],
+      "id": "ted-s-dark-roast-coffee-liqueur-seasoned-cigar-slated-for-november"
+    },
     {
       "published_at": "2026-10-27T16:16:40+00:00",
       "updated_at": "2026-10-27T16:16:40+00:00",
@@ -190,7 +213,7 @@
       "published_at": "2026-10-25T19:25:41+00:00",
       "updated_at": "2026-10-25T19:25:41+00:00",
       "title": "Gran Habano Persian King Omega Omega",
-      "summary": "Omega Omega marks a number of firsts for Gran Habano. It's the first time the company has made a cigar entirely of Honduran tobacco. In addition, it's the first Persian King cigar that comes with a band, two in fact.",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nyheter"
       ],
@@ -541,29 +564,6 @@
       "id": "crowned-heads-moose-kick-limited-edition-2026-announced-for-canada-cigar-news"
     },
     {
-      "published_at": "2026-10-19T19:18:52+00:00",
-      "updated_at": "2026-10-19T19:18:52+00:00",
-      "title": "Tennessee Earns Another Smoky Victory In The Cigar Game",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "tennessee-earns-another-smoky-victory-in-the-cigar-game"
-    },
-    {
       "published_at": "2026-10-19T10:11:28+00:00",
       "updated_at": "2026-10-19T10:11:28+00:00",
       "title": "Cigar Culture Summit Africa 2026",
@@ -654,6 +654,29 @@
       },
       "confirmed_by": [],
       "id": "cigar-regulations-update-germany-norway-and-spain"
+    },
+    {
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "updated_at": "2026-10-19T07:00:00+00:00",
+      "title": "Tennessee Earns Another Smoky Victory In The Cigar Game",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "tennessee-earns-another-smoky-victory-in-the-cigar-game"
     },
     {
       "published_at": "2026-10-18T15:39:33+00:00",
