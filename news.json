@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-10-27T21:16:32.997325+00:00",
+  "updated_at": "2026-10-28T11:18:17.333109+00:00",
   "items": [
+    {
+      "published_at": "2026-10-28T09:31:32+00:00",
+      "updated_at": "2026-10-28T09:31:32+00:00",
+      "title": "Casa Carrillo Announces the 2026 TAA Exclusive Cigar",
+      "summary": "Casa Carrillo proudly announces the 2026 Casa Carrillo TAA Exclusive, a limited-edition release created exclusively for members of the Tobacconists’ Association of America (TAA)",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://media.cigarjournal.com/image-4.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+        }
+      ],
+      "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
+    },
+    {
+      "published_at": "2026-10-28T09:26:32+00:00",
+      "updated_at": "2026-10-28T09:26:32+00:00",
+      "title": "Digging Deep: The Story Behind Casa De Gary’s Underground Humidor",
+      "summary": "An inherited collection of cigars gave Garry a bold idea: to build a cellar designed as a humidor all by himself in 30 days, in order to properly store the heirlooms",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmRRZHdReHhldXdoNXY4T1JHY0M0anZ6emFqTWpoQldHOXdaNGdjUGoyVFRUSTFXRmJ3dUJwTEtuTzF5QmFodmwzV1NqX3dIQW1XSDJOalVYYWl1a2dqOXlEZUNNT3hlT09WMGp5cUE5Q0hLeEdMYWVDUnFkRWt6UWJ1LU9udXpxS01CQkpNekJwZUNpU2MyQ0dR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmRRZHdReHhldXdoNXY4T1JHY0M0anZ6emFqTWpoQldHOXdaNGdjUGoyVFRUSTFXRmJ3dUJwTEtuTzF5QmFodmwzV1NqX3dIQW1XSDJOalVYYWl1a2dqOXlEZUNNT3hlT09WMGp5cUE5Q0hLeEdMYWVDUnFkRWt6UWJ1LU9udXpxS01CQkpNekJwZUNpU2MyQ0dR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "digging-deep-the-story-behind-casa-de-gary-s-underground-humidor"
+    },
+    {
+      "published_at": "2026-10-28T09:06:28+00:00",
+      "updated_at": "2026-10-28T09:06:28+00:00",
+      "title": "Cigar Culture Summit Africa: Johannesburg Debut Brings the Global Cigar Community Together",
+      "summary": "In less than two weeks, from 23 to 25 October, Johannesburg will be the focus of the cigar industry. Enthusiasts, experts, brands, and manufacturers will meet at the Cigar Culture Summit Africa 2026 at the Emperor Casino",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzFxb3piaUd3ZjNteVZDR3ZZZUZvTUg1R1c3bnM1eFRKS2VreWNJNVVpa2h2Qlk3UmppdTdhS3Rtbk4yZGJEZERhLWJyYWE5Y1pQbVZaQU9fN1ZTblhQWGNEU0ZUQllCei0zMjktWkRpbUEyRWlfOFAwVG1LaDUxSTY1cnR0NlZndXV6N1JhblJhMmdDTEZ4M09mazJEZUdIU0c1SVBkaVN0aEVqdWlmRHR5d3hkbndpcjFR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzFxb3piaUd3ZjNteVZDR3ZZZUZvTUg1R1c3bnM1eFRKS2VreWNJNVVpa2h2Qlk3UmppdTdhS3Rtbk4yZGJEZERhLWJyYWE5Y1pQbVZaQU9fN1ZTblhQWGNEU0ZUQllCei0zMjktWkRpbUEyRWlfOFAwVG1LaDUxSTY1cnR0NlZndXV6N1JhblJhMmdDTEZ4M09mazJEZUdIU0c1SVBkaVN0aEVqdWlmRHR5d3hkbndpcjFR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-culture-summit-africa-johannesburg-debut-brings-the-global-cigar-community-together"
+    },
+    {
+      "published_at": "2026-10-28T09:04:31+00:00",
+      "updated_at": "2026-10-28T09:04:31+00:00",
+      "title": "Selected Tobacco Introduces Robusto Edition Set",
+      "summary": "The Robusto Edition Set is an exclusive collector’s release honoring the guests of the Selected Tobacco facility grand opening in Madrid on the weekend of October 10th and 11th",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://media.cigarjournal.com/ST%20Robusto%20Edition%20Set.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/selected-tobacco-introduces-robusto-edition-set/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFLUlZfWmVJdERvcTB0akVzeS1wX2NwQXZlanR5WDlFR3RGZURwckhDSFJjVk45T0s1YmFobU9Cb2toMEpIY0J1bnNkY25VRHEzcmpmSUhEVlI1Wm1iNVIxbFE2YTAtb2daZFlsa1ZGRzN0cTRZY1VnbHpGRzB2RGFITWkyQmlyVE16TEdzOHQ1WlhrbUxfZzU5ejdpSEVB?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/selected-tobacco-introduces-robusto-edition-set/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFLUlZfWmVJdERvcTB0akVzeS1wX2NwQXZlanR5WDlFR3RGZURwckhDSFJjVk45T0s1YmFobU9Cb2toMEpIY0J1bnNkY25VRHEzcmpmSUhEVlI1Wm1iNVIxbFE2YTAtb2daZFlsa1ZGRzN0cTRZY1VnbHpGRzB2RGFITWkyQmlyVE16TEdzOHQ1WlhrbUxfZzU5ejdpSEVB?oc=5"
+        }
+      ],
+      "id": "selected-tobacco-introduces-robusto-edition-set"
+    },
+    {
+      "published_at": "2026-10-28T08:58:43+00:00",
+      "updated_at": "2026-10-28T08:58:43+00:00",
+      "title": "Casa Carrillo’s Limited-Edition Release Honors Military Personnel, Veterans, and First Responders",
+      "summary": "With an entirely different blend for 2026, Battleborn Heroes honors military personnel, veterans, police officers, firefighters, and first responders",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Final_5291.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-s-limited-edition-release-honors-military-personnel-veterans-and-first-responders/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-s-limited-edition-release-honors-military-personnel-veterans-and-first-responders/"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-s-limited-edition-release-honors-military-personnel-veterans-and-first-respo"
+    },
+    {
+      "published_at": "2026-10-28T08:49:08+00:00",
+      "updated_at": "2026-10-28T08:49:08+00:00",
+      "title": "BUENA VISTA Toro Sampler",
+      "summary": "The new BUENA VISTA Toro Sampler brings together three long-filler cigars with distinct flavor profiles",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/buena-vista.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/buena-vista-toro-sampler/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/buena-vista-toro-sampler/"
+      },
+      "confirmed_by": [],
+      "id": "buena-vista-toro-sampler"
+    },
+    {
+      "published_at": "2026-10-27T22:07:59+00:00",
+      "updated_at": "2026-10-27T22:07:59+00:00",
+      "title": "La Flor Dominicana Chapter III Announced as TAA Exclusive",
+      "summary": "Like the previous two chapters, LFD's Chapter III uses the company's signature Chisel vitola. LFD hopes to have it on shelves by the end of the year and TAA accounts will get a one-year exclusivity period. The post La Flor Dominicana Chapter III Announced as TAA Exclusive appeared first on halfwheel",
+      "category": [
+        "Dominikanska republiken"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2015/10/La-Flor-Dominicana-Logo-LFD-Logo.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/la-flor-dominicana-chapter-iii-announced-as-taa-exclusive/482743/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/la-flor-dominicana-chapter-iii-announced-as-taa-exclusive/482743/"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-chapter-iii-announced-as-taa-exclusive"
+    },
     {
       "published_at": "2026-10-27T18:15:56+00:00",
       "updated_at": "2026-10-27T18:15:56+00:00",
@@ -25,24 +204,24 @@
       "id": "ted-s-dark-roast-coffee-liqueur-seasoned-cigar-slated-for-november"
     },
     {
-      "published_at": "2026-10-27T16:16:40+00:00",
-      "updated_at": "2026-10-27T16:16:40+00:00",
+      "published_at": "2026-10-27T16:05:05+00:00",
+      "updated_at": "2026-10-27T16:05:05+00:00",
       "title": "Laranja Hybrid Short Churchill",
       "summary": "The Laranja Hybrid is the latest extension to Espinosa's line that debuted in 2014 and was known for its use of Brazilian tobacco. The company continues to use Brazilian tobacco, with this described as having a balanced, flavor-forward profile. The post Laranja Hybrid Short Churchill appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Laranja-Hybrid-Short-Churchill-2.jpg",
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObGVIRzYwSFRTckRwRE4wSW8tVXkwUFhrN2hXYkZyVXk5WXUwY0RvMzhSaVNTR29JblRIMmRrS3N4QXFSUXNyTHNmLUtUSTdJZmdKaVJIRWlXS1daX2xSbjl5ckd0VXlPNnNUdw?oc=5"
+          "url": "https://halfwheel.com/laranja-hybrid-short-churchill/482620/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObGVIRzYwSFRTckRwRE4wSW8tVXkwUFhrN2hXYkZyVXk5WXUwY0RvMzhSaVNTR29JblRIMmRrS3N4QXFSUXNyTHNmLUtUSTdJZmdKaVJIRWlXS1daX2xSbjl5ckd0VXlPNnNUdw?oc=5"
+        "url": "https://halfwheel.com/laranja-hybrid-short-churchill/482620/"
       },
       "confirmed_by": [],
       "id": "laranja-hybrid-short-churchill"
@@ -325,29 +504,6 @@
       "id": "el-oso-fumar-takes-take-378-matt-booth-scandinavian-tobacco-group"
     },
     {
-      "published_at": "2026-10-22T21:00:04+00:00",
-      "updated_at": "2026-10-22T21:00:04+00:00",
-      "title": "Arturo Fuente Vintage 1960s Black Pink Heading for Release | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "arturo-fuente-vintage-1960s-black-pink-heading-for-release-cigar-news"
-    },
-    {
       "published_at": "2026-10-22T20:50:04+00:00",
       "updated_at": "2026-10-22T20:50:04+00:00",
       "title": "Cohiba Talismán to Become Regular Production Offering | Cigar News",
@@ -371,70 +527,47 @@
       "id": "cohiba-talism-n-to-become-regular-production-offering-cigar-news"
     },
     {
-      "published_at": "2026-10-22T20:20:02+00:00",
-      "updated_at": "2026-10-22T20:20:02+00:00",
-      "title": "Toscanello Aroma Limoncello | Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDJEd3J4VFNCelRFQUxWMmwxbDZ3Q2tMT04zQVE0Tm1kY0JZUnVOZlBRNGdiVnhsVE1hMjJkUE0wN3FSdmNNZy10OXpsdy04M2J3N1RwbzZ3TjFudU1yaTdFZmZOSERSTklmMjkwcVdWWi1RZ2x1bnNFZTdMYW5pb1p3?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDJEd3J4VFNCelRFQUxWMmwxbDZ3Q2tMT04zQVE0Tm1kY0JZUnVOZlBRNGdiVnhsVE1hMjJkUE0wN3FSdmNNZy10OXpsdy04M2J3N1RwbzZ3TjFudU1yaTdFZmZOSERSTklmMjkwcVdWWi1RZ2x1bnNFZTdMYW5pb1p3?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "toscanello-aroma-limoncello-cigar-review"
-    },
-    {
-      "published_at": "2026-10-22T09:08:35+00:00",
-      "updated_at": "2026-10-22T09:08:35+00:00",
+      "published_at": "2026-10-22T08:26:10+00:00",
+      "updated_at": "2026-10-22T08:26:10+00:00",
       "title": "Three Leaf: The Development of Cigar Culture in Saudi Arabia",
       "summary": "With three boutiques in Riyadh and Jeddah and a fourth location planned, Three Leaf Cigar Boutique is part of Saudi Arabia’s developing cigar culture, combining retail, lounges and cultural events",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/3-leaf.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0tvYXhjMTVBWmZwUVFIS1hoUy1VaHRzckd0eE14dU9VRVFoNVZMcFU5UlM1ZVRkMmU3R204SGFWOU1ldTdjbDZMM0hKUlI5R25sdWk3bGp5RU0yM0M3TkdlNTR2VWltNVpIRUlxRlhOMnZLbU5uX2tVWE1zM0tzVDg1ajU?oc=5"
+          "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0tvYXhjMTVBWmZwUVFIS1hoUy1VaHRzckd0eE14dU9VRVFoNVZMcFU5UlM1ZVRkMmU3R204SGFWOU1ldTdjbDZMM0hKUlI5R25sdWk3bGp5RU0yM0M3TkdlNTR2VWltNVpIRUlxRlhOMnZLbU5uX2tVWE1zM0tzVDg1ajU?oc=5"
+        "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
       },
       "confirmed_by": [],
       "id": "three-leaf-the-development-of-cigar-culture-in-saudi-arabia"
     },
     {
-      "published_at": "2026-10-22T07:53:32+00:00",
-      "updated_at": "2026-10-22T07:53:32+00:00",
+      "published_at": "2026-10-22T07:27:12+00:00",
+      "updated_at": "2026-10-22T07:27:12+00:00",
       "title": "Where to Buy, What to Visit, What's On: A New Guide to Cigar Travel in Nicaragua",
       "summary": "Nicaragua has spent much of the past two decades near the top of the cigar world, and more passionados than ever are coming to see where their cigars are made. A new independent website, , makes planning that trip easier",
       "category": [
         "Nicaragua"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/1000554737.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2RSSFVxaUtxZ2VIVmtYWm1BeHlvUjNOeE5qeHVsSDJJbFVNa2ZIVU81VjVnai1BNnRkVU5vMGhTYnlSMFZNVXh0NHhGeEZ3SXRmNm03S1ZiazBJbXYtRXk3TzJRTFhCRExoYlNGVm1JR0NlaHhRZ2NKOGFKNi0yc1hNWEdTcDRVWHAxQlY4STlja3Z6Q21ielJnU0JmMTE3LWlmYldZUk9zUDQ?oc=5"
+          "url": "https://www.cigarjournal.com/where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2RSSFVxaUtxZ2VIVmtYWm1BeHlvUjNOeE5qeHVsSDJJbFVNa2ZIVU81VjVnai1BNnRkVU5vMGhTYnlSMFZNVXh0NHhGeEZ3SXRmNm03S1ZiazBJbXYtRXk3TzJRTFhCRExoYlNGVm1JR0NlaHhRZ2NKOGFKNi0yc1hNWEdTcDRVWHAxQlY4STlja3Z6Q21ielJnU0JmMTE3LWlmYldZUk9zUDQ?oc=5"
+        "url": "https://www.cigarjournal.com/where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua/"
       },
       "confirmed_by": [],
       "id": "where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua"
@@ -518,29 +651,6 @@
       "id": "vandermarliere-cigar-family-celebrates-its-100th-company-anniversary"
     },
     {
-      "published_at": "2026-10-20T10:13:59+00:00",
-      "updated_at": "2026-10-20T10:13:59+00:00",
-      "title": "Plasencia Cigars and Corona Cigar Company Expand Product Partnership with Alma Fuerte",
-      "summary": "New Alma Fuerte Torpedo Semi-Boxpressed joins the exclusive Colorado Claro-wrapped Alma del Cielo Robusto Gordo, now presented in Plasencia's new packaging",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWtUY0taNFI2OE96azlJRG5mYjIyUGtCSS1BSC1jQ2psYkRrdUstQnlBb19KVEkwX1JxVG5NLXUzY1pScWd1SXp6eXRLMGxQdE4tMmdBXzVxWV9WeHpGRWFSZEFkQ2w2amZVTkFkOVNhSi1VMzB1ZEZ1NnBLb2hNMmc5aHNvbmFSX1c4bGpneGlpVlNCUENsMWVfQjdndmFjU0JvV2d4TnV3VGpsR2ZNejRBdUtSdw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-cigars-and-corona-cigar-company-expand-product-partnership-with-alma-fuerte"
-    },
-    {
       "published_at": "2026-10-20T04:54:46+00:00",
       "updated_at": "2026-10-20T04:54:46+00:00",
       "title": "Crowned Heads Moose Kick Limited Edition 2026 Announced for Canada | Cigar News",
@@ -564,98 +674,6 @@
       "id": "crowned-heads-moose-kick-limited-edition-2026-announced-for-canada-cigar-news"
     },
     {
-      "published_at": "2026-10-19T10:11:28+00:00",
-      "updated_at": "2026-10-19T10:11:28+00:00",
-      "title": "Cigar Culture Summit Africa 2026",
-      "summary": "In less than two weeks, from 23 to 25 October, Johannesburg will be the focus of the cigar industry. Enthusiasts, experts, brands, and manufacturers will meet at the Cigar Culture Summit Africa 2026 at the Emperor Casino",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KRk1Ja0RfLVJRUUxwU1h4ZTRmalhUQmdDNzBoMG1rOV9vX0xoODdfYkVUc3FTenRDaWNGOVhpNXRCVW9SNDI2WmVMcnVweF9ycFdFUXR3VUU3aWRIaXZjTVR1Y1ZrTDZLSngtNG5FMA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KRk1Ja0RfLVJRUUxwU1h4ZTRmalhUQmdDNzBoMG1rOV9vX0xoODdfYkVUc3FTenRDaWNGOVhpNXRCVW9SNDI2WmVMcnVweF9ycFdFUXR3VUU3aWRIaXZjTVR1Y1ZrTDZLSngtNG5FMA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-culture-summit-africa-2026"
-    },
-    {
-      "published_at": "2026-10-19T10:11:28+00:00",
-      "updated_at": "2026-10-19T10:11:28+00:00",
-      "title": "German Engineered Blends \"Weltschmerz\" and \"Raumzeit\" are now Available",
-      "summary": "German Engineered Cigars´ Nicaraguan blends Raumzeit and Weltschmerz are available to order at the company's distributors now, completing the lineup alongside Kraftwerk, RVGN, and RVGN Extrem",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUtrVVFITlZFQXg0a0lUZm5hVVFDYmxlVGZxTy1xMHdDZ0pZLWk5YUE3NjdyTWZnTk4taEpsVjJxUFBxUmZGOGF2OXNSU1NtYnB5emxvQTNLYUpqSWw4SzVIWmRxZEFsYklJaTdhRlZDWk9QR3Q2UGZ3WkxNSnlYQ284c2JkRmdXcDBocmhNVVZGdS1XbVpPd2w5RXJqZw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUtrVVFITlZFQXg0a0lUZm5hVVFDYmxlVGZxTy1xMHdDZ0pZLWk5YUE3NjdyTWZnTk4taEpsVjJxUFBxUmZGOGF2OXNSU1NtYnB5emxvQTNLYUpqSWw4SzVIWmRxZEFsYklJaTdhRlZDWk9QR3Q2UGZ3WkxNSnlYQ284c2JkRmdXcDBocmhNVVZGdS1XbVpPd2w5RXJqZw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "german-engineered-blends-weltschmerz-and-raumzeit-are-now-available"
-    },
-    {
-      "published_at": "2026-10-19T08:36:24+00:00",
-      "updated_at": "2026-10-19T08:36:24+00:00",
-      "title": "Hooten Young Secures U.S. Design Patent for The Cartridge, Featured in the Ma Deuce Cigar Selection",
-      "summary": "Hooten Young LLC announces the issuance of U.S. D1,124,474 S, protecting the ornamental design of the company’s distinctive cigar shape known as The Cartridge",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16RHJ3LTBHN0lPVl9XX1RHOFB6NHVsR3NfeTNtdTc4Y3ROUWJONldPRzlHSGtWWnJNNjRSZTEyaGRtQUdBZ3FpcndtM1oyNkE4MFJfcG1fcmttdy1jZndBZGYwQ1lkZWxUa2c4bTY0ZmNCNkdyS01Z?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16RHJ3LTBHN0lPVl9XX1RHOFB6NHVsR3NfeTNtdTc4Y3ROUWJONldPRzlHSGtWWnJNNjRSZTEyaGRtQUdBZ3FpcndtM1oyNkE4MFJfcG1fcmttdy1jZndBZGYwQ1lkZWxUa2c4bTY0ZmNCNkdyS01Z?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "hooten-young-secures-u-s-design-patent-for-the-cartridge-featured-in-the-ma-deuce-cigar-se"
-    },
-    {
-      "published_at": "2026-10-19T07:58:05+00:00",
-      "updated_at": "2026-10-19T07:58:05+00:00",
-      "title": "Cigar Regulations Update: Germany, Norway and Spain",
-      "summary": "Each month, Paul Varakas, Director General of the European Cigar Manufacturers Association (ECMA), highlights the latest developments affecting cigar consumers and retailers across Europe",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Unbenannt-1-6.avif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigar-regulations-update-germany-norway-and-spain/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cigar-regulations-update-germany-norway-and-spain/"
-      },
-      "confirmed_by": [],
-      "id": "cigar-regulations-update-germany-norway-and-spain"
-    },
-    {
       "published_at": "2026-10-19T07:00:00+00:00",
       "updated_at": "2026-10-19T07:00:00+00:00",
       "title": "Tennessee Earns Another Smoky Victory In The Cigar Game",
@@ -677,29 +695,6 @@
       },
       "confirmed_by": [],
       "id": "tennessee-earns-another-smoky-victory-in-the-cigar-game"
-    },
-    {
-      "published_at": "2026-10-18T15:39:33+00:00",
-      "updated_at": "2026-10-18T15:39:33+00:00",
-      "title": "Casa Carrillo Social Media Exclusive Blend 3 (2026) – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "casa-carrillo-social-media-exclusive-blend-3-2026-cigar-review"
     }
   ]
 }
