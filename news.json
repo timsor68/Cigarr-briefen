@@ -1,41 +1,124 @@
 {
-  "updated_at": "2026-10-28T11:18:17.333109+00:00",
+  "updated_at": "2026-10-28T21:38:16.696029+00:00",
   "items": [
     {
-      "published_at": "2026-10-28T09:31:32+00:00",
-      "updated_at": "2026-10-28T09:31:32+00:00",
-      "title": "Casa Carrillo Announces the 2026 TAA Exclusive Cigar",
-      "summary": "Casa Carrillo proudly announces the 2026 Casa Carrillo TAA Exclusive, a limited-edition release created exclusively for members of the Tobacconists’ Association of America (TAA)",
+      "published_at": "2026-10-28T21:30:53+00:00",
+      "updated_at": "2026-10-28T21:30:53+00:00",
+      "title": "Casa 1910 Mexigars Colorado (Toro) -| Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzRtbko0T3dfbjdzLXRFMHRJbDE5OFV6dHdXZkR4UlM5enBkNTBGamlOSXFxczRyN2h1Tl9abkRUNEFOWkphb1hzWXU2YmZkTHNyeFlHR3AxcGhSYWN2R2JET1dTQld0Uk5kY3ZQenZ5MGxaWHdDWE1mX2dPYTVuRnpzZ1oxMXZj?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzRtbko0T3dfbjdzLXRFMHRJbDE5OFV6dHdXZkR4UlM5enBkNTBGamlOSXFxczRyN2h1Tl9abkRUNEFOWkphb1hzWXU2YmZkTHNyeFlHR3AxcGhSYWN2R2JET1dTQld0Uk5kY3ZQenZ5MGxaWHdDWE1mX2dPYTVuRnpzZ1oxMXZj?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "casa-1910-mexigars-colorado-toro-cigar-review"
+    },
+    {
+      "published_at": "2026-10-28T20:00:56+00:00",
+      "updated_at": "2026-10-28T20:00:56+00:00",
+      "title": "Plasencia El Año de la Cabra Slated for December",
+      "summary": "The previous six Plasencia Lunar New Year Series cigars were made in Nicaragua. The post Plasencia El Año de la Cabra Slated for December appeared first on halfwheel",
       "category": [
         "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://media.cigarjournal.com/image-4.jpeg",
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Plasencia-El-Ano-de-la-Cabra-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/plasencia-el-ano-de-la-cabra-slated-for-december/482824/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/plasencia-el-ano-de-la-cabra-slated-for-december/482824/"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-el-a-o-de-la-cabra-slated-for-december"
+    },
+    {
+      "published_at": "2026-10-28T19:03:20+00:00",
+      "updated_at": "2026-10-28T19:03:20+00:00",
+      "title": "Saint Luis Rey Eiroa 30th Anniversary Maduro Announced",
+      "summary": "While retail members of the Tobacconists' Association of America are getting the first look at the cigars, they'll have to wait a few months to get them. Christian Eiroa calls this \"a richer, more intense expression that remains true to the character of Saint Luis Rey.\" The post Saint Luis Rey Eiroa 30th Anniversary Maduro Announced appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Saint-Luis-Rey-Eiroa-30th-Anniversary-Maduro-open-box-feature.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/saint-luis-rey-eiroa-30th-anniversary-maduro-announced/482802/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/saint-luis-rey-eiroa-30th-anniversary-maduro-announced/482802/"
+      },
+      "confirmed_by": [],
+      "id": "saint-luis-rey-eiroa-30th-anniversary-maduro-announced"
+    },
+    {
+      "published_at": "2026-10-28T15:45:20+00:00",
+      "updated_at": "2026-10-28T15:45:20+00:00",
+      "title": "CRAFT Maquette Scuttlebutt",
+      "summary": "Co-founder Skip Martin liked the blend of this cigar so much that he nearly doubled the planned production run before it was released. And no, that is not scuttlebutt. The post CRAFT Maquette Scuttlebutt appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/CRAFT-Maquette-Scuttlebutt-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/craft-maquette-scuttlebutt/482731/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/craft-maquette-scuttlebutt/482731/"
+      },
+      "confirmed_by": [],
+      "id": "craft-maquette-scuttlebutt"
+    },
+    {
+      "published_at": "2026-10-28T13:27:49+00:00",
+      "updated_at": "2026-10-28T13:27:49+00:00",
+      "title": "Havana Hidden Gems Featuring the “A” Collection",
+      "summary": "SPINK Hong Kong is honoured to present the “A” Collection, an exceptional single-owner cigar collection spanning Lots 1 to 234, at its Fine Cigar Auction on Thursday, 5 November 2026",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/havanna-gwm.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
+          "url": "https://www.cigarjournal.com/havana-hidden-gems-featuring-the-a-collection/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+        "url": "https://www.cigarjournal.com/havana-hidden-gems-featuring-the-a-collection/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUJTM05tNFFZZ01zUVp6cnRxV1RNN3NobWl5Z0ExYlhCS25ua24wOXF1eTRuemNhSVh3N21Wb1JTa2Y1S3JHVHJUVzVzSktqRmtwb3RGS1ZoMXNNQzhSX09ycklFZXF2TlRTN0Z2al9iU1YtMm5nZVJPRHdhbE5zNTQ1WUpjU2wzd3JhZUxwMGpZSE02OEZmcnJrby1Qdnc?oc=5"
-        }
-      ],
-      "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
+      "confirmed_by": [],
+      "id": "havana-hidden-gems-featuring-the-a-collection"
     },
     {
-      "published_at": "2026-10-28T09:26:32+00:00",
-      "updated_at": "2026-10-28T09:26:32+00:00",
+      "published_at": "2026-10-28T09:51:28+00:00",
+      "updated_at": "2026-10-28T09:51:28+00:00",
       "title": "Digging Deep: The Story Behind Casa De Gary’s Underground Humidor",
       "summary": "An inherited collection of cigars gave Garry a bold idea: to build a cellar designed as a humidor all by himself in 30 days, in order to properly store the heirlooms",
       "category": [
@@ -57,8 +140,31 @@
       "id": "digging-deep-the-story-behind-casa-de-gary-s-underground-humidor"
     },
     {
-      "published_at": "2026-10-28T09:06:28+00:00",
-      "updated_at": "2026-10-28T09:06:28+00:00",
+      "published_at": "2026-10-28T09:31:32+00:00",
+      "updated_at": "2026-10-28T09:31:32+00:00",
+      "title": "Casa Carrillo Announces the 2026 TAA Exclusive Cigar",
+      "summary": "Casa Carrillo proudly announces the 2026 Casa Carrillo TAA Exclusive, a limited-edition release created exclusively for members of the Tobacconists’ Association of America (TAA)",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image-4.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
+    },
+    {
+      "published_at": "2026-10-28T09:26:19+00:00",
+      "updated_at": "2026-10-28T09:26:19+00:00",
       "title": "Cigar Culture Summit Africa: Johannesburg Debut Brings the Global Cigar Community Together",
       "summary": "In less than two weeks, from 23 to 25 October, Johannesburg will be the focus of the cigar industry. Enthusiasts, experts, brands, and manufacturers will meet at the Cigar Culture Summit Africa 2026 at the Emperor Casino",
       "category": [
@@ -343,29 +449,6 @@
       "id": "registration-opens-for-la-gran-cata-honduras-new-cigar-festival"
     },
     {
-      "published_at": "2026-10-26T16:05:52+00:00",
-      "updated_at": "2026-10-26T16:05:52+00:00",
-      "title": "Diplomáticos Grandes (ER Alemania 2021)",
-      "summary": "Measuring 7 9/16 x 40, this vitola is known as a Laguito especial, which is the same size as the legendary Trinidad Fundadores. Only 4,800 boxes of 10 were released in 2024, for a total of 120,000 cigars. The post Diplomáticos Grandes (ER Alemania 2021) appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Diplomaticos-Grandes-Edicion-Regional-Alemania-2021-Feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/diplomaticos-grandes-er-alemania-2021-2/482587/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/diplomaticos-grandes-er-alemania-2021-2/482587/"
-      },
-      "confirmed_by": [],
-      "id": "diplom-ticos-grandes-er-alemania-2021"
-    },
-    {
       "published_at": "2026-10-26T13:20:24+00:00",
       "updated_at": "2026-10-26T13:20:24+00:00",
       "title": "A Tour of the Selected Tobacco Production Facility in Madrid Spain | Feature Story",
@@ -504,6 +587,29 @@
       "id": "el-oso-fumar-takes-take-378-matt-booth-scandinavian-tobacco-group"
     },
     {
+      "published_at": "2026-10-22T21:00:04+00:00",
+      "updated_at": "2026-10-22T21:00:04+00:00",
+      "title": "Arturo Fuente Vintage 1960s Black Pink Heading for Release | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnNCaWVMTkRDMXg3WXdXcGJtYXhYVTJVVll3cWtMSno5a2Q1eENzU0M0OXhGQ3V4NXBiOThNSGVEcE5wUUJBbU9MbWRpeTVBZXhxaENjaXJ5aTdOeDZDaHlRT2QzYTAzQ0xhME9DZjVGV3NsaFhtSkZvbGo4MDBCOVgyMjZxcUJIcW8yMnBWa0hkOXg1TDJXNnNZV0h4UWhxSmpLSmppUHk?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "arturo-fuente-vintage-1960s-black-pink-heading-for-release-cigar-news"
+    },
+    {
       "published_at": "2026-10-22T20:50:04+00:00",
       "updated_at": "2026-10-22T20:50:04+00:00",
       "title": "Cohiba Talismán to Become Regular Production Offering | Cigar News",
@@ -525,6 +631,29 @@
       },
       "confirmed_by": [],
       "id": "cohiba-talism-n-to-become-regular-production-offering-cigar-news"
+    },
+    {
+      "published_at": "2026-10-22T20:20:02+00:00",
+      "updated_at": "2026-10-22T20:20:02+00:00",
+      "title": "Toscanello Aroma Limoncello | Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDJEd3J4VFNCelRFQUxWMmwxbDZ3Q2tMT04zQVE0Tm1kY0JZUnVOZlBRNGdiVnhsVE1hMjJkUE0wN3FSdmNNZy10OXpsdy04M2J3N1RwbzZ3TjFudU1yaTdFZmZOSERSTklmMjkwcVdWWi1RZ2x1bnNFZTdMYW5pb1p3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDJEd3J4VFNCelRFQUxWMmwxbDZ3Q2tMT04zQVE0Tm1kY0JZUnVOZlBRNGdiVnhsVE1hMjJkUE0wN3FSdmNNZy10OXpsdy04M2J3N1RwbzZ3TjFudU1yaTdFZmZOSERSTklmMjkwcVdWWi1RZ2x1bnNFZTdMYW5pb1p3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "toscanello-aroma-limoncello-cigar-review"
     },
     {
       "published_at": "2026-10-22T08:26:10+00:00",
@@ -550,24 +679,24 @@
       "id": "three-leaf-the-development-of-cigar-culture-in-saudi-arabia"
     },
     {
-      "published_at": "2026-10-22T07:27:12+00:00",
-      "updated_at": "2026-10-22T07:27:12+00:00",
+      "published_at": "2026-10-22T07:53:32+00:00",
+      "updated_at": "2026-10-22T07:53:32+00:00",
       "title": "Where to Buy, What to Visit, What's On: A New Guide to Cigar Travel in Nicaragua",
       "summary": "Nicaragua has spent much of the past two decades near the top of the cigar world, and more passionados than ever are coming to see where their cigars are made. A new independent website, , makes planning that trip easier",
       "category": [
         "Nicaragua"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/1000554737.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua/"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2RSSFVxaUtxZ2VIVmtYWm1BeHlvUjNOeE5qeHVsSDJJbFVNa2ZIVU81VjVnai1BNnRkVU5vMGhTYnlSMFZNVXh0NHhGeEZ3SXRmNm03S1ZiazBJbXYtRXk3TzJRTFhCRExoYlNGVm1JR0NlaHhRZ2NKOGFKNi0yc1hNWEdTcDRVWHAxQlY4STlja3Z6Q21ielJnU0JmMTE3LWlmYldZUk9zUDQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua/"
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2RSSFVxaUtxZ2VIVmtYWm1BeHlvUjNOeE5qeHVsSDJJbFVNa2ZIVU81VjVnai1BNnRkVU5vMGhTYnlSMFZNVXh0NHhGeEZ3SXRmNm03S1ZiazBJbXYtRXk3TzJRTFhCRExoYlNGVm1JR0NlaHhRZ2NKOGFKNi0yc1hNWEdTcDRVWHAxQlY4STlja3Z6Q21ielJnU0JmMTE3LWlmYldZUk9zUDQ?oc=5"
       },
       "confirmed_by": [],
       "id": "where-to-buy-what-to-visit-what-s-on-a-new-guide-to-cigar-travel-in-nicaragua"
@@ -613,6 +742,10 @@
         {
           "name": "Cigar Journal",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclVyVzZpYUlpMVQ5cHREbGl2bzR4Sk5xcnByVUZuTWoybmJVS2VNYzNOWUNmOXIyd1p4VGsyM2VnUjktUDdxRXFseGNfV1RhSzRkUkxOTjFmeWVjTDVGUVZJUGFyLVYxYTM5UFZBb1NkaFFyS1hnQncxZUV1cTRka1p0S195YzdCQVJhSFhqZGExU3lmbVd1VzhuV2VlYzZqdmZfY3R2Tm1VbmpjMkdnaDFkM0w1eENSM1lqZEFGdF8?oc=5"
         }
       ],
       "main_source": {
@@ -623,32 +756,13 @@
         {
           "name": "Cigar Journal",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclVyVzZpYUlpMVQ5cHREbGl2bzR4Sk5xcnByVUZuTWoybmJVS2VNYzNOWUNmOXIyd1p4VGsyM2VnUjktUDdxRXFseGNfV1RhSzRkUkxOTjFmeWVjTDVGUVZJUGFyLVYxYTM5UFZBb1NkaFFyS1hnQncxZUV1cTRka1p0S195YzdCQVJhSFhqZGExU3lmbVd1VzhuV2VlYzZqdmZfY3R2Tm1VbmpjMkdnaDFkM0w1eENSM1lqZEFGdF8?oc=5"
         }
       ],
       "id": "plasencia-cigars-names-javier-carranza-new-u-s-vp-of-sales"
-    },
-    {
-      "published_at": "2026-10-20T15:14:57+00:00",
-      "updated_at": "2026-10-20T15:14:57+00:00",
-      "title": "Vandermarliere Cigar Family Celebrates its 100th Company Anniversary",
-      "summary": "With a two-day programme in Belgium, the Vandermarliere Cigar Family celebrated its 100th anniversary",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsOFplM3llQ2RhcU9zalVlMTJrbmFuRVJ1dXpCbUR0Vzc1eno0ZEc2UldFVW5UR1dQUy1OOU1DLXRialBDS2RYVjk1NTdqdzNycDd1WGUyblJxcUo4dTNXbnlLd1RybGRmeWxj?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsOFplM3llQ2RhcU9zalVlMTJrbmFuRVJ1dXpCbUR0Vzc1eno0ZEc2UldFVW5UR1dQUy1OOU1DLXRialBDS2RYVjk1NTdqdzNycDd1WGUyblJxcUo4dTNXbnlLd1RybGRmeWxj?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "vandermarliere-cigar-family-celebrates-its-100th-company-anniversary"
     },
     {
       "published_at": "2026-10-20T04:54:46+00:00",
