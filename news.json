@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28T21:38:16.696029+00:00",
+  "updated_at": "2026-10-29T11:29:26.992163+00:00",
   "items": [
     {
-      "published_at": "2026-10-28T21:30:53+00:00",
-      "updated_at": "2026-10-28T21:30:53+00:00",
+      "published_at": "2026-10-28T21:30:33+00:00",
+      "updated_at": "2026-10-28T21:30:33+00:00",
       "title": "Casa 1910 Mexigars Colorado (Toro) -| Cigar Review",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -166,7 +166,7 @@
       "published_at": "2026-10-28T09:26:19+00:00",
       "updated_at": "2026-10-28T09:26:19+00:00",
       "title": "Cigar Culture Summit Africa: Johannesburg Debut Brings the Global Cigar Community Together",
-      "summary": "In less than two weeks, from 23 to 25 October, Johannesburg will be the focus of the cigar industry. Enthusiasts, experts, brands, and manufacturers will meet at the Cigar Culture Summit Africa 2026 at the Emperor Casino",
+      "summary": "Visitors from 14 countries gathered in South Africa – next edition already in planning",
       "category": [
         "Nya utgåvor"
       ],
@@ -340,19 +340,28 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/10/Quai-dOrsay-Concordia-Edicion-Limitada-2026-6.jpeg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/quai-dorsay-concordia-unveiled-in-spain/482686/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFJ1UmszbW4wS09iNV9Fc0Vkd0tUTmRxdF9janZQRFVMaV96M1JWakNuWGx0Q1RzcG1KaTVRSkZYaWdTMzgzdXk0RHRjVTFxNHotMkRJSkpHZjVrcW1fX3JFV0pldkZfN2pXX1J6TEowckNjQ3BEcU1yU2pGT1NwUTJOZ2pzSzNhRjdPN2FaZnRuSlR2?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/quai-dorsay-concordia-unveiled-in-spain/482686/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFJ1UmszbW4wS09iNV9Fc0Vkd0tUTmRxdF9janZQRFVMaV96M1JWakNuWGx0Q1RzcG1KaTVRSkZYaWdTMzgzdXk0RHRjVTFxNHotMkRJSkpHZjVrcW1fX3JFV0pldkZfN2pXX1J6TEowckNjQ3BEcU1yU2pGT1NwUTJOZ2pzSzNhRjdPN2FaZnRuSlR2?oc=5"
+        }
+      ],
       "id": "quai-d-orsay-concordia-unveiled-in-spain"
     },
     {
@@ -656,24 +665,24 @@
       "id": "toscanello-aroma-limoncello-cigar-review"
     },
     {
-      "published_at": "2026-10-22T08:26:10+00:00",
-      "updated_at": "2026-10-22T08:26:10+00:00",
+      "published_at": "2026-10-22T09:08:35+00:00",
+      "updated_at": "2026-10-22T09:08:35+00:00",
       "title": "Three Leaf: The Development of Cigar Culture in Saudi Arabia",
       "summary": "With three boutiques in Riyadh and Jeddah and a fourth location planned, Three Leaf Cigar Boutique is part of Saudi Arabia’s developing cigar culture, combining retail, lounges and cultural events",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/3-leaf.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0tvYXhjMTVBWmZwUVFIS1hoUy1VaHRzckd0eE14dU9VRVFoNVZMcFU5UlM1ZVRkMmU3R204SGFWOU1ldTdjbDZMM0hKUlI5R25sdWk3bGp5RU0yM0M3TkdlNTR2VWltNVpIRUlxRlhOMnZLbU5uX2tVWE1zM0tzVDg1ajU?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0tvYXhjMTVBWmZwUVFIS1hoUy1VaHRzckd0eE14dU9VRVFoNVZMcFU5UlM1ZVRkMmU3R204SGFWOU1ldTdjbDZMM0hKUlI5R25sdWk3bGp5RU0yM0M3TkdlNTR2VWltNVpIRUlxRlhOMnZLbU5uX2tVWE1zM0tzVDg1ajU?oc=5"
       },
       "confirmed_by": [],
       "id": "three-leaf-the-development-of-cigar-culture-in-saudi-arabia"
@@ -742,10 +751,6 @@
         {
           "name": "Cigar Journal",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclVyVzZpYUlpMVQ5cHREbGl2bzR4Sk5xcnByVUZuTWoybmJVS2VNYzNOWUNmOXIyd1p4VGsyM2VnUjktUDdxRXFseGNfV1RhSzRkUkxOTjFmeWVjTDVGUVZJUGFyLVYxYTM5UFZBb1NkaFFyS1hnQncxZUV1cTRka1p0S195YzdCQVJhSFhqZGExU3lmbVd1VzhuV2VlYzZqdmZfY3R2Tm1VbmpjMkdnaDFkM0w1eENSM1lqZEFGdF8?oc=5"
         }
       ],
       "main_source": {
@@ -756,10 +761,6 @@
         {
           "name": "Cigar Journal",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclVyVzZpYUlpMVQ5cHREbGl2bzR4Sk5xcnByVUZuTWoybmJVS2VNYzNOWUNmOXIyd1p4VGsyM2VnUjktUDdxRXFseGNfV1RhSzRkUkxOTjFmeWVjTDVGUVZJUGFyLVYxYTM5UFZBb1NkaFFyS1hnQncxZUV1cTRka1p0S195YzdCQVJhSFhqZGExU3lmbVd1VzhuV2VlYzZqdmZfY3R2Tm1VbmpjMkdnaDFkM0w1eENSM1lqZEFGdF8?oc=5"
         }
       ],
       "id": "plasencia-cigars-names-javier-carranza-new-u-s-vp-of-sales"
@@ -786,29 +787,6 @@
       },
       "confirmed_by": [],
       "id": "crowned-heads-moose-kick-limited-edition-2026-announced-for-canada-cigar-news"
-    },
-    {
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "updated_at": "2026-10-19T07:00:00+00:00",
-      "title": "Tennessee Earns Another Smoky Victory In The Cigar Game",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmhJZlhTV3ZaWnc0RWhtZ28teS1kejVaRklBbmV5N1JaLU1Dd21lZEMtNW5pVkxkR0I2V1BfRUZpUlVuSkpUTzVqbzl5SFRpamxfeC1Fc3JJWTE5MkdwbXVVNDljaEdFckVoNENMRHJzRzRHY05aWm5YODBMcG5mQV9UOXhDRUJ2dGRpMGNtbnhqWTlVVEtpVnVB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "tennessee-earns-another-smoky-victory-in-the-cigar-game"
     }
   ]
 }
