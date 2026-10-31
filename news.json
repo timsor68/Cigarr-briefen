@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-31T16:03:45.150503+00:00",
+  "updated_at": "2026-10-31T20:26:46.896908+00:00",
   "items": [
+    {
+      "published_at": "2026-10-31T17:00:42+00:00",
+      "updated_at": "2026-10-31T17:00:42+00:00",
+      "title": "Stolen Throne Highway Drifter",
+      "summary": "Lee Marsh of Stolen Throne said that Highway Drifter was inspired by the \"outlaws,\" people and companies that do things their own way. It's the first cigar from the company to use a shaggy foot design. The post Stolen Throne Highway Drifter appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Stolen-Throne-Highway-Drifter-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/stolen-throne-highway-drifter/483048/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/stolen-throne-highway-drifter/483048/"
+      },
+      "confirmed_by": [],
+      "id": "stolen-throne-highway-drifter"
+    },
     {
       "published_at": "2026-10-31T13:00:56+00:00",
       "updated_at": "2026-10-31T13:00:56+00:00",
@@ -673,29 +696,6 @@
       "id": "toscanello-aroma-limoncello-cigar-review"
     },
     {
-      "published_at": "2026-10-22T09:08:35+00:00",
-      "updated_at": "2026-10-22T09:08:35+00:00",
-      "title": "Plasencia Cigars Promotes Javier Carranza to Vice President of Sales, United States",
-      "summary": "Plasencia Cigars proudly announces the promotion of Javier Carranza to Vice President of Sales, United States, recognizing his instrumental role in developing the company's U.S. business and his continued contributions to its growth",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzk2QXExOEgxSk1ZNzEwOU5HYjBIZVk0RHdFZTRic3g1eFRvNWdZckxPeEl6dXJFbFJncXJiN1FjTDFaSjVJLTNKRlFzSmJuSUVBeXZBcWdlM1RCaUVoR0RKRTVyY0JDTjd0X2ZaSUJldnczM25RSnpFTDliSVk3OVI2OFJfYjloM2RTc2pjbjFtXzJ0NmE3UU1wd0dIS0l2aGpTbnk2V1Z0bmU0UmhmRmdB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states"
-    },
-    {
       "published_at": "2026-10-22T08:26:10+00:00",
       "updated_at": "2026-10-22T08:26:10+00:00",
       "title": "Three Leaf: The Development of Cigar Culture in Saudi Arabia",
@@ -717,6 +717,29 @@
       },
       "confirmed_by": [],
       "id": "three-leaf-the-development-of-cigar-culture-in-saudi-arabia"
+    },
+    {
+      "published_at": "2026-10-22T07:38:25+00:00",
+      "updated_at": "2026-10-22T07:38:25+00:00",
+      "title": "Plasencia Cigars Promotes Javier Carranza to Vice President of Sales, United States",
+      "summary": "Plasencia Cigars proudly announces the promotion of Javier Carranza to Vice President of Sales, United States, recognizing his instrumental role in developing the company's U.S. business and his continued contributions to its growth",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image.png",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states/"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states"
     },
     {
       "published_at": "2026-10-21T21:04:58+00:00",
