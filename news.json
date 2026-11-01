@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:26:46.896908+00:00",
+  "updated_at": "2026-11-01T11:48:41.036627+00:00",
   "items": [
     {
       "published_at": "2026-10-31T17:00:42+00:00",
@@ -78,19 +78,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://halfwheel.com/wp-content/uploads/2026/10/Perez-Carrillo-Pledge-of-Allegiance-Rockets-2026-Blue-2.jpg",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-blue/482787/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-blue/482787/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
+        }
+      ],
       "id": "perez-carrillo-pledge-of-allegiance-rockets-2026-blue"
     },
     {
@@ -534,30 +543,6 @@
       "id": "smoke-friendly-q-cigar-room-edmonton-alberta-canada"
     },
     {
-      "published_at": "2026-10-26T20:06:59+00:00",
-      "updated_at": "2026-10-26T20:06:59+00:00",
-      "title": "Registration Opens for La Gran Cata, Honduras’ New Cigar Festival",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Honduras",
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVAycllGLUVUeVBuRndzbUs3X3J2cDZkU1M0ZnA1eXItRExQaHB2UUJjclBlcDdvWVJseEx5Tk9HUjVpV3VZYVYtbUtobm9SR2lsR0lmb010WGdWOG5VQkNTeG4tNnVXVnFOcGY5RVRrMzF1bXJNd1ItWnFhZlpxM0ZuRmNwU1VmZ0dJY1JkZUNCVGxrUWtGdA?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVAycllGLUVUeVBuRndzbUs3X3J2cDZkU1M0ZnA1eXItRExQaHB2UUJjclBlcDdvWVJseEx5Tk9HUjVpV3VZYVYtbUtobm9SR2lsR0lmb010WGdWOG5VQkNTeG4tNnVXVnFOcGY5RVRrMzF1bXJNd1ItWnFhZlpxM0ZuRmNwU1VmZ0dJY1JkZUNCVGxrUWtGdA?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "registration-opens-for-la-gran-cata-honduras-new-cigar-festival"
-    },
-    {
       "published_at": "2026-10-26T13:20:24+00:00",
       "updated_at": "2026-10-26T13:20:24+00:00",
       "title": "A Tour of the Selected Tobacco Production Facility in Madrid Spain | Feature Story",
@@ -694,75 +679,6 @@
       },
       "confirmed_by": [],
       "id": "toscanello-aroma-limoncello-cigar-review"
-    },
-    {
-      "published_at": "2026-10-22T08:26:10+00:00",
-      "updated_at": "2026-10-22T08:26:10+00:00",
-      "title": "Three Leaf: The Development of Cigar Culture in Saudi Arabia",
-      "summary": "With three boutiques in Riyadh and Jeddah and a fourth location planned, Three Leaf Cigar Boutique is part of Saudi Arabia’s developing cigar culture, combining retail, lounges and cultural events",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/3-leaf.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/three-leaf-where-saudi-cigar-culture-comes-alive/"
-      },
-      "confirmed_by": [],
-      "id": "three-leaf-the-development-of-cigar-culture-in-saudi-arabia"
-    },
-    {
-      "published_at": "2026-10-22T07:38:25+00:00",
-      "updated_at": "2026-10-22T07:38:25+00:00",
-      "title": "Plasencia Cigars Promotes Javier Carranza to Vice President of Sales, United States",
-      "summary": "Plasencia Cigars proudly announces the promotion of Javier Carranza to Vice President of Sales, United States, recognizing his instrumental role in developing the company's U.S. business and his continued contributions to its growth",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states/"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-cigars-promotes-javier-carranza-to-vice-president-of-sales-united-states"
-    },
-    {
-      "published_at": "2026-10-21T21:04:58+00:00",
-      "updated_at": "2026-10-21T21:04:58+00:00",
-      "title": "Smoke-Dogg Cigars to Distribute Kingmakers Cigars | CIgar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW5rSHdsNFVmNW5JVkNWTjF4cTBzYURudThpWk1IU2g2TzQzR1paVHEtN1Z1NzZsX3Z5VnNZc0lOWTZkUGhoX3NrbTFzRUNDRm5jVkltSUdkdHRGck1LZ0w0eXBfSWFzeHNmb05nQVdKRXQ0MDN2c0N6NDVLeFc1WTEzUktZREw2NTc4Z19JSi14Zy1adEdkY2h6TEU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW5rSHdsNFVmNW5JVkNWTjF4cTBzYURudThpWk1IU2g2TzQzR1paVHEtN1Z1NzZsX3Z5VnNZc0lOWTZkUGhoX3NrbTFzRUNDRm5jVkltSUdkdHRGck1LZ0w0eXBfSWFzeHNmb05nQVdKRXQ0MDN2c0N6NDVLeFc1WTEzUktZREw2NTc4Z19JSi14Zy1adEdkY2h6TEU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "smoke-dogg-cigars-to-distribute-kingmakers-cigars-cigar-news"
     }
   ]
 }
