@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:51:51.866119+00:00",
+  "updated_at": "2026-11-03T12:45:03.211103+00:00",
   "items": [
     {
       "published_at": "2026-11-02T22:30:54+00:00",
@@ -119,38 +119,6 @@
     {
       "published_at": "2026-11-02T10:35:20+00:00",
       "updated_at": "2026-11-02T10:35:20+00:00",
-      "title": "Selected Tobacco Celebrates Grand Opening in Madrid",
-      "summary": "On October 10 and 11, 2026 guests from across the premium cigar industry gathered in Madrid to celebrate the grand opening of Selected Tobacco's new five-story facility",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVAtT1ZHdk5scjNKYkZvYkFWbTJ1eDl2NW4tM1NQaWFSczVVMlhyamp2TWdmVlZsYWpOR0wyaVU0aXlEVjgxenYtT3EwNUJ6bXMyTERGbGpEYlM2LXVieDZRcTdjSUVKclQ5LXpXUDJ2QjdiZlhhck1vSnd3YXRDRmo0Zzl1b192N3k3YlhfcHRrVkpUZzQ1cFhuRGMxcjdBUEV2QmFzM04tXzlHQ0VaRXVJQlREeFU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVAtT1ZHdk5scjNKYkZvYkFWbTJ1eDl2NW4tM1NQaWFSczVVMlhyamp2TWdmVlZsYWpOR0wyaVU0aXlEVjgxenYtT3EwNUJ6bXMyTERGbGpEYlM2LXVieDZRcTdjSUVKclQ5LXpXUDJ2QjdiZlhhck1vSnd3YXRDRmo0Zzl1b192N3k3YlhfcHRrVkpUZzQ1cFhuRGMxcjdBUEV2QmFzM04tXzlHQ0VaRXVJQlREeFU?oc=5"
-        }
-      ],
-      "id": "selected-tobacco-celebrates-grand-opening-in-madrid"
-    },
-    {
-      "published_at": "2026-11-02T10:35:20+00:00",
-      "updated_at": "2026-11-02T10:35:20+00:00",
       "title": "Saint Luis Rey and Christian Eiroa Introduce 30th Anniversary Maduro",
       "summary": "Altadis U.S.A. introduces Saint Luis Rey Eiroa 30th Anniversary Maduro",
       "category": [
@@ -193,6 +161,38 @@
       },
       "confirmed_by": [],
       "id": "mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019"
+    },
+    {
+      "published_at": "2026-11-01T22:22:16+00:00",
+      "updated_at": "2026-11-01T22:22:16+00:00",
+      "title": "Selected Tobacco Hosts Gala Event at Factory Grand Opening | Feature Story",
+      "summary": "On October 10 and 11, 2026 guests from across the premium cigar industry gathered in Madrid to celebrate the grand opening of Selected Tobacco's new five-story facility",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWYyQ0VWLVlnSlVySVZ6S2w5RzdCNHRmTVBmVlpVRU9GRFFJMVhfSnJMTDNWdzFYdDNJYzNWNk9rSEVic1hXYTdnVUhZZUxlT0JaVU1aMzZPSTRBa1RWWGxpSEdyX1VzUHFoQkZtdHNIZjJhMzh3NDZLcVVkNjFBX0F3RVNKT2pNMi10elpVZGtEeHAtSURhWnkyclUxeWY0VVFZczk0U21oR00?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWYyQ0VWLVlnSlVySVZ6S2w5RzdCNHRmTVBmVlpVRU9GRFFJMVhfSnJMTDNWdzFYdDNJYzNWNk9rSEVic1hXYTdnVUhZZUxlT0JaVU1aMzZPSTRBa1RWWGxpSEdyX1VzUHFoQkZtdHNIZjJhMzh3NDZLcVVkNjFBX0F3RVNKT2pNMi10elpVZGtEeHAtSURhWnkyclUxeWY0VVFZczk0U21oR00?oc=5"
+        }
+      ],
+      "id": "selected-tobacco-hosts-gala-event-at-factory-grand-opening-feature-story"
     },
     {
       "published_at": "2026-11-01T19:12:01+00:00",
@@ -310,38 +310,6 @@
       "id": "cigar-industry-report-edition-713-10-31-26"
     },
     {
-      "published_at": "2026-10-30T23:30:00+00:00",
-      "updated_at": "2026-10-30T23:30:00+00:00",
-      "title": "Perez-Carrillo Pledge of Allegiance Rockets 2026 Blue",
-      "summary": "In 2024, Casa Carrillo released 248 boxes of the Perez-Carrillo Pledge of Allegiance Salomón. Last year, there 249 boxes of a perfecto, and this year, there were 250 boxes of perfectos, plural. The post Perez-Carrillo Pledge of Allegiance Rockets 2026 Blue appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Perez-Carrillo-Pledge-of-Allegiance-Rockets-2026-Blue-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-blue/482787/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-blue/482787/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
-        }
-      ],
-      "id": "perez-carrillo-pledge-of-allegiance-rockets-2026-blue"
-    },
-    {
       "published_at": "2026-10-30T21:16:11+00:00",
       "updated_at": "2026-10-30T21:16:11+00:00",
       "title": "Cayman Broadside Toro BXP – Cigar Review",
@@ -454,6 +422,29 @@
     {
       "published_at": "2026-10-29T00:15:47+00:00",
       "updated_at": "2026-10-29T00:15:47+00:00",
+      "title": "Rocky Patel America 250 Arrives at Retailers | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObkVhaWFOUnl6VTJ2cHNsZnpNNFI3blkyOHVESGZYX2JhWHNXVXRuRHc0eExPLTVBSjBJd1czYVU3VUQwLVRTRFVyb1piekFkOGswRlNlb1NRVlZvY3RCMF94ZlF1OGtrUWdMMW9nTHM3TE9LUzdRRm1ncGEtdUJETHJFLUJyeFVIZEozSHhycG9veXZaSlE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObkVhaWFOUnl6VTJ2cHNsZnpNNFI3blkyOHVESGZYX2JhWHNXVXRuRHc0eExPLTVBSjBJd1czYVU3VUQwLVRTRFVyb1piekFkOGswRlNlb1NRVlZvY3RCMF94ZlF1OGtrUWdMMW9nTHM3TE9LUzdRRm1ncGEtdUJETHJFLUJyeFVIZEozSHhycG9veXZaSlE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "rocky-patel-america-250-arrives-at-retailers-cigar-news"
+    },
+    {
+      "published_at": "2026-10-29T00:15:47+00:00",
+      "updated_at": "2026-10-29T00:15:47+00:00",
       "title": "Quai D’Orsay Concordia Edición Limitada 2026 | Cigar News",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -528,19 +519,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://media.cigarjournal.com/image-4.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
+        }
+      ],
       "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
     },
     {
@@ -657,52 +657,6 @@
       },
       "confirmed_by": [],
       "id": "arturo-fuente-casa-carrillo-padr-n-and-rocky-patel-join-world-cigar-show-dubai-lineup"
-    },
-    {
-      "published_at": "2026-10-24T19:40:10+00:00",
-      "updated_at": "2026-10-24T19:40:10+00:00",
-      "title": "CAO Flathead Speed Shop Habano V654 Crankshaft – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDBpeW9hZ2c1a3JRdEVTRjhFWmY3b1FiN0lGQ3hZNEtBbTVuWlk1N3JCbkhKcDN3OVBQWW42RFlUOE5ObmhVSmhOQkJlWFdGVGx4eUdJM2RZbFM0RkhPYjFwbUNUUjU2S3dPS2xwVjJvcjdXY1FueG9LbW9SZS0xNF9raGV2UHhYdmpGVUotV2FEbjRQdzRYQ200aw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDBpeW9hZ2c1a3JRdEVTRjhFWmY3b1FiN0lGQ3hZNEtBbTVuWlk1N3JCbkhKcDN3OVBQWW42RFlUOE5ObmhVSmhOQkJlWFdGVGx4eUdJM2RZbFM0RkhPYjFwbUNUUjU2S3dPS2xwVjJvcjdXY1FueG9LbW9SZS0xNF9raGV2UHhYdmpGVUotV2FEbjRQdzRYQ200aw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cao-flathead-speed-shop-habano-v654-crankshaft-cigar-review"
-    },
-    {
-      "published_at": "2026-10-24T05:35:10+00:00",
-      "updated_at": "2026-10-24T05:35:10+00:00",
-      "title": "El Oso Fumar Takes Take #378: Matt Booth, Scandinavian Tobacco Group",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGZmTENtZXdMSU9jQjZ0d0pmMzNhQk1RYnJOZGdkSjR5VjhQaFE5NThQQVQzX1JuckVfNGYzTW5mTGRyQ3YzRVpwb3EwOTdyZ2dnU0pUSFpVLTMzYUtUSHBnYXotM0JrWWhsTFp6RnBmYjRMbXRkNUpsUGlrUkRxd0V6V2dZTTJael80OXJVNVlpVFpYLWliT1R1YllLWS1PNHA0?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGZmTENtZXdMSU9jQjZ0d0pmMzNhQk1RYnJOZGdkSjR5VjhQaFE5NThQQVQzX1JuckVfNGYzTW5mTGRyQ3YzRVpwb3EwOTdyZ2dnU0pUSFpVLTMzYUtUSHBnYXotM0JrWWhsTFp6RnBmYjRMbXRkNUpsUGlrUkRxd0V6V2dZTTJael80OXJVNVlpVFpYLWliT1R1YllLWS1PNHA0?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "el-oso-fumar-takes-take-378-matt-booth-scandinavian-tobacco-group"
     }
   ]
 }
