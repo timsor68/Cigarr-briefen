@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-11-03T22:16:46.036359+00:00",
+  "updated_at": "2026-11-04T12:57:27.853877+00:00",
   "items": [
+    {
+      "published_at": "2026-11-04T12:42:28+00:00",
+      "updated_at": "2026-11-04T12:42:28+00:00",
+      "title": "La Casa Del Habano Berlin am Osthafen Unveils Upcoming Event Schedule",
+      "summary": "As the temperature drops, La Casa del Habano Berlin opens its doors for a series of autumn and winter evenings dedicated to Cuban cigars",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule"
+    },
+    {
+      "published_at": "2026-11-04T08:41:42+00:00",
+      "updated_at": "2026-11-04T08:41:42+00:00",
+      "title": "Marko Bilić Appointed as Global Brand Ambassador for Nobdesign",
+      "summary": "Marko Bilić, Founder of the Cigar Smoking World Championship (CSWC) and President of Club Mareva, has been officially appointed as the Global Brand Ambassador for Nobdesign",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Unknown.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/marko-bilic-appointed-as-global-brand-ambassador-for-nobdesign/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/marko-bilic-appointed-as-global-brand-ambassador-for-nobdesign/"
+      },
+      "confirmed_by": [],
+      "id": "marko-bili-appointed-as-global-brand-ambassador-for-nobdesign"
+    },
+    {
+      "published_at": "2026-11-03T19:46:07+00:00",
+      "updated_at": "2026-11-03T19:46:07+00:00",
+      "title": "Steve Saka Teases Takumi as Possible PCA 2027 Release for Dunbarton Tobacco & Trust",
+      "summary": "Dunbarton Tobacco & Trust is releasing a new store exclusive for Cigars Daily in Phoenix, Ariz. That cigar was a blend iteration developed on the way to the creation Takumi, a new, limited production cigar that we could see next March. The post Steve Saka Teases Takumi as Possible PCA 2027 Release for Dunbarton Tobacco & Trust appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor",
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGhJaVdJLUNOOW9teExsMXBWUnZ5R0NfSDAyYzVjcDdNTlZvVUE0dmZRY2xrN0VKd1p2NjFPWkRXd0hiaXlpRy1sNUtWYUNxdExTanVIbF81NVdNbEZNWGNQWnpSREV2V0RhVEZVbk1rdHNkRG0tOG84TEtUNzFPVWFhU3c4T0ZBVUp3?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGhJaVdJLUNOOW9teExsMXBWUnZ5R0NfSDAyYzVjcDdNTlZvVUE0dmZRY2xrN0VKd1p2NjFPWkRXd0hiaXlpRy1sNUtWYUNxdExTanVIbF81NVdNbEZNWGNQWnpSREV2V0RhVEZVbk1rdHNkRG0tOG84TEtUNzFPVWFhU3c4T0ZBVUp3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "steve-saka-teases-takumi-as-possible-pca-2027-release-for-dunbarton-tobacco-trust"
+    },
     {
       "published_at": "2026-11-03T18:24:36+00:00",
       "updated_at": "2026-11-03T18:24:36+00:00",
@@ -64,7 +134,7 @@
         },
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/selected-tobacco-introduces-robusto-edition-set/"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TNW04MWxSU3dKQ0FoZkszcDVGOG5pa3l5M2ZuTHZHWVBURTE3Um5hdWFhdmQwUmZGczh5NWw1eGFvaXNMa1hoa29hS0ktT0UxS0w0aGExNG5OcDRXMWluNzJub1Y4VkI4emV1RkN0V1ZpSmNtOGJN?oc=5"
         },
         {
           "name": "Cigar Coop",
@@ -78,7 +148,7 @@
       "confirmed_by": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/selected-tobacco-introduces-robusto-edition-set/"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TNW04MWxSU3dKQ0FoZkszcDVGOG5pa3l5M2ZuTHZHWVBURTE3Um5hdWFhdmQwUmZGczh5NWw1eGFvaXNMa1hoa29hS0ktT0UxS0w0aGExNG5OcDRXMWluNzJub1Y4VkI4emV1RkN0V1ZpSmNtOGJN?oc=5"
         },
         {
           "name": "Cigar Coop",
@@ -86,30 +156,6 @@
         }
       ],
       "id": "selected-tobacco-announces-petit-edition-set-with-new-bandolero-nelson-vitolas"
-    },
-    {
-      "published_at": "2026-11-03T13:00:19+00:00",
-      "updated_at": "2026-11-03T13:00:19+00:00",
-      "title": "Steve Saka Teases Takumi as Possible PCA 2027 Release for Dunbarton Tobacco & Trust",
-      "summary": "Dunbarton Tobacco & Trust is releasing a new store exclusive for Cigars Daily in Phoenix, Ariz. That cigar was a blend iteration developed on the way to the creation Takumi, a new, limited production cigar that we could see next March. The post Steve Saka Teases Takumi as Possible PCA 2027 Release for Dunbarton Tobacco & Trust appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor",
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Dunbaton-Tobacco-Trust-Shokai-Bushido-feature.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/steve-saka-teases-takumi-as-possible-pca-2027-release/483494/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/steve-saka-teases-takumi-as-possible-pca-2027-release/483494/"
-      },
-      "confirmed_by": [],
-      "id": "steve-saka-teases-takumi-as-possible-pca-2027-release-for-dunbarton-tobacco-trust"
     },
     {
       "published_at": "2026-11-02T22:30:54+00:00",
@@ -206,29 +252,6 @@
     {
       "published_at": "2026-11-02T10:35:20+00:00",
       "updated_at": "2026-11-02T10:35:20+00:00",
-      "title": "Plasencia Cigars Unveils El Año De La Cabra, The 2027 Limited-Edition Chinese Zodiac Cigar",
-      "summary": "Plasencia Cigars announces El Año de la Cabra (Year of the Goat), the seventh annual release celebrating Chinese New Year",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3hGcURYWS1SMThFZTJIYXpZZUNGWmljc2IzSzhLbmhYbWRmWmY3cGgtYkQ2UklPZk9GemdZdkpxNWJRS09jVExnS0VCZFR1Q2RqRS11UjJ5cVM4dXAtRVV1cV9ySXJjVHdma2VfRXByQmFBQ1ZFZlNqM0dHLTZXR2JoajZaUHpITXRoTlpTeTVoYUN3NlN1MU1DTmxwekJlOUpWaXNkcHF0aUhiVHluS3dDREQzNXZzNlJF?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3hGcURYWS1SMThFZTJIYXpZZUNGWmljc2IzSzhLbmhYbWRmWmY3cGgtYkQ2UklPZk9GemdZdkpxNWJRS09jVExnS0VCZFR1Q2RqRS11UjJ5cVM4dXAtRVV1cV9ySXJjVHdma2VfRXByQmFBQ1ZFZlNqM0dHLTZXR2JoajZaUHpITXRoTlpTeTVoYUN3NlN1MU1DTmxwekJlOUpWaXNkcHF0aUhiVHluS3dDREQzNXZzNlJF?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-cigars-unveils-el-a-o-de-la-cabra-the-2027-limited-edition-chinese-zodiac-cigar"
-    },
-    {
-      "published_at": "2026-11-02T10:35:20+00:00",
-      "updated_at": "2026-11-02T10:35:20+00:00",
       "title": "Selected Tobacco Celebrates Grand Opening in Madrid",
       "summary": "On October 10 and 11, 2026 guests from across the premium cigar industry gathered in Madrid to celebrate the grand opening of Selected Tobacco's new five-story facility",
       "category": [
@@ -303,6 +326,29 @@
       },
       "confirmed_by": [],
       "id": "mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019"
+    },
+    {
+      "published_at": "2026-11-02T09:39:36+00:00",
+      "updated_at": "2026-11-02T09:39:36+00:00",
+      "title": "Plasencia Cigars Unveils El Año De La Cabra, The 2027 Limited-Edition Chinese Zodiac Cigar",
+      "summary": "Plasencia Cigars announces El Año de la Cabra (Year of the Goat), the seventh annual release celebrating Chinese New Year",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/17457ae5eef22615e7b7b3b36bbf654b.png",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-el-ano-de-la-cabra-the-2027-limited-edition-chinese-zodiac-cigar/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/plasencia-cigars-unveils-el-ano-de-la-cabra-the-2027-limited-edition-chinese-zodiac-cigar/"
+      },
+      "confirmed_by": [],
+      "id": "plasencia-cigars-unveils-el-a-o-de-la-cabra-the-2027-limited-edition-chinese-zodiac-cigar"
     },
     {
       "published_at": "2026-10-31T12:06:15+00:00",
@@ -414,30 +460,6 @@
       "id": "marvin-shanken-cigar-aficionado-founder-1943-2026"
     },
     {
-      "published_at": "2026-10-29T21:40:55+00:00",
-      "updated_at": "2026-10-29T21:40:55+00:00",
-      "title": "Joya de Nicaragua Clásico Original Green Room Selection – Agile Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nicaragua",
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDRwRkdkOVNaLVdaZ2hMaTdvNzl6MG1fb1ZUczdNaXBLWjUzTEVYbHBtdEUtcWRXUXN0OVlMZzk4eUc0WjhHSUtvWU9MdjVUOVZMbTk4S29TcTZYb1JxV01DTFRLY0FTaGQ3TVhfS3Q5ZUtvVDdQQVZISXJTYlViOTNiQmxGWWZNYjFGT1NkNE1kZ2ZZdXRNVUNzdUV3VzhGa3hZRG1xN1FGV0ZjQW5z?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDRwRkdkOVNaLVdaZ2hMaTdvNzl6MG1fb1ZUczdNaXBLWjUzTEVYbHBtdEUtcWRXUXN0OVlMZzk4eUc0WjhHSUtvWU9MdjVUOVZMbTk4S29TcTZYb1JxV01DTFRLY0FTaGQ3TVhfS3Q5ZUtvVDdQQVZISXJTYlViOTNiQmxGWWZNYjFGT1NkNE1kZ2ZZdXRNVUNzdUV3VzhGa3hZRG1xN1FGV0ZjQW5z?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "joya-de-nicaragua-cl-sico-original-green-room-selection-agile-cigar-review"
-    },
-    {
       "published_at": "2026-10-29T00:15:47+00:00",
       "updated_at": "2026-10-29T00:15:47+00:00",
       "title": "Quai D’Orsay Concordia Edición Limitada 2026 | Cigar News",
@@ -484,6 +506,29 @@
       "id": "havana-hidden-gems-featuring-the-a-collection"
     },
     {
+      "published_at": "2026-10-28T09:51:28+00:00",
+      "updated_at": "2026-10-28T09:51:28+00:00",
+      "title": "Digging Deep: The Story Behind Casa De Gary’s Underground Humidor",
+      "summary": "An inherited collection of cigars gave Garry a bold idea: to build a cellar designed as a humidor all by himself in 30 days, in order to properly store the heirlooms",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmRRZHdReHhldXdoNXY4T1JHY0M0anZ6emFqTWpoQldHOXdaNGdjUGoyVFRUSTFXRmJ3dUJwTEtuTzF5QmFodmwzV1NqX3dIQW1XSDJOalVYYWl1a2dqOXlEZUNNT3hlT09WMGp5cUE5Q0hLeEdMYWVDUnFkRWt6UWJ1LU9udXpxS01CQkpNekJwZUNpU2MyQ0dR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmRRZHdReHhldXdoNXY4T1JHY0M0anZ6emFqTWpoQldHOXdaNGdjUGoyVFRUSTFXRmJ3dUJwTEtuTzF5QmFodmwzV1NqX3dIQW1XSDJOalVYYWl1a2dqOXlEZUNNT3hlT09WMGp5cUE5Q0hLeEdMYWVDUnFkRWt6UWJ1LU9udXpxS01CQkpNekJwZUNpU2MyQ0dR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "digging-deep-the-story-behind-casa-de-gary-s-underground-humidor"
+    },
+    {
       "published_at": "2026-10-28T09:31:32+00:00",
       "updated_at": "2026-10-28T09:31:32+00:00",
       "title": "Casa Carrillo Announces the 2026 TAA Exclusive Cigar",
@@ -491,19 +536,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://media.cigarjournal.com/image-4.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
+        }
+      ],
       "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
     },
     {
@@ -528,29 +582,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-culture-summit-africa-johannesburg-debut-brings-the-global-cigar-community-together"
-    },
-    {
-      "published_at": "2026-10-28T09:08:33+00:00",
-      "updated_at": "2026-10-28T09:08:33+00:00",
-      "title": "Digging Deep: The Story Behind Casa De Gary’s Underground Humidor",
-      "summary": "An inherited collection of cigars gave Garry a bold idea: to build a cellar designed as a humidor all by himself in 30 days, in order to properly store the heirlooms",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/gary.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/digging-deep-the-story-behind-casa-de-gary-s-underground-humidor/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/digging-deep-the-story-behind-casa-de-gary-s-underground-humidor/"
-      },
-      "confirmed_by": [],
-      "id": "digging-deep-the-story-behind-casa-de-gary-s-underground-humidor"
     },
     {
       "published_at": "2026-10-28T08:58:43+00:00",
@@ -597,52 +628,6 @@
       },
       "confirmed_by": [],
       "id": "buena-vista-toro-sampler"
-    },
-    {
-      "published_at": "2026-10-27T10:27:42+00:00",
-      "updated_at": "2026-10-27T10:27:42+00:00",
-      "title": "Arturo Fuente, Casa Carrillo, Padrón and Rocky Patel Join World Cigar Show Dubai Lineup",
-      "summary": "The Premium Cigar Association (PCA) is encouraging premium cigar retailers, manufacturers, distributors and hospitality professionals to make plans for World Cigar Show, returning to the Dubai World Trade Centre November 10–11, 2026",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVdHd1pEMG9RM0V2dXowVm1HLVRaTERITTQxQThSOEVjRU9MWnNnRTZjUGJKbmxldDB1STdKMS1ENFdWbzdkVDBPbi1vaUhqbDN1ZVZ2TXdlS0lkOWxQdVBZWG1XS1F1emhKSUx0ZDlQYVJRQzRlR29iMGV2QkxjS3YxWlJlczdORGpyd0VOZVd5c2EtV0M3UzY3bFcwVEVzLU44TW8teUFmZkNnZkQwMXZoYTViZw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVdHd1pEMG9RM0V2dXowVm1HLVRaTERITTQxQThSOEVjRU9MWnNnRTZjUGJKbmxldDB1STdKMS1ENFdWbzdkVDBPbi1vaUhqbDN1ZVZ2TXdlS0lkOWxQdVBZWG1XS1F1emhKSUx0ZDlQYVJRQzRlR29iMGV2QkxjS3YxWlJlczdORGpyd0VOZVd5c2EtV0M3UzY3bFcwVEVzLU44TW8teUFmZkNnZkQwMXZoYTViZw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "arturo-fuente-casa-carrillo-padr-n-and-rocky-patel-join-world-cigar-show-dubai-lineup"
-    },
-    {
-      "published_at": "2026-10-27T10:27:42+00:00",
-      "updated_at": "2026-10-27T10:27:42+00:00",
-      "title": "Smoke Friendly: Q Cigar Room, Edmonton, Alberta, Canada",
-      "summary": "In Enoch, Alberta, Q Cigar Room offers Canadian cigar enthusiasts a rare refuge from the winter cold, pairing fine cigars, thoughtfully crafted cocktails and fireside comfort",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0kyTGw4ODFMVFA0VGJLdnFQRUtXblcwOC1YSi04c292ZldYSFZKLTBxcGExd1VLcmNxUEdqVUhvZUUtb2N4ZmQtd0dLY0JfcXhqNl9zQkNBUy1fakd3VkpRZ3dPYXVCS2phYUJNS0k1LWNOV21IdmVLeTdlZ3dJMGxPVDJrRURQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0kyTGw4ODFMVFA0VGJLdnFQRUtXblcwOC1YSi04c292ZldYSFZKLTBxcGExd1VLcmNxUEdqVUhvZUUtb2N4ZmQtd0dLY0JfcXhqNl9zQkNBUy1fakd3VkpRZ3dPYXVCS2phYUJNS0k1LWNOV21IdmVLeTdlZ3dJMGxPVDJrRURQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "smoke-friendly-q-cigar-room-edmonton-alberta-canada"
     }
   ]
 }
