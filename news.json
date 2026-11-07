@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-06T22:05:27.898331+00:00",
+  "updated_at": "2026-11-07T11:41:41.230705+00:00",
   "items": [
+    {
+      "published_at": "2026-11-06T22:45:08+00:00",
+      "updated_at": "2026-11-06T22:45:08+00:00",
+      "title": "S.T. Dupont Slim Cigar Cutter",
+      "summary": "Dupont introduced a new version of the backplate style double guillotine cutter. As it turns out, it solved all my problems with the backplate. Dupont Slim Cigar Cutter appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/S.T.-Dupont-Slim-Cigar-Cutter-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/s-t-dupont-slim-cigar-cutter/483255/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/s-t-dupont-slim-cigar-cutter/483255/"
+      },
+      "confirmed_by": [],
+      "id": "s-t-dupont-slim-cigar-cutter"
+    },
     {
       "published_at": "2026-11-06T21:30:16+00:00",
       "updated_at": "2026-11-06T21:30:16+00:00",
@@ -209,29 +232,6 @@
       "id": "a-s-p-says-super-el-ni-o-has-destroyed-more-than-half-of-its-2026-ecuador-crop"
     },
     {
-      "published_at": "2026-11-04T19:07:55+00:00",
-      "updated_at": "2026-11-04T19:07:55+00:00",
-      "title": "Perez-Carrillo Pledge of Allegiance Rockets 2026 Red",
-      "summary": "For the past three years, Casa Carrillo has celebrated the United States' anniversary with a collection called Pledge of Allegiance. For the 250th anniversary, the company released three cigars, two of which are figurados that the company calls Rockets and which come in a humidor-style box. The post Perez-Carrillo Pledge of Allegiance Rockets 2026 Red appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Perez-Carrillo-Pledge-of-Allegiance-2026-Rockets-Red-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-red/483223/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/perez-carrillo-pledge-of-allegiance-rockets-2026-red/483223/"
-      },
-      "confirmed_by": [],
-      "id": "perez-carrillo-pledge-of-allegiance-rockets-2026-red"
-    },
-    {
       "published_at": "2026-11-04T12:28:44+00:00",
       "updated_at": "2026-11-04T12:28:44+00:00",
       "title": "La Casa Del Habano Berlin am Osthafen Unveils Upcoming Event Schedule",
@@ -258,7 +258,7 @@
       "published_at": "2026-11-04T09:47:59+00:00",
       "updated_at": "2026-11-04T09:47:59+00:00",
       "title": "Selected Tobacco Unveils Petit Edition",
-      "summary": "The Robusto Edition Set is an exclusive collector’s release honoring the guests of the Selected Tobacco facility grand opening in Madrid on the weekend of October 10th and 11th",
+      "summary": "The Selected Tobacco Petit Edition is an exclusive five-cigar set celebrating the portfolio",
       "category": [
         "Nya utgåvor"
       ],
@@ -333,6 +333,29 @@
       "id": "cigar-imports-flat-through-august-honduras-posts-notable-gain"
     },
     {
+      "published_at": "2026-11-03T16:39:34+00:00",
+      "updated_at": "2026-11-03T16:39:34+00:00",
+      "title": "J.C. Newman Cigar Co. Lounge At Benchmark International Arena, Tampa, Florida",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXpJSmxSckQzN3NGRTlsUFJLcG9ST2JFS3M1Zk5vTVZ4TG95bndYVVdvMWFkV1poSXdJU0dkSEhnUnk3eUx4czZLUWlkNnhtQXF5SlJJN1J4YV9jWUUzaUhyM1JiWTA2SkZyekdFWGp3V1QtbEZaVWN1cU9YWEgtNVE4MnhZMkZSWnZBMXBxdVdQb0o1SndKYVppLXFzeERBOGtiNXdsLVhsTEdJYTBuSTFiZw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXpJSmxSckQzN3NGRTlsUFJLcG9ST2JFS3M1Zk5vTVZ4TG95bndYVVdvMWFkV1poSXdJU0dkSEhnUnk3eUx4czZLUWlkNnhtQXF5SlJJN1J4YV9jWUUzaUhyM1JiWTA2SkZyekdFWGp3V1QtbEZaVWN1cU9YWEgtNVE4MnhZMkZSWnZBMXBxdVdQb0o1SndKYVppLXFzeERBOGtiNXdsLVhsTEdJYTBuSTFiZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "j-c-newman-cigar-co-lounge-at-benchmark-international-arena-tampa-florida"
+    },
+    {
       "published_at": "2026-11-03T16:09:33+00:00",
       "updated_at": "2026-11-03T16:09:33+00:00",
       "title": "5th Avenue, German Distributor of Cuban Cigars, Begins Insolvency Proceedings",
@@ -354,6 +377,29 @@
       },
       "confirmed_by": [],
       "id": "5th-avenue-german-distributor-of-cuban-cigars-begins-insolvency-proceedings"
+    },
+    {
+      "published_at": "2026-11-02T21:34:20+00:00",
+      "updated_at": "2026-11-02T21:34:20+00:00",
+      "title": "EGM Cigars Begins Shipping Ninfa Jars",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdHFIN1VfUkVPb09lLTNCVTZXNi1hdEU5bk9CcXROazBERmMxd21NTlRDOC14M1YtUmdTb3FxUXFGYjh4bDlyNGpBOFBFWnhiMTgxVkZHTFVLVWU5Ry1xaHRWQXFUVFhYLUltNkVMX1MyOEphd0E?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdHFIN1VfUkVPb09lLTNCVTZXNi1hdEU5bk9CcXROazBERmMxd21NTlRDOC14M1YtUmdTb3FxUXFGYjh4bDlyNGpBOFBFWnhiMTgxVkZHTFVLVWU5Ry1xaHRWQXFUVFhYLUltNkVMX1MyOEphd0E?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "egm-cigars-begins-shipping-ninfa-jars"
     },
     {
       "published_at": "2026-11-02T10:35:20+00:00",
@@ -448,27 +494,27 @@
       "id": "mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019"
     },
     {
-      "published_at": "2026-10-31T12:06:15+00:00",
-      "updated_at": "2026-10-31T12:06:15+00:00",
-      "title": "Cigar Industry Report: Edition 713 (10/31/26)",
+      "published_at": "2026-11-01T03:37:07+00:00",
+      "updated_at": "2026-11-01T03:37:07+00:00",
+      "title": "Perez-Carrillo Deep Blue Hades (2026) by Casa Carrillo – Cigar Review",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
-        "Nyheter"
+        "Test & betyg"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tySFY2bGlNa0lHaXR5cW9OanlZYmVRSE0tQWNvZXBPSWJ3cXVtMVd3TkVpTEcyX0ptS2UtckpHTVI2UUNQYUlHc0paZW1NS3JGVTRNODJCRVY0ajgzMkNPcTBtTU50U3JlR1lOYXpOMlBMejEyTjBfQUUxWHRrbVpRVXM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tySFY2bGlNa0lHaXR5cW9OanlZYmVRSE0tQWNvZXBPSWJ3cXVtMVd3TkVpTEcyX0ptS2UtckpHTVI2UUNQYUlHc0paZW1NS3JGVTRNODJCRVY0ajgzMkNPcTBtTU50U3JlR1lOYXpOMlBMejEyTjBfQUUxWHRrbVpRVXM?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXM1SlB0N2ItQnM4YUZhY2xQRVdia0FDeDhMWVFIRnM4WWN4NG44Y05KbndiZ1h2eUtnNzc3a3FaOGtuc0F3Z25aTTI3TnVkejdFMVA0Y3N0dnAzTnZneUVPUVR2QTg4SF9yTlQ5RU9JWmxJZW9jR1pSVkdBZnhoS1RlZmRnU0JWdHROczdhT3JERHBiWGpiakhpaGpscFdJTEU4?oc=5"
       },
       "confirmed_by": [],
-      "id": "cigar-industry-report-edition-713-10-31-26"
+      "id": "perez-carrillo-deep-blue-hades-2026-by-casa-carrillo-cigar-review"
     },
     {
       "published_at": "2026-10-30T21:16:11+00:00",
@@ -517,8 +563,8 @@
       "id": "brolo-cigar-company-launches-with-three-lines-cigar-news"
     },
     {
-      "published_at": "2026-10-29T23:07:10+00:00",
-      "updated_at": "2026-10-29T23:07:10+00:00",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "updated_at": "2026-10-29T07:00:00+00:00",
       "title": "Marvin Shanken, Cigar Aficionado Founder, 1943-2026",
       "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
@@ -601,52 +647,6 @@
       },
       "confirmed_by": [],
       "id": "havana-hidden-gems-featuring-the-a-collection"
-    },
-    {
-      "published_at": "2026-10-28T09:31:32+00:00",
-      "updated_at": "2026-10-28T09:31:32+00:00",
-      "title": "Casa Carrillo Announces the 2026 TAA Exclusive Cigar",
-      "summary": "Casa Carrillo proudly announces the 2026 Casa Carrillo TAA Exclusive, a limited-edition release created exclusively for members of the Tobacconists’ Association of America (TAA)",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image-4.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/casa-carrillo-announces-the-2026-taa-exclusive-cigar/"
-      },
-      "confirmed_by": [],
-      "id": "casa-carrillo-announces-the-2026-taa-exclusive-cigar"
-    },
-    {
-      "published_at": "2026-10-28T09:26:19+00:00",
-      "updated_at": "2026-10-28T09:26:19+00:00",
-      "title": "Cigar Culture Summit Africa: Johannesburg Debut Brings the Global Cigar Community Together",
-      "summary": "Visitors from 14 countries gathered in South Africa – next edition already in planning",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzFxb3piaUd3ZjNteVZDR3ZZZUZvTUg1R1c3bnM1eFRKS2VreWNJNVVpa2h2Qlk3UmppdTdhS3Rtbk4yZGJEZERhLWJyYWE5Y1pQbVZaQU9fN1ZTblhQWGNEU0ZUQllCei0zMjktWkRpbUEyRWlfOFAwVG1LaDUxSTY1cnR0NlZndXV6N1JhblJhMmdDTEZ4M09mazJEZUdIU0c1SVBkaVN0aEVqdWlmRHR5d3hkbndpcjFR?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzFxb3piaUd3ZjNteVZDR3ZZZUZvTUg1R1c3bnM1eFRKS2VreWNJNVVpa2h2Qlk3UmppdTdhS3Rtbk4yZGJEZERhLWJyYWE5Y1pQbVZaQU9fN1ZTblhQWGNEU0ZUQllCei0zMjktWkRpbUEyRWlfOFAwVG1LaDUxSTY1cnR0NlZndXV6N1JhblJhMmdDTEZ4M09mazJEZUdIU0c1SVBkaVN0aEVqdWlmRHR5d3hkbndpcjFR?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-culture-summit-africa-johannesburg-debut-brings-the-global-cigar-community-together"
     }
   ]
 }
