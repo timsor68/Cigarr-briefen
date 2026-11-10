@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-11-10T13:26:11.749453+00:00",
+  "updated_at": "2026-11-10T22:21:12.036372+00:00",
   "items": [
+    {
+      "published_at": "2026-11-10T21:45:36+00:00",
+      "updated_at": "2026-11-10T21:45:36+00:00",
+      "title": "Esteban Carreras Launches in Romania | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmM3dkFKYUQyam9YdnZBT0VmZVRXRGs1RHVqODlLNFRrYmN1N1l5enV4eTJzVjVmN0pPWnlWT3ItMkhKVVB5Q01qTzdxZnhZSjRHQ1c5YldEU0xHTEdZOTJfbmFMWTQ1clpRV1RFZnN5VlRhTnE3VzRuaFJPRDRUN2s4RVptSndiQUE0?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmM3dkFKYUQyam9YdnZBT0VmZVRXRGs1RHVqODlLNFRrYmN1N1l5enV4eTJzVjVmN0pPWnlWT3ItMkhKVVB5Q01qTzdxZnhZSjRHQ1c5YldEU0xHTEdZOTJfbmFMWTQ1clpRV1RFZnN5VlRhTnE3VzRuaFJPRDRUN2s4RVptSndiQUE0?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "esteban-carreras-launches-in-romania-cigar-news"
+    },
+    {
+      "published_at": "2026-11-10T20:30:18+00:00",
+      "updated_at": "2026-11-10T20:30:18+00:00",
+      "title": "Undercrown 10 Ming 2.0 Lands at Smoke Inn",
+      "summary": "Two years after its debut, the Undercrown 10 Ming is once again on sale. There's been a slight change to the blend, but otherwise it's the same cigar as Ming 1.0. The post Undercrown 10 Ming 2.0 Lands at Smoke Inn appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Undercrown-10-Ming-2.0-Feature.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/undercrown-10-ming-2-0-lands-at-smoke-inn/486186/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/undercrown-10-ming-2-0-lands-at-smoke-inn/486186/"
+      },
+      "confirmed_by": [],
+      "id": "undercrown-10-ming-2-0-lands-at-smoke-inn"
+    },
+    {
+      "published_at": "2026-11-10T19:30:02+00:00",
+      "updated_at": "2026-11-10T19:30:02+00:00",
+      "title": "Liga Privada Crush’D Velvet Debuts at Corona Cigar Co",
+      "summary": "Crush'd Velvet is a new event-only cigar from Drew Estate. No, it is not the Velvet Rat blend.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Liga-Privada-Crushd-Velvet-1.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/liga-privada-crushd-velvet-debuts-at-corona-cigar-co/486163/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/liga-privada-crushd-velvet-debuts-at-corona-cigar-co/486163/"
+      },
+      "confirmed_by": [],
+      "id": "liga-privada-crush-d-velvet-debuts-at-corona-cigar-co"
+    },
+    {
+      "published_at": "2026-11-10T18:30:52+00:00",
+      "updated_at": "2026-11-10T18:30:52+00:00",
+      "title": "Brick House Maduro Commodore",
+      "summary": "It is big, it is bold and it takes more than two hours to smoke. This is the cigar I was assigned after finishing second in the PCA 2027 preview show. The post Brick House Maduro Commodore appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Brick-House-Maduro-Commodore-2.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/brick-house-maduro-commodore/485903/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/brick-house-maduro-commodore/485903/"
+      },
+      "confirmed_by": [],
+      "id": "brick-house-maduro-commodore"
+    },
+    {
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "updated_at": "2026-11-10T17:00:00+00:00",
+      "title": "Drew Estate Joins ProCigar",
+      "summary": "Drew Estate, the largest handmade cigar manufacturer in Nicaragua, has plans to open its first Dominican factory next year. Before that happens, the company has joined ProCigar, the Dominican Republic's cigar manufacturers' association. The post Drew Estate Joins ProCigar appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://halfwheel.com/wp-content/uploads/2021/03/Drew-Estate-Logo.jpeg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/drew-estate-joins-procigar/486106/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/drew-estate-joins-procigar/486106/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
+        }
+      ],
+      "id": "drew-estate-joins-procigar"
+    },
+    {
+      "published_at": "2026-11-10T16:03:02+00:00",
+      "updated_at": "2026-11-10T16:03:02+00:00",
+      "title": "ADV & McKay’s New La Llorona Begins Shipping",
+      "summary": "This year's release is a robusto extra that measures 5 3/4 x 52 and keeps the same blend as in previous years. Production is limited to just 10,000 cigars, which are offered to the company's top retailers. The post ADV & McKay’s New La Llorona Begins Shipping appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/La-Llorona-Robusto-Extra-feature-1.jpg",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/adv-mckays-new-la-llorona-begins-shipping/486097/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/adv-mckays-new-la-llorona-begins-shipping/486097/"
+      },
+      "confirmed_by": [],
+      "id": "adv-mckay-s-new-la-llorona-begins-shipping"
+    },
+    {
+      "published_at": "2026-11-10T14:14:34+00:00",
+      "updated_at": "2026-11-10T14:14:34+00:00",
+      "title": "Oveja Negra Brands to Release Black Works Studio Shaolin 36th Chamber | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWdLMVpvLTd4cnZJa1ptd2Rtak5Hci1KQTQ0aXI0V2NIcTFiUUtyd2RESU1KME1zNl9iTGQxUWlWQjl2TzBwcklyZHB6UlBjT195N0NEamJzS1NGYkl2Y3NLbU9jQ2ZwN0pYSHdHNkdYc1VrZFNXNmo1Y2xNWHJNVEt4aGZMQjVxMm1HSTQ1TnA0S1RscXZGSTBRcnNCeWtoYUtsY3RFbmU4V2ZGUWpIOVhXd3k0dkE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWdLMVpvLTd4cnZJa1ptd2Rtak5Hci1KQTQ0aXI0V2NIcTFiUUtyd2RESU1KME1zNl9iTGQxUWlWQjl2TzBwcklyZHB6UlBjT195N0NEamJzS1NGYkl2Y3NLbU9jQ2ZwN0pYSHdHNkdYc1VrZFNXNmo1Y2xNWHJNVEt4aGZMQjVxMm1HSTQ1TnA0S1RscXZGSTBRcnNCeWtoYUtsY3RFbmU4V2ZGUWpIOVhXd3k0dkE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "oveja-negra-brands-to-release-black-works-studio-shaolin-36th-chamber-cigar-news"
+    },
     {
       "published_at": "2026-11-10T00:00:45+00:00",
       "updated_at": "2026-11-10T00:00:45+00:00",
@@ -209,52 +379,6 @@
       "id": "arnold-andr-and-joya-de-nicaragua-end-partnership-at-the-end-of-the-year"
     },
     {
-      "published_at": "2026-11-08T20:00:49+00:00",
-      "updated_at": "2026-11-08T20:00:49+00:00",
-      "title": "Oscar Valladares Colaboraciones Oliva",
-      "summary": "For its new release at the 2026 PCA Convention & Trade Show, Oscar Valladares eniisted Casa Carrillo and Oliva Cigar Co. to see what they could do with some of his favorite Honduran tobacco. Oliva came back with a cigar that uses Cameroon tobacco for both the wrapper and binder.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Oscar-Valladares-Colaboraciones-Oliva-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/oscar-valladares-colaboraciones-oliva/484852/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/oscar-valladares-colaboraciones-oliva/484852/"
-      },
-      "confirmed_by": [],
-      "id": "oscar-valladares-colaboraciones-oliva"
-    },
-    {
-      "published_at": "2026-11-08T16:09:20+00:00",
-      "updated_at": "2026-11-08T16:09:20+00:00",
-      "title": "Tatuaje Begins “Soft Opening” of La Riqueza SE 2026",
-      "summary": "The first boxes have begun arriving at select retailers, as Tatuaje begins the rollout of a pair of cigars it showed off in April at the 2026 PCA Convention & Trade Show. The reason for the rollout — getting the cigars available for sale in California. The post Tatuaje Begins “Soft Opening” of La Riqueza SE 2026 appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/04/Tatuaje-La-Riqueza-SE-Tuxtla.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/tatuaje-begins-soft-opening-of-la-riqueza-se-2026/485378/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/tatuaje-begins-soft-opening-of-la-riqueza-se-2026/485378/"
-      },
-      "confirmed_by": [],
-      "id": "tatuaje-begins-soft-opening-of-la-riqueza-se-2026"
-    },
-    {
       "published_at": "2026-11-08T13:04:13+00:00",
       "updated_at": "2026-11-08T13:04:13+00:00",
       "title": "HVC La Decoración Churchill – Cigar Review",
@@ -278,29 +402,6 @@
       "id": "hvc-la-decoraci-n-churchill-cigar-review"
     },
     {
-      "published_at": "2026-11-07T19:00:45+00:00",
-      "updated_at": "2026-11-07T19:00:45+00:00",
-      "title": "Black Works Studio Culture Vulture Panatela",
-      "summary": "Culture Vulture embraces the ombré style of blending two shades into one. Look closely at the stripes and you'll see that there's both Candela and Connecticut tobacco. The post Black Works Studio Culture Vulture Panatela appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Black-Works-Studio-Culture-Vulture-Panatela-2.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/black-works-studio-culture-vulture-panatela/484835/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/black-works-studio-culture-vulture-panatela/484835/"
-      },
-      "confirmed_by": [],
-      "id": "black-works-studio-culture-vulture-panatela"
-    },
-    {
       "published_at": "2026-11-07T14:27:27+00:00",
       "updated_at": "2026-11-07T14:27:27+00:00",
       "title": "Cigar Industry Report: Edition 714 (11/7/26)",
@@ -322,29 +423,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-industry-report-edition-714-11-7-26"
-    },
-    {
-      "published_at": "2026-11-07T14:00:08+00:00",
-      "updated_at": "2026-11-07T14:00:08+00:00",
-      "title": "Hermanos de Armas Commemorating Veterans Day with Eleven Eleven",
-      "summary": "The company is donating 11 percent of the gross sales of the project to Team SAPO, an organization dedicated to the mental health of veterans. The project is limited to just 450 boxes of 22 cigars. The post Hermanos de Armas Commemorating Veterans Day with Eleven Eleven appeared first on halfwheel",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Hermanos-de-Armas-Eleven-Eleven-feature-1.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/hermanos-de-armas-commemorating-veterans-day-with-eleven-eleven/484771/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/hermanos-de-armas-commemorating-veterans-day-with-eleven-eleven/484771/"
-      },
-      "confirmed_by": [],
-      "id": "hermanos-de-armas-commemorating-veterans-day-with-eleven-eleven"
     },
     {
       "published_at": "2026-11-06T17:03:11+00:00",
