@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:40:13.377747+00:00",
+  "updated_at": "2026-11-10T13:26:11.749453+00:00",
   "items": [
     {
       "published_at": "2026-11-10T00:00:45+00:00",
@@ -33,7 +33,7 @@
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/10/Rojas-KSG-Limited-Edition-2026-feature.jpg",
+      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Rojas-KSG-Limited-Edition-2026-open-box-feature-2-scaled.jpg",
       "sources": [
         {
           "name": "halfwheel",
@@ -106,12 +106,12 @@
       "sources": [
         {
           "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1A4OTJLaFV0TXdVUzJsNWJ3ME1tREk1ZDg1OVdKRF9FYUF4YTZYTjFnakZjdTVTVHhIdDFRNWw1UGNZbkV1MUd3T1RNdHVGSnJYNloxcTlBVW5DRS1odllqVTdtQkZKa01obUo3cmRhdXVkQ2cxcE51MnM3bE4za2hldmpqU2dmbFBXZGxmNlZNWnVZb3MwYlp3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmRpN2loNjN5SDU4b0MtejFWb1BQUnQ3MmhzUDBNcDdBaG4xQTMxY1N2amZSVk01Y3hUN3ltUlRMVlNaNUpHRW1NYWpuN3NITWFkbGJsZTM3LXMtVVdkRWx1U29aRWppMlZXcFFIbXNyX1lwRlNSY2lsaXF4SUk2Z1ExQm1MNnBDdnhIckFHc1hzRlgyU3RyOA?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1A4OTJLaFV0TXdVUzJsNWJ3ME1tREk1ZDg1OVdKRF9FYUF4YTZYTjFnakZjdTVTVHhIdDFRNWw1UGNZbkV1MUd3T1RNdHVGSnJYNloxcTlBVW5DRS1odllqVTdtQkZKa01obUo3cmRhdXVkQ2cxcE51MnM3bE4za2hldmpqU2dmbFBXZGxmNlZNWnVZb3MwYlp3?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmRpN2loNjN5SDU4b0MtejFWb1BQUnQ3MmhzUDBNcDdBaG4xQTMxY1N2amZSVk01Y3hUN3ltUlRMVlNaNUpHRW1NYWpuN3NITWFkbGJsZTM3LXMtVVdkRWx1U29aRWppMlZXcFFIbXNyX1lwRlNSY2lsaXF4SUk2Z1ExQm1MNnBDdnhIckFHc1hzRlgyU3RyOA?oc=5"
       },
       "confirmed_by": [],
       "id": "13-extraordinary-smokes-that-should-be-in-your-humidor"
@@ -423,28 +423,19 @@
       "category": [
         "Nya utgåvor"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "https://media.cigarjournal.com/Petit%20Edition%20003a.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/selected-tobacco-unveils-petit-edition/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY05wLTd6RW9ZV3NJbmFTZ2VBVllZYjJTLTZXa0FkT0tBVTVTX1BwNWNDZ01xOVJ6UjJ5Wktwd0R3czFOVFhCU0hYSE1vS2F1QW9kelhnM0Q0dDFHTkdkQmU1WkJfMjdEaE5kcFg2X09nMTdZQW1PMF9FNkh6UTlBdGU1Z0c3M3BqMldxQ2gzMUk0aU9sNHhZQWtUX3FkUQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/selected-tobacco-unveils-petit-edition/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY05wLTd6RW9ZV3NJbmFTZ2VBVllZYjJTLTZXa0FkT0tBVTVTX1BwNWNDZ01xOVJ6UjJ5Wktwd0R3czFOVFhCU0hYSE1vS2F1QW9kelhnM0Q0dDFHTkdkQmU1WkJfMjdEaE5kcFg2X09nMTdZQW1PMF9FNkh6UTlBdGU1Z0c3M3BqMldxQ2gzMUk0aU9sNHhZQWtUX3FkUQ?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "selected-tobacco-unveils-petit-edition"
     },
     {
@@ -515,52 +506,6 @@
       },
       "confirmed_by": [],
       "id": "j-c-newman-cigar-co-lounge-at-benchmark-international-arena-tampa-florida"
-    },
-    {
-      "published_at": "2026-11-03T16:09:33+00:00",
-      "updated_at": "2026-11-03T16:09:33+00:00",
-      "title": "5th Avenue, German Distributor of Cuban Cigars, Begins Insolvency Proceedings",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXZ0cWg3X1lKTEt6WmdjNkR0OU1zT3VxcEFXbHgzRnNBOUVQNkFsOHFfaWRUaHZZa3N5MWlOTFZXam5fN0FpTWJPd0ZrVk9jTFhjcEgzb2c5RWVKbkttTnJRWkFuWDFjeU52OFMyYXJkeEhOb3JNeW4tUG5PenNGTmM3UmRuenlnWG5KU1hCdUhlYUZ1aGdFNW5CNUpJSnRkSWZCNlJFdmI?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXZ0cWg3X1lKTEt6WmdjNkR0OU1zT3VxcEFXbHgzRnNBOUVQNkFsOHFfaWRUaHZZa3N5MWlOTFZXam5fN0FpTWJPd0ZrVk9jTFhjcEgzb2c5RWVKbkttTnJRWkFuWDFjeU52OFMyYXJkeEhOb3JNeW4tUG5PenNGTmM3UmRuenlnWG5KU1hCdUhlYUZ1aGdFNW5CNUpJSnRkSWZCNlJFdmI?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "5th-avenue-german-distributor-of-cuban-cigars-begins-insolvency-proceedings"
-    },
-    {
-      "published_at": "2026-11-02T21:34:20+00:00",
-      "updated_at": "2026-11-02T21:34:20+00:00",
-      "title": "EGM Cigars Begins Shipping Ninfa Jars",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdHFIN1VfUkVPb09lLTNCVTZXNi1hdEU5bk9CcXROazBERmMxd21NTlRDOC14M1YtUmdTb3FxUXFGYjh4bDlyNGpBOFBFWnhiMTgxVkZHTFVLVWU5Ry1xaHRWQXFUVFhYLUltNkVMX1MyOEphd0E?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdHFIN1VfUkVPb09lLTNCVTZXNi1hdEU5bk9CcXROazBERmMxd21NTlRDOC14M1YtUmdTb3FxUXFGYjh4bDlyNGpBOFBFWnhiMTgxVkZHTFVLVWU5Ry1xaHRWQXFUVFhYLUltNkVMX1MyOEphd0E?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "egm-cigars-begins-shipping-ninfa-jars"
     },
     {
       "published_at": "2026-11-02T10:35:20+00:00",
