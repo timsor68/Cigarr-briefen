@@ -1,9 +1,87 @@
 {
-  "updated_at": "2026-11-10T22:21:12.036372+00:00",
+  "updated_at": "2026-11-11T12:41:06.252907+00:00",
   "items": [
     {
-      "published_at": "2026-11-10T21:45:36+00:00",
-      "updated_at": "2026-11-10T21:45:36+00:00",
+      "published_at": "2026-11-11T11:01:56+00:00",
+      "updated_at": "2026-11-11T11:01:56+00:00",
+      "title": "Miami Cigar & Company Announces Strategic Distribution Partnership with Arango Cigar Co",
+      "summary": "Läs hela artikeln hos Cigar Journal (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEJiRVRBN2pTTzNEQmwxYy1ZX3pLMUd4XzFTa1hwUU16ZWxjNkt4SkZCUkpJQnBLT3J0U3Rod2ZzWFJ5aHNCazc5M09RbGpyUk5zTkhSaDhSYi1IY1RZSHd4OS1BSjcwVWlCcXhXMDdVcHJVWkNzS0c1RTFqSXM3WmdrMjZhUEIzSFk2Mlc5RHhBdzZhX0RzaURuVjlSRW82WmQ0V1Y2c1UzTGFsZ0xseUF4Y2JaZw?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEJiRVRBN2pTTzNEQmwxYy1ZX3pLMUd4XzFTa1hwUU16ZWxjNkt4SkZCUkpJQnBLT3J0U3Rod2ZzWFJ5aHNCazc5M09RbGpyUk5zTkhSaDhSYi1IY1RZSHd4OS1BSjcwVWlCcXhXMDdVcHJVWkNzS0c1RTFqSXM3WmdrMjZhUEIzSFk2Mlc5RHhBdzZhX0RzaURuVjlSRW82WmQ0V1Y2c1UzTGFsZ0xseUF4Y2JaZw?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
+        }
+      ],
+      "id": "miami-cigar-company-announces-strategic-distribution-partnership-with-arango-cigar-co"
+    },
+    {
+      "published_at": "2026-11-11T09:06:52+00:00",
+      "updated_at": "2026-11-11T09:06:52+00:00",
+      "title": "Casa Carrillo’s Battleborn Heroes Now Shipping Nationwide Ahead of Veterans Day",
+      "summary": "Limited-Edition release honors military personnel, veterans, and first responders with a new blend and an enduring Ccommitment to service",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Final_5301.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/casa-carrillo-s-battleborn-heroes-now-shipping-nationwide-ahead-of-veterans-day/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/casa-carrillo-s-battleborn-heroes-now-shipping-nationwide-ahead-of-veterans-day/"
+      },
+      "confirmed_by": [],
+      "id": "casa-carrillo-s-battleborn-heroes-now-shipping-nationwide-ahead-of-veterans-day"
+    },
+    {
+      "published_at": "2026-11-11T08:51:37+00:00",
+      "updated_at": "2026-11-11T08:51:37+00:00",
+      "title": "Tabacalera Tour Highlights Asian Growth with 'Puros Orígenes' and Flor de Copán’s 50th Anniversary Gala",
+      "summary": "Tabacalera has successfully concluded an exclusive corporate two-week tour across three key markets in Asia, showcasing its prestigious brand portfolio—including VegaFina, Flor de Copán, Henry Clay, and Capitol—with major milestones celebrated in Japan, Vietnam, and Hong Kong",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zWGxIMllleERLdkF4YzFWUnQwQXFWU0dPUzhoM0thSUZHa2ZwTG11TXNSTW0wS2xkcXBzMGZma2VkT2xfeW1oaEVhN1hwWHRaQ21YMndBWndMQlFkRzZCdFJOakdfaUlubTdISWc2LTlmanBjdURjMQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zWGxIMllleERLdkF4YzFWUnQwQXFWU0dPUzhoM0thSUZHa2ZwTG11TXNSTW0wS2xkcXBzMGZma2VkT2xfeW1oaEVhN1hwWHRaQ21YMndBWndMQlFkRzZCdFJOakdfaUlubTdISWc2LTlmanBjdURjMQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "tabacalera-tour-highlights-asian-growth-with-puros-or-genes-and-flor-de-cop-n-s-50th-anniv"
+    },
+    {
+      "published_at": "2026-11-11T02:55:39+00:00",
+      "updated_at": "2026-11-11T02:55:39+00:00",
       "title": "Esteban Carreras Launches in Romania | Cigar News",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -109,6 +187,10 @@
           "url": "https://halfwheel.com/drew-estate-joins-procigar/486106/"
         },
         {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+        },
+        {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
         }
@@ -118,6 +200,10 @@
         "url": "https://halfwheel.com/drew-estate-joins-procigar/486106/"
       },
       "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+        },
         {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
@@ -216,29 +302,6 @@
       },
       "confirmed_by": [],
       "id": "rojas-ksg-limited-edition-2026-heads-to-stores"
-    },
-    {
-      "published_at": "2026-11-09T21:54:59+00:00",
-      "updated_at": "2026-11-09T21:54:59+00:00",
-      "title": "Miami Cigar & Company Adds Arango to Distribution Network for Tatiana | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "miami-cigar-company-adds-arango-to-distribution-network-for-tatiana-cigar-news"
     },
     {
       "published_at": "2026-11-09T20:00:14+00:00",
@@ -379,29 +442,6 @@
       "id": "arnold-andr-and-joya-de-nicaragua-end-partnership-at-the-end-of-the-year"
     },
     {
-      "published_at": "2026-11-08T13:04:13+00:00",
-      "updated_at": "2026-11-08T13:04:13+00:00",
-      "title": "HVC La Decoración Churchill – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzFoR19iQ3A0VVZ5cGJKb3dHYUdqRWZmeDJaYlBTZ2NmcnJUZzZwRzYwRWtXWW5tMXpTanlYNzZYdS1zcnZib1ZUXzlGUzM0ckdyaGVMY1lHTVNWb2plTUt4NzZGclk4S19FVVl1dVo2LV9lblEtTHB6VTRaOVNlTkln?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzFoR19iQ3A0VVZ5cGJKb3dHYUdqRWZmeDJaYlBTZ2NmcnJUZzZwRzYwRWtXWW5tMXpTanlYNzZYdS1zcnZib1ZUXzlGUzM0ckdyaGVMY1lHTVNWb2plTUt4NzZGclk4S19FVVl1dVo2LV9lblEtTHB6VTRaOVNlTkln?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "hvc-la-decoraci-n-churchill-cigar-review"
-    },
-    {
       "published_at": "2026-11-07T14:27:27+00:00",
       "updated_at": "2026-11-07T14:27:27+00:00",
       "title": "Cigar Industry Report: Edition 714 (11/7/26)",
@@ -471,24 +511,24 @@
       "id": "plasencia-launches-2026-holiday-collection"
     },
     {
-      "published_at": "2026-11-04T18:10:07+00:00",
-      "updated_at": "2026-11-04T18:10:07+00:00",
+      "published_at": "2026-11-04T12:28:44+00:00",
+      "updated_at": "2026-11-04T12:28:44+00:00",
       "title": "La Casa Del Habano Berlin am Osthafen Unveils Upcoming Event Schedule",
       "summary": "As the temperature drops, La Casa del Habano Berlin opens its doors for a series of autumn and winter evenings dedicated to Cuban cigars",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/2fba4481-252b-98ea-58b0-5f72b7e5e1a0.png",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+          "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+        "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
       },
       "confirmed_by": [],
       "id": "la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule"
@@ -630,52 +670,6 @@
       },
       "confirmed_by": [],
       "id": "selected-tobacco-celebrates-grand-opening-in-madrid"
-    },
-    {
-      "published_at": "2026-11-02T10:35:20+00:00",
-      "updated_at": "2026-11-02T10:35:20+00:00",
-      "title": "Saint Luis Rey and Christian Eiroa Introduce 30th Anniversary Maduro",
-      "summary": "Altadis U.S.A. introduces Saint Luis Rey Eiroa 30th Anniversary Maduro",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFVWTWwwQmhxOTYzMF9TNkhkMHRWVnVJd29iSDd3Mmo0UGoyWG1wZjdTQ0tTMHN0RTJLMWU2ZnRhYXFLRFJ2azY4NlhmZTdvMEREemV3dl85bVZNTHdvY1JZeG1GWTZuRlFoTmhzWndMYk8zQmwzcU82di1RMFd6Q0hDMEtiRGdLNzctLXV0NGE4bC15OGQ5eVJ3M3R0YTQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFVWTWwwQmhxOTYzMF9TNkhkMHRWVnVJd29iSDd3Mmo0UGoyWG1wZjdTQ0tTMHN0RTJLMWU2ZnRhYXFLRFJ2azY4NlhmZTdvMEREemV3dl85bVZNTHdvY1JZeG1GWTZuRlFoTmhzWndMYk8zQmwzcU82di1RMFd6Q0hDMEtiRGdLNzctLXV0NGE4bC15OGQ5eVJ3M3R0YTQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "saint-luis-rey-and-christian-eiroa-introduce-30th-anniversary-maduro"
-    },
-    {
-      "published_at": "2026-11-02T10:05:03+00:00",
-      "updated_at": "2026-11-02T10:05:03+00:00",
-      "title": "MBombay Releases Kesara Pyramid 2020 and MQBA Mayura Pyramid 2019",
-      "summary": "Two single-run limited editions, rolled years before release and the first MBombay sizes outside its toro and robusto pair",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/MBombay.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019/"
-      },
-      "confirmed_by": [],
-      "id": "mbombay-releases-kesara-pyramid-2020-and-mqba-mayura-pyramid-2019"
     }
   ]
 }
