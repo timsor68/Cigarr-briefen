@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-11T23:26:51.004150+00:00",
+  "updated_at": "2026-11-12T13:43:40.341289+00:00",
   "items": [
+    {
+      "published_at": "2026-11-12T13:30:23+00:00",
+      "updated_at": "2026-11-12T13:30:23+00:00",
+      "title": "Viaje Celebrating Thanksgiving with Stuffed Turkey Edición Limitada and One Happy Family",
+      "summary": "Stuffed Turkey has been a mainstay of the company's Thanksgiving-themed releases, while One Happy Family is a brand new addition. The artwork features Farmer Bill Hatchet, Mrs. Hatchet, and Farmhand Andre, three characters from the company's previous Thanksgiving cigars.",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/viaje-celebrating-thanksgiving-with-stuffed-turkey-edicion-limitada-and-one-happy-family/486665/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/viaje-celebrating-thanksgiving-with-stuffed-turkey-edicion-limitada-and-one-happy-family/486665/"
+      },
+      "confirmed_by": [],
+      "id": "viaje-celebrating-thanksgiving-with-stuffed-turkey-edici-n-limitada-and-one-happy-family"
+    },
     {
       "published_at": "2026-11-11T22:15:26+00:00",
       "updated_at": "2026-11-11T22:15:26+00:00",
@@ -10,7 +33,7 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Avowed-Hallowed-Hands-Box-Pressed-Robusto-2.jpg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -56,7 +79,7 @@
         "Reglering"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/05/STG-Logo.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -101,28 +124,19 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEJiRVRBN2pTTzNEQmwxYy1ZX3pLMUd4XzFTa1hwUU16ZWxjNkt4SkZCUkpJQnBLT3J0U3Rod2ZzWFJ5aHNCazc5M09RbGpyUk5zTkhSaDhSYi1IY1RZSHd4OS1BSjcwVWlCcXhXMDdVcHJVWkNzS0c1RTFqSXM3WmdrMjZhUEIzSFk2Mlc5RHhBdzZhX0RzaURuVjlSRW82WmQ0V1Y2c1UzTGFsZ0xseUF4Y2JaZw?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEJiRVRBN2pTTzNEQmwxYy1ZX3pLMUd4XzFTa1hwUU16ZWxjNkt4SkZCUkpJQnBLT3J0U3Rod2ZzWFJ5aHNCazc5M09RbGpyUk5zTkhSaDhSYi1IY1RZSHd4OS1BSjcwVWlCcXhXMDdVcHJVWkNzS0c1RTFqSXM3WmdrMjZhUEIzSFk2Mlc5RHhBdzZhX0RzaURuVjlSRW82WmQ0V1Y2c1UzTGFsZ0xseUF4Y2JaZw?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdERyX2ZDYkpPeHNwRTZVZi1mcVhZV3VmT1pNREs5RjZnNlhIZ3B1aVBsSEo2Z2diVXFQY091amNXcWpaRU96dVAxcGplUnhZWkNmdWVYNDJBRUtDeWJXNV9HQ3JTbmJIbzlfUS03NlRodE1Ba3E4b2I1cENmLUpnM3hPSzJEY21QLWkyZ3prRWgtb3JzUkE?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "miami-cigar-company-announces-strategic-distribution-partnership-with-arango-cigar-co"
     },
     {
@@ -203,7 +217,7 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Undercrown-10-Ming-2.0-Feature.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -226,7 +240,7 @@
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Liga-Privada-Crushd-Velvet-1.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -249,7 +263,7 @@
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/Brick-House-Maduro-Commodore-2.jpg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -272,7 +286,7 @@
         "Nyheter"
       ],
       "status": "Bekräftad av flera källor",
-      "image": "https://halfwheel.com/wp-content/uploads/2021/03/Drew-Estate-Logo.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "halfwheel",
@@ -281,10 +295,6 @@
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
         }
       ],
       "main_source": {
@@ -295,59 +305,9 @@
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
         }
       ],
       "id": "drew-estate-joins-procigar"
-    },
-    {
-      "published_at": "2026-11-10T16:03:02+00:00",
-      "updated_at": "2026-11-10T16:03:02+00:00",
-      "title": "ADV & McKay’s New La Llorona Begins Shipping",
-      "summary": "This year's release is a robusto extra that measures 5 3/4 x 52 and keeps the same blend as in previous years. Production is limited to just 10,000 cigars, which are offered to the company's top retailers. The post ADV & McKay’s New La Llorona Begins Shipping appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://halfwheel.com/wp-content/uploads/2026/11/La-Llorona-Robusto-Extra-feature-1.jpg",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/adv-mckays-new-la-llorona-begins-shipping/486097/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/adv-mckays-new-la-llorona-begins-shipping/486097/"
-      },
-      "confirmed_by": [],
-      "id": "adv-mckay-s-new-la-llorona-begins-shipping"
-    },
-    {
-      "published_at": "2026-11-10T14:14:34+00:00",
-      "updated_at": "2026-11-10T14:14:34+00:00",
-      "title": "Oveja Negra Brands to Release Black Works Studio Shaolin 36th Chamber | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWdLMVpvLTd4cnZJa1ptd2Rtak5Hci1KQTQ0aXI0V2NIcTFiUUtyd2RESU1KME1zNl9iTGQxUWlWQjl2TzBwcklyZHB6UlBjT195N0NEamJzS1NGYkl2Y3NLbU9jQ2ZwN0pYSHdHNkdYc1VrZFNXNmo1Y2xNWHJNVEt4aGZMQjVxMm1HSTQ1TnA0S1RscXZGSTBRcnNCeWtoYUtsY3RFbmU4V2ZGUWpIOVhXd3k0dkE?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWdLMVpvLTd4cnZJa1ptd2Rtak5Hci1KQTQ0aXI0V2NIcTFiUUtyd2RESU1KME1zNl9iTGQxUWlWQjl2TzBwcklyZHB6UlBjT195N0NEamJzS1NGYkl2Y3NLbU9jQ2ZwN0pYSHdHNkdYc1VrZFNXNmo1Y2xNWHJNVEt4aGZMQjVxMm1HSTQ1TnA0S1RscXZGSTBRcnNCeWtoYUtsY3RFbmU4V2ZGUWpIOVhXd3k0dkE?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "oveja-negra-brands-to-release-black-works-studio-shaolin-36th-chamber-cigar-news"
     },
     {
       "published_at": "2026-11-09T19:15:34+00:00",
@@ -601,52 +561,6 @@
       },
       "confirmed_by": [],
       "id": "cigar-imports-flat-through-august-honduras-posts-notable-gain"
-    },
-    {
-      "published_at": "2026-11-02T10:35:20+00:00",
-      "updated_at": "2026-11-02T10:35:20+00:00",
-      "title": "Selected Tobacco Celebrates Grand Opening in Madrid",
-      "summary": "On October 10 and 11, 2026 guests from across the premium cigar industry gathered in Madrid to celebrate the grand opening of Selected Tobacco's new five-story facility",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWUxblZfai1yNl81ZVVqSW5lbWNUZnNGTU8wTW9iSmRBSUs4YzZUMDZjdEZaQ1IxeW00OV9Zb29pM3FBVk9fNUY1akhFc0lxXzZFeXZ5YVJBNGNFU000VGVyUFFqUWNqTE44OU54MWhyZGZUblNYVjNEZ3oxem9waGxJMWFMeENW?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "selected-tobacco-celebrates-grand-opening-in-madrid"
-    },
-    {
-      "published_at": "2026-11-02T10:35:20+00:00",
-      "updated_at": "2026-11-02T10:35:20+00:00",
-      "title": "Saint Luis Rey and Christian Eiroa Introduce 30th Anniversary Maduro",
-      "summary": "Altadis U.S.A. introduces Saint Luis Rey Eiroa 30th Anniversary Maduro",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFVWTWwwQmhxOTYzMF9TNkhkMHRWVnVJd29iSDd3Mmo0UGoyWG1wZjdTQ0tTMHN0RTJLMWU2ZnRhYXFLRFJ2azY4NlhmZTdvMEREemV3dl85bVZNTHdvY1JZeG1GWTZuRlFoTmhzWndMYk8zQmwzcU82di1RMFd6Q0hDMEtiRGdLNzctLXV0NGE4bC15OGQ5eVJ3M3R0YTQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFVWTWwwQmhxOTYzMF9TNkhkMHRWVnVJd29iSDd3Mmo0UGoyWG1wZjdTQ0tTMHN0RTJLMWU2ZnRhYXFLRFJ2azY4NlhmZTdvMEREemV3dl85bVZNTHdvY1JZeG1GWTZuRlFoTmhzWndMYk8zQmwzcU82di1RMFd6Q0hDMEtiRGdLNzctLXV0NGE4bC15OGQ5eVJ3M3R0YTQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "saint-luis-rey-and-christian-eiroa-introduce-30th-anniversary-maduro"
     }
   ]
 }
