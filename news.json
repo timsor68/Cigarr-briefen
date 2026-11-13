@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-11-12T22:42:36.633190+00:00",
+  "updated_at": "2026-11-13T13:03:27.552016+00:00",
   "items": [
+    {
+      "published_at": "2026-11-13T13:00:17+00:00",
+      "updated_at": "2026-11-13T13:00:17+00:00",
+      "title": "Lord Baltimore Distributors Releases Hobson’s Choice Sungrown",
+      "summary": "The new cigar was crafted in collboration with Nick Perdomo of Perdomo Cigars. It rounds out the Hobson's Choice Trilogy, joining 2024's Sapphire Connecticut and Maduro. The post Lord Baltimore Distributors Releases Hobson’s Choice Sungrown appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/lord-baltimore-distributors-releases-hobsons-choice-sungrown/487010/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/lord-baltimore-distributors-releases-hobsons-choice-sungrown/487010/"
+      },
+      "confirmed_by": [],
+      "id": "lord-baltimore-distributors-releases-hobson-s-choice-sungrown"
+    },
+    {
+      "published_at": "2026-11-13T10:42:33+00:00",
+      "updated_at": "2026-11-13T10:42:33+00:00",
+      "title": "DALAY Brings the Crowned Heads Thunderkiss to Germany",
+      "summary": "DALAY is expanding its Crowned Heads portfolio with another new addition, bringing the Thunderkiss—a new long-filler cigar from the American boutique brand—to Germany",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/26-11-07-thunderkiss-david-huckert_19.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/dalay-brings-the-crowned-heads-thunderkiss-to-germany/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/dalay-brings-the-crowned-heads-thunderkiss-to-germany/"
+      },
+      "confirmed_by": [],
+      "id": "dalay-brings-the-crowned-heads-thunderkiss-to-germany"
+    },
+    {
+      "published_at": "2026-11-13T10:32:40+00:00",
+      "updated_at": "2026-11-13T10:32:40+00:00",
+      "title": "America250 Visits J.C. Newman Cigar Co",
+      "summary": "Today, the United States Semiquincentennial Commission visited the historic El Reloj Cigar Factory to recognize J.C. Newman's participation in America250",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/image-7.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/america250-visits-j-c-newman-cigar-co/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/america250-visits-j-c-newman-cigar-co/"
+      },
+      "confirmed_by": [],
+      "id": "america250-visits-j-c-newman-cigar-co"
+    },
+    {
+      "published_at": "2026-11-12T23:00:25+00:00",
+      "updated_at": "2026-11-12T23:00:25+00:00",
+      "title": "HVC 500 Years Lancero Only Legends",
+      "summary": "The HVC 500 Years Lancero Only Legends is the first lancero for the company. It was slated for a Father's Day release to celebrate the cigar smoking dads, but got delayed until the end of September. The post HVC 500 Years Lancero Only Legends appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/hvc-500-years-lancero-only-legends/486578/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/hvc-500-years-lancero-only-legends/486578/"
+      },
+      "confirmed_by": [],
+      "id": "hvc-500-years-lancero-only-legends"
+    },
     {
       "published_at": "2026-11-12T22:00:51+00:00",
       "updated_at": "2026-11-12T22:00:51+00:00",
@@ -27,7 +119,7 @@
     {
       "published_at": "2026-11-12T21:00:36+00:00",
       "updated_at": "2026-11-12T21:00:36+00:00",
-      "title": "New Weller by Cohiba Coming This Month",
+      "title": "Weller by Cohiba 2026 Coming This Month",
       "summary": "The new blend features a U.S.-grown broadleaf binder aged in W.L. barrels, which held a bourbon shaped from input from more than 100,000 consumers. It's the sixth release in the series, which debuted in 2021.",
       "category": [
         "Nyheter"
@@ -45,7 +137,7 @@
         "url": "https://halfwheel.com/new-weller-by-cohiba-coming-this-month/486925/"
       },
       "confirmed_by": [],
-      "id": "new-weller-by-cohiba-coming-this-month"
+      "id": "weller-by-cohiba-2026-coming-this-month"
     },
     {
       "published_at": "2026-11-12T20:20:34+00:00",
@@ -186,33 +278,10 @@
       "id": "avowed-hallowed-hands-box-pressed-robusto"
     },
     {
-      "published_at": "2026-11-11T17:00:26+00:00",
-      "updated_at": "2026-11-11T17:00:26+00:00",
-      "title": "Tariff Refunds Propel STG to Upgrade 2026 Guidance",
-      "summary": "STG says handmade cigar sales are better than expected, though that is not why it has adjusted its guidance. The company says Q3 saw higher-than-expected tariff refunds and some unique shipments that helped its numbers. The post Tariff Refunds Propel STG to Upgrade 2026 Guidance appeared first on halfwheel",
-      "category": [
-        "Reglering"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/tariff-refunds-propel-stg-to-upgrade-2026-guidance/486487/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/tariff-refunds-propel-stg-to-upgrade-2026-guidance/486487/"
-      },
-      "confirmed_by": [],
-      "id": "tariff-refunds-propel-stg-to-upgrade-2026-guidance"
-    },
-    {
       "published_at": "2026-11-11T16:14:14+00:00",
       "updated_at": "2026-11-11T16:14:14+00:00",
       "title": "Festival del Habano XXVI Humidor Auction Taking Place Friday in Macau",
-      "summary": "It turns out that there will be at least one Festival del Habano Humidor Auction this year. However, this auction won't be held in Cuba. The post Festival del Habano XXVI Humidor Auction Taking Place Friday in Macau appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Event"
       ],
@@ -262,19 +331,28 @@
       "category": [
         "Dominikanska republiken"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "https://media.cigarjournal.com/Procigar-logo-feature.jpg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jN2loWVZtdVRrdFR2VDA4M2pSSWp1TDZwWnV2cmJlRnFCbm9qT3VsaElDMlVNNkNPdUhHRzYxQzlYS1FuMjYxcHZCZTFYSXF3ZE02OUtlQVEzMjM1bHBybkd0MWlST0Vqc09EWDIyTHdLcHlDV0psSU1OeVJ3UQ?oc=5"
+        }
+      ],
       "id": "drew-estate-dominicana-joins-procigar-as-an-active-member"
     },
     {
@@ -301,24 +379,24 @@
       "id": "casa-carrillo-s-battleborn-heroes-now-shipping-nationwide-ahead-of-veterans-day"
     },
     {
-      "published_at": "2026-11-11T08:44:11+00:00",
-      "updated_at": "2026-11-11T08:44:11+00:00",
+      "published_at": "2026-11-11T09:04:35+00:00",
+      "updated_at": "2026-11-11T09:04:35+00:00",
       "title": "Tabacalera Tour Highlights Asian Growth with 'Puros Orígenes' and Flor de Copán’s 50th Anniversary Gala",
       "summary": "Tabacalera has successfully concluded an exclusive corporate two-week tour across three key markets in Asia, showcasing its prestigious brand portfolio—including VegaFina, Flor de Copán, Henry Clay, and Capitol—with major milestones celebrated in Japan, Vietnam, and Hong Kong",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/flor%20de%20copan%20resized.jpg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/tabacalera-tour-highlights-asian-growth/"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zWGxIMllleERLdkF4YzFWUnQwQXFWU0dPUzhoM0thSUZHa2ZwTG11TXNSTW0wS2xkcXBzMGZma2VkT2xfeW1oaEVhN1hwWHRaQ21YMndBWndMQlFkRzZCdFJOakdfaUlubTdISWc2LTlmanBjdURjMQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/tabacalera-tour-highlights-asian-growth/"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zWGxIMllleERLdkF4YzFWUnQwQXFWU0dPUzhoM0thSUZHa2ZwTG11TXNSTW0wS2xkcXBzMGZma2VkT2xfeW1oaEVhN1hwWHRaQ21YMndBWndMQlFkRzZCdFJOakdfaUlubTdISWc2LTlmanBjdURjMQ?oc=5"
       },
       "confirmed_by": [],
       "id": "tabacalera-tour-highlights-asian-growth-with-puros-or-genes-and-flor-de-cop-n-s-50th-anniv"
@@ -485,24 +563,24 @@
       "id": "plasencia-launches-2026-holiday-collection"
     },
     {
-      "published_at": "2026-11-04T18:10:07+00:00",
-      "updated_at": "2026-11-04T18:10:07+00:00",
+      "published_at": "2026-11-04T12:28:44+00:00",
+      "updated_at": "2026-11-04T12:28:44+00:00",
       "title": "La Casa Del Habano Berlin am Osthafen Unveils Upcoming Event Schedule",
       "summary": "As the temperature drops, La Casa del Habano Berlin opens its doors for a series of autumn and winter evenings dedicated to Cuban cigars",
       "category": [
         "Nya utgåvor"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/2fba4481-252b-98ea-58b0-5f72b7e5e1a0.png",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+          "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGxMaGp1ZllzX0ZBenVvTDFmMUNoaHZzUE9LSmhtdTdrRG1VbzczaUpMcllyMjJXVm9USkRNazh6Y0JXZmFRVmpSX1IxVTVyMkNzT0FrOUJfWWRlRXNvRC1QcUQ1dmdHcm53ZkVQQllRUEUwZGdBeFZtNkZib2ZSX19CU3RlN01pWHJIaWZRMER4VjNGR3d4TE00eXZZaEpW?oc=5"
+        "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
       },
       "confirmed_by": [],
       "id": "la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule"
@@ -531,29 +609,6 @@
       "id": "selected-tobacco-unveils-petit-edition"
     },
     {
-      "published_at": "2026-11-04T08:41:42+00:00",
-      "updated_at": "2026-11-04T08:41:42+00:00",
-      "title": "Marko Bilić Appointed as Global Brand Ambassador for Nobdesign",
-      "summary": "Marko Bilić, Founder of the Cigar Smoking World Championship (CSWC) and President of Club Mareva, has been officially appointed as the Global Brand Ambassador for Nobdesign",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Unknown.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/marko-bilic-appointed-as-global-brand-ambassador-for-nobdesign/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/marko-bilic-appointed-as-global-brand-ambassador-for-nobdesign/"
-      },
-      "confirmed_by": [],
-      "id": "marko-bili-appointed-as-global-brand-ambassador-for-nobdesign"
-    },
-    {
       "published_at": "2026-11-03T18:24:36+00:00",
       "updated_at": "2026-11-03T18:24:36+00:00",
       "title": "Cigar Imports Flat Through August, Honduras Posts Notable Gain",
@@ -575,6 +630,29 @@
       },
       "confirmed_by": [],
       "id": "cigar-imports-flat-through-august-honduras-posts-notable-gain"
+    },
+    {
+      "published_at": "2026-11-03T16:39:34+00:00",
+      "updated_at": "2026-11-03T16:39:34+00:00",
+      "title": "J.C. Newman Cigar Co. Lounge At Benchmark International Arena, Tampa, Florida",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXpJSmxSckQzN3NGRTlsUFJLcG9ST2JFS3M1Zk5vTVZ4TG95bndYVVdvMWFkV1poSXdJU0dkSEhnUnk3eUx4czZLUWlkNnhtQXF5SlJJN1J4YV9jWUUzaUhyM1JiWTA2SkZyekdFWGp3V1QtbEZaVWN1cU9YWEgtNVE4MnhZMkZSWnZBMXBxdVdQb0o1SndKYVppLXFzeERBOGtiNXdsLVhsTEdJYTBuSTFiZw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXpJSmxSckQzN3NGRTlsUFJLcG9ST2JFS3M1Zk5vTVZ4TG95bndYVVdvMWFkV1poSXdJU0dkSEhnUnk3eUx4czZLUWlkNnhtQXF5SlJJN1J4YV9jWUUzaUhyM1JiWTA2SkZyekdFWGp3V1QtbEZaVWN1cU9YWEgtNVE4MnhZMkZSWnZBMXBxdVdQb0o1SndKYVppLXFzeERBOGtiNXdsLVhsTEdJYTBuSTFiZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "j-c-newman-cigar-co-lounge-at-benchmark-international-arena-tampa-florida"
     }
   ]
 }
