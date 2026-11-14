@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-11-14T12:08:16.225191+00:00",
+  "updated_at": "2026-11-14T21:26:30.339057+00:00",
   "items": [
+    {
+      "published_at": "2026-11-14T19:29:45+00:00",
+      "updated_at": "2026-11-14T19:29:45+00:00",
+      "title": "Kristoff.ai Debuts at Two Guys Cigars",
+      "summary": "Jarrid Trudeau, evp of sales for of Kristoff Cigars, used artificial intelligence to analyze cigar feedback from hundreds of sources to guide the company's newest blend. He drew on professional reviews, consumer forums, retailers' review sections and more to train a model that would show what consumers like and don't like in a cigar. The post Kristoff.ai Debuts at Two Guys Cigars appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/kristoff-ai-debuts-at-two-guys-cigars/487629/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/kristoff-ai-debuts-at-two-guys-cigars/487629/"
+      },
+      "confirmed_by": [],
+      "id": "kristoff-ai-debuts-at-two-guys-cigars"
+    },
+    {
+      "published_at": "2026-11-14T16:00:10+00:00",
+      "updated_at": "2026-11-14T16:00:10+00:00",
+      "title": "Fermin Perez Puro Estelí Corona",
+      "summary": "The single-vitola release is made entirely of tobacco grown in what is considered the cigar-making capital of Nicaragua. It is also the company's first new line to be made at Tabacalera Familia Disla S.A. after moving its production there.",
+      "category": [
+        "Nicaragua"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/fermin-perez-puro-esteli-corona/487320/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/fermin-perez-puro-esteli-corona/487320/"
+      },
+      "confirmed_by": [],
+      "id": "fermin-perez-puro-estel-corona"
+    },
+    {
+      "published_at": "2026-11-14T14:00:40+00:00",
+      "updated_at": "2026-11-14T14:00:40+00:00",
+      "title": "Hiram & Solomon Adds Distribution in Albania",
+      "summary": "The company has partnered with Premium Cigars Albania to bring its cigars to the European country. The cigars are now available through a growing number of shops and lounges. The post Hiram & Solomon Adds Distribution in Albania appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/hiram-solomon-adds-distribution-in-albania/487304/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/hiram-solomon-adds-distribution-in-albania/487304/"
+      },
+      "confirmed_by": [],
+      "id": "hiram-solomon-adds-distribution-in-albania"
+    },
+    {
+      "published_at": "2026-11-14T13:02:33+00:00",
+      "updated_at": "2026-11-14T13:02:33+00:00",
+      "title": "Cigar Industry Report: Edition 715 (11/14/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA0Y0c2WDdsYThOS0h3MTh6Vm1vODRTcWxtWjNJQjNLMFFYV0czb1hHYm5PMGoxZWFwQTBVcXQzdnF6VEM1UDdOUi14WkxlaEItVkJkcFRta250OThwRFNVNmYzRjQwbU5sNGlpV2ZESTVFdWJWZTBqbjg2S1VLNFpQMTE?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA0Y0c2WDdsYThOS0h3MTh6Vm1vODRTcWxtWjNJQjNLMFFYV0czb1hHYm5PMGoxZWFwQTBVcXQzdnF6VEM1UDdOUi14WkxlaEItVkJkcFRta250OThwRFNVNmYzRjQwbU5sNGlpV2ZESTVFdWJWZTBqbjg2S1VLNFpQMTE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-715-11-14-26"
+    },
     {
       "published_at": "2026-11-13T19:00:41+00:00",
       "updated_at": "2026-11-13T19:00:41+00:00",
@@ -241,29 +333,6 @@
       "id": "drew-estate-crafts-undercrown-dark-harvest-for-cigars-international"
     },
     {
-      "published_at": "2026-11-12T21:00:36+00:00",
-      "updated_at": "2026-11-12T21:00:36+00:00",
-      "title": "Weller by Cohiba 2026 Coming This Month",
-      "summary": "The new blend features a U.S.-grown broadleaf binder aged in W.L. barrels, which held a bourbon shaped from input from more than 100,000 consumers. It's the sixth release in the series, which debuted in 2021.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/new-weller-by-cohiba-coming-this-month/486925/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/new-weller-by-cohiba-coming-this-month/486925/"
-      },
-      "confirmed_by": [],
-      "id": "weller-by-cohiba-2026-coming-this-month"
-    },
-    {
       "published_at": "2026-11-12T20:20:34+00:00",
       "updated_at": "2026-11-12T20:20:34+00:00",
       "title": "2026 Big Smoke Las Vegas Seminars: Aberfeldy Scotch and Montecristo and Aging Room Cigars",
@@ -285,52 +354,6 @@
       },
       "confirmed_by": [],
       "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
-    },
-    {
-      "published_at": "2026-11-12T19:34:57+00:00",
-      "updated_at": "2026-11-12T19:34:57+00:00",
-      "title": "Highclere Castle Senetjer 2026 On the Way to Stores",
-      "summary": "As with every release of the cigar dating back to 2022 when it debuted, this version is a 6 3/4 x 52 perfecto. The limited edition was created to commemorate the 100th anniversary of the discovery of King Tutankhamen’s tomb. The post Highclere Castle Senetjer 2026 On the Way to Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/highclere-castle-senetjer-2026-on-the-way-to-stores/486904/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/highclere-castle-senetjer-2026-on-the-way-to-stores/486904/"
-      },
-      "confirmed_by": [],
-      "id": "highclere-castle-senetjer-2026-on-the-way-to-stores"
-    },
-    {
-      "published_at": "2026-11-12T18:00:02+00:00",
-      "updated_at": "2026-11-12T18:00:02+00:00",
-      "title": "Kristoff Begins Shipping New TAA Release, Mildly Pistoff Kristoff",
-      "summary": "The cigars are headed to retail members of the Tobacconists' Association of America (TAA). While one cigar is an exclusive for them, the other is a new line that will get a widespread release at the 2027 PCA Convention & Trade Show. The post Kristoff Begins Shipping New TAA Release, Mildly Pistoff Kristoff appeared first on halfwheel",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/kristoff-begins-shipping-new-taa-release-mildly-pistoff-kristoff/486868/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/kristoff-begins-shipping-new-taa-release-mildly-pistoff-kristoff/486868/"
-      },
-      "confirmed_by": [],
-      "id": "kristoff-begins-shipping-new-taa-release-mildly-pistoff-kristoff"
     },
     {
       "published_at": "2026-11-11T13:01:05+00:00",
@@ -526,29 +549,6 @@
       "id": "arnold-andr-and-joya-de-nicaragua-end-partnership-at-the-end-of-the-year"
     },
     {
-      "published_at": "2026-11-07T14:27:27+00:00",
-      "updated_at": "2026-11-07T14:27:27+00:00",
-      "title": "Cigar Industry Report: Edition 714 (11/7/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzBBd0pYVU45X3JxSGpJTFlqU2llZmVxZG9qYW4wMkk5aXJYYkFqOWZzemd6UlViMnZyblR6LURJT21NN3Zabkw3MHpuNVlPRGdIZTZmb1hIM3VmRmFkaElBWEdLUkZHSnZpaUplWjJVOHRGaEdqUEhZcURIaGk2X1pHVQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzBBd0pYVU45X3JxSGpJTFlqU2llZmVxZG9qYW4wMkk5aXJYYkFqOWZzemd6UlViMnZyblR6LURJT21NN3Zabkw3MHpuNVlPRGdIZTZmb1hIM3VmRmFkaElBWEdLUkZHSnZpaUplWjJVOHRGaEdqUEhZcURIaGk2X1pHVQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigar-industry-report-edition-714-11-7-26"
-    },
-    {
       "published_at": "2026-11-06T17:03:11+00:00",
       "updated_at": "2026-11-06T17:03:11+00:00",
       "title": "J.C. Newman Debuts New Cuesta-Rey Design at Big Smoke Las Vegas",
@@ -593,29 +593,6 @@
       },
       "confirmed_by": [],
       "id": "plasencia-launches-2026-holiday-collection"
-    },
-    {
-      "published_at": "2026-11-04T12:28:44+00:00",
-      "updated_at": "2026-11-04T12:28:44+00:00",
-      "title": "La Casa Del Habano Berlin am Osthafen Unveils Upcoming Event Schedule",
-      "summary": "As the temperature drops, La Casa del Habano Berlin opens its doors for a series of autumn and winter evenings dedicated to Cuban cigars",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/2fba4481-252b-98ea-58b0-5f72b7e5e1a0.png",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule/"
-      },
-      "confirmed_by": [],
-      "id": "la-casa-del-habano-berlin-am-osthafen-unveils-upcoming-event-schedule"
     }
   ]
 }
