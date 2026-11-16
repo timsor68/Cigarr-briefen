@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-15T21:45:06.647969+00:00",
+  "updated_at": "2026-11-16T13:35:52.533878+00:00",
   "items": [
+    {
+      "published_at": "2026-11-16T11:43:27+00:00",
+      "updated_at": "2026-11-16T11:43:27+00:00",
+      "title": "SVAROG Association Hosts its First Event, \"SVAROG I\", in Luxemburg",
+      "summary": "The SVAROG I was the first evening hosted by the SVAROG association, an invitation-only event centered on cigar culture, fine dining, and fellowship",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/a0f47b1d2beff95d76b7c9a142b6a8a4-cover.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/svarog-association-hosts-its-first-event-svarog-i-in-luxemburg/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/svarog-association-hosts-its-first-event-svarog-i-in-luxemburg/"
+      },
+      "confirmed_by": [],
+      "id": "svarog-association-hosts-its-first-event-svarog-i-in-luxemburg"
+    },
+    {
+      "published_at": "2026-11-16T11:13:49+00:00",
+      "updated_at": "2026-11-16T11:13:49+00:00",
+      "title": "Davidoff Launches Winston Churchill Humidor",
+      "summary": "A fine cigar collection deserves a special setting. The new Davidoff Winston Churchill Humidor combines elegance with cigar care",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/davidoff-5.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/davidoff-launches-winston-churchill-humidor/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/davidoff-launches-winston-churchill-humidor/"
+      },
+      "confirmed_by": [],
+      "id": "davidoff-launches-winston-churchill-humidor"
+    },
     {
       "published_at": "2026-11-15T19:28:32+00:00",
       "updated_at": "2026-11-15T19:28:32+00:00",
@@ -46,29 +92,6 @@
       },
       "confirmed_by": [],
       "id": "montecristo-1935-anniversary-edici-n-doble-diamante-red-cigar-review"
-    },
-    {
-      "published_at": "2026-11-15T04:22:33+00:00",
-      "updated_at": "2026-11-15T04:22:33+00:00",
-      "title": "Kristoff to Release Kristoff.ai Cigar | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "kristoff-to-release-kristoff-ai-cigar-cigar-news"
     },
     {
       "published_at": "2026-11-15T00:42:33+00:00",
@@ -147,19 +170,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/hiram-solomon-adds-distribution-in-albania/487304/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kc09aLU96MExUSnNYMkxlcm54S2tycXc3c2ZURlZPNW9IT0ZSdWNVLXhuVjJIRU9aQmcxdjEyaEktOEt4UFNCS29Sb3pMQnB3dUVZNzBlaEwybzNDbEdJOEhkNkMxZG9NWml0LU02QkozdG1rUGxVOQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/hiram-solomon-adds-distribution-in-albania/487304/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kc09aLU96MExUSnNYMkxlcm54S2tycXc3c2ZURlZPNW9IT0ZSdWNVLXhuVjJIRU9aQmcxdjEyaEktOEt4UFNCS29Sb3pMQnB3dUVZNzBlaEwybzNDbEdJOEhkNkMxZG9NWml0LU02QkozdG1rUGxVOQ?oc=5"
+        }
+      ],
       "id": "hiram-solomon-adds-distribution-in-albania"
     },
     {
@@ -331,29 +363,6 @@
       },
       "confirmed_by": [],
       "id": "america250-visits-j-c-newman-cigar-co"
-    },
-    {
-      "published_at": "2026-11-12T23:00:25+00:00",
-      "updated_at": "2026-11-12T23:00:25+00:00",
-      "title": "HVC 500 Years Lancero Only Legends",
-      "summary": "The HVC 500 Years Lancero Only Legends is the first lancero for the company. It was slated for a Father's Day release to celebrate the cigar smoking dads, but got delayed until the end of September. The post HVC 500 Years Lancero Only Legends appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/hvc-500-years-lancero-only-legends/486578/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/hvc-500-years-lancero-only-legends/486578/"
-      },
-      "confirmed_by": [],
-      "id": "hvc-500-years-lancero-only-legends"
     },
     {
       "published_at": "2026-11-12T20:20:34+00:00",
@@ -593,29 +602,6 @@
       },
       "confirmed_by": [],
       "id": "j-c-newman-debuts-new-cuesta-rey-design-at-big-smoke-las-vegas"
-    },
-    {
-      "published_at": "2026-11-06T16:48:21+00:00",
-      "updated_at": "2026-11-06T16:48:21+00:00",
-      "title": "Plasencia Launches 2026 Holiday Collection",
-      "summary": "Plasencia Cigars announces its 2026 Plasencia 5 Toro Cigar Holiday Collection, a curated gift pack featuring five cigars from the company's portfolio",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image-5.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/plasencia-launches-2026-holiday-collection/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/plasencia-launches-2026-holiday-collection/"
-      },
-      "confirmed_by": [],
-      "id": "plasencia-launches-2026-holiday-collection"
     }
   ]
 }
