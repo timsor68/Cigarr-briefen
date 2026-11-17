@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-17T00:46:18.047936+00:00",
+  "updated_at": "2026-11-17T14:20:04.001751+00:00",
   "items": [
+    {
+      "published_at": "2026-11-17T12:42:36+00:00",
+      "updated_at": "2026-11-17T12:42:36+00:00",
+      "title": "Despite Fears of Ongoing US-Iranian Escalation, the World Cigar Show in Dubai Went Ahead at Pace Last Week",
+      "summary": "Exhibitors reported brisk business on Day 1, with one manufacturer telling me he had sold out of the stock he had brought to the show by the middle of the afternoon",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWE0aDRsdkl5TUJXMzdKckJSQUZRUkFHRnQ2MXVscWQ5SVRHeEhJdFdKYUNuLVZGNkRyZm9aanFSTG1UUGlRc3pXU19fWlpxRU54aGh2MG5Rc3hpNG5uUmt4VW1nc1JsLWYtZkg5VlBnYUxZenFQal9mZHNDTTdqSFBtNy0zM3dCSDNnN1IyYmZQMGczUjJMUF9Ebko4X0dEQVNCMURoSGZmeW1KNjVsY3NudjR6b0VM?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWE0aDRsdkl5TUJXMzdKckJSQUZRUkFHRnQ2MXVscWQ5SVRHeEhJdFdKYUNuLVZGNkRyZm9aanFSTG1UUGlRc3pXU19fWlpxRU54aGh2MG5Rc3hpNG5uUmt4VW1nc1JsLWYtZkg5VlBnYUxZenFQal9mZHNDTTdqSFBtNy0zM3dCSDNnN1IyYmZQMGczUjJMUF9Ebko4X0dEQVNCMURoSGZmeW1KNjVsY3NudjR6b0VM?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "despite-fears-of-ongoing-us-iranian-escalation-the-world-cigar-show-in-dubai-went-ahead-at"
+    },
+    {
+      "published_at": "2026-11-17T09:26:31+00:00",
+      "updated_at": "2026-11-17T09:26:31+00:00",
+      "title": "Española Cigars Announces New Honduran Puro Collection for PCA 2026",
+      "summary": "is proud to announce the upcoming release of Española Honduras, a new collection of handcrafted Honduran puros that will be oﬃcially previewed at the 2027 Premium Cigar Association (PCA) Trade Show, with shipping scheduled to begin immediately following the show",
+      "category": [
+        "Event"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/espanola.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/espanola-cigars-announces-new-honduran-puro-collection-for-pca-2026/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/espanola-cigars-announces-new-honduran-puro-collection-for-pca-2026/"
+      },
+      "confirmed_by": [],
+      "id": "espa-ola-cigars-announces-new-honduran-puro-collection-for-pca-2026"
+    },
     {
       "published_at": "2026-11-16T22:30:51+00:00",
       "updated_at": "2026-11-16T22:30:51+00:00",
@@ -78,19 +124,28 @@
       "category": [
         "Kuba"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/saint-luis-rey-palatinos-lcdh-habanos-specialist-exclusive-announced/488352/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/habanos-s-a-introduces-saint-luis-rey-palatinos/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/saint-luis-rey-palatinos-lcdh-habanos-specialist-exclusive-announced/488352/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/habanos-s-a-introduces-saint-luis-rey-palatinos/"
+        }
+      ],
       "id": "saint-luis-rey-palatinos-lcdh-habanos-specialist-exclusive-announced"
     },
     {
@@ -101,19 +156,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines/488318/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines/488318/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
+        }
+      ],
       "id": "santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines"
     },
     {
@@ -163,24 +227,47 @@
       "id": "intertabac-strengthens-its-cigar-network"
     },
     {
-      "published_at": "2026-11-16T14:33:48+00:00",
-      "updated_at": "2026-11-16T14:33:48+00:00",
-      "title": "Foundation Cigars Begins Shipping 2026 Annual Release Highclere Castle Senetjer",
-      "summary": "Foundation Cigar Company Releases Highclere Castle Senetjer",
+      "published_at": "2026-11-16T14:35:32+00:00",
+      "updated_at": "2026-11-16T14:35:32+00:00",
+      "title": "601 Blue 20th Anniversary by Espinosa Premium Cigars – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
-        "Nya utgåvor"
+        "Test & betyg"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "601-blue-20th-anniversary-by-espinosa-premium-cigars-cigar-review"
+    },
+    {
+      "published_at": "2026-11-16T14:14:36+00:00",
+      "updated_at": "2026-11-16T14:14:36+00:00",
+      "title": "Foundation Cigars Begins Shipping 2026 Annual Release Highclere Castle Senetjer",
+      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Foundation Cigar Company is proud to announce the return of the Highclere Castle Senetjer as an annual limited release. Beginning this November, Senetjer will be available through select tobacconists to celebrate the enduring partnership between Foundation Cigars and Highclere Castle. Initially crafted to commemorate the 100th anniversary of the discovery of King Tutankhamun’s tomb, Senetjer is now an annual November release.",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/f1cd6fcd-1da6-60ae-ba1c-086e08a334cc.jpg",
+      "sources": [
+        {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHQ1V2lyUndibmlFdklKNno2SnNVZjNuajRSWFRLOXZjNG9uSnU3Y19HMngyVWxZU0pBbVBPUnNxUHJXNU1idVhkdFdvNWRRWWU1V3dEZlpzUUVoN2ZHNzdxdWpBb3VQS2oyeWxkbUpiUUZkT1hlMkI4MUdQZS1wRDhlQXBTX2sxNzlmeW80WQ?oc=5"
+          "url": "https://www.cigarjournal.com/https-chatgpt-com-c-6939d8c7-139c-832c-bc8d-402b085137e7/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHQ1V2lyUndibmlFdklKNno2SnNVZjNuajRSWFRLOXZjNG9uSnU3Y19HMngyVWxZU0pBbVBPUnNxUHJXNU1idVhkdFdvNWRRWWU1V3dEZlpzUUVoN2ZHNzdxdWpBb3VQS2oyeWxkbUpiUUZkT1hlMkI4MUdQZS1wRDhlQXBTX2sxNzlmeW80WQ?oc=5"
+        "url": "https://www.cigarjournal.com/https-chatgpt-com-c-6939d8c7-139c-832c-bc8d-402b085137e7/"
       },
       "confirmed_by": [],
       "id": "foundation-cigars-begins-shipping-2026-annual-release-highclere-castle-senetjer"
@@ -370,33 +457,10 @@
       "id": "kristoff-ai-debuts-at-two-guys-cigars"
     },
     {
-      "published_at": "2026-11-14T16:00:10+00:00",
-      "updated_at": "2026-11-14T16:00:10+00:00",
-      "title": "Fermin Perez Puro Estelí Corona",
-      "summary": "The single-vitola release is made entirely of tobacco grown in what is considered the cigar-making capital of Nicaragua. It is also the company's first new line to be made at Tabacalera Familia Disla S.A. after moving its production there.",
-      "category": [
-        "Nicaragua"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/fermin-perez-puro-esteli-corona/487320/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/fermin-perez-puro-esteli-corona/487320/"
-      },
-      "confirmed_by": [],
-      "id": "fermin-perez-puro-estel-corona"
-    },
-    {
-      "published_at": "2026-11-13T15:47:32+00:00",
-      "updated_at": "2026-11-13T15:47:32+00:00",
-      "title": "Davide Moro Named General Manager and President of Davidoff of Geneva USA | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-11-13T16:11:05+00:00",
+      "updated_at": "2026-11-13T16:11:05+00:00",
+      "title": "Augusto Cigars Fights Off Disastrous Fees",
+      "summary": "They fought the law, and the law did not win. When faced by completely unexpected and potentially business ending registration fees, Augusto Cigars in Norway successfully hit back",
       "category": [
         "Nyheter"
       ],
@@ -404,16 +468,16 @@
       "image": "",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHN2NFFKZU1iSDZvRDlWLVlqbmRCVDQxN0FaQUJtUGxsWElWQzJmektaVjl6ZjFWWXIyRE5wbUdfemt4ZjF5ajZDbzN6ZFE3RElPc0l6enpWcmhCTUVEUHlCQ2pLcVdHU1gwWmpNMkMxQ3FrU0tsV1YzVlRsSVFJVGQtNTZIcC1uelJzMmJKMEVEeTBUb1VmS1o1UlNwX0ZPUXpaLThlM3lYSkprREE?oc=5"
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKeGdBYlJDN2U4NjROdTNHU1R2U0JUZEMyb3RvbHhuMGE2d253bkh5bGY0MlpXcmlfdm5qWDhVb3VFSnZ1bWZBUFFiZnp0YUxndktmNUt2M21xdHN1Ry1NNmE0LWNmMVhRTzlla3NOZ0Joa3lnd2RqQ3lidw?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHN2NFFKZU1iSDZvRDlWLVlqbmRCVDQxN0FaQUJtUGxsWElWQzJmektaVjl6ZjFWWXIyRE5wbUdfemt4ZjF5ajZDbzN6ZFE3RElPc0l6enpWcmhCTUVEUHlCQ2pLcVdHU1gwWmpNMkMxQ3FrU0tsV1YzVlRsSVFJVGQtNTZIcC1uelJzMmJKMEVEeTBUb1VmS1o1UlNwX0ZPUXpaLThlM3lYSkprREE?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKeGdBYlJDN2U4NjROdTNHU1R2U0JUZEMyb3RvbHhuMGE2d253bkh5bGY0MlpXcmlfdm5qWDhVb3VFSnZ1bWZBUFFiZnp0YUxndktmNUt2M21xdHN1Ry1NNmE0LWNmMVhRTzlla3NOZ0Joa3lnd2RqQ3lidw?oc=5"
       },
       "confirmed_by": [],
-      "id": "davide-moro-named-general-manager-and-president-of-davidoff-of-geneva-usa-cigar-news"
+      "id": "augusto-cigars-fights-off-disastrous-fees"
     },
     {
       "published_at": "2026-11-13T15:28:12+00:00",
@@ -439,29 +503,6 @@
       "id": "boveda-introduces-new-100-count-humidor"
     },
     {
-      "published_at": "2026-11-13T14:20:34+00:00",
-      "updated_at": "2026-11-13T14:20:34+00:00",
-      "title": "Augusto Cigars Fights Off Disastrous Fees",
-      "summary": "They fought the law, and the law did not win. When faced by completely unexpected and potentially business ending registration fees, Augusto Cigars in Norway successfully hit back",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Norway-fees2.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/augusto-cigars-fights-off-disastrous-fees/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/augusto-cigars-fights-off-disastrous-fees/"
-      },
-      "confirmed_by": [],
-      "id": "augusto-cigars-fights-off-disastrous-fees"
-    },
-    {
       "published_at": "2026-11-13T10:42:33+00:00",
       "updated_at": "2026-11-13T10:42:33+00:00",
       "title": "DALAY Brings the Crowned Heads Thunderkiss to Germany",
@@ -483,29 +524,6 @@
       },
       "confirmed_by": [],
       "id": "dalay-brings-the-crowned-heads-thunderkiss-to-germany"
-    },
-    {
-      "published_at": "2026-11-13T10:32:40+00:00",
-      "updated_at": "2026-11-13T10:32:40+00:00",
-      "title": "America250 Visits J.C. Newman Cigar Co",
-      "summary": "Today, the United States Semiquincentennial Commission visited the historic El Reloj Cigar Factory to recognize J.C. Newman's participation in America250",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image-7.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/america250-visits-j-c-newman-cigar-co/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/america250-visits-j-c-newman-cigar-co/"
-      },
-      "confirmed_by": [],
-      "id": "america250-visits-j-c-newman-cigar-co"
     },
     {
       "published_at": "2026-11-12T20:20:34+00:00",
@@ -531,27 +549,27 @@
       "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
     },
     {
-      "published_at": "2026-11-11T12:01:43+00:00",
-      "updated_at": "2026-11-11T12:01:43+00:00",
-      "title": "Drew Estate Dominicana Joins PROCIGAR as an Active Member",
-      "summary": "The Association of Dominican Cigar Manufacturers (PROCIGAR) announced today that Drew Estate Dominicana has joined the association as an active member, following approval of its membership application by the organization’s governing bodies",
+      "published_at": "2026-11-09T14:10:36+00:00",
+      "updated_at": "2026-11-09T14:10:36+00:00",
+      "title": "Santa Clara Cigars to Distribute Marlon Wayans Liga Tridente Cigars | CIgar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
-        "Dominikanska republiken"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/Procigar-logo-feature.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWxvU21qN1NhdllkQVpKb0VoNF9FVVFQMGlqVjZoVUlLQnBKYlJjYk9qWGFwNHlCdXA5Vk5Nb2ZfR0MyT09iVS0zSkNQNnRsbUFGUThIYTNxUEFOalFGOTB5b2tkcmRJaldpdE9zXzBCVXo5OHRkRTFrYllmcmxnbU1GWWlRS29nd1VZY3dXUy1ZUUkwREZtWTZOVW1BT1ZZcmpZX3ROQ0dPWVJOYW94ZW5GdkU?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWxvU21qN1NhdllkQVpKb0VoNF9FVVFQMGlqVjZoVUlLQnBKYlJjYk9qWGFwNHlCdXA5Vk5Nb2ZfR0MyT09iVS0zSkNQNnRsbUFGUThIYTNxUEFOalFGOTB5b2tkcmRJaldpdE9zXzBCVXo5OHRkRTFrYllmcmxnbU1GWWlRS29nd1VZY3dXUy1ZUUkwREZtWTZOVW1BT1ZZcmpZX3ROQ0dPWVJOYW94ZW5GdkU?oc=5"
       },
       "confirmed_by": [],
-      "id": "drew-estate-dominicana-joins-procigar-as-an-active-member"
+      "id": "santa-clara-cigars-to-distribute-marlon-wayans-liga-tridente-cigars-cigar-news"
     }
   ]
 }
