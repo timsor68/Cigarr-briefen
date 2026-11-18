@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-17T23:49:56.898758+00:00",
+  "updated_at": "2026-11-18T13:54:26.333883+00:00",
   "items": [
+    {
+      "published_at": "2026-11-18T13:08:32+00:00",
+      "updated_at": "2026-11-18T13:08:32+00:00",
+      "title": "“Once Upon a Time in Philippopolis”: Plovdiv Becomes the Stage for the European Cigar Scene",
+      "summary": "More than 230 enthusiasts, international guests, and a new media partnership: The Gentlemen’s Club Philippopolis celebrated its largest annual gathering to date on October 17",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene"
+    },
+    {
+      "published_at": "2026-11-18T04:18:48+00:00",
+      "updated_at": "2026-11-18T04:18:48+00:00",
+      "title": "Report: White House Pulls FDA Commissioner Nominee Ahead of Wednesday Vote",
+      "summary": "Heidi Overton didn't have enough votes to clear the Senate Health Committee. In recent weeks, the vacancy has gotten uniquely toxic. The post Report: White House Pulls FDA Commissioner Nominee Ahead of Wednesday Vote appeared first on halfwheel",
+      "category": [
+        "Reglering"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/report-white-house-pulls-fda-commissioner-nominee-ahead-of-wednesday-vote/488915/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/report-white-house-pulls-fda-commissioner-nominee-ahead-of-wednesday-vote/488915/"
+      },
+      "confirmed_by": [],
+      "id": "report-white-house-pulls-fda-commissioner-nominee-ahead-of-wednesday-vote"
+    },
     {
       "published_at": "2026-11-17T21:00:03+00:00",
       "updated_at": "2026-11-17T21:00:03+00:00",
@@ -32,28 +78,19 @@
       "category": [
         "Dominikanska republiken"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/juan-mustafa-named-general-manager-of-drew-estates-new-dominican-factory/488783/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/juan-mustafa-named-general-manager-of-drew-estates-new-dominican-factory/488783/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "juan-mustaf-named-general-manager-of-drew-estate-s-new-dominican-factory"
     },
     {
@@ -126,6 +163,29 @@
       },
       "confirmed_by": [],
       "id": "despite-fears-of-ongoing-us-iranian-escalation-the-world-cigar-show-in-dubai-went-ahead-at"
+    },
+    {
+      "published_at": "2026-11-17T12:12:02+00:00",
+      "updated_at": "2026-11-17T12:12:02+00:00",
+      "title": "Santa Clara Cigars Rebrands Crafted By AJ Fernandez to Selected by AJ Fernandez and Adds H. Upmann | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
     },
     {
       "published_at": "2026-11-17T09:26:31+00:00",
@@ -252,38 +312,6 @@
       "id": "saint-luis-rey-palatinos-lcdh-habanos-specialist-exclusive-announced"
     },
     {
-      "published_at": "2026-11-16T19:02:44+00:00",
-      "updated_at": "2026-11-16T19:02:44+00:00",
-      "title": "Santa Clara Adds H. Upmann Selected by AJ Fernandez, Rebrands Crafted by AJ Fernandez Lines",
-      "summary": "It's a new Nicaraguan puro that the company says offers a rich, balanced, medium-bodied smoke. Additionally, the Crafted by AJ Fernandez lines are now known as Selected by AJ Fernandez. Upmann Selected by AJ Fernandez, Rebrands Crafted by AJ Fernandez Lines appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines/488318/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines/488318/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
-        }
-      ],
-      "id": "santa-clara-adds-h-upmann-selected-by-aj-fernandez-rebrands-crafted-by-aj-fernandez-lines"
-    },
-    {
       "published_at": "2026-11-16T15:38:14+00:00",
       "updated_at": "2026-11-16T15:38:14+00:00",
       "title": "InterTabac Strengthens its Cigar Network",
@@ -376,29 +404,6 @@
       "id": "a-new-presence-for-elie-bleu-in-canada"
     },
     {
-      "published_at": "2026-11-16T12:03:41+00:00",
-      "updated_at": "2026-11-16T12:03:41+00:00",
-      "title": "Hiram & Solomon Cigars Arrives in Albania",
-      "summary": "Hiram & Solomon Cigars today announced that its portfolio of handcrafted premium cigars is now available in Albania through an exclusive distribution partnership with Premium Cigars Albania",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kc09aLU96MExUSnNYMkxlcm54S2tycXc3c2ZURlZPNW9IT0ZSdWNVLXhuVjJIRU9aQmcxdjEyaEktOEt4UFNCS29Sb3pMQnB3dUVZNzBlaEwybzNDbEdJOEhkNkMxZG9NWml0LU02QkozdG1rUGxVOQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kc09aLU96MExUSnNYMkxlcm54S2tycXc3c2ZURlZPNW9IT0ZSdWNVLXhuVjJIRU9aQmcxdjEyaEktOEt4UFNCS29Sb3pMQnB3dUVZNzBlaEwybzNDbEdJOEhkNkMxZG9NWml0LU02QkozdG1rUGxVOQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "hiram-solomon-cigars-arrives-in-albania"
-    },
-    {
       "published_at": "2026-11-16T11:43:27+00:00",
       "updated_at": "2026-11-16T11:43:27+00:00",
       "title": "SVAROG Association Hosts its First Event, \"SVAROG I\", in Luxemburg",
@@ -420,6 +425,29 @@
       },
       "confirmed_by": [],
       "id": "svarog-association-hosts-its-first-event-svarog-i-in-luxemburg"
+    },
+    {
+      "published_at": "2026-11-16T11:30:52+00:00",
+      "updated_at": "2026-11-16T11:30:52+00:00",
+      "title": "Hiram & Solomon Cigars Arrives in Albania",
+      "summary": "Hiram & Solomon Cigars today announced that its portfolio of handcrafted premium cigars is now available in Albania through an exclusive distribution partnership with Premium Cigars Albania",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/c92c5b90-9339-beb1-099c-4709d4c141d8.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/hiram-solomon-cigars-arrives-in-albania/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/hiram-solomon-cigars-arrives-in-albania/"
+      },
+      "confirmed_by": [],
+      "id": "hiram-solomon-cigars-arrives-in-albania"
     },
     {
       "published_at": "2026-11-16T11:13:49+00:00",
@@ -535,29 +563,6 @@
       },
       "confirmed_by": [],
       "id": "boveda-introduces-new-100-count-humidor"
-    },
-    {
-      "published_at": "2026-11-13T10:42:33+00:00",
-      "updated_at": "2026-11-13T10:42:33+00:00",
-      "title": "DALAY Brings the Crowned Heads Thunderkiss to Germany",
-      "summary": "DALAY is expanding its Crowned Heads portfolio with another new addition, bringing the Thunderkiss—a new long-filler cigar from the American boutique brand—to Germany",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/26-11-07-thunderkiss-david-huckert_19.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/dalay-brings-the-crowned-heads-thunderkiss-to-germany/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/dalay-brings-the-crowned-heads-thunderkiss-to-germany/"
-      },
-      "confirmed_by": [],
-      "id": "dalay-brings-the-crowned-heads-thunderkiss-to-germany"
     },
     {
       "published_at": "2026-11-12T20:20:34+00:00",
