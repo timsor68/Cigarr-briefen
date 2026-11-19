@@ -1,6 +1,121 @@
 {
-  "updated_at": "2026-11-18T23:22:16.083908+00:00",
+  "updated_at": "2026-11-19T14:23:13.867605+00:00",
   "items": [
+    {
+      "published_at": "2026-11-19T10:40:21+00:00",
+      "updated_at": "2026-11-19T10:40:21+00:00",
+      "title": "Chateau Diadem Founder Emily Meets the Hongkong´s Seasoned Cigar Community",
+      "summary": "Some brand visits are purely ceremonial. Emily’s recent two-day stop in Hong Kong was not one of them. As one of the founders of Chateau Diadem, she came not only to present cigars but to sit with smokers, listen to their reactions, and spend time with the team at TIME",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/chateau.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
+      },
+      "confirmed_by": [],
+      "id": "chateau-diadem-founder-emily-meets-the-hongkong-s-seasoned-cigar-community"
+    },
+    {
+      "published_at": "2026-11-19T10:25:41+00:00",
+      "updated_at": "2026-11-19T10:25:41+00:00",
+      "title": "HENK MAORI Cigars Now Available in Austria",
+      "summary": "Ten years after their market launch, the exclusive HENK MAORI cigars are now available in Austria",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/henk.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/henk-maori-cigars-now-available-in-austria/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/henk-maori-cigars-now-available-in-austria/"
+      },
+      "confirmed_by": [],
+      "id": "henk-maori-cigars-now-available-in-austria"
+    },
+    {
+      "published_at": "2026-11-19T10:08:56+00:00",
+      "updated_at": "2026-11-19T10:08:56+00:00",
+      "title": "Altadis U.S.A. Expands Trinidad x Tommy Bahama Island Collection Cigar Accessories",
+      "summary": "is expanding its Trinidad x Tommy Bahama Island Collection with the addition of a cigar accessory range, including a desktop humidor, a torch lighter, a travel case, and an ashtray",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/tommy-.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/altadis-u-s-a-expands-trinidad-x-tommy-bahama-island-collection-cigar-accessories/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/altadis-u-s-a-expands-trinidad-x-tommy-bahama-island-collection-cigar-accessories/"
+      },
+      "confirmed_by": [],
+      "id": "altadis-u-s-a-expands-trinidad-x-tommy-bahama-island-collection-cigar-accessories"
+    },
+    {
+      "published_at": "2026-11-19T09:33:38+00:00",
+      "updated_at": "2026-11-19T09:33:38+00:00",
+      "title": "La Flor Dominicana Announces the Return of Its Limited-Production Holiday Lanceros",
+      "summary": "La Flor Dominicana is pleased to announce the return of three limited-production holiday favorites: the Double Ligero Lancero Natural, Double Ligero Lancero Oscuro, and Cameroon Cabinet Lancero, all beginning to ship to authorized retailers nationwide today",
+      "category": [
+        "Dominikanska republiken"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/LFD-1.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/la-flor-dominicana-announces-the-return-of-its-limited-production-holiday-lanceros/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/la-flor-dominicana-announces-the-return-of-its-limited-production-holiday-lanceros/"
+      },
+      "confirmed_by": [],
+      "id": "la-flor-dominicana-announces-the-return-of-its-limited-production-holiday-lanceros"
+    },
+    {
+      "published_at": "2026-11-19T08:46:53+00:00",
+      "updated_at": "2026-11-19T08:46:53+00:00",
+      "title": "Doha: A Conversation About the Future of the Premium Cigar Industry",
+      "summary": "The PCA gathering in Qatar, organised in partnership with Felipe Rojas and The Humidor Qatar, together with Plasencia Cigars, took place at 42 Oak & Smoke at the JW Marriott Marquis City Center Doha",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/EEFFCE96-F42E-4D49-A030-39FADDE5174C.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/doha-a-conversation-about-the-future-of-the-premium-cigar-industry/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/doha-a-conversation-about-the-future-of-the-premium-cigar-industry/"
+      },
+      "confirmed_by": [],
+      "id": "doha-a-conversation-about-the-future-of-the-premium-cigar-industry"
+    },
     {
       "published_at": "2026-11-18T23:00:14+00:00",
       "updated_at": "2026-11-18T23:00:14+00:00",
@@ -25,8 +140,8 @@
       "id": "west-tampa-tobacco-co-begins-shipping-barbershop"
     },
     {
-      "published_at": "2026-11-18T20:52:33+00:00",
-      "updated_at": "2026-11-18T20:52:33+00:00",
+      "published_at": "2026-11-18T22:07:19+00:00",
+      "updated_at": "2026-11-18T22:07:19+00:00",
       "title": "Marilyn Florez-Giordano Acquires Empire Social Brickell Cigar Lounge | Cigar News",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -48,24 +163,24 @@
       "id": "marilyn-florez-giordano-acquires-empire-social-brickell-cigar-lounge-cigar-news"
     },
     {
-      "published_at": "2026-11-18T20:38:19+00:00",
-      "updated_at": "2026-11-18T20:38:19+00:00",
+      "published_at": "2026-11-18T20:44:34+00:00",
+      "updated_at": "2026-11-18T20:44:34+00:00",
       "title": "Bribón Cigars: A Little Bit of Colombian Mischief",
       "summary": "From the tobacco fields of Barichara to Canadian cigar shops, Bribón is putting Colombian tobacco in the spotlight with panache",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image00002.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/bribon-cigars-a-little-bit-of-colombian-mischief/"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObTgzLTE2RDZCT0VqOWdvcVVzS2c1X1o1TkVyQzZNM0VXdHpMT0tPbExVTzBQdFVKY2VyZ3A3RVRUVjc4aDZ2NUxkLWppdlBNaFpfeFBvZWQyUi03bmladnFtdkxvM0w0MHZXY0FueHQ5MlBndTJfVFpSekhhckl4cXhrZ3o?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/bribon-cigars-a-little-bit-of-colombian-mischief/"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObTgzLTE2RDZCT0VqOWdvcVVzS2c1X1o1TkVyQzZNM0VXdHpMT0tPbExVTzBQdFVKY2VyZ3A3RVRUVjc4aDZ2NUxkLWppdlBNaFpfeFBvZWQyUi03bmladnFtdkxvM0w0MHZXY0FueHQ5MlBndTJfVFpSekhhckl4cXhrZ3o?oc=5"
       },
       "confirmed_by": [],
       "id": "brib-n-cigars-a-little-bit-of-colombian-mischief"
@@ -404,121 +519,6 @@
       "id": "foundation-cigars-begins-shipping-2026-annual-release-highclere-castle-senetjer"
     },
     {
-      "published_at": "2026-11-16T14:13:47+00:00",
-      "updated_at": "2026-11-16T14:13:47+00:00",
-      "title": "Cigars In Paradise in May 2027 in the DR",
-      "summary": "Cigars In Paradise festival is planned for May 20-23, 2027",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RW1WaEcyejR3akNnQmlWV3pRYTVXbjlsT2pubEtGQjBqZWs4UUtyeU9LTXdDNEQ2WDlkbHotZDlrLXBnMFlweHp6NVNFdC1wMmI2LXNrS2JnSGlwTWlRbFE0NVNWREJ0ak5DbkdOejJiTFRCV3VrbnNB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RW1WaEcyejR3akNnQmlWV3pRYTVXbjlsT2pubEtGQjBqZWs4UUtyeU9LTXdDNEQ2WDlkbHotZDlrLXBnMFlweHp6NVNFdC1wMmI2LXNrS2JnSGlwTWlRbFE0NVNWREJ0ak5DbkdOejJiTFRCV3VrbnNB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cigars-in-paradise-in-may-2027-in-the-dr"
-    },
-    {
-      "published_at": "2026-11-16T13:38:47+00:00",
-      "updated_at": "2026-11-16T13:38:47+00:00",
-      "title": "A New Presence for Elie Bleu in Canada",
-      "summary": "French craftsmanship now has greater presence in the Canadian cigar market with Elie Bleu",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/image00001-1.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/a-new-presence-for-elie-bleu-in-canada/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/a-new-presence-for-elie-bleu-in-canada/"
-      },
-      "confirmed_by": [],
-      "id": "a-new-presence-for-elie-bleu-in-canada"
-    },
-    {
-      "published_at": "2026-11-16T11:43:27+00:00",
-      "updated_at": "2026-11-16T11:43:27+00:00",
-      "title": "SVAROG Association Hosts its First Event, \"SVAROG I\", in Luxemburg",
-      "summary": "The SVAROG I was the first evening hosted by the SVAROG association, an invitation-only event centered on cigar culture, fine dining, and fellowship",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/a0f47b1d2beff95d76b7c9a142b6a8a4-cover.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/svarog-association-hosts-its-first-event-svarog-i-in-luxemburg/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/svarog-association-hosts-its-first-event-svarog-i-in-luxemburg/"
-      },
-      "confirmed_by": [],
-      "id": "svarog-association-hosts-its-first-event-svarog-i-in-luxemburg"
-    },
-    {
-      "published_at": "2026-11-16T11:30:52+00:00",
-      "updated_at": "2026-11-16T11:30:52+00:00",
-      "title": "Hiram & Solomon Cigars Arrives in Albania",
-      "summary": "Hiram & Solomon Cigars today announced that its portfolio of handcrafted premium cigars is now available in Albania through an exclusive distribution partnership with Premium Cigars Albania",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/c92c5b90-9339-beb1-099c-4709d4c141d8.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/hiram-solomon-cigars-arrives-in-albania/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/hiram-solomon-cigars-arrives-in-albania/"
-      },
-      "confirmed_by": [],
-      "id": "hiram-solomon-cigars-arrives-in-albania"
-    },
-    {
-      "published_at": "2026-11-16T11:13:49+00:00",
-      "updated_at": "2026-11-16T11:13:49+00:00",
-      "title": "Davidoff Launches Winston Churchill Humidor",
-      "summary": "A fine cigar collection deserves a special setting. The new Davidoff Winston Churchill Humidor combines elegance with cigar care",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/davidoff-5.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/davidoff-launches-winston-churchill-humidor/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/davidoff-launches-winston-churchill-humidor/"
-      },
-      "confirmed_by": [],
-      "id": "davidoff-launches-winston-churchill-humidor"
-    },
-    {
       "published_at": "2026-11-15T00:42:33+00:00",
       "updated_at": "2026-11-15T00:42:33+00:00",
       "title": "Cigar Industry Report: Edition 715 (11/14/26)",
@@ -586,29 +586,6 @@
       },
       "confirmed_by": [],
       "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
-    },
-    {
-      "published_at": "2026-11-09T14:10:36+00:00",
-      "updated_at": "2026-11-09T14:10:36+00:00",
-      "title": "Santa Clara Cigars to Distribute Marlon Wayans Liga Tridente Cigars | CIgar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWxvU21qN1NhdllkQVpKb0VoNF9FVVFQMGlqVjZoVUlLQnBKYlJjYk9qWGFwNHlCdXA5Vk5Nb2ZfR0MyT09iVS0zSkNQNnRsbUFGUThIYTNxUEFOalFGOTB5b2tkcmRJaldpdE9zXzBCVXo5OHRkRTFrYllmcmxnbU1GWWlRS29nd1VZY3dXUy1ZUUkwREZtWTZOVW1BT1ZZcmpZX3ROQ0dPWVJOYW94ZW5GdkU?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWxvU21qN1NhdllkQVpKb0VoNF9FVVFQMGlqVjZoVUlLQnBKYlJjYk9qWGFwNHlCdXA5Vk5Nb2ZfR0MyT09iVS0zSkNQNnRsbUFGUThIYTNxUEFOalFGOTB5b2tkcmRJaldpdE9zXzBCVXo5OHRkRTFrYllmcmxnbU1GWWlRS29nd1VZY3dXUy1ZUUkwREZtWTZOVW1BT1ZZcmpZX3ROQ0dPWVJOYW94ZW5GdkU?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "santa-clara-cigars-to-distribute-marlon-wayans-liga-tridente-cigars-cigar-news"
     }
   ]
 }
