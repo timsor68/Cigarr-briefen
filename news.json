@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-11-19T23:33:19.418514+00:00",
+  "updated_at": "2026-11-20T13:58:21.917261+00:00",
   "items": [
     {
-      "published_at": "2026-11-19T18:00:07+00:00",
-      "updated_at": "2026-11-19T18:00:07+00:00",
+      "published_at": "2026-11-20T10:19:20+00:00",
+      "updated_at": "2026-11-20T10:19:20+00:00",
+      "title": "Royal Havana Cigars | Willoughby, Ohio",
+      "summary": "Just to the East of the wonderful American city of Cleveland lies Royal Havana Cigars in the town of Willoughby, Ohio",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/IMG_9015.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/royal-havana-cigars-willoughby-ohio/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/royal-havana-cigars-willoughby-ohio/"
+      },
+      "confirmed_by": [],
+      "id": "royal-havana-cigars-willoughby-ohio"
+    },
+    {
+      "published_at": "2026-11-19T19:22:21+00:00",
+      "updated_at": "2026-11-19T19:22:21+00:00",
       "title": "A 100 Day Rule for Cigar of the Year Consideration | The Blog",
       "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
@@ -184,29 +207,6 @@
       },
       "confirmed_by": [],
       "id": "west-tampa-tobacco-co-begins-shipping-barbershop"
-    },
-    {
-      "published_at": "2026-11-18T22:07:19+00:00",
-      "updated_at": "2026-11-18T22:07:19+00:00",
-      "title": "Marilyn Florez-Giordano Acquires Empire Social Brickell Cigar Lounge | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnBzZVBJaUVOSlV4bUxJbGQ0WVo1akhWY3FZSVJ1U1NOZFN3ZE5KdzFMTGs5a05NS3gxUzlNU2VPY2JJZVZFZENDTWh6eWJxdVp6NGVYR295YXhJbFNraW5NdU0yLTlZd1ZodjA0VmpnN1B5ZlBaWl9NMnZkeE8yU241aFotRHdxNG9OZE40eUtBNDlndkhYWjNjOUxOclMyWnQyMGhROWs0MGlZTkZZOWdQNG5GQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnBzZVBJaUVOSlV4bUxJbGQ0WVo1akhWY3FZSVJ1U1NOZFN3ZE5KdzFMTGs5a05NS3gxUzlNU2VPY2JJZVZFZENDTWh6eWJxdVp6NGVYR295YXhJbFNraW5NdU0yLTlZd1ZodjA0VmpnN1B5ZlBaWl9NMnZkeE8yU241aFotRHdxNG9OZE40eUtBNDlndkhYWjNjOUxOclMyWnQyMGhROWs0MGlZTkZZOWdQNG5GQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "marilyn-florez-giordano-acquires-empire-social-brickell-cigar-lounge-cigar-news"
     },
     {
       "published_at": "2026-11-18T20:44:34+00:00",
@@ -515,29 +515,6 @@
       },
       "confirmed_by": [],
       "id": "intertabac-strengthens-its-cigar-network"
-    },
-    {
-      "published_at": "2026-11-16T14:14:36+00:00",
-      "updated_at": "2026-11-16T14:14:36+00:00",
-      "title": "Foundation Cigars Begins Shipping 2026 Annual Release Highclere Castle Senetjer",
-      "summary": "By pressing the 'I AM OF LEGAL AGE' button, I agree that I am of legal age for smoking and drinking in my country. Foundation Cigar Company is proud to announce the return of the Highclere Castle Senetjer as an annual limited release. Beginning this November, Senetjer will be available through select tobacconists to celebrate the enduring partnership between Foundation Cigars and Highclere Castle. Initially crafted to commemorate the 100th anniversary of the discovery of King Tutankhamun’s tomb, Senetjer is now an annual November release.",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/f1cd6fcd-1da6-60ae-ba1c-086e08a334cc.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/https-chatgpt-com-c-6939d8c7-139c-832c-bc8d-402b085137e7/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/https-chatgpt-com-c-6939d8c7-139c-832c-bc8d-402b085137e7/"
-      },
-      "confirmed_by": [],
-      "id": "foundation-cigars-begins-shipping-2026-annual-release-highclere-castle-senetjer"
     },
     {
       "published_at": "2026-11-15T00:42:33+00:00",
