@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T23:03:51.060980+00:00",
+  "updated_at": "2026-11-21T13:26:19.794684+00:00",
   "items": [
     {
       "published_at": "2026-11-20T22:00:54+00:00",
@@ -55,28 +55,19 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "eric-newman-elected-new-caa-chair"
     },
     {
@@ -126,24 +117,24 @@
       "id": "nub-m-xico-460"
     },
     {
-      "published_at": "2026-11-19T10:51:31+00:00",
-      "updated_at": "2026-11-19T10:51:31+00:00",
+      "published_at": "2026-11-19T10:40:21+00:00",
+      "updated_at": "2026-11-19T10:40:21+00:00",
       "title": "Chateau Diadem Founder Emily Meets the Hongkong´s Seasoned Cigar Community",
       "summary": "Some brand visits are purely ceremonial. Emily’s recent two-day stop in Hong Kong was not one of them. As one of the founders of Chateau Diadem, she came not only to present cigars but to sit with smokers, listen to their reactions, and spend time with the team at TIME",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/chateau.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTVrc1RockJ6VXA1N0FrMUthdFRNNnptZXpMaGhDd3h0cmlvTE9Ud1dEOElrdVZfUTlNWnRGbUdlcU50Vm1QQWpWdVlHQ3FFb2dvczFLbVF3SVRaTnF2N3dkYnBWeTBfMVJ5VHdwaEFJdk9sVy1tSWUtNEdpdE1zS0h0MHdIMmN3dmVlalBuU0x4U3FGYXBKVHduYTRYQS1XX2c?oc=5"
+          "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTVrc1RockJ6VXA1N0FrMUthdFRNNnptZXpMaGhDd3h0cmlvTE9Ud1dEOElrdVZfUTlNWnRGbUdlcU50Vm1QQWpWdVlHQ3FFb2dvczFLbVF3SVRaTnF2N3dkYnBWeTBfMVJ5VHdwaEFJdk9sVy1tSWUtNEdpdE1zS0h0MHdIMmN3dmVlalBuU0x4U3FGYXBKVHduYTRYQS1XX2c?oc=5"
+        "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
       },
       "confirmed_by": [],
       "id": "chateau-diadem-founder-emily-meets-the-hongkong-s-seasoned-cigar-community"
@@ -382,32 +373,23 @@
       "published_at": "2026-11-17T20:27:05+00:00",
       "updated_at": "2026-11-17T20:27:05+00:00",
       "title": "Juan Mustafa Named Drew Estate Dominicana Factory General Manager | Cigar News",
-      "summary": "The Association of Dominican Cigar Manufacturers (PROCIGAR) announced today that Drew Estate Dominicana has joined the association as an active member, following approval of its membership application by the organization’s governing bodies",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
       "category": [
         "Dominikanska republiken"
       ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://media.cigarjournal.com/Procigar-logo-feature.jpg",
+      "status": "Trovärdig källa",
+      "image": "",
       "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
-        },
         {
           "name": "Cigar Coop",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
         }
       ],
       "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/drew-estate-dominicana-joins-procigar-as-an-active-member/"
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "juan-mustafa-named-drew-estate-dominicana-factory-general-manager-cigar-news"
     },
     {
@@ -480,27 +462,27 @@
       "id": "espa-ola-cigars-announces-new-honduran-puro-collection-for-pca-2026"
     },
     {
-      "published_at": "2026-11-15T00:42:33+00:00",
-      "updated_at": "2026-11-15T00:42:33+00:00",
-      "title": "Cigar Industry Report: Edition 715 (11/14/26)",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-11-16T15:38:14+00:00",
+      "updated_at": "2026-11-16T15:38:14+00:00",
+      "title": "InterTabac Strengthens its Cigar Network",
+      "summary": "New partnership with La Gran Cata: premium cigar festival in Honduras to debut in 2027",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/InterTabac.jpg",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA0Y0c2WDdsYThOS0h3MTh6Vm1vODRTcWxtWjNJQjNLMFFYV0czb1hHYm5PMGoxZWFwQTBVcXQzdnF6VEM1UDdOUi14WkxlaEItVkJkcFRta250OThwRFNVNmYzRjQwbU5sNGlpV2ZESTVFdWJWZTBqbjg2S1VLNFpQMTE?oc=5"
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/intertabac-strengthens-its-cigar-network/"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA0Y0c2WDdsYThOS0h3MTh6Vm1vODRTcWxtWjNJQjNLMFFYV0czb1hHYm5PMGoxZWFwQTBVcXQzdnF6VEM1UDdOUi14WkxlaEItVkJkcFRta250OThwRFNVNmYzRjQwbU5sNGlpV2ZESTVFdWJWZTBqbjg2S1VLNFpQMTE?oc=5"
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/intertabac-strengthens-its-cigar-network/"
       },
       "confirmed_by": [],
-      "id": "cigar-industry-report-edition-715-11-14-26"
+      "id": "intertabac-strengthens-its-cigar-network"
     },
     {
       "published_at": "2026-11-13T16:14:14+00:00",
@@ -524,29 +506,6 @@
       },
       "confirmed_by": [],
       "id": "festival-del-habano-xxvi-humidor-auction-in-macau-generates-790-265-update"
-    },
-    {
-      "published_at": "2026-11-12T20:20:34+00:00",
-      "updated_at": "2026-11-12T20:20:34+00:00",
-      "title": "2026 Big Smoke Las Vegas Seminars: Aberfeldy Scotch and Montecristo and Aging Room Cigars",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
     }
   ]
 }
