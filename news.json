@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-11-21T13:26:19.794684+00:00",
+  "updated_at": "2026-11-21T22:09:52.078894+00:00",
   "items": [
+    {
+      "published_at": "2026-11-21T20:09:11+00:00",
+      "updated_at": "2026-11-21T20:09:11+00:00",
+      "title": "Herrera Estelí Habano Suprema",
+      "summary": "The Herrera Estelí Habano line debuted over a decade ago, first appearing in 2012. This year, the company added a new, limited-production size via a sampler that features two of Drew Estate's other core lines. The post Herrera Estelí Habano Suprema appeared first on halfwheel",
+      "category": [
+        "Nicaragua"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/herrera-esteli-habano-suprema/489097/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/herrera-esteli-habano-suprema/489097/"
+      },
+      "confirmed_by": [],
+      "id": "herrera-estel-habano-suprema"
+    },
+    {
+      "published_at": "2026-11-21T19:02:32+00:00",
+      "updated_at": "2026-11-21T19:02:32+00:00",
+      "title": "CRA Fall 2026 Freedom Sampler Coming Soon | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRWWElySklmUkI0cWp5ME9fZ1ZIZzFPRWlBdGRuTXgzaDZ1dGROVk45UmF5VTdwS2dIbUFZSnF6cGFRTDdHZjFYZkZrbF9VRjhQOThYdHVjUVplUmxYMXMwZEhmVUk2WlhEMlVDeWlyQzZZZ2xjTm5SVzFscEMzRVBkYW5vZHZxci1kdWE2RkJaQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRWWElySklmUkI0cWp5ME9fZ1ZIZzFPRWlBdGRuTXgzaDZ1dGROVk45UmF5VTdwS2dIbUFZSnF6cGFRTDdHZjFYZkZrbF9VRjhQOThYdHVjUVplUmxYMXMwZEhmVUk2WlhEMlVDeWlyQzZZZ2xjTm5SVzFscEMzRVBkYW5vZHZxci1kdWE2RkJaQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cra-fall-2026-freedom-sampler-coming-soon-cigar-news"
+    },
+    {
+      "published_at": "2026-11-21T18:22:32+00:00",
+      "updated_at": "2026-11-21T18:22:32+00:00",
+      "title": "Cigar Industry Report: Edition 716 (11/21/26)",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTy1fNjRkRkNlWjNIbUd4THgzNkxZMmp6M2ZhQ2ExTTcxc1dTVG5BWHM2T0dkOFV0SnBzUmhlNjNENThiMThLb29pWFhPSzh6VENKWlFxNGt0OGVKcUtiYjR6eGxMM3NvWmU1ck9DWjVIV3k2cXpDVmc4WU1xOUgyUHNYRDA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTy1fNjRkRkNlWjNIbUd4THgzNkxZMmp6M2ZhQ2ExTTcxc1dTVG5BWHM2T0dkOFV0SnBzUmhlNjNENThiMThLb29pWFhPSzh6VENKWlFxNGt0OGVKcUtiYjR6eGxMM3NvWmU1ck9DWjVIV3k2cXpDVmc4WU1xOUgyUHNYRDA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-industry-report-edition-716-11-21-26"
+    },
     {
       "published_at": "2026-11-20T22:00:54+00:00",
       "updated_at": "2026-11-20T22:00:54+00:00",
@@ -55,19 +124,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
       "id": "eric-newman-elected-new-caa-chair"
     },
     {
@@ -94,6 +172,29 @@
       "id": "royal-havana-cigars-willoughby-ohio"
     },
     {
+      "published_at": "2026-11-19T19:22:21+00:00",
+      "updated_at": "2026-11-19T19:22:21+00:00",
+      "title": "A 100 Day Rule for Cigar of the Year Consideration | The Blog",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWhGZDNVVUpGUE1rUElXTi1CQUlpcUlINkV6TDQ5cXpTSzJCbEpieUNVRGJ1LXpHeGZCMDZCZS1zQ0pLSDhXc2dqWE9sb1A1MlpEYU15RmNWMlBuMGFBMU5PZUZuaGJXTTMzc3hqSVhxamNtbFkybnBSUVBQYWl3WVVkelVBZV9HaUJiN1oyZU5vV3RVdzNsZlk3bw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWhGZDNVVUpGUE1rUElXTi1CQUlpcUlINkV6TDQ5cXpTSzJCbEpieUNVRGJ1LXpHeGZCMDZCZS1zQ0pLSDhXc2dqWE9sb1A1MlpEYU15RmNWMlBuMGFBMU5PZUZuaGJXTTMzc3hqSVhxamNtbFkybnBSUVBQYWl3WVVkelVBZV9HaUJiN1oyZU5vV3RVdzNsZlk3bw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "a-100-day-rule-for-cigar-of-the-year-consideration-the-blog"
+    },
+    {
       "published_at": "2026-11-19T15:48:03+00:00",
       "updated_at": "2026-11-19T15:48:03+00:00",
       "title": "NUb México 460",
@@ -117,24 +218,24 @@
       "id": "nub-m-xico-460"
     },
     {
-      "published_at": "2026-11-19T10:40:21+00:00",
-      "updated_at": "2026-11-19T10:40:21+00:00",
+      "published_at": "2026-11-19T10:51:31+00:00",
+      "updated_at": "2026-11-19T10:51:31+00:00",
       "title": "Chateau Diadem Founder Emily Meets the Hongkong´s Seasoned Cigar Community",
       "summary": "Some brand visits are purely ceremonial. Emily’s recent two-day stop in Hong Kong was not one of them. As one of the founders of Chateau Diadem, she came not only to present cigars but to sit with smokers, listen to their reactions, and spend time with the team at TIME",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/chateau.gif",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTVrc1RockJ6VXA1N0FrMUthdFRNNnptZXpMaGhDd3h0cmlvTE9Ud1dEOElrdVZfUTlNWnRGbUdlcU50Vm1QQWpWdVlHQ3FFb2dvczFLbVF3SVRaTnF2N3dkYnBWeTBfMVJ5VHdwaEFJdk9sVy1tSWUtNEdpdE1zS0h0MHdIMmN3dmVlalBuU0x4U3FGYXBKVHduYTRYQS1XX2c?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/chateau-diadem-founder-emily-meets-the-city-s-seasoned-cigar-community/"
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTVrc1RockJ6VXA1N0FrMUthdFRNNnptZXpMaGhDd3h0cmlvTE9Ud1dEOElrdVZfUTlNWnRGbUdlcU50Vm1QQWpWdVlHQ3FFb2dvczFLbVF3SVRaTnF2N3dkYnBWeTBfMVJ5VHdwaEFJdk9sVy1tSWUtNEdpdE1zS0h0MHdIMmN3dmVlalBuU0x4U3FGYXBKVHduYTRYQS1XX2c?oc=5"
       },
       "confirmed_by": [],
       "id": "chateau-diadem-founder-emily-meets-the-hongkong-s-seasoned-cigar-community"
@@ -324,10 +425,10 @@
       "id": "several-small-format-cuban-cigars-discontinued"
     },
     {
-      "published_at": "2026-11-18T15:35:38+00:00",
-      "updated_at": "2026-11-18T15:35:38+00:00",
-      "title": "Nica Rustica Broadleaf Suprema",
-      "summary": "The newest Nica Rustica vitola is only available in a three-pack sampler. The Nica Rustica line was originally created to celebrate the town of Estelí, Nicaragua, where the vast majority of the country's cigars are produced. The post Nica Rustica Broadleaf Suprema appeared first on halfwheel",
+      "published_at": "2026-11-18T13:08:25+00:00",
+      "updated_at": "2026-11-18T13:08:25+00:00",
+      "title": "“Once Upon a Time in Philippopolis”: Plovdiv Becomes the Stage for the European Cigar Scene",
+      "summary": "More than 230 enthusiasts, international guests, and a new media partnership: The Gentlemen’s Club Philippopolis celebrated its largest annual gathering to date on October 17",
       "category": [
         "Nyheter"
       ],
@@ -335,36 +436,13 @@
       "image": "",
       "sources": [
         {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/nica-rustica-broadleaf-suprema/488793/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/nica-rustica-broadleaf-suprema/488793/"
-      },
-      "confirmed_by": [],
-      "id": "nica-rustica-broadleaf-suprema"
-    },
-    {
-      "published_at": "2026-11-18T10:05:17+00:00",
-      "updated_at": "2026-11-18T10:05:17+00:00",
-      "title": "“Once Upon a Time in Philippopolis”: Plovdiv Becomes the Stage for the European Cigar Scene",
-      "summary": "More than 230 enthusiasts, international guests, and a new media partnership: The Gentlemen’s Club Philippopolis celebrated its largest annual gathering to date on October 17",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/1B5A3095.jpeg",
-      "sources": [
-        {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
       },
       "confirmed_by": [],
       "id": "once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene"
@@ -506,6 +584,29 @@
       },
       "confirmed_by": [],
       "id": "festival-del-habano-xxvi-humidor-auction-in-macau-generates-790-265-update"
+    },
+    {
+      "published_at": "2026-11-12T20:20:34+00:00",
+      "updated_at": "2026-11-12T20:20:34+00:00",
+      "title": "2026 Big Smoke Las Vegas Seminars: Aberfeldy Scotch and Montecristo and Aging Room Cigars",
+      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
     }
   ]
 }
