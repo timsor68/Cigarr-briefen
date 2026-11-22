@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:09:52.078894+00:00",
+  "updated_at": "2026-11-22T13:17:50.244143+00:00",
   "items": [
     {
       "published_at": "2026-11-21T20:09:11+00:00",
@@ -124,28 +124,19 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "eric-newman-elected-new-caa-chair"
     },
     {
@@ -425,24 +416,24 @@
       "id": "several-small-format-cuban-cigars-discontinued"
     },
     {
-      "published_at": "2026-11-18T13:08:25+00:00",
-      "updated_at": "2026-11-18T13:08:25+00:00",
+      "published_at": "2026-11-18T10:05:17+00:00",
+      "updated_at": "2026-11-18T10:05:17+00:00",
       "title": "“Once Upon a Time in Philippopolis”: Plovdiv Becomes the Stage for the European Cigar Scene",
       "summary": "More than 230 enthusiasts, international guests, and a new media partnership: The Gentlemen’s Club Philippopolis celebrated its largest annual gathering to date on October 17",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "",
+      "image": "https://media.cigarjournal.com/1B5A3095.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
+          "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
+        "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
       },
       "confirmed_by": [],
       "id": "once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene"
@@ -563,8 +554,8 @@
       "id": "intertabac-strengthens-its-cigar-network"
     },
     {
-      "published_at": "2026-11-13T16:14:14+00:00",
-      "updated_at": "2026-11-13T16:14:14+00:00",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "updated_at": "2026-11-13T08:00:00+00:00",
       "title": "Festival del Habano XXVI Humidor Auction in Macau Generates $790,265 (Update)",
       "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
