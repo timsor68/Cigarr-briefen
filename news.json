@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-11-22T13:17:50.244143+00:00",
+  "updated_at": "2026-11-22T22:27:21.698708+00:00",
   "items": [
+    {
+      "published_at": "2026-11-22T21:12:14+00:00",
+      "updated_at": "2026-11-22T21:12:14+00:00",
+      "title": "PDR Cigars AFR-75 Claro Sublime",
+      "summary": "Although it originally debuted in 2013, the PDR Cigars AFR-75 line has been on hiatus for a while. Now, the line is back with new blends and new 10-count boxes. The post PDR Cigars AFR-75 Claro Sublime appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/pdr-cigars-afr-75-claro-sublime/490482/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/pdr-cigars-afr-75-claro-sublime/490482/"
+      },
+      "confirmed_by": [],
+      "id": "pdr-cigars-afr-75-claro-sublime"
+    },
+    {
+      "published_at": "2026-11-22T19:58:04+00:00",
+      "updated_at": "2026-11-22T19:58:04+00:00",
+      "title": "Don Carlos Sangre de Toro Sangre de Bestia by Arturo Fuente – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWi0tdE9tSU5UbnA1T21QXzctazYySXdSakM2cVl5VjZfVVMzd2RXc0lRemlobTJBanhZZlhZcjFsMm5JY09lMXdORDFNV09SY3FHSHdpY3YxcFZTUExPUXd5Y0dDeVN1ZkRQRzhuUG1rRG9fTlFQYjYyeWhmVXBHbjdVWmJ5Qzc0bG9BbkdQbEtqcFNwQ205dlg2dVNDU3V0NFQwRC03cDByYWJF?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWi0tdE9tSU5UbnA1T21QXzctazYySXdSakM2cVl5VjZfVVMzd2RXc0lRemlobTJBanhZZlhZcjFsMm5JY09lMXdORDFNV09SY3FHSHdpY3YxcFZTUExPUXd5Y0dDeVN1ZkRQRzhuUG1rRG9fTlFQYjYyeWhmVXBHbjdVWmJ5Qzc0bG9BbkdQbEtqcFNwQ205dlg2dVNDU3V0NFQwRC03cDByYWJF?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "don-carlos-sangre-de-toro-sangre-de-bestia-by-arturo-fuente-cigar-review"
+    },
+    {
+      "published_at": "2026-11-22T16:21:43+00:00",
+      "updated_at": "2026-11-22T16:21:43+00:00",
+      "title": "Espinosa’s 601 La Bomba Warhead Bombazo Arrives at Select Stores",
+      "summary": "At is La Zona Palooza event, Espinosa Premium Cigars released a number of limited edition cigars for its top fans. One of those has made its way to a limited number of retailers. The post Espinosa’s 601 La Bomba Warhead Bombazo Arrives at Select Stores appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/espinosas-601-la-bomba-warhead-bombazo-arrives-at-select-stores/490462/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/espinosas-601-la-bomba-warhead-bombazo-arrives-at-select-stores/490462/"
+      },
+      "confirmed_by": [],
+      "id": "espinosa-s-601-la-bomba-warhead-bombazo-arrives-at-select-stores"
+    },
     {
       "published_at": "2026-11-21T20:09:11+00:00",
       "updated_at": "2026-11-21T20:09:11+00:00",
@@ -124,19 +193,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/eric-newman-elected-new-caa-chair/489794/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
       "id": "eric-newman-elected-new-caa-chair"
     },
     {
@@ -370,33 +448,10 @@
       "id": "brib-n-cigars-a-little-bit-of-colombian-mischief"
     },
     {
-      "published_at": "2026-11-18T19:28:09+00:00",
-      "updated_at": "2026-11-18T19:28:09+00:00",
-      "title": "Arturo Fuente Añejo River Valley Rare Earth Ships to TAA Stores",
-      "summary": "Rather than using the Añejo's normal Connecticut broadleaf wrapper, the new River Valley Rare Earth uses a hybrid habano seed. Arturo Fuente says it began buying the wrapper 15 years ago and the late Carlos Fuente Sr. was able to inspect the first batch of tobacco purchased before his passing.",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/arturo-fuente-anejo-river-valley-rare-earth-ships-to-taa-stores/489155/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/arturo-fuente-anejo-river-valley-rare-earth-ships-to-taa-stores/489155/"
-      },
-      "confirmed_by": [],
-      "id": "arturo-fuente-a-ejo-river-valley-rare-earth-ships-to-taa-stores"
-    },
-    {
       "published_at": "2026-11-18T18:04:40+00:00",
       "updated_at": "2026-11-18T18:04:40+00:00",
       "title": "Several Small-Format Cuban Cigars Discontinued",
-      "summary": "The change, which includes the entire Puritos collection, comes as Promotora de Cigarros, S.L. (Promocigar) updates its internal strategic and portfolio considerations. A new Romeo y Julieta Shorts was also announced, while the price of machine-made products is going up in Canada as part of the changes.",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Kuba"
       ],
@@ -416,24 +471,24 @@
       "id": "several-small-format-cuban-cigars-discontinued"
     },
     {
-      "published_at": "2026-11-18T10:05:17+00:00",
-      "updated_at": "2026-11-18T10:05:17+00:00",
+      "published_at": "2026-11-18T13:08:25+00:00",
+      "updated_at": "2026-11-18T13:08:25+00:00",
       "title": "“Once Upon a Time in Philippopolis”: Plovdiv Becomes the Stage for the European Cigar Scene",
       "summary": "More than 230 enthusiasts, international guests, and a new media partnership: The Gentlemen’s Club Philippopolis celebrated its largest annual gathering to date on October 17",
       "category": [
         "Nyheter"
       ],
       "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/1B5A3095.jpeg",
+      "image": "",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene/"
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VibkZ6SnJxYkhiRHd5d29FN3I4Tlp6dDVCQWJOM3I0bjFnTVVfNVd4QzlLT1djS0xPaHZJMjRuQW9leUIxMF9yX0xKT0hoaHhtOXUzeXlPRnlHV0J6NEJRdnF6RWJaWm5rN0hvdFJTTE1KU2tuM1ViWlpOT3NoVnBvMHJvSVlhY09ybldfaG5LZDZUZkY0YjdacHEyYkdNak5zVC0xX3Z4R3A3ZW5TdXVxdjBtdG1GQ2c?oc=5"
       },
       "confirmed_by": [],
       "id": "once-upon-a-time-in-philippopolis-plovdiv-becomes-the-stage-for-the-european-cigar-scene"
@@ -483,6 +538,29 @@
       },
       "confirmed_by": [],
       "id": "despite-fears-of-ongoing-us-iranian-escalation-the-world-cigar-show-in-dubai-went-ahead-at"
+    },
+    {
+      "published_at": "2026-11-17T12:12:02+00:00",
+      "updated_at": "2026-11-17T12:12:02+00:00",
+      "title": "Santa Clara Cigars Rebrands Crafted By AJ Fernandez to Selected by AJ Fernandez and Adds H. Upmann | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
     },
     {
       "published_at": "2026-11-17T10:57:10+00:00",
@@ -554,6 +632,75 @@
       "id": "intertabac-strengthens-its-cigar-network"
     },
     {
+      "published_at": "2026-11-16T14:35:32+00:00",
+      "updated_at": "2026-11-16T14:35:32+00:00",
+      "title": "601 Blue 20th Anniversary by Espinosa Premium Cigars – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "601-blue-20th-anniversary-by-espinosa-premium-cigars-cigar-review"
+    },
+    {
+      "published_at": "2026-11-15T16:05:31+00:00",
+      "updated_at": "2026-11-15T16:05:31+00:00",
+      "title": "Montecristo 1935 Anniversary Edición Doble Diamante Red – Cigar Review",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Test & betyg"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmNSaTJpM203NGY2Tm1LcGJqT1FYVC1iTmczTlljanBqbzhVblNxaElUTkhwNFhPU1ZFaDR6OXpCT2ItQThiRmQzak00QU5VMEVScXhUd3Q1cjZsQ2h2aFI2ZjRuTGhlNWtVc3RtRXE2UjhIMklXQjlJMUEwcVdoQm84dDFMTUZLbHNrZHJoM09VVWtQZFFOMWtLYUtTN2wzY0dDUWhRaw?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmNSaTJpM203NGY2Tm1LcGJqT1FYVC1iTmczTlljanBqbzhVblNxaElUTkhwNFhPU1ZFaDR6OXpCT2ItQThiRmQzak00QU5VMEVScXhUd3Q1cjZsQ2h2aFI2ZjRuTGhlNWtVc3RtRXE2UjhIMklXQjlJMUEwcVdoQm84dDFMTUZLbHNrZHJoM09VVWtQZFFOMWtLYUtTN2wzY0dDUWhRaw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "montecristo-1935-anniversary-edici-n-doble-diamante-red-cigar-review"
+    },
+    {
+      "published_at": "2026-11-15T04:22:33+00:00",
+      "updated_at": "2026-11-15T04:22:33+00:00",
+      "title": "Kristoff to Release Kristoff.ai Cigar | Cigar News",
+      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Coop",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "kristoff-to-release-kristoff-ai-cigar-cigar-news"
+    },
+    {
       "published_at": "2026-11-13T08:00:00+00:00",
       "updated_at": "2026-11-13T08:00:00+00:00",
       "title": "Festival del Habano XXVI Humidor Auction in Macau Generates $790,265 (Update)",
@@ -575,29 +722,6 @@
       },
       "confirmed_by": [],
       "id": "festival-del-habano-xxvi-humidor-auction-in-macau-generates-790-265-update"
-    },
-    {
-      "published_at": "2026-11-12T20:20:34+00:00",
-      "updated_at": "2026-11-12T20:20:34+00:00",
-      "title": "2026 Big Smoke Las Vegas Seminars: Aberfeldy Scotch and Montecristo and Aging Room Cigars",
-      "summary": "Läs hela artikeln hos Cigar Aficionado (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Aficionado",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUFUSXRiN0VneFlXNXNDWjhGRzc4YjlEVTdwcWZPeU5wWEd2RkNWb0N3S29LcHhiQ0Nna0NEcjEtZS1JRHFvNm5vMms4TGVzY2xTeENnelp1RTJ0OHZOQlA1bW0yMGNoUXF0T2Z2b25PQ0UxR0pMalJwd0ZiOFpjRTM4S0F2Rnkzcl9DNFFRdmx3OEl0UzR5MTJlMzl2c2xVeDllTzRZUE5GMWlZM2hYTmtoWjlRcERoY2hPZDUzQy1YeTdDSHc?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "2026-big-smoke-las-vegas-seminars-aberfeldy-scotch-and-montecristo-and-aging-room-cigars"
     }
   ]
 }
