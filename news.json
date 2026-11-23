@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-11-22T22:27:21.698708+00:00",
+  "updated_at": "2026-11-23T15:55:09.747524+00:00",
   "items": [
+    {
+      "published_at": "2026-11-23T12:23:14+00:00",
+      "updated_at": "2026-11-23T12:23:14+00:00",
+      "title": "Partagás Serie D No.4 Robusto Celebrates its 50th Anniversary in Spain",
+      "summary": "The brand presents, exclusively for Spain, a special case commemorating half a century since the launch of its legendary vitola",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/FLOR%20DE%20TABACOS%20DE%20PARTAGAS%2050%20ANIVERSARIO_bodegon002.jpeg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/partagas-serie-d-no-4-robusto-celebrates-its-50th-anniversary-in-spain/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/partagas-serie-d-no-4-robusto-celebrates-its-50th-anniversary-in-spain/"
+      },
+      "confirmed_by": [],
+      "id": "partag-s-serie-d-no-4-robusto-celebrates-its-50th-anniversary-in-spain"
+    },
+    {
+      "published_at": "2026-11-23T12:21:15+00:00",
+      "updated_at": "2026-11-23T12:21:15+00:00",
+      "title": "El Cubano Cigars: Born in Cuba, Made in Texas",
+      "summary": "was born in Havana in 1936 and grew up among the tobacco fields his family had worked since 1904",
+      "category": [
+        "Kuba"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/El_Cubano_Cigars_title.jpg",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/el-cubano-cigars-born-in-cuba-made-in-texas/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/el-cubano-cigars-born-in-cuba-made-in-texas/"
+      },
+      "confirmed_by": [],
+      "id": "el-cubano-cigars-born-in-cuba-made-in-texas"
+    },
+    {
+      "published_at": "2026-11-23T09:09:06+00:00",
+      "updated_at": "2026-11-23T09:09:06+00:00",
+      "title": "Cigar Association of America Elects Eric Newman as Chairman of the Board",
+      "summary": "The Cigar Association of America (CAA) has announced that its Board of Directors has elected Eric Newman as the association’s new Chairman, effective immediately",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board"
+    },
+    {
+      "published_at": "2026-11-23T08:46:50+00:00",
+      "updated_at": "2026-11-23T08:46:50+00:00",
+      "title": "Drew Estate Releases Pappy Van Winkle Limited Edition Triplet Sampler, Available Exclusively From Pappy & Co",
+      "summary": "Drew Estate today announced the Pappy Van Winkle Barrel Fermented Triplet Sampler, a limited-edition nine-cigar collection available exclusively through Pappy & Co",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "https://media.cigarjournal.com/Pappy%20Triplet%20Sampler%20copy%203.png.webp",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/drew-estate-releases-pappy-van-winkle-limited-edition/"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/drew-estate-releases-pappy-van-winkle-limited-edition/"
+      },
+      "confirmed_by": [],
+      "id": "drew-estate-releases-pappy-van-winkle-limited-edition-triplet-sampler-available-exclusivel"
+    },
     {
       "published_at": "2026-11-22T21:12:14+00:00",
       "updated_at": "2026-11-22T21:12:14+00:00",
@@ -241,29 +333,6 @@
       "id": "royal-havana-cigars-willoughby-ohio"
     },
     {
-      "published_at": "2026-11-19T19:22:21+00:00",
-      "updated_at": "2026-11-19T19:22:21+00:00",
-      "title": "A 100 Day Rule for Cigar of the Year Consideration | The Blog",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWhGZDNVVUpGUE1rUElXTi1CQUlpcUlINkV6TDQ5cXpTSzJCbEpieUNVRGJ1LXpHeGZCMDZCZS1zQ0pLSDhXc2dqWE9sb1A1MlpEYU15RmNWMlBuMGFBMU5PZUZuaGJXTTMzc3hqSVhxamNtbFkybnBSUVBQYWl3WVVkelVBZV9HaUJiN1oyZU5vV3RVdzNsZlk3bw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWhGZDNVVUpGUE1rUElXTi1CQUlpcUlINkV6TDQ5cXpTSzJCbEpieUNVRGJ1LXpHeGZCMDZCZS1zQ0pLSDhXc2dqWE9sb1A1MlpEYU15RmNWMlBuMGFBMU5PZUZuaGJXTTMzc3hqSVhxamNtbFkybnBSUVBQYWl3WVVkelVBZV9HaUJiN1oyZU5vV3RVdzNsZlk3bw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "a-100-day-rule-for-cigar-of-the-year-consideration-the-blog"
-    },
-    {
       "published_at": "2026-11-19T15:48:03+00:00",
       "updated_at": "2026-11-19T15:48:03+00:00",
       "title": "NUb México 460",
@@ -409,19 +478,28 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Trovärdig källa",
+      "status": "Bekräftad av flera källor",
       "image": "",
       "sources": [
         {
           "name": "halfwheel",
           "url": "https://halfwheel.com/west-tampa-tobacco-co-begins-shipping-barbershop/489227/"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3RVNWNqMHZ2ek9MU2ZGb0MtV1V5TmNSakFCV1RvTVNINGg4bkZYMzdwUW1JazhDWXcwekl0UXRsOEFtaEZDeW1sTmRTUmFaeXUzeVpvQVlzX3I0Z0kxQzZaQXczcXFHX2J1VWI2ejcxTG1DUkRxMjMzOE0yRnlvZURMQVVNT042aHhaNUFfeGtEWURqTUE?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
         "url": "https://halfwheel.com/west-tampa-tobacco-co-begins-shipping-barbershop/489227/"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3RVNWNqMHZ2ek9MU2ZGb0MtV1V5TmNSakFCV1RvTVNINGg4bkZYMzdwUW1JazhDWXcwekl0UXRsOEFtaEZDeW1sTmRTUmFaeXUzeVpvQVlzX3I0Z0kxQzZaQXczcXFHX2J1VWI2ejcxTG1DUkRxMjMzOE0yRnlvZURMQVVNT042aHhaNUFfeGtEWURqTUE?oc=5"
+        }
+      ],
       "id": "west-tampa-tobacco-co-begins-shipping-barbershop"
     },
     {
@@ -517,29 +595,6 @@
       "id": "juan-mustafa-named-drew-estate-dominicana-factory-general-manager-cigar-news"
     },
     {
-      "published_at": "2026-11-17T12:42:22+00:00",
-      "updated_at": "2026-11-17T12:42:22+00:00",
-      "title": "Despite Fears of Ongoing US-Iranian Escalation, the World Cigar Show in Dubai Went Ahead at Pace Last Week",
-      "summary": "Exhibitors reported brisk business on Day 1, with one manufacturer telling me he had sold out of the stock he had brought to the show by the middle of the afternoon",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWE0aDRsdkl5TUJXMzdKckJSQUZRUkFHRnQ2MXVscWQ5SVRHeEhJdFdKYUNuLVZGNkRyZm9aanFSTG1UUGlRc3pXU19fWlpxRU54aGh2MG5Rc3hpNG5uUmt4VW1nc1JsLWYtZkg5VlBnYUxZenFQal9mZHNDTTdqSFBtNy0zM3dCSDNnN1IyYmZQMGczUjJMUF9Ebko4X0dEQVNCMURoSGZmeW1KNjVsY3NudjR6b0VM?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWE0aDRsdkl5TUJXMzdKckJSQUZRUkFHRnQ2MXVscWQ5SVRHeEhJdFdKYUNuLVZGNkRyZm9aanFSTG1UUGlRc3pXU19fWlpxRU54aGh2MG5Rc3hpNG5uUmt4VW1nc1JsLWYtZkg5VlBnYUxZenFQal9mZHNDTTdqSFBtNy0zM3dCSDNnN1IyYmZQMGczUjJMUF9Ebko4X0dEQVNCMURoSGZmeW1KNjVsY3NudjR6b0VM?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "despite-fears-of-ongoing-us-iranian-escalation-the-world-cigar-show-in-dubai-went-ahead-at"
-    },
-    {
       "published_at": "2026-11-17T12:12:02+00:00",
       "updated_at": "2026-11-17T12:12:02+00:00",
       "title": "Santa Clara Cigars Rebrands Crafted By AJ Fernandez to Selected by AJ Fernandez and Adds H. Upmann | Cigar News",
@@ -561,75 +616,6 @@
       },
       "confirmed_by": [],
       "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
-    },
-    {
-      "published_at": "2026-11-17T10:57:10+00:00",
-      "updated_at": "2026-11-17T10:57:10+00:00",
-      "title": "Habanos S.A. Introduces Saint Luis Rey Palatinos",
-      "summary": "During a special evening that brought together more than 500 international guests - including passionados, distributors, and industry figures - Habanos, S.A., together with its distributor, Pacific Cigar Company, officially unveiled the Saint Luis Rey Palatinos",
-      "category": [
-        "Kuba"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/habanos-SA.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/habanos-s-a-introduces-saint-luis-rey-palatinos/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/habanos-s-a-introduces-saint-luis-rey-palatinos/"
-      },
-      "confirmed_by": [],
-      "id": "habanos-s-a-introduces-saint-luis-rey-palatinos"
-    },
-    {
-      "published_at": "2026-11-17T09:26:31+00:00",
-      "updated_at": "2026-11-17T09:26:31+00:00",
-      "title": "Española Cigars Announces New Honduran Puro Collection for PCA 2026",
-      "summary": "is proud to announce the upcoming release of Española Honduras, a new collection of handcrafted Honduran puros that will be oﬃcially previewed at the 2027 Premium Cigar Association (PCA) Trade Show, with shipping scheduled to begin immediately following the show",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/espanola.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/espanola-cigars-announces-new-honduran-puro-collection-for-pca-2026/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/espanola-cigars-announces-new-honduran-puro-collection-for-pca-2026/"
-      },
-      "confirmed_by": [],
-      "id": "espa-ola-cigars-announces-new-honduran-puro-collection-for-pca-2026"
-    },
-    {
-      "published_at": "2026-11-16T15:38:14+00:00",
-      "updated_at": "2026-11-16T15:38:14+00:00",
-      "title": "InterTabac Strengthens its Cigar Network",
-      "summary": "New partnership with La Gran Cata: premium cigar festival in Honduras to debut in 2027",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/InterTabac.jpg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/intertabac-strengthens-its-cigar-network/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/intertabac-strengthens-its-cigar-network/"
-      },
-      "confirmed_by": [],
-      "id": "intertabac-strengthens-its-cigar-network"
     },
     {
       "published_at": "2026-11-16T14:35:32+00:00",
@@ -699,29 +685,6 @@
       },
       "confirmed_by": [],
       "id": "kristoff-to-release-kristoff-ai-cigar-cigar-news"
-    },
-    {
-      "published_at": "2026-11-13T08:00:00+00:00",
-      "updated_at": "2026-11-13T08:00:00+00:00",
-      "title": "Festival del Habano XXVI Humidor Auction in Macau Generates $790,265 (Update)",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Event"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZQWTNVNDRKSzZXNFlIcWM1b3FVeGQxRUlORHN0VTMxMldEYS12blNUQzI3QnlYMnljNS1LMjc1bmlQQVdBSXoyeVVVcWhZQ1JiNzA5MHdoNEQ5Zk93SzViTUJ0elJTRHpIdDVQZkdoTmZMSjJEYlVGc0dRYnJLUTVSbXJXaGNLS0dpVUtQeG16UHJrMF9WWXg1VEZQc2RP?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZQWTNVNDRKSzZXNFlIcWM1b3FVeGQxRUlORHN0VTMxMldEYS12blNUQzI3QnlYMnljNS1LMjc1bmlQQVdBSXoyeVVVcWhZQ1JiNzA5MHdoNEQ5Zk93SzViTUJ0elJTRHpIdDVQZkdoTmZMSjJEYlVGc0dRYnJLUTVSbXJXaGNLS0dpVUtQeG16UHJrMF9WWXg1VEZQc2RP?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "festival-del-habano-xxvi-humidor-auction-in-macau-generates-790-265-update"
     }
   ]
 }
