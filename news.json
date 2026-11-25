@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T01:24:47.642992+00:00",
+  "updated_at": "2026-11-25T15:32:51.812424+00:00",
   "items": [
     {
       "published_at": "2026-11-24T18:15:23+00:00",
@@ -25,8 +25,48 @@
       "id": "herrera-estel-brazilian-maduro-feral-flying-pig-box-pressed"
     },
     {
-      "published_at": "2026-11-24T16:56:21+00:00",
-      "updated_at": "2026-11-24T16:56:21+00:00",
+      "published_at": "2026-11-24T17:34:38+00:00",
+      "updated_at": "2026-11-24T17:34:38+00:00",
+      "title": "Pierre Jourdan Leaves Les Fines Lames",
+      "summary": "Born in January 2015 from Pierre Jourdan’s personal vision, Les Fines Lames has grown over nearly twelve years into a recognized name within the cigar industry",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
+        },
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
+        }
+      ],
+      "id": "pierre-jourdan-leaves-les-fines-lames"
+    },
+    {
+      "published_at": "2026-11-24T16:57:23+00:00",
+      "updated_at": "2026-11-24T16:57:23+00:00",
       "title": "Ernesto Perez-Carrillo Jr. Celebrates 75th Birthday With Three Cigars",
       "summary": "made three different cigars for his 75th birthday, each using very aged tobaccos. While we don't know when, at some point, those cigars will be offered for sale. The post Ernesto Perez-Carrillo Jr.",
       "category": [
@@ -46,38 +86,6 @@
       },
       "confirmed_by": [],
       "id": "ernesto-perez-carrillo-jr-celebrates-75th-birthday-with-three-cigars"
-    },
-    {
-      "published_at": "2026-11-24T15:34:07+00:00",
-      "updated_at": "2026-11-24T15:34:07+00:00",
-      "title": "Pierre Jourdan Leaves Les Fines Lames",
-      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
-        }
-      ],
-      "id": "pierre-jourdan-leaves-les-fines-lames"
     },
     {
       "published_at": "2026-11-24T14:27:13+00:00",
@@ -206,38 +214,6 @@
       "id": "el-cubano-cigars-born-in-cuba-made-in-texas"
     },
     {
-      "published_at": "2026-11-23T09:09:06+00:00",
-      "updated_at": "2026-11-23T09:09:06+00:00",
-      "title": "Cigar Association of America Elects Eric Newman as Chairman of the Board",
-      "summary": "The Cigar Association of America (CAA) has announced that its Board of Directors has elected Eric Newman as the association’s new Chairman, effective immediately",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
-      "id": "cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board"
-    },
-    {
       "published_at": "2026-11-23T08:59:23+00:00",
       "updated_at": "2026-11-23T08:59:23+00:00",
       "title": "West Tampa Tobacco Company to Ship the Long Waited Barbershop",
@@ -259,6 +235,38 @@
       },
       "confirmed_by": [],
       "id": "west-tampa-tobacco-company-to-ship-the-long-waited-barbershop"
+    },
+    {
+      "published_at": "2026-11-23T08:58:25+00:00",
+      "updated_at": "2026-11-23T08:58:25+00:00",
+      "title": "Cigar Association of America Elects Eric Newman as Chairman of the Board",
+      "summary": "The Cigar Association of America (CAA) has announced that its Board of Directors has elected Eric Newman as the association’s new Chairman, effective immediately",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "https://media.cigarjournal.com/caa-2.gif",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
+      "id": "cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board"
     },
     {
       "published_at": "2026-11-23T08:46:50+00:00",
@@ -305,29 +313,6 @@
       },
       "confirmed_by": [],
       "id": "pdr-cigars-afr-75-claro-sublime"
-    },
-    {
-      "published_at": "2026-11-22T19:58:04+00:00",
-      "updated_at": "2026-11-22T19:58:04+00:00",
-      "title": "Don Carlos Sangre de Toro Sangre de Bestia by Arturo Fuente – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWi0tdE9tSU5UbnA1T21QXzctazYySXdSakM2cVl5VjZfVVMzd2RXc0lRemlobTJBanhZZlhZcjFsMm5JY09lMXdORDFNV09SY3FHSHdpY3YxcFZTUExPUXd5Y0dDeVN1ZkRQRzhuUG1rRG9fTlFQYjYyeWhmVXBHbjdVWmJ5Qzc0bG9BbkdQbEtqcFNwQ205dlg2dVNDU3V0NFQwRC03cDByYWJF?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWi0tdE9tSU5UbnA1T21QXzctazYySXdSakM2cVl5VjZfVVMzd2RXc0lRemlobTJBanhZZlhZcjFsMm5JY09lMXdORDFNV09SY3FHSHdpY3YxcFZTUExPUXd5Y0dDeVN1ZkRQRzhuUG1rRG9fTlFQYjYyeWhmVXBHbjdVWmJ5Qzc0bG9BbkdQbEtqcFNwQ205dlg2dVNDU3V0NFQwRC03cDByYWJF?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "don-carlos-sangre-de-toro-sangre-de-bestia-by-arturo-fuente-cigar-review"
     },
     {
       "published_at": "2026-11-22T16:21:43+00:00",
@@ -629,29 +614,6 @@
       "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
     },
     {
-      "published_at": "2026-11-16T14:35:32+00:00",
-      "updated_at": "2026-11-16T14:35:32+00:00",
-      "title": "601 Blue 20th Anniversary by Espinosa Premium Cigars – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenVtaU15OXFIbEZWWTZKcFA2UGQ3U2JpSHUxeWVQWnpodmFwWi1UaVBkS0lDb25pd2RrblJJa3oxWWhBd0k5MWVwb1Ftem95emlYTTg3OHY4Q01OT2N6eE5TcXNCbnktQlBuSTR2MWxMeW01ZkNpa2J5VW1STzdsZ0lDay1rMUJhdW9lcjlZdUl3Q01jZ0VEdnk3N2Q2WWV3czRn?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "601-blue-20th-anniversary-by-espinosa-premium-cigars-cigar-review"
-    },
-    {
       "published_at": "2026-11-15T16:05:31+00:00",
       "updated_at": "2026-11-15T16:05:31+00:00",
       "title": "Montecristo 1935 Anniversary Edición Doble Diamante Red – Cigar Review",
@@ -673,29 +635,6 @@
       },
       "confirmed_by": [],
       "id": "montecristo-1935-anniversary-edici-n-doble-diamante-red-cigar-review"
-    },
-    {
-      "published_at": "2026-11-15T04:22:33+00:00",
-      "updated_at": "2026-11-15T04:22:33+00:00",
-      "title": "Kristoff to Release Kristoff.ai Cigar | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nya utgåvor"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVxN2xId3BXZ3ZrWFh2UzVyVG15V1phcTRBSEhpX2lVRlY0WnBVd3FYN1hVT1pBc1I5aTdvNWl6YlVQSUx6UHE0SkdZbDVIUHJHRG14MXl0SkxCdkREMWs0S3QxaHE1eG91WlJwT1YxRkIxbXNiU1VWTXJ5MWhRajEzd0pkZ2R4d243Ug?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "kristoff-to-release-kristoff-ai-cigar-cigar-news"
     }
   ]
 }
