@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-26T00:58:42.562921+00:00",
+  "updated_at": "2026-11-26T15:07:55.140049+00:00",
   "items": [
+    {
+      "published_at": "2026-11-26T13:00:22+00:00",
+      "updated_at": "2026-11-26T13:00:22+00:00",
+      "title": "Meerapfel Cigar Begins Shipping Project 18",
+      "summary": "Project 18 features a Cameroon wrapper aged in a room that uses Japanese paulownia wood, a process that helps the leaves shed impurities, leaving pure essential oils. Additionally, the chests are made of Japanese royal paulownia wood and come with a hand-finished lithography. The post Meerapfel Cigar Begins Shipping Project 18 appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/meerapfel-cigar-begins-shipping-project-18/491172/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/meerapfel-cigar-begins-shipping-project-18/491172/"
+      },
+      "confirmed_by": [],
+      "id": "meerapfel-cigar-begins-shipping-project-18"
+    },
     {
       "published_at": "2026-11-25T22:28:19+00:00",
       "updated_at": "2026-11-25T22:28:19+00:00",
@@ -56,11 +79,11 @@
         "Nyheter"
       ],
       "status": "Bekräftad av flera källor",
-      "image": "",
+      "image": "https://media.cigarjournal.com/caa-2.gif",
       "sources": [
         {
           "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+          "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
         },
         {
           "name": "Cigar Aficionado",
@@ -73,7 +96,7 @@
       ],
       "main_source": {
         "name": "Cigar Journal",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+        "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
       },
       "confirmed_by": [
         {
@@ -86,6 +109,29 @@
         }
       ],
       "id": "eric-newman-named-chairman-of-cigar-association-of-america"
+    },
+    {
+      "published_at": "2026-11-25T10:37:49+00:00",
+      "updated_at": "2026-11-25T10:37:49+00:00",
+      "title": "Les Fines Lames Opens a New Chapter as its Founder Pierre Jourdan Leaves the Company",
+      "summary": "Born in January 2015 from Pierre Jourdan’s personal vision, Les Fines Lames has grown over nearly twelve years into a recognized name within the cigar industry",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "les-fines-lames-opens-a-new-chapter-as-its-founder-pierre-jourdan-leaves-the-company"
     },
     {
       "published_at": "2026-11-24T18:15:23+00:00",
@@ -111,48 +157,8 @@
       "id": "herrera-estel-brazilian-maduro-feral-flying-pig-box-pressed"
     },
     {
-      "published_at": "2026-11-24T17:34:38+00:00",
-      "updated_at": "2026-11-24T17:34:38+00:00",
-      "title": "Pierre Jourdan Leaves Les Fines Lames",
-      "summary": "Born in January 2015 from Pierre Jourdan’s personal vision, Les Fines Lames has grown over nearly twelve years into a recognized name within the cigar industry",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
-        },
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTjVvLWc2YlMzcGZmRFFUanppWTlKLWF6RmhYeEJQbVZBOFBESmhSZVlXYlFXSkZIaEFEc0xGSjFnOFFxcGlZZTZ1SWszd2liVHJleXY3UFRsY1dUWEJjOXhBWVNpVXFDWDEzLTNUMFgtcmRKQnc?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFhZW4waUk1RC1Gd0tqcVY2NHNzWXNjQkNyNFpDSjBlWDhZWDc4TTVXSXYwY0tqTUVuaG13czVfQ2JnQVRGVlhFY2FFY2Fkbk5xMGdfcjk1SXpDRnNEdXhNU29FbHZSTHJUUmlXY3cwVm5jdHU2NkNQWUJrLUxDN2QyaTZReHpYQlhNV2pDN2lyRk9WWmhwS01PNTFKU0FwMDdvaDhEY21FUHNLaWxKd1NLNFA?oc=5"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjRxVXVybndpMVRPejJJbTE2WGFJTmVOM0lHbk1rUUY4dkIzMEliYmhDZGMxZmVVUFd4ZjlTU2x0M0ZiWmo4ZTN5LWhhVTl0M0lDVWZDM3J5Y25LcGVhQUVaVk1TR1d4M1hiN1JWQXhsdC00aFR4SXE5VVNsMWt4bTYyaVQ3cTZXV1ZPbFdR?oc=5"
-        }
-      ],
-      "id": "pierre-jourdan-leaves-les-fines-lames"
-    },
-    {
-      "published_at": "2026-11-24T16:57:23+00:00",
-      "updated_at": "2026-11-24T16:57:23+00:00",
+      "published_at": "2026-11-24T16:45:40+00:00",
+      "updated_at": "2026-11-24T16:45:40+00:00",
       "title": "Ernesto Perez-Carrillo Jr. Celebrates 75th Birthday With Three Cigars",
       "summary": "made three different cigars for his 75th birthday, each using very aged tobaccos. While we don't know when, at some point, those cigars will be offered for sale. The post Ernesto Perez-Carrillo Jr.",
       "category": [
@@ -163,12 +169,12 @@
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3lXbnRwNHNKU19scDR3Y01vSXBqOWFtTWtMNzdvTHA2NlBYbDlPNDJnNWpFTnJrMEhpZ0VyWDdZY0c5SWJyTGEzeDZoZUkxUjcwVXVIQTlHa3pqWjZRSl9PZDJSS1B2YUNxLUxtdlNKcE91WmhwSVB3eTlSakdxQmt3NHZoMEEydEdlQVlOUlNWalBab1VaQmUtOUppbFE?oc=5"
+          "url": "https://halfwheel.com/ernesto-perez-carrillo-jr-celebrates-75th-birthday-with-three-cigars/491095/"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3lXbnRwNHNKU19scDR3Y01vSXBqOWFtTWtMNzdvTHA2NlBYbDlPNDJnNWpFTnJrMEhpZ0VyWDdZY0c5SWJyTGEzeDZoZUkxUjcwVXVIQTlHa3pqWjZRSl9PZDJSS1B2YUNxLUxtdlNKcE91WmhwSVB3eTlSakdxQmt3NHZoMEEydEdlQVlOUlNWalBab1VaQmUtOUppbFE?oc=5"
+        "url": "https://halfwheel.com/ernesto-perez-carrillo-jr-celebrates-75th-birthday-with-three-cigars/491095/"
       },
       "confirmed_by": [],
       "id": "ernesto-perez-carrillo-jr-celebrates-75th-birthday-with-three-cigars"
@@ -181,28 +187,19 @@
       "category": [
         "Nyheter"
       ],
-      "status": "Bekräftad av flera källor",
+      "status": "Trovärdig källa",
       "image": "https://media.cigarjournal.com/Empire%20Social%20Brickell%204.jpeg",
       "sources": [
         {
           "name": "Cigar Journal",
           "url": "https://www.cigarjournal.com/marilyn-florez-giordano-acquires-empire-social-brickell/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnBzZVBJaUVOSlV4bUxJbGQ0WVo1akhWY3FZSVJ1U1NOZFN3ZE5KdzFMTGs5a05NS3gxUzlNU2VPY2JJZVZFZENDTWh6eWJxdVp6NGVYR295YXhJbFNraW5NdU0yLTlZd1ZodjA0VmpnN1B5ZlBaWl9NMnZkeE8yU241aFotRHdxNG9OZE40eUtBNDlndkhYWjNjOUxOclMyWnQyMGhROWs0MGlZTkZZOWdQNG5GQQ?oc=5"
         }
       ],
       "main_source": {
         "name": "Cigar Journal",
         "url": "https://www.cigarjournal.com/marilyn-florez-giordano-acquires-empire-social-brickell/"
       },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnBzZVBJaUVOSlV4bUxJbGQ0WVo1akhWY3FZSVJ1U1NOZFN3ZE5KdzFMTGs5a05NS3gxUzlNU2VPY2JJZVZFZENDTWh6eWJxdVp6NGVYR295YXhJbFNraW5NdU0yLTlZd1ZodjA0VmpnN1B5ZlBaWl9NMnZkeE8yU241aFotRHdxNG9OZE40eUtBNDlndkhYWjNjOUxOclMyWnQyMGhROWs0MGlZTkZZOWdQNG5GQQ?oc=5"
-        }
-      ],
+      "confirmed_by": [],
       "id": "marilyn-florez-giordano-acquires-empire-social-brickell"
     },
     {
@@ -344,29 +341,6 @@
       "id": "drew-estate-releases-pappy-van-winkle-limited-edition-triplet-sampler-available-exclusivel"
     },
     {
-      "published_at": "2026-11-22T21:12:14+00:00",
-      "updated_at": "2026-11-22T21:12:14+00:00",
-      "title": "PDR Cigars AFR-75 Claro Sublime",
-      "summary": "Although it originally debuted in 2013, the PDR Cigars AFR-75 line has been on hiatus for a while. Now, the line is back with new blends and new 10-count boxes. The post PDR Cigars AFR-75 Claro Sublime appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/pdr-cigars-afr-75-claro-sublime/490482/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/pdr-cigars-afr-75-claro-sublime/490482/"
-      },
-      "confirmed_by": [],
-      "id": "pdr-cigars-afr-75-claro-sublime"
-    },
-    {
       "published_at": "2026-11-21T20:14:57+00:00",
       "updated_at": "2026-11-21T20:14:57+00:00",
       "title": "Herrera Estelí Habano Suprema",
@@ -388,29 +362,6 @@
       },
       "confirmed_by": [],
       "id": "herrera-estel-habano-suprema"
-    },
-    {
-      "published_at": "2026-11-21T19:02:32+00:00",
-      "updated_at": "2026-11-21T19:02:32+00:00",
-      "title": "CRA Fall 2026 Freedom Sampler Coming Soon | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRWWElySklmUkI0cWp5ME9fZ1ZIZzFPRWlBdGRuTXgzaDZ1dGROVk45UmF5VTdwS2dIbUFZSnF6cGFRTDdHZjFYZkZrbF9VRjhQOThYdHVjUVplUmxYMXMwZEhmVUk2WlhEMlVDeWlyQzZZZ2xjTm5SVzFscEMzRVBkYW5vZHZxci1kdWE2RkJaQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRWWElySklmUkI0cWp5ME9fZ1ZIZzFPRWlBdGRuTXgzaDZ1dGROVk45UmF5VTdwS2dIbUFZSnF6cGFRTDdHZjFYZkZrbF9VRjhQOThYdHVjUVplUmxYMXMwZEhmVUk2WlhEMlVDeWlyQzZZZ2xjTm5SVzFscEMzRVBkYW5vZHZxci1kdWE2RkJaQQ?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "cra-fall-2026-freedom-sampler-coming-soon-cigar-news"
     },
     {
       "published_at": "2026-11-21T18:22:32+00:00",
@@ -551,29 +502,6 @@
       "id": "la-flor-dominicana-announces-the-return-of-its-limited-production-holiday-lanceros"
     },
     {
-      "published_at": "2026-11-19T08:46:53+00:00",
-      "updated_at": "2026-11-19T08:46:53+00:00",
-      "title": "Doha: A Conversation About the Future of the Premium Cigar Industry",
-      "summary": "The PCA gathering in Qatar, organised in partnership with Felipe Rojas and The Humidor Qatar, together with Plasencia Cigars, took place at 42 Oak & Smoke at the JW Marriott Marquis City Center Doha",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "https://media.cigarjournal.com/EEFFCE96-F42E-4D49-A030-39FADDE5174C.jpeg",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/doha-a-conversation-about-the-future-of-the-premium-cigar-industry/"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/doha-a-conversation-about-the-future-of-the-premium-cigar-industry/"
-      },
-      "confirmed_by": [],
-      "id": "doha-a-conversation-about-the-future-of-the-premium-cigar-industry"
-    },
-    {
       "published_at": "2026-11-18T18:04:40+00:00",
       "updated_at": "2026-11-18T18:04:40+00:00",
       "title": "Several Small-Format Cuban Cigars Discontinued",
@@ -595,52 +523,6 @@
       },
       "confirmed_by": [],
       "id": "several-small-format-cuban-cigars-discontinued"
-    },
-    {
-      "published_at": "2026-11-17T20:27:05+00:00",
-      "updated_at": "2026-11-17T20:27:05+00:00",
-      "title": "Juan Mustafa Named Drew Estate Dominicana Factory General Manager | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Dominikanska republiken"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBWaUIwLV85YXpEdXdkT1ZLVmNQX2t2MzZsNnZ2eTJ6b1dBLW1PcjNmUEFsYTZQUlk4TXo2aWNkbnVWWXhKZWd0RXR5dm1JT0JNcHZDNUJXUC0zcjJkVWFtWEdaV0JBd1Z2amxwWVkwUzdxYU1NOUZNQUE0U2o4N2FNR2FZUEVBRGs0SHR0a1lPVFNCRlFuckNlUHVTSWw3U3RyNGdPdmdwRHdLRFU3eDNB?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "juan-mustafa-named-drew-estate-dominicana-factory-general-manager-cigar-news"
-    },
-    {
-      "published_at": "2026-11-17T12:12:02+00:00",
-      "updated_at": "2026-11-17T12:12:02+00:00",
-      "title": "Santa Clara Cigars Rebrands Crafted By AJ Fernandez to Selected by AJ Fernandez and Adds H. Upmann | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3lnaXlOS2dGdUxjaUdxX0RFSXNrbmNIa1doSDEzR1NZV2o4Wks1Zk13TkYwTWd6OHpuLU9wQ0lGemFvX1hyMjV0ZktHc1dKZTZyQWR4Zmc5Q1RNSjFjTGh0WUZ5MFF4SDlqVDlXcERNR0hIQ0hMM3MtT2Vhdkk5d3JTRVpOcllNMTZ6OGRzLVh1dEFKTFJwckh5bHlJbTltYl9uaHhlNVR5Yl9NS2ZDZU1QTWJZQzJMTElRbHhvRW5DVWRfcVBVQ244SngzaHJEeDgteTk0WnhsYS1S?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
     }
   ]
 }
