@@ -1,6 +1,92 @@
 {
-  "updated_at": "2026-11-25T15:32:51.812424+00:00",
+  "updated_at": "2026-11-26T00:58:42.562921+00:00",
   "items": [
+    {
+      "published_at": "2026-11-25T22:28:19+00:00",
+      "updated_at": "2026-11-25T22:28:19+00:00",
+      "title": "Casa Caraballo Releases Elegancia Lanceros",
+      "summary": "Both have the same binder and filler combination, but one features an Ecuadorian habano wrapper and the other a Nicaraguan maduro. The post Casa Caraballo Releases Elegancia Lanceros appeared first on halfwheel",
+      "category": [
+        "Nya utgåvor"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/casa-caraballo-releases-elegancia-lanceros/491164/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/casa-caraballo-releases-elegancia-lanceros/491164/"
+      },
+      "confirmed_by": [],
+      "id": "casa-caraballo-releases-elegancia-lanceros"
+    },
+    {
+      "published_at": "2026-11-25T18:15:39+00:00",
+      "updated_at": "2026-11-25T18:15:39+00:00",
+      "title": "Tatuaje Skinny Michael",
+      "summary": "Earlier this year, Tatuaje crossed the 100-cigar mark with its Monster Series. Since then, it's released five more Monster Series-related cigars, including two new petite lanceros. The post Tatuaje Skinny Michael appeared first on halfwheel",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Trovärdig källa",
+      "image": "",
+      "sources": [
+        {
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/tatuaje-skinny-michael/490556/"
+        }
+      ],
+      "main_source": {
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/tatuaje-skinny-michael/490556/"
+      },
+      "confirmed_by": [],
+      "id": "tatuaje-skinny-michael"
+    },
+    {
+      "published_at": "2026-11-25T17:21:51+00:00",
+      "updated_at": "2026-11-25T17:21:51+00:00",
+      "title": "Eric Newman Named Chairman of Cigar Association Of America",
+      "summary": "The Cigar Association of America (CAA) has announced that its Board of Directors has elected Eric Newman as the association’s new Chairman, effective immediately",
+      "category": [
+        "Nyheter"
+      ],
+      "status": "Bekräftad av flera källor",
+      "image": "",
+      "sources": [
+        {
+          "name": "Cigar Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+        },
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjdhWUNUMmg0Z3dRTmtubUFGUmxNeDI2c0RLSDRXOHBsOG5XTjlOcTV5VU04bHEteXhXOEZXaXI4aV80Y3pfcURwUDFXY2gtc0hKMmZaUXVESW5HZVBBVnZCdGczUzB0UWl1eHE1clVIdV9zbXJaa2xmc185NWI1akoyTXMtRlV2MXd3cEZKWC1LMVRRTHhqYVlTYWpyanc?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
+      "main_source": {
+        "name": "Cigar Journal",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkRqUHdPaXRLcll2UlBIN1BnNTJCVUZLamoxTzJVZnlDbjZKTnppVm1pbjJEYWdhQ2M4dnpkMHZzNHdpSzJoWE9nYkNFVnhZM2R6S01rU2d6bmFRMzBQRDRCelBIQ2g2YWRWUGROM2swY2pVY2lWeEVYOVhrQTdFMmRIUjFtLTBNNjZtT1FXRWd4NGo0LVVrZmkzWW1wcExqMC1qQQ?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Cigar Aficionado",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjdhWUNUMmg0Z3dRTmtubUFGUmxNeDI2c0RLSDRXOHBsOG5XTjlOcTV5VU04bHEteXhXOEZXaXI4aV80Y3pfcURwUDFXY2gtc0hKMmZaUXVESW5HZVBBVnZCdGczUzB0UWl1eHE1clVIdV9zbXJaa2xmc185NWI1akoyTXMtRlV2MXd3cEZKWC1LMVRRTHhqYVlTYWpyanc?oc=5"
+        },
+        {
+          "name": "Cigar Coop",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
+        }
+      ],
+      "id": "eric-newman-named-chairman-of-cigar-association-of-america"
+    },
     {
       "published_at": "2026-11-24T18:15:23+00:00",
       "updated_at": "2026-11-24T18:15:23+00:00",
@@ -120,29 +206,27 @@
       "id": "marilyn-florez-giordano-acquires-empire-social-brickell"
     },
     {
-      "published_at": "2026-11-24T06:44:19+00:00",
-      "updated_at": "2026-11-24T06:44:19+00:00",
-      "title": "Española Honduras to Debut at PCA 2027 | Cigar News",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
+      "published_at": "2026-11-23T17:15:57+00:00",
+      "updated_at": "2026-11-23T17:15:57+00:00",
+      "title": "Espinosa’s Las 6 Provincias MIA Arrives at Stores",
+      "summary": "While the Las 6 Provincias line honors the original six provinces of Cuba, this seventh installment has been rumored for years. It honors Miami, an unofficial seventh province due to the number of Cubans who relocated there. The post Espinosa’s Las 6 Provincias MIA Arrives at Stores appeared first on halfwheel",
       "category": [
-        "Honduras",
-        "Nya utgåvor",
-        "Event"
+        "Nyheter"
       ],
       "status": "Trovärdig källa",
       "image": "",
       "sources": [
         {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0lGbmo4RTAtcWM3ckI4Z0ljZ1g0emhaUUNPWTI1R3dWQzdLczd5dnlGVmFDUDV4SkFwbHdyNzZGRDBwSFI5QmVYNHZrVDVyXzNXdVZMOTFnSTNidDhBRU0wZjM1VjBrS0J4NWczaGgwNU9OYlFyMDBpX3VaanU0bUVKUndrdDViVmZPZEZ3?oc=5"
+          "name": "halfwheel",
+          "url": "https://halfwheel.com/espinosas-las-6-provincias-mia-arrives-at-stores/490832/"
         }
       ],
       "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0lGbmo4RTAtcWM3ckI4Z0ljZ1g0emhaUUNPWTI1R3dWQzdLczd5dnlGVmFDUDV4SkFwbHdyNzZGRDBwSFI5QmVYNHZrVDVyXzNXdVZMOTFnSTNidDhBRU0wZjM1VjBrS0J4NWczaGgwNU9OYlFyMDBpX3VaanU0bUVKUndrdDViVmZPZEZ3?oc=5"
+        "name": "halfwheel",
+        "url": "https://halfwheel.com/espinosas-las-6-provincias-mia-arrives-at-stores/490832/"
       },
       "confirmed_by": [],
-      "id": "espa-ola-honduras-to-debut-at-pca-2027-cigar-news"
+      "id": "espinosa-s-las-6-provincias-mia-arrives-at-stores"
     },
     {
       "published_at": "2026-11-23T16:13:05+00:00",
@@ -237,38 +321,6 @@
       "id": "west-tampa-tobacco-company-to-ship-the-long-waited-barbershop"
     },
     {
-      "published_at": "2026-11-23T08:58:25+00:00",
-      "updated_at": "2026-11-23T08:58:25+00:00",
-      "title": "Cigar Association of America Elects Eric Newman as Chairman of the Board",
-      "summary": "The Cigar Association of America (CAA) has announced that its Board of Directors has elected Eric Newman as the association’s new Chairman, effective immediately",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Bekräftad av flera källor",
-      "image": "https://media.cigarjournal.com/caa-2.gif",
-      "sources": [
-        {
-          "name": "Cigar Journal",
-          "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
-        },
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Journal",
-        "url": "https://www.cigarjournal.com/cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board/"
-      },
-      "confirmed_by": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVhlU2pQVnc3WmFfM0VaM3N6c2dmSmtDUVlxMnh2WVNOVmhhbUk3RUc1NThSLUtVTHJIZ09PY3ZBR3FkTElrYnZKUzYwNFhjUFRqdklHQ3NpaVpSclhXNG1lVkNnQlpEMlVXM1FPMk05OFhFOXZJWndpUjZnRjBsMWNYSlFNQQ?oc=5"
-        }
-      ],
-      "id": "cigar-association-of-america-elects-eric-newman-as-chairman-of-the-board"
-    },
-    {
       "published_at": "2026-11-23T08:46:50+00:00",
       "updated_at": "2026-11-23T08:46:50+00:00",
       "title": "Drew Estate Releases Pappy Van Winkle Limited Edition Triplet Sampler, Available Exclusively From Pappy & Co",
@@ -315,33 +367,10 @@
       "id": "pdr-cigars-afr-75-claro-sublime"
     },
     {
-      "published_at": "2026-11-22T16:21:43+00:00",
-      "updated_at": "2026-11-22T16:21:43+00:00",
-      "title": "Espinosa’s 601 La Bomba Warhead Bombazo Arrives at Select Stores",
-      "summary": "While the Las 6 Provincias line honors the original six provinces of Cuba, this seventh installment has been rumored for years. It honors Miami, an unofficial seventh province due to the number of Cubans who relocated there. The post Espinosa’s Las 6 Provincias MIA Arrives at Stores appeared first on halfwheel",
-      "category": [
-        "Nyheter"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "halfwheel",
-          "url": "https://halfwheel.com/espinosas-601-la-bomba-warhead-bombazo-arrives-at-select-stores/490462/"
-        }
-      ],
-      "main_source": {
-        "name": "halfwheel",
-        "url": "https://halfwheel.com/espinosas-601-la-bomba-warhead-bombazo-arrives-at-select-stores/490462/"
-      },
-      "confirmed_by": [],
-      "id": "espinosa-s-601-la-bomba-warhead-bombazo-arrives-at-select-stores"
-    },
-    {
-      "published_at": "2026-11-21T20:09:11+00:00",
-      "updated_at": "2026-11-21T20:09:11+00:00",
+      "published_at": "2026-11-21T20:14:57+00:00",
+      "updated_at": "2026-11-21T20:14:57+00:00",
       "title": "Herrera Estelí Habano Suprema",
-      "summary": "The Herrera Estelí Habano line debuted over a decade ago, first appearing in 2012. This year, the company added a new, limited-production size via a sampler that features two of Drew Estate's other core lines. The post Herrera Estelí Habano Suprema appeared first on halfwheel",
+      "summary": "Läs hela artikeln hos halfwheel (originalspråk, se länk).",
       "category": [
         "Nicaragua"
       ],
@@ -350,12 +379,12 @@
       "sources": [
         {
           "name": "halfwheel",
-          "url": "https://halfwheel.com/herrera-esteli-habano-suprema/489097/"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQkQ5Zk5iOUdzYURTZXRHMHp4U3VGbF9BbzI2Qlk0eDA2R1RiWkdDb2xsbGxOMlNkeTduRXh4RWxXQUFxV196YktqNE85YkVIT3kzTVRjN2wwamE2bGRNRDFuU29zc1RCSGFZ?oc=5"
         }
       ],
       "main_source": {
         "name": "halfwheel",
-        "url": "https://halfwheel.com/herrera-esteli-habano-suprema/489097/"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQkQ5Zk5iOUdzYURTZXRHMHp4U3VGbF9BbzI2Qlk0eDA2R1RiWkdDb2xsbGxOMlNkeTduRXh4RWxXQUFxV196YktqNE85YkVIT3kzTVRjN2wwamE2bGRNRDFuU29zc1RCSGFZ?oc=5"
       },
       "confirmed_by": [],
       "id": "herrera-estel-habano-suprema"
@@ -612,29 +641,6 @@
       },
       "confirmed_by": [],
       "id": "santa-clara-cigars-rebrands-crafted-by-aj-fernandez-to-selected-by-aj-fernandez-and-adds-h"
-    },
-    {
-      "published_at": "2026-11-15T16:05:31+00:00",
-      "updated_at": "2026-11-15T16:05:31+00:00",
-      "title": "Montecristo 1935 Anniversary Edición Doble Diamante Red – Cigar Review",
-      "summary": "Läs hela artikeln hos Cigar Coop (originalspråk, se länk).",
-      "category": [
-        "Test & betyg"
-      ],
-      "status": "Trovärdig källa",
-      "image": "",
-      "sources": [
-        {
-          "name": "Cigar Coop",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmNSaTJpM203NGY2Tm1LcGJqT1FYVC1iTmczTlljanBqbzhVblNxaElUTkhwNFhPU1ZFaDR6OXpCT2ItQThiRmQzak00QU5VMEVScXhUd3Q1cjZsQ2h2aFI2ZjRuTGhlNWtVc3RtRXE2UjhIMklXQjlJMUEwcVdoQm84dDFMTUZLbHNrZHJoM09VVWtQZFFOMWtLYUtTN2wzY0dDUWhRaw?oc=5"
-        }
-      ],
-      "main_source": {
-        "name": "Cigar Coop",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmNSaTJpM203NGY2Tm1LcGJqT1FYVC1iTmczTlljanBqbzhVblNxaElUTkhwNFhPU1ZFaDR6OXpCT2ItQThiRmQzak00QU5VMEVScXhUd3Q1cjZsQ2h2aFI2ZjRuTGhlNWtVc3RtRXE2UjhIMklXQjlJMUEwcVdoQm84dDFMTUZLbHNrZHJoM09VVWtQZFFOMWtLYUtTN2wzY0dDUWhRaw?oc=5"
-      },
-      "confirmed_by": [],
-      "id": "montecristo-1935-anniversary-edici-n-doble-diamante-red-cigar-review"
     }
   ]
 }
